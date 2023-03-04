@@ -3,7 +3,7 @@ sets:
   marvel:                         # Source List: https://mdblist.com/lists/plexmetamanager/external/15110
     styles:
       default:
-        pmm: default              # Image Credit to DIIVOY / https://theposterdb.com/set/78444
+        pmm: marvel/default              # Image Credit to DIIVOY / https://theposterdb.com/set/78444
     collections:
       "In Association with Marvel":
         - "Marvel"
