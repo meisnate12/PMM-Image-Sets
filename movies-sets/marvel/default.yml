@@ -1,5 +1,18 @@
 collections:
   "In Association with Marvel": {tpdb_poster: 125372}
+  "The Amazing Spider-Man Collection": {tpdb_poster: 132632}
+  "Spider-Man Collection": {tpdb_poster: 132628}
+  "Spider-Man: Spider-Verse Collection": {tpdb_poster: 132635}
+  "Deadpool Collection": {tpdb_poster: 135778}
+  "Blade Collection": {tpdb_poster: 139554}
+  "X-Men Collection": {tpdb_poster: 143883}
+  "Wolverine Collection": {tpdb_poster: 143893}
+  "The Punisher Collection": {tpdb_poster: 151892}
+  "Fantastic Four Collection": {tpdb_poster: 151994}
+  "Daredevil Collection": {tpdb_poster: 152033}
+  "Ghost Rider Collection": {tpdb_poster: 152105}
+  "Spider-Man Universe": {tpdb_poster: 132627}
+
 set:
   "Big Hero 6 (2014)": {tpdb_poster: 171459}
   "X-Men (2000)": {tpdb_poster: 143884}

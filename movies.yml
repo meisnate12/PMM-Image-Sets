@@ -1,4 +1,316 @@
 sets:
+  bond:                      # Source List: https://trakt.tv/users/any/lists/james-bond
+    styles:
+      default:
+        - pmm: bond/default          # Image Credit to RedHeadJedi / https://theposterdb.com/set/107797
+    collections:
+      "James Bond Collection":
+        - "James Bond"
+        - "007"
+    "Dr. No (1962)": 646
+    "From Russia with Love (1963)": 657
+    "Goldfinger (1964)": 658
+    "Thunderball (1965)": 660
+    "Casino Royale (1967)": 12208
+    "You Only Live Twice (1967)": 667
+    "On Her Majesty's Secret Service (1969)": 668
+    "Diamonds Are Forever (1971)": 681
+    "Live and Let Die (1973)": 253
+    "The Man with the Golden Gun (1974)": 682
+    "The Spy Who Loved Me (1977)": 691
+    "Moonraker (1979)": 698
+    "For Your Eyes Only (1981)": 699
+    "Octopussy (1983)": 700
+    "Never Say Never Again (1983)": 36670
+    "A View to a Kill (1985)": 707
+    "The Living Daylights (1987)": 708
+    "Licence to Kill (1989)": 709
+    "GoldenEye (1995)": 710
+    "Tomorrow Never Dies (1997)": 714
+    "The World Is Not Enough (1999)": 36643
+    "Die Another Day (2002)": 36669
+    "Casino Royale (2006)": 36557
+    "Quantum of Solace (2008)": 10764
+    "Skyfall (2012)": 37724
+    "Spectre (2015)": 206647
+    "No Time to Die (2021)": 370172
+
+  dc:                      # Source List: https://trakt.tv/users/malicekodi2/lists/dc
+    styles:
+      default:
+        - pmm: dc/default          # Image Credit to DIIVOY / https://theposterdb.com/set/80057
+      rhj:
+        - pmm: dc/rhj              # Image Credit to RedHeadjedi / https://theposterdb.com/set/50563
+    collections:
+      "Worlds of DC (DCEU)":
+        - "Worlds of DC"
+        - "DC Extended Universe"
+    "Man of Steel": 49521
+    "Batman v Superman: Dawn of Justice": 209112
+    "Batman v Superman: Dawn of Justice (Ultimate Edition)": 209112
+      mapping_id: 209112
+      edition_contains: Ultimate
+    "Suicide Squad": 297761
+    "Wonder Woman": 297762
+    "Justice League": 141052
+    "Aquaman": 297802
+    "Birds of Prey": 495764
+    "Wonder Woman 1984": 464052
+    "The Suicide Squad": 436969
+    "Zack Snyder's Justice League": 791373
+    "Zack Snyder's Justice League (Justice is Gray Edition)": 791373
+      mapping_id: 791373
+      edition_contains: Gray
+    "Black Adam": 436270
+    " Shazam!": 287947
+    "Shazam! Fury of the Gods": 594767
+    "Batman Begins": 272
+    "The Dark Knight": 155
+    "The Dark Knight Rises": 49026
+    "Batman": 268
+    "Batman Returns": 364
+    "Batman Forever": 414
+    "Batman & Robin": 415
+    "Batman (1966)": 2661
+    "Return to the Batcave - The Misadventures of Adam and Burt": 20776
+    "Batman: Return of the Caped Crusaders": 411736
+    "Batman vs. Two-Face": 464882
+    "RED": 39514
+    "RED 2": 146216
+    "Superman": 1924
+    "Superman II": 8536
+    "Superman II (The Richard Donner Cut)": 8536
+      mapping_id: 8536
+      edition_contains: Donner
+    "Superman III": 9531
+    "Superman IV: The Quest for Peace": 11411
+    "Superman Returns": 1452
+    "Watchmen": 13183
+    "Watchmen (Director's Cut)": 13183
+      mapping_id: 13183
+      edition_contains: Director
+    "Watchmen (Midnight)": 13183
+      mapping_id: 13183
+      edition_contains: Midnight
+    "Watchmen (Ultimate Cut)": 1071191
+    "Watchmen: Under the Hood": 41207
+    "Joker": 475557
+    "Green Lantern": 44912
+    "Catwoman": 314
+    "Constantine": 561
+    "Injustice": 831405
+    "Jonah Hex": 20533
+    "The Batman": 414906
+    "V for Vendetta": 752
+    "DC League of Super-Pets": 539681
+
+  disney:                      # Source List: https://trakt.tv/users/asterlea/lists/walt-disney-animation-studios
+    styles:
+      default:
+        - pmm: disney/default          # Image Credit to RedHeadjedi / https://theposterdb.com/set/2454
+      rhj:
+        - pmm: disney/rhj      # Image Credit to RedHeadjedi / https://theposterdb.com/set/62522
+    collections:
+      "Walt Disney Animation Studios"
+        - "Disney Animation Studios"
+        - "Disney Animation"
+    "Snow White and the Seven Dwarfs (1937)": 408
+    "Pinocchio (1940)": 10895
+    "Fantasia (1940)": 756
+    "Dumbo (1941)": 11360
+    "Bambi (1942)": 3170
+    "Saludos Amigos (1942)": 14906
+    "The Three Caballeros (1944)": 15947
+    "Make Mine Music (1946)": 20343
+    "Fun and Fancy Free (1947)": 46929
+    "Melody Time (1948)": 13757
+    "The Adventures of Ichabod and Mr. Toad (1949)": 13465
+    "Cinderella (1950)": 11224
+    "Alice in Wonderland (1951)": 12092
+    "Peter Pan (1953)": 10693
+    "Lady and the Tramp (1955)": 10340
+    "Sleeping Beauty (1959)": 10882
+    "One Hundred and One Dalmatians (1961)": 12230
+    "The Sword in the Stone (1963)": 9078
+    "The Jungle Book (1967)": 9325
+    "The Aristocats (1970)": 10112
+    "Robin Hood (1973)": 11886
+    "The Many Adventures of Winnie the Pooh (1977)": 250480
+    "The Rescuers (1977)": 11319
+    "The Fox and the Hound (1981)": 10948
+    "The Black Cauldron (1985)": 10957
+    "The Great Mouse Detective (1986)": 9994
+    "Oliver & Company (1988)": 12233
+    "The Little Mermaid (1989)": 10144
+    "The Rescuers Down Under (1990)": 11135
+    "Beauty and the Beast (1991)": 10020
+    "Aladdin (1992)": 812
+    "The Lion King (1994)": 8587
+    "Pocahontas (1995)": 10530
+    "The Hunchback of Notre Dame (1996)": 10545
+    "Hercules (1997)": 11970
+    "Mulan (1998)": 10674
+    "Tarzan (1999)": 37135
+    "Fantasia 2000 (1999)": 49948
+    "Dinosaur (2000)": 10567
+    "The Emperor's New Groove (2000)": 11688
+    "Atlantis: The Lost Empire (2001)": 10865
+    "Lilo & Stitch (2002)": 11544
+    "Treasure Planet (2002)": 9016
+    "Brother Bear (2003)": 10009
+    "Home on the Range (2004)": 13700
+    "Chicken Little (2005)": 9982
+    "Meet the Robinsons (2007)": 1267
+    "Bolt (2008)": 13053
+    "The Princess and the Frog (2009)": 10198
+    "Tangled (2010)": 38757
+    "Winnie the Pooh (2011)": 51162
+    "Wreck-It Ralph (2012)": 82690
+    "Frozen (2013)": 109445
+    "Big Hero 6 (2014)": 177572
+    "Zootopia (2016)": 269149
+    "Moana (2016)": 277834
+    "Ralph Breaks the Internet (2018)": 404368
+    "Frozen II (2019)": 330457
+    "Raya and the Last Dragon (2021)": 527774
+    "Encanto (2021)": 568124
+    "Strange World (2022)": 877269
+    "Wish (2023)": 1022796
+
+  godfather:                      # Source List: https://trakt.tv/lists/official/the-godfather-collection
+    styles:
+      default:
+        - pmm: godfather/default          # Image Credit to Eternal / https://theposterdb.com/set/183508
+    collections:
+      "The Godfather Collection"
+        - "Godfather Collection"
+    "The Godfather (1972)": 238
+    "The Godfather: Part II (1974)": 240
+    "The Godfather: Part III (1990)": 242
+    "The Godfather Coda: The Death of Michael Corleone (1990)": 242
+      editon_contains: Coda
+
+  godzilla_heisei:                # Source List: https://trakt.tv/users/rzepkowski/lists/godzilla-movies
+    styles:
+      default:
+        - pmm: godzilla_heisei/default             # Image Credit to DoctorBat / https://theposterdb.com/set/182956
+      doctorbat:
+        - pmm: godzilla_heisei/doctorbat   # Image Credit to DoctorBat / https://theposterdb.com/set/182960
+    collections:
+      "Godzilla (Heisei) Collection"
+        - "Godzilla (Heisei)"
+    "Godzilla (1954)": 1678
+    "Godzilla 1985 (1985)": 39256
+    "Godzilla (1998)": 929
+    "Godzilla 2000: Millennium (1999)": 10643
+    "Godzilla (2014)": 124905
+    "Shin Godzilla (2016)": 315011
+    "Godzilla: King of the Monsters (2019)": 373571
+    "Godzilla, King of the Monsters! (1956)": 18983
+    "Godzilla Raids Again (1955)": 1679
+    "King Kong vs. Godzilla (1962)": 1680
+    "King Kong vs. Godzilla (1963)": 686487
+    "Mothra vs. Godzilla (1964)": 1682
+    "Ghidorah, the Three-Headed Monster (1964)": 15766
+    "Invasion of Astro-Monster (1965)": 19545
+    "Ebirah, Horror of the Deep (1966)": 3115
+    "Son of Godzilla (1967)": 18627
+    "Destroy All Monsters (1968)": 3107
+    "All Monsters Attack (1969)": 39462
+    "Godzilla vs. Hedorah (1971)": 39464
+    "Godzilla vs. Gigan (1972)": 19336
+    "Godzilla vs. Megalon (1973)": 39264
+    "Godzilla vs. Mechagodzilla (1974)": 38582
+    "Terror of Mechagodzilla (1975)": 19333
+    "The Return of Godzilla (1984)": 421467
+    "Godzilla vs. Biollante (1989)": 18289
+    "Godzilla vs. King Ghidorah (1991)": 36679
+    "Godzilla vs. Mothra (1992)": 39465
+    "Godzilla vs. Mechagodzilla II (1993)": 6593
+    "Godzilla vs. SpaceGodzilla (1994)": 39466
+    "Godzilla vs. Destoroyah (1995)": 12561
+    "Godzilla vs. Megaguirus (2000)": 39468
+    "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack (2001)": 36243
+    "Godzilla Against MechaGodzilla (2002)": 12636
+    "Godzilla: Tokyo S.O.S. (2003)": 39469
+    "Godzilla: Final Wars (2004)": 15767
+    "Godzilla vs. Kong (2021)": 399566
+
+  godzilla_showa:                # Source List: https://trakt.tv/users/rzepkowski/lists/godzilla-movies
+    styles:
+      default:
+        - pmm: godzilla_showa/default             # Image Credit to DoctorBat / https://theposterdb.com/set/181742
+      doctorbat:
+        - pmm: godzilla_showa/doctorbat   # Image Credit to DoctorBat / https://theposterdb.com/set/181738
+    collections:
+      "Godzilla (Showa) Collection"
+        - "Godzilla (Showa)"
+    "Godzilla (1954)": 1678
+    "Godzilla 1985 (1985)": 39256
+    "Godzilla (1998)": 929
+    "Godzilla 2000: Millennium (1999)": 10643
+    "Godzilla (2014)": 124905
+    "Shin Godzilla (2016)": 315011
+    "Godzilla: King of the Monsters (2019)": 373571
+    "Godzilla, King of the Monsters! (1956)": 18983
+    "Godzilla Raids Again (1955)": 1679
+    "King Kong vs. Godzilla (1962)": 1680
+    "King Kong vs. Godzilla (1963)": 686487
+    "Mothra vs. Godzilla (1964)": 1682
+    "Ghidorah, the Three-Headed Monster (1964)": 15766
+    "Invasion of Astro-Monster (1965)": 19545
+    "Ebirah, Horror of the Deep (1966)": 3115
+    "Son of Godzilla (1967)": 18627
+    "Destroy All Monsters (1968)": 3107
+    "All Monsters Attack (1969)": 39462
+    "Godzilla vs. Hedorah (1971)": 39464
+    "Godzilla vs. Gigan (1972)": 19336
+    "Godzilla vs. Megalon (1973)": 39264
+    "Godzilla vs. Mechagodzilla (1974)": 38582
+    "Terror of Mechagodzilla (1975)": 19333
+    "The Return of Godzilla (1984)": 421467
+    "Godzilla vs. Biollante (1989)": 18289
+    "Godzilla vs. King Ghidorah (1991)": 36679
+    "Godzilla vs. Mothra (1992)": 39465
+    "Godzilla vs. Mechagodzilla II (1993)": 6593
+    "Godzilla vs. SpaceGodzilla (1994)": 39466
+    "Godzilla vs. Destoroyah (1995)": 12561
+    "Godzilla vs. Megaguirus (2000)": 39468
+    "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack (2001)": 36243
+    "Godzilla Against MechaGodzilla (2002)": 12636
+    "Godzilla: Tokyo S.O.S. (2003)": 39469
+    "Godzilla: Final Wars (2004)": 15767
+    "Godzilla vs. Kong (2021)": 399566
+
+  indiana:                # Source List: https://www.themoviedb.org/collection/84
+    styles:
+      default:
+        - pmm: indiana/default             # Image Credit to RedHeadJedi / https://theposterdb.com/set/34045
+      olivier:
+        - pmm: indiana/olivier   # Image Credit to Olivier_286 / https://theposterdb.com/set/4874
+    collections:
+      "Indiana Jones Collection"
+        - "Indiana Jones"
+  "Raiders of the Lost Ark (1981)": 85
+  "Indiana Jones and the Temple of Doom (1984)": 87
+  "Indiana Jones and the Last Crusade (1989)": 89
+  "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
+  "Indiana Jones and the Dial of Destiny (2023)": 335977
+
+  jurassic:                         # Source List: https://trakt.tv/users/psaul3/lists/jurassic-universe?sort=released,asc
+    styles:
+      default:
+        - pmm: jurassic/default             # Image Credit to RedHeadJedi / https://theposterdb.com/set/97241
+    collections:
+      "Jurassic Park Collection"
+        - "Jurassic Park"
+    "Jurassic Park (1993)": 329
+    "The Lost World: Jurassic Park (1997)": 330
+    "Jurassic Park III (2001)": 331
+    "Jurassic World (2015)": 135397
+    "Jurassic World: Fallen Kingdom (2018)": 351286
+    "Battle at Big Rock (2019)": 630322
+    "Jurassic World Dominion (2022)": 507086
 
   marvel:                         # Source List: https://mdblist.com/lists/plexmetamanager/external/15110
     styles:
@@ -7,6 +319,34 @@ sets:
     collections:
       "In Association With Marvel":
         - "Marvel"
+      "The Amazing Spider-Man Collection"
+        - "The Amazing Spider-Man"
+      "Spider-Man Collection"
+        - "Spider-Man"
+      "Spider-Man: Spider-Verse Collection"
+        - "Spider-Man: Spider-Verse"
+        - "Spider-Verse Collection"
+        - "Spider-Verse"
+      "Deadpool Collection"
+        - "Deadpool"
+      "Blade Collection"
+        - "Blade"
+      "X-Men Collection"
+        - "X-Men"
+      "Wolverine Collection"
+        - "Wolverine"
+      "The Punisher Collection"
+        - "The Punisher"
+        - "Punisher"
+      "Fantastic Four Collection"
+        - "Fantastic Four"
+      "Daredevil Collection"
+        - "Daredevil"
+      "Ghost Rider Collection"
+        - "Ghost Rider"
+      "Captain America (1979) Collection"
+        - "Captain America (1979)"
+      "Spider-Man Universe"
     "Big Hero 6 (2014)": 177572
     "X-Men (2000)": 36657
     "X2 (2003)": 36658
@@ -77,6 +417,30 @@ sets:
     collections:
       "Marvel Cinematic Universe":
         - "MCU"
+      "Captain America Collection"
+        - "Captain America"
+      "Iron Man Collection"
+        - "Iron Man"
+      "The Avengers Collection"
+        - "The Avengers"
+        - "Avengers Collection"
+        - "Avengers"
+      "Captain Marvel Collection"
+        - "Captain Marvel"
+      "Doctor Strange Collection"
+        - "Doctor Strange"
+      "Thor Collection"
+        - "Thor"
+      "Spider-Man (Avengers) Collection"
+        - "Spider-Man (Avengers)"
+      "Guardians of the Galaxy Collection"
+        - "Guardians of the Galaxy"
+      "Black Panther Collection"
+        - "Black Panther"
+      "Ant-Man Collection"
+        - "Ant-Man"
+      "Marvel One-Shots Collection"
+        - "Marvel One-Shots"
     "Captain America: The First Avenger (2011)": 1771
     "Marvel One-Shot: Agent Carter (2013)": 211387
     "Captain Marvel (2019)": 299537
@@ -128,3 +492,127 @@ sets:
     "Deadpool 3 (2024)": 533535
     "Captain America: New World Order (2024)": 822119
     "Werewolf by Night (2022)": 894205
+
+  middle:                         # Source List: https://trakt.tv/users/jjmalpz/lists/middle-earth?sort=rank,asc
+    styles:
+      default:
+        - pmm: midddle/default             # Image Credit to mikenobbs / https://theposterdb.com/set/115877
+      rhj:
+        - pmm: midddle/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/20379 / https://theposterdb.com/set/22601
+    collections:
+      "Middle-Earth Collection"
+        - "Middle-Earth"
+        - "Middle Eath Collection"
+        - "Middle Earth"
+    "The Hobbit: An Unexpected Journey (2012)": 49051
+    "The Hobbit: The Desolation of Smaug (2013)": 57158
+    "The Hobbit: The Battle of the Five Armies (2014)": 122917
+    "The Lord of the Rings: The Fellowship of the Ring (2001)": 120
+    "The Lord of the Rings: The Two Towers (2002)": 121
+    "The Lord of the Rings: The Return of the King (2003)": 122
+
+  pixar:                         # Source List: https://trakt.tv/users/chloe131997/lists/pixar
+    styles:
+      default:
+        - pmm: pixar/default             # Image Credit to RedHeadJedi / https://theposterdb.com/set/97
+    collections:
+      "Pixar Animation Studios"
+        - "Pixar Collection"
+        - "Pixar"
+        - "Pixar Studios"
+        - "Pixar Animation"
+    "Toy Story (1995)": 862
+    "A Bug's Life (1998)": 9487
+    "Toy Story 2 (1999)": 863
+    "Monsters, Inc. (2001)": 585
+    "Finding Nemo (2003)": 12
+    "The Incredibles (2004)": 9806
+    "Cars (2006)": 920
+    "Ratatouille (2007)": 2062
+    "WALL·E (2008)": 10681
+    "Up (2009)": 14160
+    "Toy Story 3 (2010)": 10193
+    "Cars 2 (2011)": 49013
+    "Brave (2012)": 62177
+    "Monsters University (2013)": 62211
+    "Inside Out (2015)": 150540
+    "The Good Dinosaur (2015)": 105864
+    "Finding Dory (2016)": 127380
+    "Cars 3 (2017)": 260514
+    "Coco (2017)": 354912
+    "Incredibles 2 (2018)": 260513
+    "Toy Story 4 (2019)": 301528
+    "Onward (2020)": 508439
+    "Soul (2020)": 508442
+    "Luca (2021)": 508943
+    "Lightyear (2022)": 718789
+    "Turning Red (2022)": 508947
+    "Elemental (2023)": 976573
+
+  saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
+    styles:
+      default:
+        - pmm: saw/default                      # Image Credit to RedHeadJedi / https://theposterdb.com/set/95260
+    collections:
+      "Saw Collection"
+        - "Saw"
+    "Saw (2004)": 176
+    "Saw II (2005)": 215
+    "Saw III (2006)": 214
+    "Saw IV (2007)": 663
+    "Saw V (2008)": 11917
+    "Saw VI (2009)": 22804
+    "Saw 3D (2010)": 41439
+    "Jigsaw (2017)": 298250
+    "Spiral: From the Book of Saw (2021)": 602734
+
+  starwars:                             # Source List: https://trakt.tv/users/hitsquid/lists/star-wars-the-complete-saga
+    styles:
+      default:
+        - pmm: starwars/default                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/93852
+      rhj:
+        - pmm: starwars/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/89606
+    collections:
+      "Star Wars: The Complete Collection"
+        - "Star Wars: The Complete"
+        - "Star Wars"
+    "Star Wars: Episode I - The Phantom Menace (1999)": 1893
+    "Star Wars: Episode II - Attack of the Clones (2002)": 1894
+    "Star Wars: Episode III - Revenge of the Sith (2005)": 1895
+    "Star Wars (1977)": 11
+    "The Empire Strikes Back (1980)": 1891
+    "Return of the Jedi (1983)": 1892
+    "Star Wars: The Force Awakens (2015)": 140607
+    "Rogue One: A Star Wars Story (2016)": 330459
+    "Star Wars: The Last Jedi (2017)": 181808
+    "Star Wars: The Rise of Skywalker (2019)": 181812
+    "Solo: A Star Wars Story (2018)": 348350
+    "Star Wars: The Clone Wars (2008)": 12180
+
+  wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
+    styles:
+      default:
+        - pmm: wizard/default                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/101665
+      rhj:
+        - pmm: wizard/rhj                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/11706
+      dsman:
+        - pmm: wizard/dsman                 # Image Credit to Dsman124 / https://theposterdb.com/set/12177
+    collections:
+      "Wizarding World (of Harry Potter) Collection"
+        - "Wizarding World (of Harry Potter)"
+        - "Wizarding World of Harry Potter"
+        - "Wizarding World"
+    "Fantastic Beasts and Where to Find Them (2016)": 259316
+    "Fantastic Beasts: The Crimes of Grindelwald (2018)": 338952
+    "Fantastic Beasts: The Secrets of Dumbledore (2022)": 338953
+    "Fantastic Beasts 4 (None)": 422641
+    "Fantastic Beasts 5 (None)": 422642
+    "Harry Potter and the Philosopher's Stone (2001)": 671
+    "Harry Potter and the Chamber of Secrets (2002)": 672
+    "Harry Potter and the Prisoner of Azkaban (2004)": 673
+    "Harry Potter and the Goblet of Fire (2005)": 674
+    "Harry Potter and the Order of the Phoenix (2007)": 675
+    "Harry Potter and the Half-Blood Prince (2009)": 767
+    "Harry Potter and the Deathly Hallows: Part 1 (2010)": 12444
+    "Harry Potter and the Deathly Hallows: Part 2 (2011)": 12445
+    "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": 899082
