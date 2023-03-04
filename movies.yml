@@ -5,7 +5,7 @@ sets:
       default:
         pmm: marvel/default              # Image Credit to DIIVOY / https://theposterdb.com/set/78444
     collections:
-      "In Association with Marvel":
+      "In Association With Marvel":
         - "Marvel"
     "Big Hero 6 (2014)": 177572
     "X-Men (2000)": 36657
