@@ -24,32 +24,32 @@ libraries:
 ## Sets
 Below is a table of the available sets that can be used, you can click the Image Set link to go to the poster source
 
-| Image Set                     | Set / Key         | Style                                                                           |                               Example                                |
-|:------------------------------|:------------------|---------------------------------------------------------------------------------|:--------------------------------------------------------------------:|
-| James Bond                    | `bond`            | `default`<br/>[Image Credit to RedHeadJedi](https://theposterdb.com/set/107797) | <img src="https://theposterdb.com/api/assets/176906" height="200"/>  |
-| Worlds of DC                  | `dc`              | `default`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/80057)       |                      <img src="" height="175"/>                      |
-|                               | `dc`              | `rhj`<br/>[Image Credit to RedHeadJedi](https://theposterdb.com/set/50563)      |                      <img src="" height="175"/>                      |
-| Walt Disney Animation Studios | `disney`          | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/2454)   |                      <img src="" height="175"/>                      |
-|                               | `disney`          | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/62522)      |                      <img src="" height="175"/>                      |
-| The Godfather Collection      | `godfather`       | `default`<br/>[Image Credit to Eternal](https://theposterdb.com/set/183508)     |                      <img src="" height="175"/>                      |
-| Godzilla (Heisei) Collection  | `godzilla_heisei` | `default`<br/>[Image Credit to DoctorBat](https://theposterdb.com/set/182956)   |                      <img src="" height="175"/>                      |
-|                               | `godzilla_heisei` | `doctorbat`<br/>[Image Credit to DoctorBat](https://theposterdb.com/set/182960) |                      <img src="" height="175"/>                      |
-| Godzilla (Showa) Collection   | `godzilla_showa`  | `default`<br/>[Image Credit to DoctorBat](https://theposterdb.com/set/181742)   |                      <img src="" height="175"/>                      |
-|                               | `godzilla_showa`  | `doctorbat`<br/>[Image Credit to DoctorBat](https://theposterdb.com/set/181738) |                      <img src="" height="175"/>                      |
-| Indiana Jones Collection      | `indiana`         | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/34045)  |                      <img src="" height="175"/>                      |
-|                               | `indiana`         | `olivier`<br/>[Image Credit to Olivier_286](https://theposterdb.com/set/4874)   |                      <img src="" height="175"/>                      |
-| Jurassic Park Collection      | `jurassic`        | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/97241)  |                      <img src="" height="175"/>                      |
-| In Association With Marvel    | `marvel`          | `default`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/78444)       |                      <img src="" height="175"/>                      |
-| Marvel Cinematic Universe     | `mcu`             | `default`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/71510)       |                      <img src="" height="175"/>                      |
-|                               | `mcu`             | `diivoy`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/41596)        |                      <img src="" height="175"/>                      |
-|                               | `mcu`             | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/4475)       |                      <img src="" height="175"/>                      |
-|                               | `mcu`             | `rhj2`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/87080)     |                      <img src="" height="175"/>                      |
-| Middle-Earth Collection"      | `middle`          | `default`<br/>[Image Credit to mikenobbs](https://theposterdb.com/set/115877)   |                      <img src="" height="175"/>                      |
-|                               | `middle`          | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/20379)      |                      <img src="" height="175"/>                      |
-| Pixar Animation Studios       | `pixar`           | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/97)     |                      <img src="" height="175"/>                      |
-| Saw Collection                | `saw`             | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/95260)  |                      <img src="" height="175"/>                      |
-| Star Wars Collection          | `starwars`        | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/93852)  |                      <img src="" height="175"/>                      |
-|                               | `starwars`        | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/89606)      |                      <img src="" height="175"/>                      |
-| Wizarding World Collection    | `wizard`          | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/101665) |                      <img src="" height="175"/>                      |
-|                               | `wizard`          | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/11706)      |                      <img src="" height="175"/>                      |
-|                               | `wizard`          | `dsman`<br/>[Image Credit to Dsman124](https://theposterdb.com/set/12177)       |                      <img src="" height="175"/>                      |
+| Image Set                     | Set / Key         | Style                                                                           |                               Example                               |
+|:------------------------------|:------------------|---------------------------------------------------------------------------------|:-------------------------------------------------------------------:|
+| James Bond                    | `bond`            | `default`<br/>[Image Credit to RedHeadJedi](https://theposterdb.com/set/107797) | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Worlds of DC                  | `dc`              | `default`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/80057)       | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `dc`              | `rhj`<br/>[Image Credit to RedHeadJedi](https://theposterdb.com/set/50563)      | <img src="https://theposterdb.com/api/assets/128645" height="200"/> |
+| Walt Disney Animation Studios | `disney`          | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/2454)   | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `disney`          | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/62522)      | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| The Godfather Collection      | `godfather`       | `default`<br/>[Image Credit to Eternal](https://theposterdb.com/set/183508)     | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Godzilla (Heisei) Collection  | `godzilla_heisei` | `default`<br/>[Image Credit to DoctorBat](https://theposterdb.com/set/182956)   | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `godzilla_heisei` | `doctorbat`<br/>[Image Credit to DoctorBat](https://theposterdb.com/set/182960) | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Godzilla (Showa) Collection   | `godzilla_showa`  | `default`<br/>[Image Credit to DoctorBat](https://theposterdb.com/set/181742)   | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `godzilla_showa`  | `doctorbat`<br/>[Image Credit to DoctorBat](https://theposterdb.com/set/181738) | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Indiana Jones Collection      | `indiana`         | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/34045)  | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `indiana`         | `olivier`<br/>[Image Credit to Olivier_286](https://theposterdb.com/set/4874)   | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Jurassic Park Collection      | `jurassic`        | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/97241)  | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| In Association With Marvel    | `marvel`          | `default`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/78444)       | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Marvel Cinematic Universe     | `mcu`             | `default`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/71510)       | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `mcu`             | `diivoy`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/41596)        | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `mcu`             | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/4475)       | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `mcu`             | `rhj2`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/87080)     | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Middle-Earth Collection"      | `middle`          | `default`<br/>[Image Credit to mikenobbs](https://theposterdb.com/set/115877)   | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `middle`          | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/20379)      | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Pixar Animation Studios       | `pixar`           | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/97)     | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Saw Collection                | `saw`             | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/95260)  | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Star Wars Collection          | `starwars`        | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/93852)  | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `starwars`        | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/89606)      | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+| Wizarding World Collection    | `wizard`          | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/101665) | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `wizard`          | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/11706)      | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
+|                               | `wizard`          | `dsman`<br/>[Image Credit to Dsman124](https://theposterdb.com/set/12177)       | <img src="https://theposterdb.com/api/assets/176906" height="200"/> |
