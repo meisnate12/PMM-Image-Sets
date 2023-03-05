@@ -1,0 +1,92 @@
+collections:
+  "Worlds of DC (DCEU)":  {tpdb_poster: 128645}
+set:
+  "Arrow (2012)":
+    tpdb_poster: 175481
+    seasons:
+      0: {tpdb_poster: 175482}
+      1: {tpdb_poster: 175483}
+      2: {tpdb_poster: 175484}
+      3: {tpdb_poster: 175485}
+      4: {tpdb_poster: 175486}
+      5: {tpdb_poster: 175487}
+      6: {tpdb_poster: 175488}
+      7: {tpdb_poster: 175489}
+      8: {tpdb_poster: 175490}
+  "The Flash (2014)":
+    tpdb_poster: 141762
+    seasons:
+      0: {tpdb_poster: 175818}
+      1: {tpdb_poster: 175819}
+      2: {tpdb_poster: 175820}
+      3: {tpdb_poster: 175821}
+      4: {tpdb_poster: 175822}
+      5: {tpdb_poster: 175823}
+      6: {tpdb_poster: 175824}
+      7: {tpdb_poster: 175825}
+      8: {tpdb_poster: 201257}
+  "Supergirl (2015)":
+    tpdb_poster: 265980
+    seasons:
+      0: {tpdb_poster: 265981}
+      1: {tpdb_poster: 265982}
+      2: {tpdb_poster: 265983}
+      3: {tpdb_poster: 265984}
+      4: {tpdb_poster: 265985}
+      5: {tpdb_poster: 265986}
+      6: {tpdb_poster: 265987}
+  "Peacemaker (2022)":
+    tpdb_poster: 204649
+    seasons:
+      0: {tpdb_poster: 204650}
+      1: {tpdb_poster: 204651}
+  "Lois & Clark: The New Adventures of Superman (1993)":
+    tpdb_poster: 146379
+    seasons:
+      0: {tpdb_poster: 146380}
+      1: {tpdb_poster: 146381}
+      2: {tpdb_poster: 146382}
+      3: {tpdb_poster: 146383}
+      4: {tpdb_poster: 146384}
+  "Batman The Series (1966)":
+    tpdb_poster: 177511
+    seasons:
+      0: {tpdb_poster: 177512}
+      1: {tpdb_poster: 177513}
+      2: {tpdb_poster: 177514}
+      3: {tpdb_poster: 177515}
+  "Watchmen (2019)":
+    tpdb_poster: 196983
+    seasons:
+      1: {tpdb_poster: 196984}
+  "Watchmen: Motion Comic (2008)":
+    tpdb_poster: 196979
+  "The Sandman (2022)":
+    tpdb_poster: 257461
+    seasons:
+      1: {tpdb_poster: 257462}
+  "Preacher (2016)":
+    tpdb_poster: 323344
+    seasons:
+      1: {tpdb_poster: 323345}
+      2: {tpdb_poster: 323346}
+      3: {tpdb_poster: 323347}
+      4: {tpdb_poster: 323348}
+  "Legends of Tomorrow":
+    tpdb_poster: 321660
+    seasons:
+      1: {tpdb_poster: 321661}
+      2: {tpdb_poster: 321662}
+      3: {tpdb_poster: 321663}
+      4: {tpdb_poster: 321664}
+      5: {tpdb_poster: 321665}
+      6: {tpdb_poster: 321666}
+      7: {tpdb_poster: 321667}
+  "Gotham (2014)":
+    tpdb_poster: 324220
+    seasons:
+      1: {tpdb_poster: 324221}
+      2: {tpdb_poster: 324222}
+      3: {tpdb_poster: 324223}
+      4: {tpdb_poster: 324224}
+      5: {tpdb_poster: 324225}

@@ -1,5 +1,9 @@
 collections:
   "Worlds of DC (DCEU)": {tpdb_poster: 128645}
+  "Superman Collection": {tpdb_poster: 131540}
+  "Harley Quinn Collection": {tpdb_poster: 131541}
+  "The Flash Collection": {tpdb_poster: 141763}
+  "Batman Collection": {tpdb_poster: 177518}
 set:
   "Man of Steel": {tpdb_poster: 128647}
   "Batman v Superman: Dawn of Justice": {tpdb_poster: 128648}

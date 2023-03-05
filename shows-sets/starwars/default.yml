@@ -1,0 +1,37 @@
+collections:
+  "Star Wars: The Complete Collection": {poster_tpdb: 152792}
+set:
+  "Star Wars: The Clone Wars (2008)":
+    tpdb_poster: 152994
+  "Star Wars Rebels (2014)":
+    tpdb_poster: 152995
+  "Star Wars Resistance (2018)":
+    tpdb_poster: 152996
+  "The Mandalorian (2019)":
+    tpdb_poster: 152804
+  "A Droid Story (None)":
+    tpdb_poster: null
+  "The Acolyte (None)":
+    tpdb_poster: null
+  "Star Wars: The Bad Batch (2021)":
+    tpdb_poster: 152997
+  "The Book of Boba Fett (2021)":
+    tpdb_poster: 199484
+  "Lando (None)":
+    tpdb_poster: null
+  "Star Wars: Visions (2021)":
+    tpdb_poster: 177470
+  "Star Wars: Andor (2022)":
+    tpdb_poster: 266677
+  "Obi-Wan Kenobi (2022)":
+    tpdb_poster: 235866
+  "Ahsoka (None)":
+    tpdb_poster: null}
+  "Star Wars: Skeleton Crew (None)":
+    tpdb_poster: null
+  "Star Wars: The Clone Wars (2008)":
+    tpdb_poster: 152992
+  "Star Wars: Young Jedi Adventures (2023)":
+    tpdb_poster: null
+  "Star Wars: Tales of the Jedi (2022)":
+    tpdb_poster: 281336

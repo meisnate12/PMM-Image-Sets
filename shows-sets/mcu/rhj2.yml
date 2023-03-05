@@ -1,0 +1,29 @@
+collections:
+  "Marvel Cinematic Universe": {tpdb_poster: 139853}
+set:
+  "Loki (2021)":
+    tpdb_poster: 139878
+    seasons:
+      1: {tpdb_poster: 157160}
+  "WandaVision (2021)":
+    tpdb_poster: 139880
+    seasons:
+      1: {tpdb_poster: 139881}
+  "The Falcon and the Winter Soldier (2021)":
+    tpdb_poster: 139878
+    seasons:
+      1: {tpdb_poster: 139879}
+  "Hawkeye (2021)":
+    tpdb_poster: 189529}
+  "What If...? (2021)":
+    tpdb_poster: 167301
+    seasons:
+      1: {tpdb_poster: 168580}
+  "Ms. Marvel (2022)":
+    tpdb_poster: 241440
+  "Moon Knight (2022)":
+    tpdb_poster: 212417
+  "She-Hulk: Attorney at Law (2022)":
+    tpdb_poster: 258440
+  "I Am Groot (2022)":
+    tpdb_poster: 256862
