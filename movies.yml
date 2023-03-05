@@ -200,6 +200,7 @@ sets:
     "The Godfather: Part II (1974)": 240
     "The Godfather: Part III (1990)": 242
     "The Godfather Coda: The Death of Michael Corleone (1990)":
+      mapping_id: 242
       editon_contains: Coda
 
   godzilla_heisei:                # Source List: https://trakt.tv/users/rzepkowski/lists/godzilla-movies
@@ -303,11 +304,11 @@ sets:
     collections:
       "Indiana Jones Collection":
         - "Indiana Jones"
-  "Raiders of the Lost Ark (1981)": 85
-  "Indiana Jones and the Temple of Doom (1984)": 87
-  "Indiana Jones and the Last Crusade (1989)": 89
-  "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
-  "Indiana Jones and the Dial of Destiny (2023)": 335977
+    "Raiders of the Lost Ark (1981)": 85
+    "Indiana Jones and the Temple of Doom (1984)": 87
+    "Indiana Jones and the Last Crusade (1989)": 89
+    "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
+    "Indiana Jones and the Dial of Destiny (2023)": 335977
 
   jurassic:                         # Source List: https://trakt.tv/users/psaul3/lists/jurassic-universe?sort=released,asc
     styles:
@@ -358,7 +359,8 @@ sets:
         - "Ghost Rider"
       "Captain America (1979) Collection":
         - "Captain America (1979)"
-      "Spider-Man Universe"
+      "Spider-Man Universe":
+        - "Spider-Man Universe"
     "Big Hero 6 (2014)": 177572
     "X-Men (2000)": 36657
     "X2 (2003)": 36658
