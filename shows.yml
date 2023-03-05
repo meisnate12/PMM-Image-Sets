@@ -7,15 +7,15 @@ sets:
       "Worlds of DC (DCEU)":
         - "Worlds of DC"
         - "DC Extended Universe"
-      "Superman Collection"
+      "Superman Collection":
         - "Superman"
-      "Harley Quinn Collection"
+      "Harley Quinn Collection":
         - "Harley Quinn"
-      "The Flash Collection"
+      "The Flash Collection":
         - "The Flash"
         - "Flash Collection"
         - "Flash"
-      "Batman Collection"
+      "Batman Collection":
         - "Batman"
     "Arrow (2012)": 257655
     "Gotham (2014)": 274431
@@ -69,32 +69,32 @@ sets:
     collections:
       "In Association With Marvel":
         - "Marvel"
-      "The Amazing Spider-Man Collection"
+      "The Amazing Spider-Man Collection":
         - "The Amazing Spider-Man"
-      "Spider-Man Collection"
+      "Spider-Man Collection":
         - "Spider-Man"
-      "Spider-Man: Spider-Verse Collection"
+      "Spider-Man: Spider-Verse Collection":
         - "Spider-Man: Spider-Verse"
         - "Spider-Verse Collection"
         - "Spider-Verse"
-      "Deadpool Collection"
+      "Deadpool Collection":
         - "Deadpool"
-      "Blade Collection"
+      "Blade Collection":
         - "Blade"
-      "X-Men Collection"
+      "X-Men Collection":
         - "X-Men"
-      "Wolverine Collection"
+      "Wolverine Collection":
         - "Wolverine"
-      "The Punisher Collection"
+      "The Punisher Collection":
         - "The Punisher"
         - "Punisher"
-      "Fantastic Four Collection"
+      "Fantastic Four Collection":
         - "Fantastic Four"
-      "Daredevil Collection"
+      "Daredevil Collection":
         - "Daredevil"
-      "Ghost Rider Collection"
+      "Ghost Rider Collection":
         - "Ghost Rider"
-      "Captain America (1979) Collection"
+      "Captain America (1979) Collection":
         - "Captain America (1979)"
       "Spider-Man Universe"
     "Captain America (1944)": 135841
