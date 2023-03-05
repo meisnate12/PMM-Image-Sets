@@ -21,8 +21,9 @@ libraries:
           use_starwars: true            # will only use the images that are part of the `starwars` set, no other sets will be used.
 ```
 
-## Sets
-Below is a table of the available sets that can be used, you can click the Image Set link to go to the poster source
+## Sets - Movies
+
+Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
 
 | Image Set                     | Set / Key         | Style                                                                            |                                Example                                |
 |:------------------------------|:------------------|----------------------------------------------------------------------------------|:---------------------------------------------------------------------:|
@@ -53,3 +54,19 @@ Below is a table of the available sets that can be used, you can click the Image
 | Wizarding World Collection    | `wizard`          | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/101665)  |  <img src="https://theposterdb.com/api/assets/166285" height="200"/>  |
 |                               | `wizard`          | `dsman`<br/>[Image Credit to Dsman124](https://theposterdb.com/set/12177)        |  <img src="https://theposterdb.com/api/assets/21005" height="200"/>   |
 |                               | `wizard`          | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/11706)       |  <img src="https://theposterdb.com/api/assets/85949" height="200"/>   |
+
+
+## Sets - Shows
+
+Below is a table of the available sets that can be used on Show libraries, you can click the Image Set link to go to the poster source
+
+| Image Set                     | Set / Key         | Style                                                                            |                                Example                                |
+|:------------------------------|:------------------|----------------------------------------------------------------------------------|:---------------------------------------------------------------------:|
+| Worlds of DC                  | `dc`              | `default`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/80057)        |  <img src="https://theposterdb.com/api/assets/141762" height="200"/>  |
+| In Association With Marvel    | `marvel`          | `default`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/78444)        |  <img src="https://theposterdb.com/api/assets/125373" height="200"/>  |
+| Marvel Cinematic Universe     | `mcu`             | `default`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/71510)        |  <img src="https://theposterdb.com/api/assets/124699" height="200"/>  |
+|                               | `mcu`             | `diivoy`<br/>[Image Credit to DIIVOY](https://theposterdb.com/set/41596)         |  <img src="https://theposterdb.com/api/assets/315081" height="200"/>   |
+|                               | `mcu`             | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/4475)        |   <img src="https://theposterdb.com/api/assets/167297" height="200"/>   |
+|                               | `mcu`             | `rhj2`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/87080)      |  <img src="https://theposterdb.com/api/assets/139878" height="200"/>  |
+| Star Wars Collection          | `starwars`        | `default`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/93852)   |  <img src="https://theposterdb.com/api/assets/152804" height="200"/>  |
+|                               | `starwars`        | `rhj`<br/>[Image Credit to RedHeadjedi](https://theposterdb.com/set/89606)       |  <img src="https://theposterdb.com/api/assets/266673" height="200"/>  |
