@@ -96,7 +96,8 @@ sets:
         - "Ghost Rider"
       "Captain America (1979) Collection":
         - "Captain America (1979)"
-      "Spider-Man Universe"
+      "Spider-Man Universe":
+        - "Spiver-Verse"
     "Captain America (1944)": 135841
     "Spidey Super Stories (None)": 271577
     "The Amazing Spider-Man (1978)": 78453
@@ -154,7 +155,7 @@ sets:
       rhj2:
         - pmm: mcu/rhj2          # Image Credit to DIIVOY / https://theposterdb.com/set/87080
     collections:
-      "Marvel Cinematic Universe"
+      "Marvel Cinematic Universe":
         - "MCU"
     "Captain America (1944)": 135841
     "Spidey Super Stories (None)": 271577
