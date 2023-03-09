@@ -1,5 +1,16 @@
 collections:
   "Marvel Cinematic Universe": {tpdb_poster: 143466}
+  "Captain America Collection": {tpdb_poster: 114048}
+  "Iron Man Collection": {tpdb_poster: 114052}
+  "The Avengers Collection": {tpdb_poster: 114054}
+  "Captain Marvel Collection": {tpdb_poster: 114049}
+  "Doctor Strange Collection": {tpdb_poster: 114050}
+  "Thor Collection": {tpdb_poster: 249712}
+  "Spider-Man (Avengers) Collection": {tpdb_poster: 287939}
+  "Guardians of the Galaxy Collection": {tpdb_poster: 291146}
+  "Black Panther Collection": {tpdb_poster: 282450}
+  "Ant-Man Collection": {tpdb_poster: 295036}
+  "Marvel One-Shots Collection": {tpdb_poster: 139056}
 set:
   "Ant-Man (2015)": {tpdb_poster: 114067}
   "Ant-Man and the Wasp (2018)": {tpdb_poster: 114075}

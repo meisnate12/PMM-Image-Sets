@@ -1,0 +1,10 @@
+collections:
+  "Jurassic Park Collection": {poster_tpdb: 158968}
+set:
+  "Jurassic Park (1993)": {tpdb_poster: 158969}
+  "The Lost World: Jurassic Park (1997)": {tpdb_poster: 158970}
+  "Jurassic Park III (2001)": {tpdb_poster: 158971}
+  "Jurassic World (2015)": {tpdb_poster: 158972}
+  "Jurassic World: Fallen Kingdom (2018)": {tpdb_poster: 158973}
+  "Battle at Big Rock (2019)": {tpdb_poster: 158974}
+  "Jurassic World Dominion (2022)": {tpdb_poster: 158975}

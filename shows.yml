@@ -1,0 +1,226 @@
+sets:
+  dc:                      # Source List: https://trakt.tv/users/malicekodi2/lists/dc
+    styles:
+      default:
+        - pmm: dc/default          # Image Credit to DIIVOY / https://theposterdb.com/set/80057
+    collections:
+      "Worlds of DC (DCEU)":
+        - "Worlds of DC"
+        - "DC Extended Universe"
+      "Superman Collection":
+        - "Superman"
+      "Harley Quinn Collection":
+        - "Harley Quinn"
+      "The Flash Collection":
+        - "The Flash"
+        - "Flash Collection"
+        - "Flash"
+      "Batman Collection":
+        - "Batman"
+    "Arrow (2012)": 257655
+    "Gotham (2014)": 274431
+    "The Flash (2014)": 279121
+    "Constantine (2014)": 273690
+    "Vixen (2015)": 298305
+    "Supergirl (2015)": 295759
+    "DC's Legends of Tomorrow (2016)": 295760
+    "Lucifer (2016)": 295685
+    "Black Lightning (2018)": 332525
+    "Lois & Clark: The New Adventures of Superman (1993)": 72468
+    "Beware the Batman (2013)": 258331
+    "Doom Patrol (2019)": 355622
+    "Titans (2018)": 341663
+    "Y: The Last Man (2021)": 362250
+    "Stargirl (2020)": 361868
+    "Sweet Tooth (2021)": 355837
+    "Batwoman (2019)": 361315
+    "Swamp Thing (2019)": 361735
+    "Preacher (2016)": 300472
+    "iZombie (2015)": 281470
+    "Watchmen (2019)": 360733
+    "Batman: The Animated Series (1992)": 76168
+    "Young Justice (2010)": 192061
+    "Justice League (2001)": 76320
+    "Teen Titans (2003)": 71503
+    "Batman Beyond (1999)": 75417
+    "The New Batman Adventures (1997)": 77084
+    "Constantine: City of Demons (2018)": 336139
+    "Freedom Fighters: The Ray (2017)": 328982
+    "Justice League Action (2016)": 312818
+    "Justice League Unlimited (2004)": ???
+    "Justice League: Gods and Monsters Chronicles (2015)": 296699
+    "Static Shock (2000)": 79067
+    "Green Lantern: The Animated Series (2011)": 251807
+    "The Batman (2004)": 73180
+    "Harley Quinn (2019)": 365677
+    "Aquaman: King of Atlantis (2021)": 377401
+    "Peacemaker (2022)": 391153
+    "Pennyworth (2019)": 363008
+    "Teen Titans Go! (2013)": 266775
+    "DC Super Hero Girls (2019)": 359619
+    "Krypton (2018)": 328599
+    "Birds of Prey (2002)": 77746
+    "The Zeta Project (2001)": 74182
+
+  marvel:                      # Source List: https://trakt.tv/users/darkman1498/lists/marvel-series
+    styles:
+      default:
+        - pmm: marvel/default          # Image Credit to DIIVOY / https://theposterdb.com/set/87080
+    collections:
+      "In Association With Marvel":
+        - "Marvel"
+      "The Amazing Spider-Man Collection":
+        - "The Amazing Spider-Man"
+      "Spider-Man Collection":
+        - "Spider-Man"
+      "Spider-Man: Spider-Verse Collection":
+        - "Spider-Man: Spider-Verse"
+        - "Spider-Verse Collection"
+        - "Spider-Verse"
+      "Deadpool Collection":
+        - "Deadpool"
+      "Blade Collection":
+        - "Blade"
+      "X-Men Collection":
+        - "X-Men"
+      "Wolverine Collection":
+        - "Wolverine"
+      "The Punisher Collection":
+        - "The Punisher"
+        - "Punisher"
+      "Fantastic Four Collection":
+        - "Fantastic Four"
+      "Daredevil Collection":
+        - "Daredevil"
+      "Ghost Rider Collection":
+        - "Ghost Rider"
+      "Captain America (1979) Collection":
+        - "Captain America (1979)"
+      "Spider-Man Universe"
+    "Captain America (1944)": 135841
+    "Spidey Super Stories (None)": 271577
+    "The Amazing Spider-Man (1978)": 78453
+    "The Incredible Hulk (1977)": 71746
+    "Spiderman (1978)": 147681
+    "Night Man (1997)": 78267
+    "Conan the Adventurer (1997)": 76396
+    "Mutant X (2001)": 76533
+    "Blade: The Series (2006)": 73192
+    "Blade (2011)": 249846
+    "Big Hero 6 The Series (2017)": 322241
+    "Baymax (2022)": 393207
+    "Marvel's Agents of S.H.I.E.L.D. (2013)": 263365
+    "Marvel's Agent Carter (2015)": 281485
+    "Marvel's Daredevil (2015)": 281662
+    "WHIH Newsfront (2015)": 299405
+    "Marvel's Jessica Jones (2015)": 284190
+    "Marvel's Luke Cage (2016)": 304219
+    "Legion (2017)": 320724
+    "Marvel's Iron Fist (2017)": 317953
+    "Marvel's The Defenders (2017)": 326490
+    "Marvel's Inhumans (2017)": 320558
+    "The Gifted (2017)": 328552
+    "Marvel's The Punisher (2017)": 331980
+    "Marvel's Runaways (2017)": 332027
+    "Marvel's Cloak & Dagger (2018)": 341455
+    "The Daily Bugle (2019)": 372497
+    "Helstrom (2020)": 364038
+    "Marvel Studios: Legends (2021)": 393438
+    "WandaVision (2021)": 362392
+    "The Falcon and the Winter Soldier (2021)": 362496
+    "Loki (2021)": 362472
+    "What If...? (2021)": 367147
+    "Hawkeye (2021)": 367146
+    "Moon Knight (2022)": 368611
+    "Ms. Marvel (2022)": 368612
+    "She-Hulk: Attorney at Law (2022)": 368613
+    "I Am Groot (2022)": 393201
+    "Marvel's M.O.D.O.K. (2021)": 361834
+    "Ironheart (None)": 393204
+    "Echo (None)": 412431
+    "Secret Invasion (None)": 393203
+    "Agatha: Coven of Chaos (None)": 412429
+    "Daredevil: Born Again (None)": 422712
+    "Wonder Man (None)": 428629
+
+  mcu:                           # Source List: https://trakt.tv/users/darkman1498/lists/marvel-series
+    styles:
+      default:
+        - pmm: mcu/default               # Image Credit to DIIVOY / https://theposterdb.com/set/71510
+      diivoy:
+        - pmm: mcu/diivoy        # Image Credit to DIIVOY / https://theposterdb.com/set/41596
+      rhj:
+        - pmm: mcu/rhj           # Image Credit to DIIVOY / https://theposterdb.com/set/4475
+      rhj2:
+        - pmm: mcu/rhj2          # Image Credit to DIIVOY / https://theposterdb.com/set/87080
+    collections:
+      "Marvel Cinematic Universe"
+        - "MCU"
+    "Captain America (1944)": 135841
+    "Spidey Super Stories (None)": 271577
+    "The Amazing Spider-Man (1978)": 78453
+    "The Incredible Hulk (1977)": 71746
+    "Spiderman (1978)": 147681
+    "Night Man (1997)": 78267
+    "Conan the Adventurer (1997)": 76396
+    "Mutant X (2001)": 76533
+    "Blade: The Series (2006)": 73192
+    "Blade (2011)": 249846
+    "Big Hero 6 The Series (2017)": 322241
+    "Baymax (2022)": 393207
+    "Marvel's Agents of S.H.I.E.L.D. (2013)": 263365
+    "Marvel's Agent Carter (2015)": 281485
+    "Marvel's Daredevil (2015)": 281662
+    "WHIH Newsfront (2015)": 299405
+    "Marvel's Jessica Jones (2015)": 284190
+    "Marvel's Luke Cage (2016)": 304219
+    "Legion (2017)": 320724
+    "Marvel's Iron Fist (2017)": 317953
+    "Marvel's The Defenders (2017)": 326490
+    "Marvel's Inhumans (2017)": 320558
+    "The Gifted (2017)": 328552
+    "Marvel's The Punisher (2017)": 331980
+    "Marvel's Runaways (2017)": 332027
+    "Marvel's Cloak & Dagger (2018)": 341455
+    "The Daily Bugle (2019)": 372497
+    "Helstrom (2020)": 364038
+    "Marvel Studios: Legends (2021)": 393438
+    "WandaVision (2021)": 362392
+    "The Falcon and the Winter Soldier (2021)": 362496
+    "Loki (2021)": 362472
+    "What If...? (2021)": 367147
+    "Hawkeye (2021)": 367146
+    "Moon Knight (2022)": 368611
+    "Ms. Marvel (2022)": 368612
+    "She-Hulk: Attorney at Law (2022)": 368613
+    "I Am Groot (2022)": 393201
+    "Marvel's M.O.D.O.K. (2021)": 361834
+    "Ironheart (None)": 393204
+    "Echo (None)": 412431
+    "Secret Invasion (None)": 393203
+    "Agatha: Coven of Chaos (None)": 412429
+    "Daredevil: Born Again (None)": 422712
+    "Wonder Man (None)": 428629
+
+  starwars:                          # Source List: https://trakt.tv/users/pullsa/lists/the-star-wars-saga-feature-films-and-tv-shows
+    styles:
+      default:
+        - pmm: starwars/default              # Image Credit to RedHeadJedi / https://theposterdb.com/set/93852
+      rhj:
+        - pmm: starwars/rhj          # Image Credit to RedHeadJedi / https://theposterdb.com/set/89606
+    "Star Wars: The Clone Wars (2008)": 83268
+    "Star Wars Rebels (2014)": 283468
+    "Star Wars Resistance (2018)": 351575
+    "The Mandalorian (2019)": 361753
+    "A Droid Story (None)": 393214
+    "The Acolyte (None)": 393197
+    "Star Wars: The Bad Batch (2021)": 385376
+    "The Book of Boba Fett (2021)": 393589
+    "Lando (None)": 393218
+    "Star Wars: Visions (2021)": 393190
+    "Star Wars: Andor (2022)": 393189
+    "Obi-Wan Kenobi (2022)": 393199
+    "Ahsoka (None)": 393187
+    "Star Wars: Skeleton Crew (None)": 420600
+    "Star Wars: Young Jedi Adventures (2023)": 420658
+    "Star Wars: Tales of the Jedi (2022)": 420659
