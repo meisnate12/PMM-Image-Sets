@@ -1,88 +1,88 @@
 collections:
-"Tom and Jerry Collection": {tpdb_poster: 165722}
-"The Land Before Time Collection": {tpdb_poster: 105457}
-"Scooby-Doo! Animated Collection": {tpdb_poster: 161484}
+  "Tom and Jerry Collection": {tpdb_poster: 165722}
+  "The Land Before Time Collection": {tpdb_poster: 105457}
+  "Scooby-Doo! Animated Collection": {tpdb_poster: 161484}
 
 set:
-"Tom and Jerry: The Movie": {tpdb_poster: 165723}
-"Tom and Jerry: The Magic Ring": {tpdb_poster: 165724}
-"Tom and Jerry Blast Off to Mars!": {tpdb_poster: 165725}
-"Tom and Jerry: The Fast and the Furry": {tpdb_poster: 165726}
-"Tom and Jerry: Shiver Me Whiskers": {tpdb_poster: 165727}
-"Tom and Jerry: A Nutcracker Tale": {tpdb_poster: 165728}
-"Tom and Jerry Meet Sherlock Holmes": {tpdb_poster: 165729}
-"Tom and Jerry & The Wizard of Oz": {tpdb_poster: 165730}
-"Tom and Jerry: Robin Hood and His Merry Mouse": {tpdb_poster: 165731}
-"Tom and Jerry's Giant Adventure": {tpdb_poster: 165732}
-"Tom and Jerry: The Lost Dragon": {tpdb_poster: 165733}
-"Tom and Jerry: Spy Quest": {tpdb_poster: 165734}
-"Tom and Jerry: Back to Oz": {tpdb_poster: 165735}
-"Tom and Jerry: Willy Wonka and the Chocolate Factory": {tpdb_poster: 165736}
-"Tom & Jerry": {tpdb_poster: 165737}
-"Tom and Jerry Cowboy Up!": {tpdb_poster: 214926}
-"Tom and Jerry Snowman's Land": {tpdb_poster: 318921}
-"The Land Before Time": {tpdb_poster: 105458}
-"The Land Before Time: The Great Valley Adventure": {tpdb_poster: 105459}
-"The Land Before Time III: The Time of the Great Giving": {tpdb_poster: 105460}
-"The Land Before Time IV: Journey Through the Mists": {tpdb_poster: 105461}
-"The Land Before Time V: The Mysterious Island": {tpdb_poster: 105462}
-"The Land Before Time VI: The Secret of Saurus Rock": {tpdb_poster: 105463}
-"The Land Before Time VII: The Stone of Cold Fire": {tpdb_poster: 105464}
-"The Land Before Time VIII: The Big Freeze": {tpdb_poster: 105465}
-"The Land Before Time IX: Journey to Big Water": {tpdb_poster: 105466}
-"The Land Before Time X: The Great Longneck Migration": {tpdb_poster: 105467}
-"The Land Before Time XI: Invasion of the Tinysauruses": {tpdb_poster: 105468}
-"The Land Before Time XII: The Great Day of the Flyers": {tpdb_poster: 105469}
-"The Land Before Time XIII: The Wisdom of Friends": {tpdb_poster: 105470}
-"The Land Before Time XIV: Journey of the Brave": {tpdb_poster: 105471}
-"Scooby-Doo Meets Batman": {tpdb_poster: 161485}
-"Scooby-Doo! Meets the Harlem Globetrotters": {tpdb_poster: 161486}
-"Scooby Goes Hollywood": {tpdb_poster: 161487}
-"Scooby-Doo's A Nutcracker Scoob": {tpdb_poster: 161488}
-"Scooby-Doo! Meets the Boo Brothers": {tpdb_poster: 161489}
-"Scooby-Doo and the Ghoul School": {tpdb_poster: 161490}
-"Scooby-Doo! and the Reluctant Werewolf": {tpdb_poster: 161491}
-"Scooby-Doo! in Arabian Nights": {tpdb_poster: 161492}
-"Scooby-Doo on Zombie Island": {tpdb_poster: 161493}
-"The Scooby-Doo Project": {tpdb_poster: 161494}
-"Scooby-Doo! and the Witch's Ghost": {tpdb_poster: 161495}
-"Scooby-Doo and the Alien Invaders": {tpdb_poster: 161496}
-"Scooby-Doo! and the Cyber Chase": {tpdb_poster: 161497}
-"A Scooby-Doo! Christmas": {tpdb_poster: 161498}
-"Scooby-Doo! and the Legend of the Vampire": {tpdb_poster: 161499}
-"Scooby-Doo! and the Monster of Mexico": {tpdb_poster: 161500}
-"Scooby-Doo! and the Loch Ness Monster": {tpdb_poster: 161501}
-"Aloha Scooby-Doo!": {tpdb_poster: 161502}
-"Scooby-Doo! in Where's My Mummy?": {tpdb_poster: 161503}
-"Scooby-Doo! Pirates Ahoy!": {tpdb_poster: 161504}
-"Chill Out, Scooby-Doo!": {tpdb_poster: 161505}
-"Scooby-Doo! and the Goblin King": {tpdb_poster: 161506}
-"Scooby-Doo! and the Samurai Sword": {tpdb_poster: 161507}
-"Scooby-Doo! Abracadabra-Doo": {tpdb_poster: 161508}
-"Scooby-Doo! Camp Scare": {tpdb_poster: 161509}
-"Scooby-Doo! Legend of the Phantosaur": {tpdb_poster: 161514}
-"Scooby-Doo! Music of the Vampire": {tpdb_poster: 161515}
-"Scooby-Doo! Spooky Games": {tpdb_poster: 161516}
-"Scooby-Doo! Haunted Holidays": {tpdb_poster: 161517}
-"Big Top Scooby-Doo!": {tpdb_poster: 161518}
-"Scooby-Doo! Mask of the Blue Falcon": {tpdb_poster: 161519}
-"Scooby-Doo! Stage Fright": {tpdb_poster: 161520}
-"Scooby-Doo! and the Spooky Scarecrow": {tpdb_poster: 161521}
-"Scooby-Doo! Mecha Mutt Menace": {tpdb_poster: 161522}
-"Scooby-Doo! WrestleMania Mystery": {tpdb_poster: 161523}
-"Scooby-Doo! Ghastly Goals": {tpdb_poster: 161524}
-"Scooby-Doo! Frankencreepy": {tpdb_poster: 161525}
-"Scooby-Doo! Moon Monster Madness": {tpdb_poster: 161526}
-"Scooby-Doo! and the Beach Beastie": {tpdb_poster: 161527}
-"Scooby-Doo! and KISS: Rock and Roll Mystery": {tpdb_poster: 161528}
-"Scooby-Doo! and WWE: Curse of the Speed Demon": {tpdb_poster: 161529}
-"Scooby-Doo! Shaggy's Showdown": {tpdb_poster: 161530}
-"Scooby-Doo! & Batman: The Brave and the Bold": {tpdb_poster: 161531}
-"Scooby-Doo! and the Gourmet Ghost": {tpdb_poster: 161532}
-"Scooby-Doo! and the Curse of the 13th Ghost": {tpdb_poster: 161533}
-"Scooby-Doo! Return to Zombie Island": {tpdb_poster: 161534}
-"Happy Halloween, Scooby-Doo!": {tpdb_poster: 161535}
-"Scooby-Doo! The Sword and the Scoob": {tpdb_poster: 161536}
-"Scooby-Doo! Adventures: The Mystery Map": {tpdb_poster: 166190}
-"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog": {tpdb_poster: 166309}
-"Trick or Treat Scooby-Doo!": {tpdb_poster: 274804}
+  "Tom and Jerry: The Movie": {tpdb_poster: 165723}
+  "Tom and Jerry: The Magic Ring": {tpdb_poster: 165724}
+  "Tom and Jerry Blast Off to Mars!": {tpdb_poster: 165725}
+  "Tom and Jerry: The Fast and the Furry": {tpdb_poster: 165726}
+  "Tom and Jerry: Shiver Me Whiskers": {tpdb_poster: 165727}
+  "Tom and Jerry: A Nutcracker Tale": {tpdb_poster: 165728}
+  "Tom and Jerry Meet Sherlock Holmes": {tpdb_poster: 165729}
+  "Tom and Jerry & The Wizard of Oz": {tpdb_poster: 165730}
+  "Tom and Jerry: Robin Hood and His Merry Mouse": {tpdb_poster: 165731}
+  "Tom and Jerry's Giant Adventure": {tpdb_poster: 165732}
+  "Tom and Jerry: The Lost Dragon": {tpdb_poster: 165733}
+  "Tom and Jerry: Spy Quest": {tpdb_poster: 165734}
+  "Tom and Jerry: Back to Oz": {tpdb_poster: 165735}
+  "Tom and Jerry: Willy Wonka and the Chocolate Factory": {tpdb_poster: 165736}
+  "Tom & Jerry": {tpdb_poster: 165737}
+  "Tom and Jerry Cowboy Up!": {tpdb_poster: 214926}
+  "Tom and Jerry Snowman's Land": {tpdb_poster: 318921}
+  "The Land Before Time": {tpdb_poster: 105458}
+  "The Land Before Time: The Great Valley Adventure": {tpdb_poster: 105459}
+  "The Land Before Time III: The Time of the Great Giving": {tpdb_poster: 105460}
+  "The Land Before Time IV: Journey Through the Mists": {tpdb_poster: 105461}
+  "The Land Before Time V: The Mysterious Island": {tpdb_poster: 105462}
+  "The Land Before Time VI: The Secret of Saurus Rock": {tpdb_poster: 105463}
+  "The Land Before Time VII: The Stone of Cold Fire": {tpdb_poster: 105464}
+  "The Land Before Time VIII: The Big Freeze": {tpdb_poster: 105465}
+  "The Land Before Time IX: Journey to Big Water": {tpdb_poster: 105466}
+  "The Land Before Time X: The Great Longneck Migration": {tpdb_poster: 105467}
+  "The Land Before Time XI: Invasion of the Tinysauruses": {tpdb_poster: 105468}
+  "The Land Before Time XII: The Great Day of the Flyers": {tpdb_poster: 105469}
+  "The Land Before Time XIII: The Wisdom of Friends": {tpdb_poster: 105470}
+  "The Land Before Time XIV: Journey of the Brave": {tpdb_poster: 105471}
+  "Scooby-Doo Meets Batman": {tpdb_poster: 161485}
+  "Scooby-Doo! Meets the Harlem Globetrotters": {tpdb_poster: 161486}
+  "Scooby Goes Hollywood": {tpdb_poster: 161487}
+  "Scooby-Doo's A Nutcracker Scoob": {tpdb_poster: 161488}
+  "Scooby-Doo! Meets the Boo Brothers": {tpdb_poster: 161489}
+  "Scooby-Doo and the Ghoul School": {tpdb_poster: 161490}
+  "Scooby-Doo! and the Reluctant Werewolf": {tpdb_poster: 161491}
+  "Scooby-Doo! in Arabian Nights": {tpdb_poster: 161492}
+  "Scooby-Doo on Zombie Island": {tpdb_poster: 161493}
+  "The Scooby-Doo Project": {tpdb_poster: 161494}
+  "Scooby-Doo! and the Witch's Ghost": {tpdb_poster: 161495}
+  "Scooby-Doo and the Alien Invaders": {tpdb_poster: 161496}
+  "Scooby-Doo! and the Cyber Chase": {tpdb_poster: 161497}
+  "A Scooby-Doo! Christmas": {tpdb_poster: 161498}
+  "Scooby-Doo! and the Legend of the Vampire": {tpdb_poster: 161499}
+  "Scooby-Doo! and the Monster of Mexico": {tpdb_poster: 161500}
+  "Scooby-Doo! and the Loch Ness Monster": {tpdb_poster: 161501}
+  "Aloha Scooby-Doo!": {tpdb_poster: 161502}
+  "Scooby-Doo! in Where's My Mummy?": {tpdb_poster: 161503}
+  "Scooby-Doo! Pirates Ahoy!": {tpdb_poster: 161504}
+  "Chill Out, Scooby-Doo!": {tpdb_poster: 161505}
+  "Scooby-Doo! and the Goblin King": {tpdb_poster: 161506}
+  "Scooby-Doo! and the Samurai Sword": {tpdb_poster: 161507}
+  "Scooby-Doo! Abracadabra-Doo": {tpdb_poster: 161508}
+  "Scooby-Doo! Camp Scare": {tpdb_poster: 161509}
+  "Scooby-Doo! Legend of the Phantosaur": {tpdb_poster: 161514}
+  "Scooby-Doo! Music of the Vampire": {tpdb_poster: 161515}
+  "Scooby-Doo! Spooky Games": {tpdb_poster: 161516}
+  "Scooby-Doo! Haunted Holidays": {tpdb_poster: 161517}
+  "Big Top Scooby-Doo!": {tpdb_poster: 161518}
+  "Scooby-Doo! Mask of the Blue Falcon": {tpdb_poster: 161519}
+  "Scooby-Doo! Stage Fright": {tpdb_poster: 161520}
+  "Scooby-Doo! and the Spooky Scarecrow": {tpdb_poster: 161521}
+  "Scooby-Doo! Mecha Mutt Menace": {tpdb_poster: 161522}
+  "Scooby-Doo! WrestleMania Mystery": {tpdb_poster: 161523}
+  "Scooby-Doo! Ghastly Goals": {tpdb_poster: 161524}
+  "Scooby-Doo! Frankencreepy": {tpdb_poster: 161525}
+  "Scooby-Doo! Moon Monster Madness": {tpdb_poster: 161526}
+  "Scooby-Doo! and the Beach Beastie": {tpdb_poster: 161527}
+  "Scooby-Doo! and KISS: Rock and Roll Mystery": {tpdb_poster: 161528}
+  "Scooby-Doo! and WWE: Curse of the Speed Demon": {tpdb_poster: 161529}
+  "Scooby-Doo! Shaggy's Showdown": {tpdb_poster: 161530}
+  "Scooby-Doo! & Batman: The Brave and the Bold": {tpdb_poster: 161531}
+  "Scooby-Doo! and the Gourmet Ghost": {tpdb_poster: 161532}
+  "Scooby-Doo! and the Curse of the 13th Ghost": {tpdb_poster: 161533}
+  "Scooby-Doo! Return to Zombie Island": {tpdb_poster: 161534}
+  "Happy Halloween, Scooby-Doo!": {tpdb_poster: 161535}
+  "Scooby-Doo! The Sword and the Scoob": {tpdb_poster: 161536}
+  "Scooby-Doo! Adventures: The Mystery Map": {tpdb_poster: 166190}
+  "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog": {tpdb_poster: 166309}
+  "Trick or Treat Scooby-Doo!": {tpdb_poster: 274804}
