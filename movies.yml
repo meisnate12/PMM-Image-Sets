@@ -518,12 +518,12 @@ sets:
         - "Middle-Earth"
         - "Middle Eath Collection"
         - "Middle Earth"
-    "The Hobbit: An Unexpected Journey (2012)": 49051
-    "The Hobbit: The Desolation of Smaug (2013)": 57158
-    "The Hobbit: The Battle of the Five Armies (2014)": 122917
-    "The Lord of the Rings: The Fellowship of the Ring (2001)": 120
-    "The Lord of the Rings: The Two Towers (2002)": 121
-    "The Lord of the Rings: The Return of the King (2003)": 122
+    "The Hobbit: An Unexpected Journey": 49051
+    "The Hobbit: The Desolation of Smaug": 57158
+    "The Hobbit: The Battle of the Five Armies": 122917
+    "The Lord of the Rings: The Fellowship of the Ring": 120
+    "The Lord of the Rings: The Two Towers": 121
+    "The Lord of the Rings: The Return of the King": 122
 
   pixar:                         # Source List: https://trakt.tv/users/chloe131997/lists/pixar
     styles:
