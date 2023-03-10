@@ -538,26 +538,28 @@ sets:
     "Disney's Christmas": 920091
     "Toy Story 5": 1084244
     "Untitled Domee Shi/Pixar Film": 1078246
-    "Beauty and the Beast": 321612
     "Pete's Dragon": 294272
-    "Alice Through the Looking Glass": 241259
-    "The Jungle Book": 278927
-    "Cinderella": 150689
-    "Maleficent": 102651
-    "Alice in Wonderland": 12155
     "Mary Poppins": 433
-    "Mulan": 337401
-    "The Lion King": 420818
     "Dumbo": 329996
-    "Christopher Robin": 420814
     "Mary Poppins Returns": 400650
-    "Aladdin": 420817
-    "Maleficent: Mistress of Evil": 420809
-    "101 Dalmatians": 11674
-    "102 Dalmatians": 10481
-    "Cruella": 337404
-    "Lady and the Tramp": 512895
-    "Pinocchio": 532639
+    "101 Dalmatians (1996)": 11674
+    "102 Dalmatians (2000)": 10481
+    "Alice in Wonderland (2010)": 12155
+    "Maleficent (2014)": 102651
+    "Cinderella (2015)": 150689
+    "The Jungle Book (2016)": 278927
+    "Alice Through the Looking Glass (2016)": 241259 
+    "Beauty and the Beast (2017)": 321612
+    "Christopher Robin (2018)": 420814
+    "Dumbo (2019)": 
+    "Aladdin (2019)": 420817
+    "The Lion King (2019)": 420818
+    "Maleficent: Mistress of Evil (2019)": 420809
+    "Lady and the Tramp (2019)": 512895
+    "Mulan (2020)": 337401
+    "Cruella (2021)": 337404
+    "Pinocchio (2022)": 532639
+
 
   dreamworks:                      # Source List: https://trakt.tv/users/pablo-ramon-amorim/lists/dreamworks-animation
     styles:
