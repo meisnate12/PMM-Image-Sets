@@ -1,0 +1,80 @@
+collections:
+  "Walt Disney Animation Studios": {poster_tpdb: 152809}
+  "Pixar Animation Studios": {poster_tpdb: 148076}
+  "Toy Story Collection": {poster_tpdb: 148077}
+  "Monsters, Inc. Collection": {poster_tpdb: 148788}
+  "Finding Nemo Collection": {poster_tpdb: 149220}
+  "The Incredibles Collection": {poster_tpdb: 149226}
+  "Cars Collection": {poster_tpdb: 149944}
+  "Pixar Shorts": {poster_tpdb: 150984}
+  "Bolt Collection": {poster_tpdb: 152815}
+  "Frozen Complete Collection": {poster_tpdb: 152821}
+  "Planes Collection": {poster_tpdb: 152837}
+  "Tangled Collection": {poster_tpdb: 152842}
+  "Wreck-It Ralph Collection": {poster_tpdb: 152847}
+  "101 Dalmatians (Animated) Collection": {poster_tpdb: 156505}
+  "Aladdin Complete Collection": {poster_tpdb: 156509}
+  "Atlantis Collection": {poster_tpdb: 156518}
+  "Bambi Collection": {poster_tpdb: 156520}
+  "Beauty and the Beast Collection": {poster_tpdb: 156522}
+  "Brother Bear Collection": {poster_tpdb: 156525}
+  "Cinderella Collection": {poster_tpdb: 156527}
+  "The Fox and the Hound Collection": {poster_tpdb: 156532}
+  "A Goofy Movie Collection": {poster_tpdb: 156534}
+  "Disney's Hercules Collection": {poster_tpdb: 156537}
+  "The Jungle Book Collection": {poster_tpdb: 156542}
+  "Lady and the Tramp Collection": {poster_tpdb: 156545}
+  "The Hunchback of Notre Dame Collection": {poster_tpdb: 156540}
+  "Lilo & Stitch Collection": {poster_tpdb: 156548}
+  "The Lion King Collection": {poster_tpdb: 156563}
+  "The Little Mermaid Collection": {poster_tpdb: 156566}
+  "Mulan Collection": {poster_tpdb: 156573}
+  "The Emperor's New Groove Collection": {poster_tpdb: 156575}
+  "Peter Pan Collection": {poster_tpdb: 156577}
+  "Pocahontas Collection": {poster_tpdb: 156579}
+  "Tarzan (Animation) Collection": {poster_tpdb: 156581}
+  "Tinker Bell Collection": {poster_tpdb: 156587}
+  "Winnie the Pooh Collection": {poster_tpdb: 156596}
+  "Caballeros Collection": {poster_tpdb: 235814}
+  "Fantasia Collection": {poster_tpdb: 156531}
+  "The Rescuers Collection": {poster_tpdb: 156585}
+  "Sleeping Beauty Collection": {poster_tpdb: 156586}
+  "Disney Live-Action Remakes": {poster_tpdb: 159360}
+set:
+  "Monsters at Work":
+    tpdb_poster: 148793
+    seasons:
+      1: {tpdb_poster: 148794}
+  "Big Hero 6 The Series":
+    tpdb_poster: 152812
+  "Baymax!":
+    tpdb_poster: 152813
+  "Olaf Presents":
+    tpdb_poster: 194038
+    seasons:
+      1: {tpdb_poster: 194039}
+  "Moana: The Series":
+    tpdb_poster: 152833
+  "Zootopia+":
+    tpdb_poster: 156224
+    seasons:
+      1: {tpdb_poster: 287027}
+  "Rapunzel's Tangled Adventure":
+    tpdb_poster: 152846
+  "Hercules":
+    tpdb_poster: 156539
+  "Lilo & Stitch: The Series":
+    tpdb_poster: 156553
+    seasons:
+      1: {tpdb_poster: 156554}
+      2: {tpdb_poster: 156555}
+  "Stitch!":
+    tpdb_poster: 156556
+    seasons:
+      1: {tpdb_poster: 156557}
+      2: {tpdb_poster: 156558}
+      3: {tpdb_poster: 156559}
+  "Stitch & Ai":
+    tpdb_poster: 156561
+    seasons:
+      1: {tpdb_poster: 156562}

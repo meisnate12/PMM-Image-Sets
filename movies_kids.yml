@@ -560,7 +560,6 @@ sets:
     "Cruella (2021)": 337404
     "Pinocchio (2022)": 532639
 
-
   dreamworks:                      # Source List: https://trakt.tv/users/pablo-ramon-amorim/lists/dreamworks-animation
     styles:
       default:
@@ -661,7 +660,65 @@ sets:
     "The Boss Baby: Get That Baby!": 735364
 
 
-  sony:                      # Source List: https://trakt.tv/users/haiderales/lists/sony-pictures-animation
+  illumination:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
+    styles:
+      default:
+        - pmm:   illumination/default  # Image Credit to DIIVOY / https://theposterdb.com/set/122213
+    collections:
+      "Illumination Entertainment Collection":
+        - "Illumination Entertainment"
+      "Despicable Me Collection":
+        - "Despicable Me"
+      "Minions Collection":
+        - "Minions"
+      "Sing Collection":
+        - "Sing"
+      "The Secret Life of Pets Collection":
+        - "The Secret Life of Pets"
+        - "Secret Life of Pets Collection"
+        - "Secret Life of Pets"
+    "Despicable Me": 20352
+    "Minions: Home Makeover": 54553
+    "Minions: Orientation Day": 54559
+    "Banana": 54551
+    "Hop": 50359
+    "Phil's Dance Party": 240159
+    "The Lorax": 73723
+    "Wagon Ho!": 125448
+    "Forces of Nature": 125453
+    "Serenade": 125445
+    "Despicable Me 2": 93456
+    "Minions: Puppy": 229407
+    "Minions: Training Wheels": 229408
+    "Panic in the Mailroom": 229405
+    "Minions": 211672
+    "Cro Minion": 366141
+    "Competition": 366142
+    "Binky Nelson Unpacified": 366143
+    "Mower Minions": 403052
+    "The Secret Life of Pets": 328111
+    "Norman Television": 424889
+    "Weenie": 424873
+    "Sing": 335797
+    "Gunter Babysits": 448450
+    "Love at First Sight": 449124
+    "Eddie's Life Coach": 449655
+    "Despicable Me 3": 324852
+    "The Secret Life of Kyle": 484809
+    "Yellow Is the New Black": 553903
+    "The Grinch": 360920
+    "The Dog Days of Winter": 580312
+    "Santa's Little Helpers": 579524
+    "The Secret Life of Pets 2": 412117
+    "Super Gidget": 624993
+    "Minion Scouts": 624995
+    "Minions: Holiday Special": 764079
+    "Sing 2": 438695
+    "Minions: The Rise of Gru": 438148
+    "The Super Mario Bros. Movie": 502356
+    "Despicable Me 4": 519182
+
+  sony:
     styles:
       default:
         - pmm: sony/default  # Image Credit to DIIVOY / https://theposterdb.com/set/106184
@@ -721,64 +778,6 @@ sets:
     "Hotel Transylvania: Transformania": 585083
     "Spider-Man: Across the Spider-Verse": 569094
 
-  illumination:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
-    styles:
-      default:
-        - pmm:   illumination/default  # Image Credit to DIIVOY / https://theposterdb.com/set/122213
-    collections:
-      "Illumination Entertainment Collection":
-        - "Illumination Entertainment"
-      "Despicable Me Collection":
-        - "Despicable Me"
-      "Minions Collection":
-        - "Minions"
-      "Sing Collection":
-        - "Sing"
-      "The Secret Life of Pets Collection":
-        - "The Secret Life of Pets"
-        - "Secret Life of Pets Collection"
-        - "Secret Life of Pets"
-    "Despicable Me": 20352
-    "Minions: Home Makeover": 54553
-    "Minions: Orientation Day": 54559
-    "Banana": 54551
-    "Hop": 50359
-    "Phil's Dance Party": 240159
-    "The Lorax": 73723
-    "Wagon Ho!": 125448
-    "Forces of Nature": 125453
-    "Serenade": 125445
-    "Despicable Me 2": 93456
-    "Minions: Puppy": 229407
-    "Minions: Training Wheels": 229408
-    "Panic in the Mailroom": 229405
-    "Minions": 211672
-    "Cro Minion": 366141
-    "Competition": 366142
-    "Binky Nelson Unpacified": 366143
-    "Mower Minions": 403052
-    "The Secret Life of Pets": 328111
-    "Norman Television": 424889
-    "Weenie": 424873
-    "Sing": 335797
-    "Gunter Babysits": 448450
-    "Love at First Sight": 449124
-    "Eddie's Life Coach": 449655
-    "Despicable Me 3": 324852
-    "The Secret Life of Kyle": 484809
-    "Yellow Is the New Black": 553903
-    "The Grinch": 360920
-    "The Dog Days of Winter": 580312
-    "Santa's Little Helpers": 579524
-    "The Secret Life of Pets 2": 412117
-    "Super Gidget": 624993
-    "Minion Scouts": 624995
-    "Minions: Holiday Special": 764079
-    "Sing 2": 438695
-    "Minions: The Rise of Gru": 438148
-    "The Super Mario Bros. Movie": 502356
-    "Despicable Me 4": 519182
-
   misc:
     styles:
       default:
@@ -790,8 +789,13 @@ sets:
         - "The Land Before Time"                  # Source List: https://trakt.tv/users/krissykk/lists/animation-land-before-time
         - "Land Before Time Collection"
         - "Land Before Time"
-      "Scooby-Doo! Animated Collection":            # Image Credit to mikenobbs / https://theposterdb.com/set/98627
+      "Scooby-Doo! Animated Collection":           # Image Credit to mikenobbs / https://theposterdb.com/set/98627
         - "Scooby-Doo! Animated"                   # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+      "Sonic the Hedgehog Complete Collection":   
+        - "Sonic the Hedgehog Complete"           # Image Credit to DIIVOY / https://theposterdb.com/set/170160
+        - "Sonic the Hedgehog"                    # Source Link: https://trakt.tv/users/shedman214/lists/sonic
+      "SEGA Collection":
+        - "SEGA"
     "Tom and Jerry Cowboy Up!": 892153
     "Tom & Jerry": 587807
     "Tom and Jerry: Back to Oz": 403510
@@ -852,4 +856,9 @@ sets:
     "Scooby-Doo and the Ghoul School": 13350
     "Scooby-Doo! in Arabian Nights": 13351
     "Trick or Treat Scooby-Doo!": 1015724
+    "Sonic the Hedgehog (2020)": 454626
+    "Sonic the Hedgehog: The Movie": 16355
+    "Sonic X: The Movie": 333548
+    "Sonic the Hedgehog 2": 675353
+    "Sonic the Hedgehog 3": 939243
 

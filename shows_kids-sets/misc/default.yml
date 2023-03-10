@@ -5,7 +5,10 @@ collections:
     tpdb_poster: 105457
   "Scooby-Doo! Animated Collection":
     tpdb_poster: 161484
-
+  "Sonic the Hedgehog Complete Collection":
+  tpdb_poster: 287059
+  "SEGA Collection":
+    tpdb_poster: 287058
 set:
   "The Tom and Jerry Comedy Show":
     tpdb_poster: 165738
@@ -135,3 +138,22 @@ set:
       0: {tpdb_poster: 165200}
       1: {tpdb_poster: 165201}
       2: {tpdb_poster: 165202}
+  "Adventures of Sonic the Hedgehog":
+    tpdb_poster: 287063
+  "Sonic Boom":
+    tpdb_poster: 287064
+  "Sonic Underground":
+    tpdb_poster: 287065
+  "Sonic X":
+    tpdb_poster: 287066
+  "Sonic the Hedgehog":
+    tpdb_poster: 287067
+  "Sonic Prime":
+    tpdb_poster: 310378
+  "Bluey":
+    tpdb_poster: 287089
+    seasons:
+      0: {tpdb_poster: 287090}
+      1: {tpdb_poster: 287091}
+      2: {tpdb_poster: 287092}
+      3: {tpdb_poster: 287093}

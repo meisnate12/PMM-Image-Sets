@@ -2,7 +2,10 @@ collections:
   "Tom and Jerry Collection": {tpdb_poster: 165722}
   "The Land Before Time Collection": {tpdb_poster: 105457}
   "Scooby-Doo! Animated Collection": {tpdb_poster: 161484}
-
+  "Sonic the Hedgehog Complete Collection":
+  url_poster: https://theposterdb.com/api/assets/287059
+  "SEGA Collection":
+    tpdb_poster: 287058
 set:
   "Tom and Jerry: The Movie": {tpdb_poster: 165723}
   "Tom and Jerry: The Magic Ring": {tpdb_poster: 165724}
