@@ -1,0 +1,34 @@
+sets:
+  misc:
+    styles:
+      default:
+        - pmm:   misc/default
+    collections:
+      "Tom and Jerry Collection":         # Image Credit to mikenobbs / https://theposterdb.com/set/101330
+        - "Tom and Jerry"                 # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry?sort=released,desc
+      "The Land Before Time Collection":           #  Image Credit to mikenobbs / https://theposterdb.com/set/66397
+        - "The Land Before Time"                  # Source List: https://trakt.tv/users/krissykk/lists/animation-land-before-time
+        - "Land Before Time Collection"
+        - "Land Before Time"
+      "Scooby-Doo! Animated Collection":            # Image Credit to mikenobbs / https://theposterdb.com/set/98627
+        - "Scooby-Doo! Animated"                   # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+    "The Tom and Jerry Comedy Show (1980)": 83056
+    "The Tom and Jerry Show (2014)": 280446
+    "Tom and Jerry Kids Show (1990)": 77973
+    "The New Tom & Jerry Show (1975)": 76206
+    "Tom and Jerry (1940)": 72860
+    "Tom and Jerry in New York (2021)": 390477
+    "Tom and Jerry Tales (2006)": 82837
+    "Dink, the Little Dinosaur (1989)": 71440
+    "The Land Before Time (2007)": 80822
+    "Scooby-Doo, Where Are You! (1969)": 78260
+    "The New Scooby-Doo Movies (1972)": 75661
+    "Scooby-Doo and Scrappy-Doo (1979)": 78740
+    "The 13 Ghosts of Scooby-Doo (1985)": 73543
+    "A Pup Named Scooby-Doo (1988)": 73546
+    "What's New Scooby-Doo? (2002)": 80119
+    "Shaggy & Scooby-Doo Get a Clue! (2006)": 81425
+    "Scooby-Doo! Mystery Incorporated (2010)": 174681
+    "Be Cool, Scooby-Doo! (2015)": 301376
+    "Scooby-Doo and Guess Who? (2019)": 361065
+    "The Scooby-Doo Show (1976)": 73817

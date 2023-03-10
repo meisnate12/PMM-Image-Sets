@@ -538,26 +538,26 @@ sets:
     "Disney's Christmas": 920091
     "Toy Story 5": 1084244
     "Untitled Domee Shi/Pixar Film": 1078246
-    "Beauty and the Beast (2017)": 321612
-    "Pete's Dragon (2016)": 294272
-    "Alice Through the Looking Glass (2016)": 241259
-    "The Jungle Book (2016)": 278927
-    "Cinderella (2015)": 150689
-    "Maleficent (2014)": 102651
-    "Alice in Wonderland (2010)": 12155
-    "Mary Poppins (1964)": 433
-    "Mulan (2020)": 337401
-    "The Lion King (2019)": 420818
-    "Dumbo (2019)": 329996
-    "Christopher Robin (2018)": 420814
-    "Mary Poppins Returns (2018)": 400650
-    "Aladdin (2019)": 420817
-    "Maleficent: Mistress of Evil (2019)": 420809
-    "101 Dalmatians (1996)": 11674
-    "102 Dalmatians (2000)": 10481
-    "Cruella (2021)": 337404
-    "Lady and the Tramp (2019)": 512895
-    "Pinocchio (2022)": 532639
+    "Beauty and the Beast": 321612
+    "Pete's Dragon": 294272
+    "Alice Through the Looking Glass": 241259
+    "The Jungle Book": 278927
+    "Cinderella": 150689
+    "Maleficent": 102651
+    "Alice in Wonderland": 12155
+    "Mary Poppins": 433
+    "Mulan": 337401
+    "The Lion King": 420818
+    "Dumbo": 329996
+    "Christopher Robin": 420814
+    "Mary Poppins Returns": 400650
+    "Aladdin": 420817
+    "Maleficent: Mistress of Evil": 420809
+    "101 Dalmatians": 11674
+    "102 Dalmatians": 10481
+    "Cruella": 337404
+    "Lady and the Tramp": 512895
+    "Pinocchio": 532639
 
   dreamworks:                      # Source List: https://trakt.tv/users/pablo-ramon-amorim/lists/dreamworks-animation
     styles:
@@ -776,3 +776,78 @@ sets:
     "Minions: The Rise of Gru": 438148
     "The Super Mario Bros. Movie": 502356
     "Despicable Me 4": 519182
+
+  misc:
+    styles:
+      default:
+        - pmm:   misc/default
+    collections:
+      "Tom and Jerry Collection":                 # Image Credit to mikenobbs / https://theposterdb.com/set/101330
+        - "Tom and Jerry"                         # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
+      "The Land Before Time Collection":           #  Image Credit to mikenobbs / https://theposterdb.com/set/66397
+        - "The Land Before Time"                  # Source List: https://trakt.tv/users/krissykk/lists/animation-land-before-time
+        - "Land Before Time Collection"
+        - "Land Before Time"
+      "Scooby-Doo! Animated Collection":            # Image Credit to mikenobbs / https://theposterdb.com/set/98627
+        - "Scooby-Doo! Animated"                   # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+    "Tom and Jerry Cowboy Up!": 892153
+    "Tom & Jerry": 587807
+    "Tom and Jerry: Back to Oz": 403510
+    "Tom and Jerry: The Movie": 22582
+    "Tom and Jerry: The Magic Ring": 14787
+    "Tom and Jerry Blast Off to Mars!": 21078
+    "Tom and Jerry: The Fast and the Furry": 42246
+    "Tom and Jerry: Shiver Me Whiskers": 60293
+    "Tom and Jerry: A Nutcracker Tale": 24696
+    "Tom and Jerry Meet Sherlock Holmes": 43956
+    "Tom and Jerry & The Wizard of Oz": 72972
+    "Tom and Jerry: Robin Hood and His Merry Mouse": 134623
+    "Tom and Jerry's Giant Adventure": 199753
+    "Tom and Jerry: The Lost Dragon": 287233
+    "Tom and Jerry Santa's Little Helpers": 307650
+    "Tom and Jerry: Spy Quest": 343977
+    "Tom and Jerry: Willy Wonka and the Chocolate Factory": 455411
+    "Tom and Jerry Snowman's Land": 1018403
+    "Scooby-Doo! The Sword and the Scoob": 682254
+    "Scooby-Doo! and the Beach Beastie": 340884
+    "Scooby-Doo! and KISS: Rock and Roll Mystery": 347688
+    "Scooby-Doo! Moon Monster Madness": 302960
+    "Scooby-Doo! and WWE: Curse of the Speed Demon": 409122
+    "Scooby-Doo! Shaggy's Showdown": 427564
+    "Scooby-Doo! & Batman: The Brave and the Bold": 484862
+    "Scooby-Doo! and the Gourmet Ghost": 533592
+    "Scooby-Doo! and the Curse of the 13th Ghost": 560066
+    "Scooby-Doo! Return to Zombie Island": 615774
+    "Happy Halloween, Scooby-Doo!": 721656
+    "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog": 843906
+    "Scooby-Doo! Mask of the Blue Falcon": 151535
+    "Scooby-Doo! Spooky Games": 284908
+    "Scooby-Doo! Music of the Vampire": 81900
+    "Big Top Scooby-Doo!": 119321
+    "Scooby-Doo! Stage Fright": 203696
+    "Scooby-Doo! WrestleMania Mystery": 258893
+    "Scooby-Doo! Frankencreepy": 284995
+    "Scooby-Doo! Haunted Holidays": 245881
+    "Scooby-Doo! Pirates Ahoy!": 13355
+    "Chill Out, Scooby-Doo!": 13354
+    "Scooby-Doo! and the Goblin King": 12903
+    "Scooby-Doo! and the Samurai Sword": 16390
+    "Scooby-Doo! Abracadabra-Doo": 32916
+    "Scooby-Doo! Camp Scare": 45752
+    "Scooby-Doo! Legend of the Phantosaur": 67900
+    "Scooby-Doo on Zombie Island": 13151
+    "Scooby-Doo! and the Witch's Ghost": 17681
+    "Scooby-Doo and the Alien Invaders": 20410
+    "Scooby-Doo! and the Cyber Chase": 15601
+    "Scooby-Doo Meets Batman": 287757
+    "Scooby-Doo! and the Legend of the Vampire": 30074
+    "Scooby-Doo! and the Monster of Mexico": 21956
+    "Scooby-Doo! and the Loch Ness Monster": 12902
+    "Scooby-Doo! in Where's My Mummy?": 20558
+    "Aloha Scooby-Doo!": 24615
+    "Scooby-Doo! Meets the Boo Brothers": 24787
+    "Scooby-Doo! and the Reluctant Werewolf": 37211
+    "Scooby-Doo and the Ghoul School": 13350
+    "Scooby-Doo! in Arabian Nights": 13351
+    "Trick or Treat Scooby-Doo!": 1015724
+
