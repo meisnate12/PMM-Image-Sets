@@ -51,7 +51,7 @@ sets:
         - "Harley Quinn"
       "The Flash Collection":
         - "The Flash"
-        - "Flash Collection":
+        - "Flash Collection"
         - "Flash"
       "Batman Collection":
         - "Batman"
@@ -510,9 +510,9 @@ sets:
   middle:                         # Source List: https://trakt.tv/users/jjmalpz/lists/middle-earth?sort=rank,asc
     styles:
       default:
-        - pmm: midddle/default             # Image Credit to mikenobbs / https://theposterdb.com/set/115877
+        - pmm: middle/default             # Image Credit to mikenobbs / https://theposterdb.com/set/115877
       rhj:
-        - pmm: midddle/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/20379 / https://theposterdb.com/set/22601
+        - pmm: middle/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/20379 / https://theposterdb.com/set/22601
     collections:
       "Middle-Earth Collection":
         - "Middle-Earth"

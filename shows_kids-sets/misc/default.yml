@@ -1,0 +1,137 @@
+collections:
+"Tom and Jerry Collection":
+  tpdb_poster: 165722
+"The Land Before Time Collection":
+  tpdb_poster: 105457
+"Scooby-Doo! Animated Collection":
+  tpdb_poster: 161484
+
+set:
+"The Tom and Jerry Comedy Show":
+  tpdb_poster: 165738
+  seasons:
+    1: {tpdb_poster: 165739}
+"Tom and Jerry":
+  tpdb_poster: 165742
+  seasons:
+    0: {tpdb_poster: 165743}
+    1: {tpdb_poster: 165744}
+    2: {tpdb_poster: 165745}
+    3: {tpdb_poster: 165746}
+"The Tom and Jerry Show":
+  tpdb_poster: 165747
+  seasons:
+    0: {tpdb_poster: 165748}
+    1: {tpdb_poster: 165749}
+    2: {tpdb_poster: 165750}
+    3: {tpdb_poster: 165751}
+    4: {tpdb_poster: 165752}
+    5: {tpdb_poster: 165753}
+"Tom and Jerry Tales":
+  tpdb_poster: 165754
+  seasons:
+    0: {tpdb_poster: 165755}
+    1: {tpdb_poster: 165756}
+    2: {tpdb_poster: 165757}
+"Tom & Jerry Kids Show":
+  tpdb_poster: 165758
+  seasons:
+    1: {tpdb_poster: 165759}
+    2: {tpdb_poster: 165760}
+    3: {tpdb_poster: 165761}
+    4: {tpdb_poster: 165762}
+"Tom and Jerry in New York":
+  tpdb_poster: 165763
+  seasons:
+    1: {tpdb_poster: 165764}
+    2: {tpdb_poster: 284510}
+
+"The Land Before Time":
+  tpdb_poster: 105472
+  seasons:
+    1: {tpdb_poster: 105473}
+"The New Scooby and Scrappy-Doo Show":
+  tpdb_poster: 165146
+  seasons:
+    1: {tpdb_poster: 165147}
+    2: {tpdb_poster: 165148}
+"The New Scooby-Doo Mysteries":
+  tpdb_poster: 165149
+  seasons:
+    1: {tpdb_poster: 165150}
+"The 13 Ghosts of Scooby-Doo":
+  tpdb_poster: 165151
+  seasons:
+    0: {tpdb_poster: 165152}
+    1: {tpdb_poster: 165153}
+"Be Cool, Scooby-Doo!":
+  tpdb_poster: 165154
+  seasons:
+    1: {tpdb_poster: 165155}
+    2: {tpdb_poster: 165156}
+"Scooby-Doo and Guess Who?":
+  tpdb_poster: 165157
+  seasons:
+    1: {tpdb_poster: 165158}
+    2: {tpdb_poster: 165159}
+"Scooby-Doo, Where Are You!":
+  tpdb_poster: 165160
+  seasons:
+    0: {tpdb_poster: 165161}
+    1: {tpdb_poster: 165162}
+    2: {tpdb_poster: 165163}
+    3: {tpdb_poster: 165164}
+"What's New, Scooby-Doo?":
+  tpdb_poster: 165165
+  seasons:
+    0: {tpdb_poster: 165166}
+    1: {tpdb_poster: 165167}
+    2: {tpdb_poster: 165168}
+    3: {tpdb_poster: 165169}
+"Scooby-Doo and Scrappy-Doo":
+  tpdb_poster: 165170
+  seasons:
+    0: {tpdb_poster: 165171}
+    1: {tpdb_poster: 165172}
+    2: {tpdb_poster: 165173}
+    3: {tpdb_poster: 165174}
+    4: {tpdb_poster: 165175}
+    5: {tpdb_poster: 165176}
+    6: {tpdb_poster: 165177}
+"The Scooby-Doo Show":
+  tpdb_poster: 165178
+  seasons:
+    1: {tpdb_poster: 165179}
+    2: {tpdb_poster: 165180}
+    3: {tpdb_poster: 165181}
+"Shaggy & Scooby-Doo Get a Clue!":
+  tpdb_poster: 165182
+  seasons:
+    0: {tpdb_poster: 165183}
+    1: {tpdb_poster: 165184}
+    2: {tpdb_poster: 165185}
+"A Pup Named Scooby-Doo":
+  tpdb_poster: 165186
+  seasons:
+    1: {tpdb_poster: 165187}
+    2: {tpdb_poster: 165188}
+    3: {tpdb_poster: 165189}
+    4: {tpdb_poster: 165190}
+"The New Scooby-Doo Movies":
+  tpdb_poster: 165191
+  seasons:
+    0: {tpdb_poster: 165192}
+    1: {tpdb_poster: 165193}
+    2: {tpdb_poster: 165194}
+"Scooby-Doo! Mystery Incorporated":
+  tpdb_poster: 165195
+  seasons:
+    0: {tpdb_poster: 165196}
+    1: {tpdb_poster: 165197}
+    2: {tpdb_poster: 165198}
+"Scooby's All-Star Laff-A-Lympics":
+  tpdb_poster: 165199
+  seasons:
+    0: {tpdb_poster: 165200}
+    1: {tpdb_poster: 165201}
+    2: {tpdb_poster: 165202}
