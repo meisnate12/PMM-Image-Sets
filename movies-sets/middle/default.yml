@@ -1,9 +1,9 @@
 collections:
-  "Middle-Earth Collection": {poster_tpdb: 191451}
+  "Middle-Earth Collection": {tpdb_poster: 191451}
 set:
-  "The Lord of the Rings: The Fellowship of the Ring": {poster_tpdb: 191454}
-  "The Lord of the Rings: The Two Towers": {poster_tpdb: 191455}
-  "The Lord of the Rings: The Return of the King": {poster_tpdb: 191456}
-  "The Hobbit: An Unexpected Journey": {poster_tpdb: 191457}
-  "The Hobbit: The Desolation of Smaug": {poster_tpdb: 191458}
-  "The Hobbit: The Battle of the Five Armies": {poster_tpdb: 191459}
+  "The Lord of the Rings: The Fellowship of the Ring": {tpdb_poster: 191454}
+  "The Lord of the Rings: The Two Towers": {tpdb_poster: 191455}
+  "The Lord of the Rings: The Return of the King": {tpdb_poster: 191456}
+  "The Hobbit: An Unexpected Journey": {tpdb_poster: 191457}
+  "The Hobbit: The Desolation of Smaug": {tpdb_poster: 191458}
+  "The Hobbit: The Battle of the Five Armies": {tpdb_poster: 191459}

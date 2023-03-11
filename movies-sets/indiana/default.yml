@@ -1,7 +1,7 @@
 collections:
-  "Indiana Jones Collection": {poster_tpdb: 53303}
+  "Indiana Jones Collection": {tpdb_poster: 53303}
 set:
-  "Raiders of the Lost Ark (1981)": {poster_tpdb: 53304}
-  "Indiana Jones and the Temple of Doom (1984)": {poster_tpdb: 53305}
-  "Indiana Jones and the Last Crusade (1989)": {poster_tpdb: 53306}
-  "Indiana Jones and the Kingdom of the Crystal Skull (2008)": {poster_tpdb: 53307}
+  "Raiders of the Lost Ark (1981)": {tpdb_poster: 53304}
+  "Indiana Jones and the Temple of Doom (1984)": {tpdb_poster: 53305}
+  "Indiana Jones and the Last Crusade (1989)": {tpdb_poster: 53306}
+  "Indiana Jones and the Kingdom of the Crystal Skull (2008)": {tpdb_poster: 53307}

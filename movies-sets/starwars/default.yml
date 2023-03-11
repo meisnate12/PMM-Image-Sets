@@ -1,5 +1,5 @@
 collections:
-  "Star Wars: The Complete Collection": {poster_tpdb: 152792}
+  "Star Wars: The Complete Collection": {tpdb_poster: 152792}
 set:
   "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 152796}
   "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 152797}

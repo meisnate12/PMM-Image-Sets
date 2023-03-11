@@ -1,235 +1,235 @@
 collections:
-  "Walt Disney Animation Studios": {poster_tpdb: 152809}
-  "Pixar Animation Studios": {poster_tpdb: 148076}
-  "Toy Story Collection": {poster_tpdb: 148077}
-  "Monsters, Inc. Collection": {poster_tpdb: 148788}
-  "Finding Nemo Collection": {poster_tpdb: 149220}
-  "The Incredibles Collection": {poster_tpdb: 149226}
-  "Cars Collection": {poster_tpdb: 149944}
-  "Pixar Shorts": {poster_tpdb: 150984}
-  "Bolt Collection": {poster_tpdb: 152815}
-  "Frozen Complete Collection": {poster_tpdb: 152821}
-  "Planes Collection": {poster_tpdb: 152837}
-  "Tangled Collection": {poster_tpdb: 152842}
-  "Wreck-It Ralph Collection": {poster_tpdb: 152847}
-  "101 Dalmatians (Animated) Collection": {poster_tpdb: 156505}
-  "Aladdin Complete Collection": {poster_tpdb: 156509}
-  "Atlantis Collection": {poster_tpdb: 156518}
-  "Bambi Collection": {poster_tpdb: 156520}
-  "Beauty and the Beast Collection": {poster_tpdb: 156522}
-  "Brother Bear Collection": {poster_tpdb: 156525}
-  "Cinderella Collection": {poster_tpdb: 156527}
-  "The Fox and the Hound Collection": {poster_tpdb: 156532}
-  "A Goofy Movie Collection": {poster_tpdb: 156534}
-  "Disney's Hercules Collection": {poster_tpdb: 156537}
-  "The Jungle Book Collection": {poster_tpdb: 156542}
-  "Lady and the Tramp Collection": {poster_tpdb: 156545}
-  "The Hunchback of Notre Dame Collection": {poster_tpdb: 156540}
-  "Lilo & Stitch Collection": {poster_tpdb: 156548}
-  "The Lion King Collection": {poster_tpdb: 156563}
-  "The Little Mermaid Collection": {poster_tpdb: 156566}
-  "Mulan Collection": {poster_tpdb: 156573}
-  "The Emperor's New Groove Collection": {poster_tpdb: 156575}
-  "Peter Pan Collection": {poster_tpdb: 156577}
-  "Pocahontas Collection": {poster_tpdb: 156579}
-  "Tarzan (Animation) Collection": {poster_tpdb: 156581}
-  "Tinker Bell Collection": {poster_tpdb: 156587}
-  "Winnie the Pooh Collection": {poster_tpdb: 156596}
-  "Caballeros Collection": {poster_tpdb: 235814}
-  "Fantasia Collection": {poster_tpdb: 156531}
-  "The Rescuers Collection": {poster_tpdb: 156585}
-  "Sleeping Beauty Collection": {poster_tpdb: 156586}
-  "Disney Live-Action Remakes": {poster_tpdb: 159360}
+  "Walt Disney Animation Studios": {tpdb_poster: 152809}
+  "Pixar Animation Studios": {tpdb_poster: 148076}
+  "Toy Story Collection": {tpdb_poster: 148077}
+  "Monsters, Inc. Collection": {tpdb_poster: 148788}
+  "Finding Nemo Collection": {tpdb_poster: 149220}
+  "The Incredibles Collection": {tpdb_poster: 149226}
+  "Cars Collection": {tpdb_poster: 149944}
+  "Pixar Shorts": {tpdb_poster: 150984}
+  "Bolt Collection": {tpdb_poster: 152815}
+  "Frozen Complete Collection": {tpdb_poster: 152821}
+  "Planes Collection": {tpdb_poster: 152837}
+  "Tangled Collection": {tpdb_poster: 152842}
+  "Wreck-It Ralph Collection": {tpdb_poster: 152847}
+  "101 Dalmatians (Animated) Collection": {tpdb_poster: 156505}
+  "Aladdin Complete Collection": {tpdb_poster: 156509}
+  "Atlantis Collection": {tpdb_poster: 156518}
+  "Bambi Collection": {tpdb_poster: 156520}
+  "Beauty and the Beast Collection": {tpdb_poster: 156522}
+  "Brother Bear Collection": {tpdb_poster: 156525}
+  "Cinderella Collection": {tpdb_poster: 156527}
+  "The Fox and the Hound Collection": {tpdb_poster: 156532}
+  "A Goofy Movie Collection": {tpdb_poster: 156534}
+  "Disney's Hercules Collection": {tpdb_poster: 156537}
+  "The Jungle Book Collection": {tpdb_poster: 156542}
+  "Lady and the Tramp Collection": {tpdb_poster: 156545}
+  "The Hunchback of Notre Dame Collection": {tpdb_poster: 156540}
+  "Lilo & Stitch Collection": {tpdb_poster: 156548}
+  "The Lion King Collection": {tpdb_poster: 156563}
+  "The Little Mermaid Collection": {tpdb_poster: 156566}
+  "Mulan Collection": {tpdb_poster: 156573}
+  "The Emperor's New Groove Collection": {tpdb_poster: 156575}
+  "Peter Pan Collection": {tpdb_poster: 156577}
+  "Pocahontas Collection": {tpdb_poster: 156579}
+  "Tarzan (Animation) Collection": {tpdb_poster: 156581}
+  "Tinker Bell Collection": {tpdb_poster: 156587}
+  "Winnie the Pooh Collection": {tpdb_poster: 156596}
+  "Caballeros Collection": {tpdb_poster: 235814}
+  "Fantasia Collection": {tpdb_poster: 156531}
+  "The Rescuers Collection": {tpdb_poster: 156585}
+  "Sleeping Beauty Collection": {tpdb_poster: 156586}
+  "Disney Live-Action Remakes": {tpdb_poster: 159360}
 set:
-  "Big Hero 6": {poster_tpdb: 152811}
-  "Bolt": {poster_tpdb: 152816}
-  "Chicken Little": {poster_tpdb: 152818}
-  "Dinosaur": {poster_tpdb: 152819}
-  "Frozen": {poster_tpdb: 152822}
-  "Frozen II": {poster_tpdb: 152826}
-  "Meet the Robinsons": {poster_tpdb: 152830}
-  "Moana": {poster_tpdb: 152832}
-  "Raya and the Last Dragon": {poster_tpdb: 152835}
-  "Tangled": {poster_tpdb: 152843}
-  "Wreck-It Ralph": {poster_tpdb: 152848}
-  "Ralph Breaks the Internet": {poster_tpdb: 152849}
-  "Zootopia": {poster_tpdb: 152850}
-  "Snow White and the Seven Dwarfs": {poster_tpdb: 156173}
-  "Pinocchio": {poster_tpdb: 156174}
-  "Fantasia": {poster_tpdb: 156175}
-  "Dumbo": {poster_tpdb: 156176}
-  "Bambi": {poster_tpdb: 156177}
-  "Saludos Amigos": {poster_tpdb: 156178}
-  "The Three Caballeros": {poster_tpdb: 156179}
-  "Make Mine Music": {poster_tpdb: 156180}
-  "Fun and Fancy Free": {poster_tpdb: 156181}
-  "Melody Time": {poster_tpdb: 156182}
-  "The Adventures of Ichabod and Mr. Toad": {poster_tpdb: 156183}
-  "Cinderella": {poster_tpdb: 156184}
-  "Alice in Wonderland": {poster_tpdb: 156185}
-  "Peter Pan": {poster_tpdb: 156186}
-  "Lady and the Tramp": {poster_tpdb: 156187}
-  "Sleeping Beauty": {poster_tpdb: 156188}
-  "One Hundred and One Dalmatians": {poster_tpdb: 156189}
-  "The Sword in the Stone": {poster_tpdb: 156190}
-  "The Jungle Book": {poster_tpdb: 156191}
-  "The Aristocats": {poster_tpdb: 156192}
-  "Robin Hood": {poster_tpdb: 156193}
-  "The Many Adventures of Winnie the Pooh": {poster_tpdb: 156194}
-  "The Rescuers": {poster_tpdb: 156195}
-  "The Fox and the Hound": {poster_tpdb: 156196}
-  "The Black Cauldron": {poster_tpdb: 156197}
-  "The Great Mouse Detective": {poster_tpdb: 156198}
-  "Oliver & Company": {poster_tpdb: 156199}
-  "The Little Mermaid": {poster_tpdb: 156200}
-  "The Rescuers Down Under": {poster_tpdb: 156202}
-  "Beauty and the Beast": {poster_tpdb: 156203}
-  "Aladdin": {poster_tpdb: 156204}
-  "The Lion King": {poster_tpdb: 156205}
-  "Pocahontas": {poster_tpdb: 156206}
-  "The Hunchback of Notre Dame": {poster_tpdb: 156207}
-  "Hercules": {poster_tpdb: 156208}
-  "Mulan": {poster_tpdb: 156209}
-  "Tarzan": {poster_tpdb: 156210}
-  "Fantasia 2000": {poster_tpdb: 156211}
-  "The Emperor's New Groove": {poster_tpdb: 156212}
-  "Atlantis: The Lost Empire": {poster_tpdb: 156213}
-  "Lilo & Stitch": {poster_tpdb: 156214}
-  "Treasure Planet": {poster_tpdb: 156215}
-  "Brother Bear": {poster_tpdb: 156216}
-  "Home on the Range": {poster_tpdb: 156217}
-  "The Princess and the Frog": {poster_tpdb: 156218}
-  "Winnie the Pooh": {poster_tpdb: 156219}
-  "Encanto": {poster_tpdb: 201248}
-  "Strange World": {poster_tpdb: 305812}
-  "Toy Story": {poster_tpdb: 148078}
-  "Toy Story 2": {poster_tpdb: 148079}
-  "Toy Story 3": {poster_tpdb: 148080}
-  "Toy Story 4": {poster_tpdb: 148081}
-  "Soul": {poster_tpdb: 148423}
-  "A Bug's Life": {poster_tpdb: 148426}
-  "The Good Dinosaur": {poster_tpdb: 148427}
-  "Onward": {poster_tpdb: 148428}
-  "Monsters, Inc.": {poster_tpdb: 148789}
-  "Mike's New Car": {poster_tpdb: 148790}
-  "Monsters University": {poster_tpdb: 148791}
-  "Party Central": {poster_tpdb: 148792}
-  "Finding Nemo": {poster_tpdb: 149221}
-  "Exploring the Reef": {poster_tpdb: 149222}
-  "Finding Dory": {poster_tpdb: 149223}
-  "Marine Life Interviews": {poster_tpdb: 149224}
-  "Dory's Reef Cam": {poster_tpdb: 149225}
-  "The Incredibles": {poster_tpdb: 149227}
-  "Jack-Jack Attack": {poster_tpdb: 149228}
-  "Mr. Incredible and Pals": {poster_tpdb: 149229}
-  "Incredibles 2": {poster_tpdb: 149230}
-  "Auntie Edna": {poster_tpdb: 149231}
-  "Ratatouille": {poster_tpdb: 149233}
-  "Cars": {poster_tpdb: 149945}
-  "Cars 2": {poster_tpdb: 149946}
-  "Cars 3": {poster_tpdb: 149947}
-  "Up": {poster_tpdb: 149949}
-  "WALL·E": {poster_tpdb: 149953}
-  "Inside Out": {poster_tpdb: 149956}
-  "Brave": {poster_tpdb: 149959}
-  "Coco": {poster_tpdb: 149963}
-  "Luca": {poster_tpdb: 150805}
-  "Turning Red": {poster_tpdb: 160327}
-  "Lightyear": {poster_tpdb: 242086}
-  "The Adventures of André and Wally B.": {poster_tpdb: 150985}
-  "Luxo Jr.": {poster_tpdb: 150986}
-  "Red's Dream": {poster_tpdb: 150987}
-  "Tin Toy": {poster_tpdb: 150988}
-  "Knick Knack": {poster_tpdb: 150989}
-  "Geri's Game": {poster_tpdb: 150990}
-  "For the Birds": {poster_tpdb: 150991}
-  "Boundin'": {poster_tpdb: 150992}
-  "One Man Band": {poster_tpdb: 150993}
-  "Lifted": {poster_tpdb: 150994}
-  "Presto": {poster_tpdb: 150995}
-  "Partly Cloudy": {poster_tpdb: 150996}
-  "Day & Night": {poster_tpdb: 150997}
-  "La luna": {poster_tpdb: 150998}
-  "The Blue Umbrella": {poster_tpdb: 150999}
-  "Lava": {poster_tpdb: 151000}
-  "Sanjay's Super Team": {poster_tpdb: 151001}
-  "Piper": {poster_tpdb: 151002}
-  "Lou": {poster_tpdb: 151003}
-  "Bao": {poster_tpdb: 151004}
-  "Super Rhino": {poster_tpdb: 152817}
-  "Frozen Fever": {poster_tpdb: 152823}
-  "LEGO Frozen Northern Lights": {poster_tpdb: 152824}
-  "Olaf's Frozen Adventure": {poster_tpdb: 152825}
-  "Once Upon a Snowman": {poster_tpdb: 152827}
-  "Planes": {poster_tpdb: 152838}
-  "Planes: Fire & Rescue": {poster_tpdb: 152839}
-  "Tangled Ever After": {poster_tpdb: 152844}
-  "Tangled: Before Ever After": {poster_tpdb: 152845}
-  "101 Dalmatians II: Patch's London Adventure": {poster_tpdb: 156506}
-  "The Return of Jafar": {poster_tpdb: 156511}
-  "Aladdin and the King of Thieves": {poster_tpdb: 156513}
-  "Atlantis: Milo's Return": {poster_tpdb: 156519}
-  "Bambi II": {poster_tpdb: 156521}
-  "Beauty and the Beast: The Enchanted Christmas": {poster_tpdb: 156523}
-  "Belle's Magical World": {poster_tpdb: 156524}
-  "Brother Bear 2": {poster_tpdb: 156526}
-  "Cinderella II: Dreams Come True": {poster_tpdb: 156528}
-  "Cinderella III: A Twist in Time": {poster_tpdb: 156529}
-  "The Fox and the Hound 2": {poster_tpdb: 156533}
-  "A Goofy Movie": {poster_tpdb: 156535}
-  "An Extremely Goofy Movie": {poster_tpdb: 156536}
-  "Hercules: Zero to Hero": {poster_tpdb: 156538}
-  "The Jungle Book 2": {poster_tpdb: 156543}
-  "Lady and the Tramp II: Scamp's Adventure": {poster_tpdb: 156546}
-  "The Hunchback of Notre Dame II": {poster_tpdb: 156541}
-  "Stitch! The Movie": {poster_tpdb: 156549}
-  "Lilo & Stitch 2: Stitch Has a Glitch": {poster_tpdb: 156550}
-  "Leroy & Stitch": {poster_tpdb: 156551}
-  "The Lion King II: Simba's Pride": {poster_tpdb: 156564}
-  "The Lion King 1½": {poster_tpdb: 156565}
-  "The Little Mermaid II: Return to the Sea": {poster_tpdb: 156567}
-  "The Little Mermaid: Ariel's Beginning": {poster_tpdb: 156568}
-  "Mulan II": {poster_tpdb: 156574}
-  "Kronk's New Groove": {poster_tpdb: 156576}
-  "Return to Never Land": {poster_tpdb: 156578}
-  "Pocahontas II: Journey to a New World": {poster_tpdb: 156580}
-  "Tarzan & Jane": {poster_tpdb: 156582}
-  "Tarzan II": {poster_tpdb: 156583}
-  "Tinker Bell": {poster_tpdb: 156588}
-  "Tinker Bell and the Lost Treasure": {poster_tpdb: 156589}
-  "Tinker Bell and the Great Fairy Rescue": {poster_tpdb: 156590}
-  "Pixie Hollow Games": {poster_tpdb: 156591}
-  "Secret of the Wings": {poster_tpdb: 156592}
-  "Pixie Hollow Bake Off": {poster_tpdb: 156593}
-  "Tinker Bell and the Pirate Fairy": {poster_tpdb: 156594}
-  "Tinker Bell and the Legend of the NeverBeast": {poster_tpdb: 156595}
-  "Pooh's Grand Adventure: The Search for Christopher Robin": {poster_tpdb: 156597}
-  "The Tigger Movie": {poster_tpdb: 156598}
-  "Piglet's Big Movie": {poster_tpdb: 156599}
-  "Winnie the Pooh: Springtime with Roo": {poster_tpdb: 156600}
-  "Pooh's Heffalump Movie": {poster_tpdb: 156601}
-  "Legend of the Three Caballeros": {poster_tpdb: 235815}
-  "Frankenweenie": {poster_tpdb: 152820}
-  "Mars Needs Moms": {poster_tpdb: 152829}
-  "The Nightmare Before Christmas": {poster_tpdb: 152834}
-  "The Wild": {poster_tpdb: 152841}
-  "Mickey's Christmas Carol": {poster_tpdb: 156220}
-  "Mickey, Donald, Goofy: The Three Musketeers": {poster_tpdb: 156221}
-  "Chip 'n Dale: Rescue Rangers": {poster_tpdb: 236603}
-  "101 Dalmatians (1996)": {poster_tpdb: 159362}
-  "102 Dalmatians (2000)": {poster_tpdb: 159363}
-  "Alice in Wonderland (2010)": {poster_tpdb: 159364}
-  "Maleficent (2014)": {poster_tpdb: 159365}
-  "Cinderella (2015)": {poster_tpdb: 159366}
-  "The Jungle Book (2016)": {poster_tpdb: 159367}
-  "Alice Through the Looking Glass (2016)": {poster_tpdb: 159368}
-  "Beauty and the Beast (2017)": {poster_tpdb: 159369}
-  "Christopher Robin (2018)": {poster_tpdb: 159370}
-  "Dumbo (2019)": {poster_tpdb: 159371}
-  "Aladdin (2019)": {poster_tpdb: 159372}
-  "The Lion King (2019)": {poster_tpdb: 159373}
-  "Maleficent: Mistress of Evil (2019)": {poster_tpdb: 159374}
-  "Lady and the Tramp (2019)": {poster_tpdb: 159375}
-  "Mulan (2020)": {poster_tpdb: 159376}
-  "Cruella (2021)": {poster_tpdb: 159377}
-  "Pinocchio (2022)": {poster_tpdb: 265424}
+  "Big Hero 6": {tpdb_poster: 152811}
+  "Bolt": {tpdb_poster: 152816}
+  "Chicken Little": {tpdb_poster: 152818}
+  "Dinosaur": {tpdb_poster: 152819}
+  "Frozen": {tpdb_poster: 152822}
+  "Frozen II": {tpdb_poster: 152826}
+  "Meet the Robinsons": {tpdb_poster: 152830}
+  "Moana": {tpdb_poster: 152832}
+  "Raya and the Last Dragon": {tpdb_poster: 152835}
+  "Tangled": {tpdb_poster: 152843}
+  "Wreck-It Ralph": {tpdb_poster: 152848}
+  "Ralph Breaks the Internet": {tpdb_poster: 152849}
+  "Zootopia": {tpdb_poster: 152850}
+  "Snow White and the Seven Dwarfs": {tpdb_poster: 156173}
+  "Pinocchio": {tpdb_poster: 156174}
+  "Fantasia": {tpdb_poster: 156175}
+  "Dumbo": {tpdb_poster: 156176}
+  "Bambi": {tpdb_poster: 156177}
+  "Saludos Amigos": {tpdb_poster: 156178}
+  "The Three Caballeros": {tpdb_poster: 156179}
+  "Make Mine Music": {tpdb_poster: 156180}
+  "Fun and Fancy Free": {tpdb_poster: 156181}
+  "Melody Time": {tpdb_poster: 156182}
+  "The Adventures of Ichabod and Mr. Toad": {tpdb_poster: 156183}
+  "Cinderella": {tpdb_poster: 156184}
+  "Alice in Wonderland": {tpdb_poster: 156185}
+  "Peter Pan": {tpdb_poster: 156186}
+  "Lady and the Tramp": {tpdb_poster: 156187}
+  "Sleeping Beauty": {tpdb_poster: 156188}
+  "One Hundred and One Dalmatians": {tpdb_poster: 156189}
+  "The Sword in the Stone": {tpdb_poster: 156190}
+  "The Jungle Book": {tpdb_poster: 156191}
+  "The Aristocats": {tpdb_poster: 156192}
+  "Robin Hood": {tpdb_poster: 156193}
+  "The Many Adventures of Winnie the Pooh": {tpdb_poster: 156194}
+  "The Rescuers": {tpdb_poster: 156195}
+  "The Fox and the Hound": {tpdb_poster: 156196}
+  "The Black Cauldron": {tpdb_poster: 156197}
+  "The Great Mouse Detective": {tpdb_poster: 156198}
+  "Oliver & Company": {tpdb_poster: 156199}
+  "The Little Mermaid": {tpdb_poster: 156200}
+  "The Rescuers Down Under": {tpdb_poster: 156202}
+  "Beauty and the Beast": {tpdb_poster: 156203}
+  "Aladdin": {tpdb_poster: 156204}
+  "The Lion King": {tpdb_poster: 156205}
+  "Pocahontas": {tpdb_poster: 156206}
+  "The Hunchback of Notre Dame": {tpdb_poster: 156207}
+  "Hercules": {tpdb_poster: 156208}
+  "Mulan": {tpdb_poster: 156209}
+  "Tarzan": {tpdb_poster: 156210}
+  "Fantasia 2000": {tpdb_poster: 156211}
+  "The Emperor's New Groove": {tpdb_poster: 156212}
+  "Atlantis: The Lost Empire": {tpdb_poster: 156213}
+  "Lilo & Stitch": {tpdb_poster: 156214}
+  "Treasure Planet": {tpdb_poster: 156215}
+  "Brother Bear": {tpdb_poster: 156216}
+  "Home on the Range": {tpdb_poster: 156217}
+  "The Princess and the Frog": {tpdb_poster: 156218}
+  "Winnie the Pooh": {tpdb_poster: 156219}
+  "Encanto": {tpdb_poster: 201248}
+  "Strange World": {tpdb_poster: 305812}
+  "Toy Story": {tpdb_poster: 148078}
+  "Toy Story 2": {tpdb_poster: 148079}
+  "Toy Story 3": {tpdb_poster: 148080}
+  "Toy Story 4": {tpdb_poster: 148081}
+  "Soul": {tpdb_poster: 148423}
+  "A Bug's Life": {tpdb_poster: 148426}
+  "The Good Dinosaur": {tpdb_poster: 148427}
+  "Onward": {tpdb_poster: 148428}
+  "Monsters, Inc.": {tpdb_poster: 148789}
+  "Mike's New Car": {tpdb_poster: 148790}
+  "Monsters University": {tpdb_poster: 148791}
+  "Party Central": {tpdb_poster: 148792}
+  "Finding Nemo": {tpdb_poster: 149221}
+  "Exploring the Reef": {tpdb_poster: 149222}
+  "Finding Dory": {tpdb_poster: 149223}
+  "Marine Life Interviews": {tpdb_poster: 149224}
+  "Dory's Reef Cam": {tpdb_poster: 149225}
+  "The Incredibles": {tpdb_poster: 149227}
+  "Jack-Jack Attack": {tpdb_poster: 149228}
+  "Mr. Incredible and Pals": {tpdb_poster: 149229}
+  "Incredibles 2": {tpdb_poster: 149230}
+  "Auntie Edna": {tpdb_poster: 149231}
+  "Ratatouille": {tpdb_poster: 149233}
+  "Cars": {tpdb_poster: 149945}
+  "Cars 2": {tpdb_poster: 149946}
+  "Cars 3": {tpdb_poster: 149947}
+  "Up": {tpdb_poster: 149949}
+  "WALL·E": {tpdb_poster: 149953}
+  "Inside Out": {tpdb_poster: 149956}
+  "Brave": {tpdb_poster: 149959}
+  "Coco": {tpdb_poster: 149963}
+  "Luca": {tpdb_poster: 150805}
+  "Turning Red": {tpdb_poster: 160327}
+  "Lightyear": {tpdb_poster: 242086}
+  "The Adventures of André and Wally B.": {tpdb_poster: 150985}
+  "Luxo Jr.": {tpdb_poster: 150986}
+  "Red's Dream": {tpdb_poster: 150987}
+  "Tin Toy": {tpdb_poster: 150988}
+  "Knick Knack": {tpdb_poster: 150989}
+  "Geri's Game": {tpdb_poster: 150990}
+  "For the Birds": {tpdb_poster: 150991}
+  "Boundin'": {tpdb_poster: 150992}
+  "One Man Band": {tpdb_poster: 150993}
+  "Lifted": {tpdb_poster: 150994}
+  "Presto": {tpdb_poster: 150995}
+  "Partly Cloudy": {tpdb_poster: 150996}
+  "Day & Night": {tpdb_poster: 150997}
+  "La luna": {tpdb_poster: 150998}
+  "The Blue Umbrella": {tpdb_poster: 150999}
+  "Lava": {tpdb_poster: 151000}
+  "Sanjay's Super Team": {tpdb_poster: 151001}
+  "Piper": {tpdb_poster: 151002}
+  "Lou": {tpdb_poster: 151003}
+  "Bao": {tpdb_poster: 151004}
+  "Super Rhino": {tpdb_poster: 152817}
+  "Frozen Fever": {tpdb_poster: 152823}
+  "LEGO Frozen Northern Lights": {tpdb_poster: 152824}
+  "Olaf's Frozen Adventure": {tpdb_poster: 152825}
+  "Once Upon a Snowman": {tpdb_poster: 152827}
+  "Planes": {tpdb_poster: 152838}
+  "Planes: Fire & Rescue": {tpdb_poster: 152839}
+  "Tangled Ever After": {tpdb_poster: 152844}
+  "Tangled: Before Ever After": {tpdb_poster: 152845}
+  "101 Dalmatians II: Patch's London Adventure": {tpdb_poster: 156506}
+  "The Return of Jafar": {tpdb_poster: 156511}
+  "Aladdin and the King of Thieves": {tpdb_poster: 156513}
+  "Atlantis: Milo's Return": {tpdb_poster: 156519}
+  "Bambi II": {tpdb_poster: 156521}
+  "Beauty and the Beast: The Enchanted Christmas": {tpdb_poster: 156523}
+  "Belle's Magical World": {tpdb_poster: 156524}
+  "Brother Bear 2": {tpdb_poster: 156526}
+  "Cinderella II: Dreams Come True": {tpdb_poster: 156528}
+  "Cinderella III: A Twist in Time": {tpdb_poster: 156529}
+  "The Fox and the Hound 2": {tpdb_poster: 156533}
+  "A Goofy Movie": {tpdb_poster: 156535}
+  "An Extremely Goofy Movie": {tpdb_poster: 156536}
+  "Hercules: Zero to Hero": {tpdb_poster: 156538}
+  "The Jungle Book 2": {tpdb_poster: 156543}
+  "Lady and the Tramp II: Scamp's Adventure": {tpdb_poster: 156546}
+  "The Hunchback of Notre Dame II": {tpdb_poster: 156541}
+  "Stitch! The Movie": {tpdb_poster: 156549}
+  "Lilo & Stitch 2: Stitch Has a Glitch": {tpdb_poster: 156550}
+  "Leroy & Stitch": {tpdb_poster: 156551}
+  "The Lion King II: Simba's Pride": {tpdb_poster: 156564}
+  "The Lion King 1½": {tpdb_poster: 156565}
+  "The Little Mermaid II: Return to the Sea": {tpdb_poster: 156567}
+  "The Little Mermaid: Ariel's Beginning": {tpdb_poster: 156568}
+  "Mulan II": {tpdb_poster: 156574}
+  "Kronk's New Groove": {tpdb_poster: 156576}
+  "Return to Never Land": {tpdb_poster: 156578}
+  "Pocahontas II: Journey to a New World": {tpdb_poster: 156580}
+  "Tarzan & Jane": {tpdb_poster: 156582}
+  "Tarzan II": {tpdb_poster: 156583}
+  "Tinker Bell": {tpdb_poster: 156588}
+  "Tinker Bell and the Lost Treasure": {tpdb_poster: 156589}
+  "Tinker Bell and the Great Fairy Rescue": {tpdb_poster: 156590}
+  "Pixie Hollow Games": {tpdb_poster: 156591}
+  "Secret of the Wings": {tpdb_poster: 156592}
+  "Pixie Hollow Bake Off": {tpdb_poster: 156593}
+  "Tinker Bell and the Pirate Fairy": {tpdb_poster: 156594}
+  "Tinker Bell and the Legend of the NeverBeast": {tpdb_poster: 156595}
+  "Pooh's Grand Adventure: The Search for Christopher Robin": {tpdb_poster: 156597}
+  "The Tigger Movie": {tpdb_poster: 156598}
+  "Piglet's Big Movie": {tpdb_poster: 156599}
+  "Winnie the Pooh: Springtime with Roo": {tpdb_poster: 156600}
+  "Pooh's Heffalump Movie": {tpdb_poster: 156601}
+  "Legend of the Three Caballeros": {tpdb_poster: 235815}
+  "Frankenweenie": {tpdb_poster: 152820}
+  "Mars Needs Moms": {tpdb_poster: 152829}
+  "The Nightmare Before Christmas": {tpdb_poster: 152834}
+  "The Wild": {tpdb_poster: 152841}
+  "Mickey's Christmas Carol": {tpdb_poster: 156220}
+  "Mickey, Donald, Goofy: The Three Musketeers": {tpdb_poster: 156221}
+  "Chip 'n Dale: Rescue Rangers": {tpdb_poster: 236603}
+  "101 Dalmatians (1996)": {tpdb_poster: 159362}
+  "102 Dalmatians (2000)": {tpdb_poster: 159363}
+  "Alice in Wonderland (2010)": {tpdb_poster: 159364}
+  "Maleficent (2014)": {tpdb_poster: 159365}
+  "Cinderella (2015)": {tpdb_poster: 159366}
+  "The Jungle Book (2016)": {tpdb_poster: 159367}
+  "Alice Through the Looking Glass (2016)": {tpdb_poster: 159368}
+  "Beauty and the Beast (2017)": {tpdb_poster: 159369}
+  "Christopher Robin (2018)": {tpdb_poster: 159370}
+  "Dumbo (2019)": {tpdb_poster: 159371}
+  "Aladdin (2019)": {tpdb_poster: 159372}
+  "The Lion King (2019)": {tpdb_poster: 159373}
+  "Maleficent: Mistress of Evil (2019)": {tpdb_poster: 159374}
+  "Lady and the Tramp (2019)": {tpdb_poster: 159375}
+  "Mulan (2020)": {tpdb_poster: 159376}
+  "Cruella (2021)": {tpdb_poster: 159377}
+  "Pinocchio (2022)": {tpdb_poster: 265424}

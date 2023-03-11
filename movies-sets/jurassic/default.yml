@@ -1,5 +1,5 @@
 collections:
-  "Jurassic Park Collection": {poster_tpdb: 158968}
+  "Jurassic Park Collection": {tpdb_poster: 158968}
 set:
   "Jurassic Park (1993)": {tpdb_poster: 158969}
   "The Lost World: Jurassic Park (1997)": {tpdb_poster: 158970}

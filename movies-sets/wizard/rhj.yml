@@ -1,14 +1,14 @@
 collections:
   "Wizarding World (of Harry Potter) Collection": {tpdb_poster: 85944}
 set:
-  "Harry Potter and the Philosopher's Stone (2001)": {poster_tpdb: 85945}
-  "Harry Potter and the Chamber of Secrets (2002)": {poster_tpdb: 85946}
-  "Harry Potter and the Prisoner of Azkaban (2004)": {poster_tpdb: 85947}
-  "Harry Potter and the Goblet of Fire (2005)": {poster_tpdb: 85948}
-  "Harry Potter and the Order of the Phoenix (2007)": {poster_tpdb: 85949}
-  "Harry Potter and the Half-Blood Prince (2009)": {poster_tpdb: 85950}
-  "Harry Potter and the Deathly Hallows: Part 1 (2010)": {poster_tpdb: 85951}
-  "Harry Potter and the Deathly Hallows: Part 2 (2011)": {poster_tpdb: 85952}
-  "Fantastic Beasts and Where to Find Them (2016)": {poster_tpdb: 85953}
-  "Fantastic Beasts: The Crimes of Grindelwald (2018)": {poster_tpdb: 85954}
-  "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": {poster_tpdb: 201115}
+  "Harry Potter and the Philosopher's Stone (2001)": {tpdb_poster: 85945}
+  "Harry Potter and the Chamber of Secrets (2002)": {tpdb_poster: 85946}
+  "Harry Potter and the Prisoner of Azkaban (2004)": {tpdb_poster: 85947}
+  "Harry Potter and the Goblet of Fire (2005)": {tpdb_poster: 85948}
+  "Harry Potter and the Order of the Phoenix (2007)": {tpdb_poster: 85949}
+  "Harry Potter and the Half-Blood Prince (2009)": {tpdb_poster: 85950}
+  "Harry Potter and the Deathly Hallows: Part 1 (2010)": {tpdb_poster: 85951}
+  "Harry Potter and the Deathly Hallows: Part 2 (2011)": {tpdb_poster: 85952}
+  "Fantastic Beasts and Where to Find Them (2016)": {tpdb_poster: 85953}
+  "Fantastic Beasts: The Crimes of Grindelwald (2018)": {tpdb_poster: 85954}
+  "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": {tpdb_poster: 201115}

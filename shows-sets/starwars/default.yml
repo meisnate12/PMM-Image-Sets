@@ -1,5 +1,5 @@
 collections:
-  "Star Wars: The Complete Collection": {poster_tpdb: 152792}
+  "Star Wars: The Complete Collection": {tpdb_poster: 152792}
 set:
   "Star Wars: The Clone Wars (2008)":
     tpdb_poster: 152994

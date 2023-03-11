@@ -1,45 +1,45 @@
 collections:
-  "Walt Disney Animation Studios": {poster_tpdb: 152809}
-  "Pixar Animation Studios": {poster_tpdb: 148076}
-  "Toy Story Collection": {poster_tpdb: 148077}
-  "Monsters, Inc. Collection": {poster_tpdb: 148788}
-  "Finding Nemo Collection": {poster_tpdb: 149220}
-  "The Incredibles Collection": {poster_tpdb: 149226}
-  "Cars Collection": {poster_tpdb: 149944}
-  "Pixar Shorts": {poster_tpdb: 150984}
-  "Bolt Collection": {poster_tpdb: 152815}
-  "Frozen Complete Collection": {poster_tpdb: 152821}
-  "Planes Collection": {poster_tpdb: 152837}
-  "Tangled Collection": {poster_tpdb: 152842}
-  "Wreck-It Ralph Collection": {poster_tpdb: 152847}
-  "101 Dalmatians (Animated) Collection": {poster_tpdb: 156505}
-  "Aladdin Complete Collection": {poster_tpdb: 156509}
-  "Atlantis Collection": {poster_tpdb: 156518}
-  "Bambi Collection": {poster_tpdb: 156520}
-  "Beauty and the Beast Collection": {poster_tpdb: 156522}
-  "Brother Bear Collection": {poster_tpdb: 156525}
-  "Cinderella Collection": {poster_tpdb: 156527}
-  "The Fox and the Hound Collection": {poster_tpdb: 156532}
-  "A Goofy Movie Collection": {poster_tpdb: 156534}
-  "Disney's Hercules Collection": {poster_tpdb: 156537}
-  "The Jungle Book Collection": {poster_tpdb: 156542}
-  "Lady and the Tramp Collection": {poster_tpdb: 156545}
-  "The Hunchback of Notre Dame Collection": {poster_tpdb: 156540}
-  "Lilo & Stitch Collection": {poster_tpdb: 156548}
-  "The Lion King Collection": {poster_tpdb: 156563}
-  "The Little Mermaid Collection": {poster_tpdb: 156566}
-  "Mulan Collection": {poster_tpdb: 156573}
-  "The Emperor's New Groove Collection": {poster_tpdb: 156575}
-  "Peter Pan Collection": {poster_tpdb: 156577}
-  "Pocahontas Collection": {poster_tpdb: 156579}
-  "Tarzan (Animation) Collection": {poster_tpdb: 156581}
-  "Tinker Bell Collection": {poster_tpdb: 156587}
-  "Winnie the Pooh Collection": {poster_tpdb: 156596}
-  "Caballeros Collection": {poster_tpdb: 235814}
-  "Fantasia Collection": {poster_tpdb: 156531}
-  "The Rescuers Collection": {poster_tpdb: 156585}
-  "Sleeping Beauty Collection": {poster_tpdb: 156586}
-  "Disney Live-Action Remakes": {poster_tpdb: 159360}
+  "Walt Disney Animation Studios": {tpdb_poster: 152809}
+  "Pixar Animation Studios": {tpdb_poster: 148076}
+  "Toy Story Collection": {tpdb_poster: 148077}
+  "Monsters, Inc. Collection": {tpdb_poster: 148788}
+  "Finding Nemo Collection": {tpdb_poster: 149220}
+  "The Incredibles Collection": {tpdb_poster: 149226}
+  "Cars Collection": {tpdb_poster: 149944}
+  "Pixar Shorts": {tpdb_poster: 150984}
+  "Bolt Collection": {tpdb_poster: 152815}
+  "Frozen Complete Collection": {tpdb_poster: 152821}
+  "Planes Collection": {tpdb_poster: 152837}
+  "Tangled Collection": {tpdb_poster: 152842}
+  "Wreck-It Ralph Collection": {tpdb_poster: 152847}
+  "101 Dalmatians (Animated) Collection": {tpdb_poster: 156505}
+  "Aladdin Complete Collection": {tpdb_poster: 156509}
+  "Atlantis Collection": {tpdb_poster: 156518}
+  "Bambi Collection": {tpdb_poster: 156520}
+  "Beauty and the Beast Collection": {tpdb_poster: 156522}
+  "Brother Bear Collection": {tpdb_poster: 156525}
+  "Cinderella Collection": {tpdb_poster: 156527}
+  "The Fox and the Hound Collection": {tpdb_poster: 156532}
+  "A Goofy Movie Collection": {tpdb_poster: 156534}
+  "Disney's Hercules Collection": {tpdb_poster: 156537}
+  "The Jungle Book Collection": {tpdb_poster: 156542}
+  "Lady and the Tramp Collection": {tpdb_poster: 156545}
+  "The Hunchback of Notre Dame Collection": {tpdb_poster: 156540}
+  "Lilo & Stitch Collection": {tpdb_poster: 156548}
+  "The Lion King Collection": {tpdb_poster: 156563}
+  "The Little Mermaid Collection": {tpdb_poster: 156566}
+  "Mulan Collection": {tpdb_poster: 156573}
+  "The Emperor's New Groove Collection": {tpdb_poster: 156575}
+  "Peter Pan Collection": {tpdb_poster: 156577}
+  "Pocahontas Collection": {tpdb_poster: 156579}
+  "Tarzan (Animation) Collection": {tpdb_poster: 156581}
+  "Tinker Bell Collection": {tpdb_poster: 156587}
+  "Winnie the Pooh Collection": {tpdb_poster: 156596}
+  "Caballeros Collection": {tpdb_poster: 235814}
+  "Fantasia Collection": {tpdb_poster: 156531}
+  "The Rescuers Collection": {tpdb_poster: 156585}
+  "Sleeping Beauty Collection": {tpdb_poster: 156586}
+  "Disney Live-Action Remakes": {tpdb_poster: 159360}
 set:
   "Monsters at Work":
     tpdb_poster: 148793

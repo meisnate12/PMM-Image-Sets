@@ -1,5 +1,5 @@
 collections:
-  "Saw Collection": {poster_tpdb: 155363}
+  "Saw Collection": {tpdb_poster: 155363}
 set:
   "Saw (2004)": {tpdb_poster: 155364}
   "Saw II (2005)": {tpdb_poster: 155365}

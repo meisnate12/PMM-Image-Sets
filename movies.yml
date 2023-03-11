@@ -114,79 +114,6 @@ sets:
     "V for Vendetta": 752
     "DC League of Super-Pets": 539681
 
-  disney:                      # Source List: https://trakt.tv/users/asterlea/lists/walt-disney-animation-studios
-    styles:
-      default:
-        - pmm: disney/default          # Image Credit to RedHeadjedi / https://theposterdb.com/set/2454
-      rhj:
-        - pmm: disney/rhj      # Image Credit to RedHeadjedi / https://theposterdb.com/set/62522
-    collections:
-      "Walt Disney Animation Studios":
-        - "Disney Animation Studios"
-        - "Disney Animation"
-    "Snow White and the Seven Dwarfs (1937)": 408
-    "Pinocchio (1940)": 10895
-    "Fantasia (1940)": 756
-    "Dumbo (1941)": 11360
-    "Bambi (1942)": 3170
-    "Saludos Amigos (1942)": 14906
-    "The Three Caballeros (1944)": 15947
-    "Make Mine Music (1946)": 20343
-    "Fun and Fancy Free (1947)": 46929
-    "Melody Time (1948)": 13757
-    "The Adventures of Ichabod and Mr. Toad (1949)": 13465
-    "Cinderella (1950)": 11224
-    "Alice in Wonderland (1951)": 12092
-    "Peter Pan (1953)": 10693
-    "Lady and the Tramp (1955)": 10340
-    "Sleeping Beauty (1959)": 10882
-    "One Hundred and One Dalmatians (1961)": 12230
-    "The Sword in the Stone (1963)": 9078
-    "The Jungle Book (1967)": 9325
-    "The Aristocats (1970)": 10112
-    "Robin Hood (1973)": 11886
-    "The Many Adventures of Winnie the Pooh (1977)": 250480
-    "The Rescuers (1977)": 11319
-    "The Fox and the Hound (1981)": 10948
-    "The Black Cauldron (1985)": 10957
-    "The Great Mouse Detective (1986)": 9994
-    "Oliver & Company (1988)": 12233
-    "The Little Mermaid (1989)": 10144
-    "The Rescuers Down Under (1990)": 11135
-    "Beauty and the Beast (1991)": 10020
-    "Aladdin (1992)": 812
-    "The Lion King (1994)": 8587
-    "Pocahontas (1995)": 10530
-    "The Hunchback of Notre Dame (1996)": 10545
-    "Hercules (1997)": 11970
-    "Mulan (1998)": 10674
-    "Tarzan (1999)": 37135
-    "Fantasia 2000 (1999)": 49948
-    "Dinosaur (2000)": 10567
-    "The Emperor's New Groove (2000)": 11688
-    "Atlantis: The Lost Empire (2001)": 10865
-    "Lilo & Stitch (2002)": 11544
-    "Treasure Planet (2002)": 9016
-    "Brother Bear (2003)": 10009
-    "Home on the Range (2004)": 13700
-    "Chicken Little (2005)": 9982
-    "Meet the Robinsons (2007)": 1267
-    "Bolt (2008)": 13053
-    "The Princess and the Frog (2009)": 10198
-    "Tangled (2010)": 38757
-    "Winnie the Pooh (2011)": 51162
-    "Wreck-It Ralph (2012)": 82690
-    "Frozen (2013)": 109445
-    "Big Hero 6 (2014)": 177572
-    "Zootopia (2016)": 269149
-    "Moana (2016)": 277834
-    "Ralph Breaks the Internet (2018)": 404368
-    "Frozen II (2019)": 330457
-    "Raya and the Last Dragon (2021)": 527774
-    "Encanto (2021)": 568124
-    "Strange World (2022)": 877269
-    "Wish (2023)": 1022796
-
   godfather:                      # Source List: https://trakt.tv/lists/official/the-godfather-collection
     styles:
       default:
@@ -510,7 +437,7 @@ sets:
   middle:                         # Source List: https://trakt.tv/users/jjmalpz/lists/middle-earth?sort=rank,asc
     styles:
       default:
-        - pmm: middle/default             # Image Credit to mikenobbs / https://theposterdb.com/set/115877
+        - pmm: middle/default         # Image Credit to mikenobbs / https://theposterdb.com/set/115877
       rhj:
         - pmm: middle/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/20379 / https://theposterdb.com/set/22601
     collections:
@@ -524,44 +451,6 @@ sets:
     "The Lord of the Rings: The Fellowship of the Ring": 120
     "The Lord of the Rings: The Two Towers": 121
     "The Lord of the Rings: The Return of the King": 122
-
-  pixar:                         # Source List: https://trakt.tv/users/chloe131997/lists/pixar
-    styles:
-      default:
-        - pmm: pixar/default             # Image Credit to RedHeadJedi / https://theposterdb.com/set/97
-    collections:
-      "Pixar Animation Studios":
-        - "Pixar Collection"
-        - "Pixar"
-        - "Pixar Studios"
-        - "Pixar Animation"
-    "Toy Story (1995)": 862
-    "A Bug's Life (1998)": 9487
-    "Toy Story 2 (1999)": 863
-    "Monsters, Inc. (2001)": 585
-    "Finding Nemo (2003)": 12
-    "The Incredibles (2004)": 9806
-    "Cars (2006)": 920
-    "Ratatouille (2007)": 2062
-    "WALL·E (2008)": 10681
-    "Up (2009)": 14160
-    "Toy Story 3 (2010)": 10193
-    "Cars 2 (2011)": 49013
-    "Brave (2012)": 62177
-    "Monsters University (2013)": 62211
-    "Inside Out (2015)": 150540
-    "The Good Dinosaur (2015)": 105864
-    "Finding Dory (2016)": 127380
-    "Cars 3 (2017)": 260514
-    "Coco (2017)": 354912
-    "Incredibles 2 (2018)": 260513
-    "Toy Story 4 (2019)": 301528
-    "Onward (2020)": 508439
-    "Soul (2020)": 508442
-    "Luca (2021)": 508943
-    "Lightyear (2022)": 718789
-    "Turning Red (2022)": 508947
-    "Elemental (2023)": 976573
 
   saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
     styles:
