@@ -1,4 +1,37 @@
 sets:
+
+
+  bluesky:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
+    styles:
+      default:
+        - pmm:   bluesky/default  # Image Credit to DIIVOY / https://theposterdb.com/set/122213
+    collections:
+      "Illumination Entertainment Collection":
+        - "Illumination Entertainment"
+      "Blue Sky Studios":
+        - "Blue Sky"
+      "Rio Collection":
+        - "Rio"
+      "Ice Age Collection":
+        - "Ice Age"
+    "Ice Age": 425
+    "Robots": 9928
+    "Ice Age: The Meltdown": 950
+    "Horton Hears a Who!": 12222
+    "Ice Age: Dawn of the Dinosaurs": 8355
+    "Rio": 46195
+    "Ice Age: Continental Drift": 57800
+    "Epic": 116711
+    "Rio 2": 172385
+    "The Peanuts Movie": 227973
+    "Ice Age: Collision Course": 278154
+    "Spies in Disguise": 431693
+    "Nimona": 961323
+    "Ferdinand": 364689
+    "The Ice Age Adventures of Buck Wild": 774825
+    "Ice Age: The Great Egg-Scapade": 387893
+    "Ice Age: A Mammoth Christmas": 79218
+
   disney:                      # Source List: https://trakt.tv/users/somewun/lists/disney-pixar-animation-movies / https://trakt.tv/users/donxy/lists/disney-live-action-movies
     styles:
       default:
@@ -294,7 +327,6 @@ sets:
     "Doug's 1st Movie": 16508
     "Chip an' Dale": 53478
     "Arjun: The Warrior Prince": 117369
-    "The Ice Age Adventures of Buck Wild": 774825
     "The Hunchback of Notre Dame II": 12448
     "Runaway Brain": 67166
     "Super Rhino": 16604
