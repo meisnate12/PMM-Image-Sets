@@ -1,0 +1,25 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/145051
+  set_key: rhj2
+  set_link: https://theposterdb.com/set/89606
+  set_author: RedHeadJedi
+
+collections:
+  "Star Wars: The Complete Collection": {tpdb_poster: 145035}
+set:
+  "Star Wars: The Clone Wars (2008)":
+    tpdb_poster: 145048
+  "Star Wars Rebels (2014)":
+    tpdb_poster: 145049
+  "Star Wars Resistance (2018)":
+    tpdb_poster: 145050
+  "The Mandalorian (2019)":
+    tpdb_poster: 145051
+  "Star Wars: The Bad Batch (2021)":
+    tpdb_poster: 145052
+  "The Book of Boba Fett (2021)":
+    tpdb_poster: 199477
+  "Star Wars: Andor (2022)":
+    tpdb_poster: 266673
+  "Obi-Wan Kenobi (2022)":
+    tpdb_poster: 235861

@@ -2,7 +2,7 @@ sets:
   bond:                      # Source List: https://trakt.tv/users/any/lists/james-bond
     styles:
       default:
-        - pmm: bond/default          # Image Credit to RedHeadJedi / https://theposterdb.com/set/107797
+        - pmm: bond/rhj          # Image Credit to RedHeadJedi / https://theposterdb.com/set/107797
     collections:
       "James Bond Collection":
         - "James Bond"
@@ -38,7 +38,7 @@ sets:
   dc:                      # Source List: https://trakt.tv/users/malicekodi2/lists/dc
     styles:
       default:
-        - pmm: dc/default          # Image Credit to DIIVOY / https://theposterdb.com/set/80057
+        - pmm: dc/diivoy          # Image Credit to DIIVOY / https://theposterdb.com/set/80057
       rhj:
         - pmm: dc/rhj              # Image Credit to RedHeadjedi / https://theposterdb.com/set/50563
     collections:
@@ -117,7 +117,7 @@ sets:
   godfather:                      # Source List: https://trakt.tv/lists/official/the-godfather-collection
     styles:
       default:
-        - pmm: godfather/default          # Image Credit to Eternal / https://theposterdb.com/set/183508
+        - pmm: godfather/eternal          # Image Credit to Eternal / https://theposterdb.com/set/183508
     collections:
       "The Godfather Collection":
         - "The Godfather"
@@ -133,9 +133,9 @@ sets:
   godzilla_heisei:                # Source List: https://trakt.tv/users/rzepkowski/lists/godzilla-movies
     styles:
       default:
-        - pmm: godzilla_heisei/default             # Image Credit to DoctorBat / https://theposterdb.com/set/182956
+        - pmm: godzilla_heisei/doctorbat             # Image Credit to DoctorBat / https://theposterdb.com/set/182956
       doctorbat:
-        - pmm: godzilla_heisei/doctorbat   # Image Credit to DoctorBat / https://theposterdb.com/set/182960
+        - pmm: godzilla_heisei/doctorbat2   # Image Credit to DoctorBat / https://theposterdb.com/set/182960
     collections:
       "Godzilla (Heisei) Collection":
         - "Godzilla (Heisei)"
@@ -179,9 +179,9 @@ sets:
   godzilla_showa:                # Source List: https://trakt.tv/users/rzepkowski/lists/godzilla-movies
     styles:
       default:
-        - pmm: godzilla_showa/default             # Image Credit to DoctorBat / https://theposterdb.com/set/181742
+        - pmm: godzilla_showa/doctorbat    # Image Credit to DoctorBat / https://theposterdb.com/set/181742
       doctorbat:
-        - pmm: godzilla_showa/doctorbat   # Image Credit to DoctorBat / https://theposterdb.com/set/181738
+        - pmm: godzilla_showa/doctorbat2   # Image Credit to DoctorBat / https://theposterdb.com/set/181738
     collections:
       "Godzilla (Showa) Collection":
         - "Godzilla (Showa)"
@@ -225,7 +225,7 @@ sets:
   indiana:                # Source List: https://www.themoviedb.org/collection/84
     styles:
       default:
-        - pmm: indiana/default             # Image Credit to RedHeadJedi / https://theposterdb.com/set/34045
+        - pmm: indiana/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/34045
       olivier:
         - pmm: indiana/olivier   # Image Credit to Olivier_286 / https://theposterdb.com/set/4874
     collections:
@@ -240,7 +240,7 @@ sets:
   jurassic:                         # Source List: https://trakt.tv/users/psaul3/lists/jurassic-universe?sort=released,asc
     styles:
       default:
-        - pmm: jurassic/default             # Image Credit to RedHeadJedi / https://theposterdb.com/set/97241
+        - pmm: jurassic/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/97241
     collections:
       "Jurassic Park Collection":
         - "Jurassic Park"
@@ -255,7 +255,7 @@ sets:
   marvel:                         # Source List: https://mdblist.com/lists/plexmetamanager/external/15110
     styles:
       default:
-        pmm: marvel/default              # Image Credit to DIIVOY / https://theposterdb.com/set/78444
+        pmm: marvel/diivoy              # Image Credit to DIIVOY / https://theposterdb.com/set/78444
     collections:
       "In Association With Marvel":
         - "Marvel"
@@ -348,7 +348,7 @@ sets:
   mcu:                         # Source List: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
     styles:
       default:
-        pmm: mcu/default       # Image Credit to DIIVOY / https://theposterdb.com/set/71510
+        pmm: mcu/diivoy       # Image Credit to DIIVOY / https://theposterdb.com/set/71510
       diivoy:
         pmm: mcu/diivoy        # Image Credit to DIIVOY / https://theposterdb.com/set/41596
       rhj:
@@ -437,7 +437,7 @@ sets:
   middle:                         # Source List: https://trakt.tv/users/jjmalpz/lists/middle-earth?sort=rank,asc
     styles:
       default:
-        - pmm: middle/default         # Image Credit to mikenobbs / https://theposterdb.com/set/115877
+        - pmm: middle/mikenobbs         # Image Credit to mikenobbs / https://theposterdb.com/set/115877
       rhj:
         - pmm: middle/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/20379 / https://theposterdb.com/set/22601
     collections:
@@ -455,7 +455,7 @@ sets:
   saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
     styles:
       default:
-        - pmm: saw/default                      # Image Credit to RedHeadJedi / https://theposterdb.com/set/95260
+        - pmm: saw/rhj                      # Image Credit to RedHeadJedi / https://theposterdb.com/set/95260
     collections:
       "Saw Collection":
         - "Saw"
@@ -472,9 +472,9 @@ sets:
   starwars:                             # Source List: https://trakt.tv/users/hitsquid/lists/star-wars-the-complete-saga
     styles:
       default:
-        - pmm: starwars/default                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/93852
+        - pmm: starwars/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/93852
       rhj:
-        - pmm: starwars/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/89606
+        - pmm: starwars/rhj2             # Image Credit to RedHeadJedi / https://theposterdb.com/set/89606
     collections:
       "Star Wars: The Complete Collection":
         - "Star Wars: The Complete"
@@ -495,9 +495,9 @@ sets:
   wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
     styles:
       default:
-        - pmm: wizard/default                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/101665
+        - pmm: wizard/rhj                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/101665
       rhj:
-        - pmm: wizard/rhj                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/11706
+        - pmm: wizard/rhj2                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/11706
       dsman:
         - pmm: wizard/dsman                 # Image Credit to Dsman124 / https://theposterdb.com/set/12177
     collections:

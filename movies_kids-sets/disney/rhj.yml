@@ -1,3 +1,9 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/98918
+  set_key: rhj
+  set_link: https://theposterdb.com/set/62522
+  set_author: RedHeadjedi
+
 collections:
   "Walt Disney Animation Studios": {tpdb_poster: 98903}
   "Pixar Animation Studios": {poster_tpdb: 456}

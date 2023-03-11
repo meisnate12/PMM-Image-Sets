@@ -2,7 +2,7 @@ sets:
   disney:                      # Source List: https://trakt.tv/users/darkman1498/lists/disney-animated-series
     styles:
       default:
-        - pmm: disney/default  # Image Credit to DIIVOY / https://theposterdb.com/set/93857
+        - pmm: disney/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/93857
     collections:
       "Walt Disney Animation Studios":
         - "Disney Animation Studios"
@@ -259,7 +259,7 @@ sets:
   dreamworks:                      # Source List: https://trakt.tv/users/asmobarki/lists/dreamworks
     styles:
       default:
-        - pmm: dreamworks/default  # Image Credit to DIIVOY / https://theposterdb.com/set/97689
+        - pmm: dreamworks/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/97689
     collections:
       "DreamWorks Animation":
         - "DreamWorks"
@@ -315,7 +315,7 @@ sets:
   sony:                      # Source List: https://trakt.tv/users/haiderales/lists/sony-pictures-animation
     styles:
       default:
-        - pmm: sony/default  # Image Credit to DIIVOY / https://theposterdb.com/set/106184
+        - pmm: sony/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/106184
     collections:
       "Sony Pictures Animation Collection":
         - "Sony Pictures Animation"

@@ -1,3 +1,9 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/21005
+  set_key: dsman
+  set_link: https://theposterdb.com/set/12177
+  set_author: Dsman124
+
 collections:
   "Wizarding World (of Harry Potter) Collection": {tpdb_poster: 21001}
 set:

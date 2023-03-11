@@ -2,7 +2,7 @@ sets:
   dc:                      # Source List: https://trakt.tv/users/malicekodi2/lists/dc
     styles:
       default:
-        - pmm: dc/default          # Image Credit to DIIVOY / https://theposterdb.com/set/80057
+        - pmm: dc/diivoy          # Image Credit to DIIVOY / https://theposterdb.com/set/80057
     collections:
       "Worlds of DC (DCEU)":
         - "Worlds of DC"
@@ -65,7 +65,7 @@ sets:
   marvel:                      # Source List: https://trakt.tv/users/darkman1498/lists/marvel-series
     styles:
       default:
-        - pmm: marvel/default          # Image Credit to DIIVOY / https://theposterdb.com/set/87080
+        - pmm: marvel/diivoy          # Image Credit to DIIVOY / https://theposterdb.com/set/87080
     collections:
       "In Association With Marvel":
         - "Marvel"
@@ -147,9 +147,9 @@ sets:
   mcu:                           # Source List: https://trakt.tv/users/darkman1498/lists/marvel-series
     styles:
       default:
-        - pmm: mcu/default               # Image Credit to DIIVOY / https://theposterdb.com/set/71510
+        - pmm: mcu/diivoy               # Image Credit to DIIVOY / https://theposterdb.com/set/71510
       diivoy:
-        - pmm: mcu/diivoy        # Image Credit to DIIVOY / https://theposterdb.com/set/41596
+        - pmm: mcu/diivoy2        # Image Credit to DIIVOY / https://theposterdb.com/set/41596
       rhj:
         - pmm: mcu/rhj           # Image Credit to DIIVOY / https://theposterdb.com/set/4475
       rhj2:
@@ -206,9 +206,9 @@ sets:
   starwars:                          # Source List: https://trakt.tv/users/pullsa/lists/the-star-wars-saga-feature-films-and-tv-shows
     styles:
       default:
-        - pmm: starwars/default              # Image Credit to RedHeadJedi / https://theposterdb.com/set/93852
+        - pmm: starwars/rhj              # Image Credit to RedHeadJedi / https://theposterdb.com/set/93852
       rhj:
-        - pmm: starwars/rhj          # Image Credit to RedHeadJedi / https://theposterdb.com/set/89606
+        - pmm: starwars/rhj2          # Image Credit to RedHeadJedi / https://theposterdb.com/set/89606
     "Star Wars: The Clone Wars (2008)": 83268
     "Star Wars Rebels (2014)": 283468
     "Star Wars Resistance (2018)": 351575

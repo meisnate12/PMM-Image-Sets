@@ -4,7 +4,7 @@ sets:
   bluesky:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
     styles:
       default:
-        - pmm:   bluesky/default  # Image Credit to DIIVOY / https://theposterdb.com/set/122213
+        - pmm:   bluesky/diivoy     # Image Credit to DIIVOY / https://theposterdb.com/set/122213
     collections:
       "Illumination Entertainment Collection":
         - "Illumination Entertainment"
@@ -35,7 +35,7 @@ sets:
   disney:                      # Source List: https://trakt.tv/users/somewun/lists/disney-pixar-animation-movies / https://trakt.tv/users/donxy/lists/disney-live-action-movies
     styles:
       default:
-        - pmm: disney/default  # Image Credit to DIIVOY / https://theposterdb.com/set/93857
+        - pmm: disney/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/93857
       rhj:
         - pmm: disney/rhj      # Image Credit to RedHeadjedi / https://theposterdb.com/set/62522
       rhj2:
@@ -595,7 +595,7 @@ sets:
   dreamworks:                      # Source List: https://trakt.tv/users/pablo-ramon-amorim/lists/dreamworks-animation
     styles:
       default:
-        - pmm: dreamworks/default  # Image Credit to DIIVOY / https://theposterdb.com/set/97689
+        - pmm: dreamworks/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/97689
     collections:
       "DreamWorks Animation":
         - "DreamWorks"
@@ -695,7 +695,7 @@ sets:
   illumination:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
     styles:
       default:
-        - pmm:   illumination/default  # Image Credit to DIIVOY / https://theposterdb.com/set/122213
+        - pmm:   illumination/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/122213
     collections:
       "Illumination Entertainment Collection":
         - "Illumination Entertainment"
@@ -753,7 +753,7 @@ sets:
   sony:
     styles:
       default:
-        - pmm: sony/default  # Image Credit to DIIVOY / https://theposterdb.com/set/106184
+        - pmm: sony/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/106184
     collections:
       "Sony Pictures Animation Collection":
         - "Sony Pictures Animation"
