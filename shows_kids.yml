@@ -1,8 +1,9 @@
 sets:
   disney:                      # Source List: https://trakt.tv/users/darkman1498/lists/disney-animated-series
     styles:
-      default:
-        - pmm: disney/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/93857
+      default: diivoy
+      diivoy:
+        pmm: disney/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/93857
     collections:
       "Walt Disney Animation Studios":
         - "Disney Animation Studios"
@@ -258,8 +259,9 @@ sets:
 
   dreamworks:                      # Source List: https://trakt.tv/users/asmobarki/lists/dreamworks
     styles:
-      default:
-        - pmm: dreamworks/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/97689
+      default: diivoy
+      diivoy:
+        pmm: dreamworks/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/97689
     collections:
       "DreamWorks Animation":
         - "DreamWorks"
@@ -314,8 +316,9 @@ sets:
 
   sony:                      # Source List: https://trakt.tv/users/haiderales/lists/sony-pictures-animation
     styles:
-      default:
-        - pmm: sony/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/106184
+      default: diivoy
+      diivoy:
+        pmm: sony/diivoy  # Image Credit to DIIVOY / https://theposterdb.com/set/106184
     collections:
       "Sony Pictures Animation Collection":
         - "Sony Pictures Animation"
@@ -347,8 +350,9 @@ sets:
 
   misc:
     styles:
-      default:
-        - pmm:   misc/default
+      default: misc
+      misc:
+        pmm:   misc/misc
     collections:
       "Tom and Jerry Collection":         # Image Credit to mikenobbs / https://theposterdb.com/set/101330
         - "Tom and Jerry"                 # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry?sort=released,desc
