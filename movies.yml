@@ -38,9 +38,9 @@ sets:
 
   dc:                      # Source List: https://trakt.tv/users/malicekodi2/lists/dc
     styles:
-      default: diivoy
-      diivoy:
-        pmm: dc/diivoy          # Image Credit to DIIVOY / https://theposterdb.com/set/80057
+      default: diiivoy
+      diiivoy:
+        pmm: dc/diiivoy          # Image Credit to diiivoy / https://theposterdb.com/set/80057
       rhj:
         pmm: dc/rhj              # Image Credit to RedHeadjedi / https://theposterdb.com/set/50563
     collections:
@@ -261,9 +261,9 @@ sets:
 
   marvel:                         # Source List: https://mdblist.com/lists/plexmetamanager/external/15110
     styles:
-      default: diivoy
-      diivoy:
-        pmm: marvel/diivoy              # Image Credit to DIIVOY / https://theposterdb.com/set/78444
+      default: diiivoy
+      diiivoy:
+        pmm: marvel/diiivoy              # Image Credit to diiivoy / https://theposterdb.com/set/78444
     collections:
       "In Association With Marvel":
         - "Marvel"
@@ -355,11 +355,11 @@ sets:
 
   mcu:                         # Source List: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
     styles:
-      default: diivoy
-      diivoy:
-        pmm: mcu/diivoy       # Image Credit to DIIVOY / https://theposterdb.com/set/71510
-      diivoy2:
-        pmm: mcu/diivoy2        # Image Credit to DIIVOY / https://theposterdb.com/set/41596
+      default: diiivoy
+      diiivoy:
+        pmm: mcu/diiivoy       # Image Credit to diiivoy / https://theposterdb.com/set/71510
+      diiivoy2:
+        pmm: mcu/diiivoy2        # Image Credit to diiivoy / https://theposterdb.com/set/41596
       rhj:
         pmm: mcu/rhj           # Image Credit to RedHeadJedi / https://theposterdb.com/set/4475
       rhj2:
