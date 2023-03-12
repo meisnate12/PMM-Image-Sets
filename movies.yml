@@ -452,6 +452,17 @@ sets:
     "The Lord of the Rings: The Two Towers": 121
     "The Lord of the Rings: The Return of the King": 122
 
+  poirot:
+    styles: 
+      default:  
+        - pmm: poirot/default
+    collections:
+      "Hercule Poirot Collection":
+        - "Hercule Poirot"
+        - "Poirot"
+    "Death on the Nile (2022)": 505026
+    "Murder on the Orient Express (2017)": 392044
+
   saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
     styles:
       default:
