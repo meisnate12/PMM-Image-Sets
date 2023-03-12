@@ -1,11 +1,17 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/311350
+  set_key: doctorbat
+  set_link: https://theposterdb.com/set/182956
+  set_author: DoctorBat
+
 collections:
   "Godzilla (Heisei) Collection": {tpdb_poster: 311343}
 set:
-  "The Return of Godzilla (1984)": {tpdb_poster: 311363}
-  "Godzilla 1985 (1985)": {tpdb_poster: 311364}
-  "Godzilla vs. Biollante (1989)": {tpdb_poster: 311365}
-  "Godzilla vs. King Ghidorah (1991)": {tpdb_poster: 311366}
-  "Godzilla vs. Mothra (1992)": {tpdb_poster: 311367}
-  "Godzilla vs. Mechagodzilla II (1993)": {tpdb_poster: 311368}
-  "Godzilla vs. SpaceGodzilla (1994)": {tpdb_poster: 311369}
-  "Godzilla vs. Destoroyah (1995)": {tpdb_poster: 311370}
+  "The Return of Godzilla (1984)": {tpdb_poster: 311344}
+  "Godzilla 1985 (1985)": {tpdb_poster: 311345}
+  "Godzilla vs. Biollante (1989)": {tpdb_poster: 311346}
+  "Godzilla vs. King Ghidorah (1991)": {tpdb_poster: 311347}
+  "Godzilla vs. Mothra (1992)": {tpdb_poster: 311348}
+  "Godzilla vs. Mechagodzilla II (1993)": {tpdb_poster: 311349}
+  "Godzilla vs. SpaceGodzilla (1994)": {tpdb_poster: 311350}
+  "Godzilla vs. Destoroyah (1995)": {tpdb_poster: 311351}

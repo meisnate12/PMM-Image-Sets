@@ -1,3 +1,9 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/312509
+  set_key: eternal
+  set_link: https://theposterdb.com/set/183508
+  set_author: Eternal
+
 collections:
   "The Godfather Collection": {tpdb_poster: 312507}
 set:

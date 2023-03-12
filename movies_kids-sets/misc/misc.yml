@@ -2,11 +2,24 @@ collections:
   "Tom and Jerry Collection": {tpdb_poster: 165722}
   "The Land Before Time Collection": {tpdb_poster: 105457}
   "Scooby-Doo! Animated Collection": {tpdb_poster: 161484}
-  "Sonic the Hedgehog Complete Collection":
-  url_poster: https://theposterdb.com/api/assets/287059
-  "SEGA Collection":
-    tpdb_poster: 287058
+  "Sonic the Hedgehog Complete Collection": {tpdb_poster: 287059}
+  "SEGA Collection": {tpdb_poster: 287058}
 set:
+  "How the Grinch Stole Christmas (2000)": {tpdb_poster: 301131}
+  "How the Grinch Stole Christmas (1966)": {tpdb_poster: 301127}
+  "The Cat in the Hat": {tpdb_poster: 301128}
+  "Wonder Park": {tpdb_poster: 299887}
+  "Lyle, Lyle, Crocodile": {tpdb_poster: 299875}
+  "Sonic the Hedgehog (2020)": {tpdb_poster: 287061}
+  "Sonic the Hedgehog 2": {tpdb_poster: 287062}
+  "Scoob!": {tpdb_poster: 285836}
+  "Smallfoot": {tpdb_poster: 285835}
+  "Storks": {tpdb_poster: 285834}
+  "The Addams Family (2019)": {tpdb_poster: 285829}
+  "The Addams Family (2021)": {tpdb_poster: 285830}
+  "Ron's Gone Wrong": {tpdb_poster: 197848}
+  "Sherlock Gnomes": {tpdb_poster: 181006}
+  "Gnomeo & Juliet": {tpdb_poster: 181005}
   "Tom and Jerry: The Movie": {tpdb_poster: 165723}
   "Tom and Jerry: The Magic Ring": {tpdb_poster: 165724}
   "Tom and Jerry Blast Off to Mars!": {tpdb_poster: 165725}

@@ -1,3 +1,9 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/156187
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/93857
+  set_author: DIIIVOY
+
 collections:
   "Walt Disney Animation Studios": {tpdb_poster: 152809}
   "Pixar Animation Studios": {tpdb_poster: 148076}
@@ -41,6 +47,10 @@ collections:
   "Sleeping Beauty Collection": {tpdb_poster: 156586}
   "Disney Live-Action Remakes": {tpdb_poster: 159360}
 set:
+  "Jungle Cruise": {tpdb_poster: 167262}
+  "Pete's Dragon (2016)": {tpdb_poster: 159383}
+  "Pete's Dragon (1977)": {tpdb_poster: 159382}
+  "Luck (2022)": {tpdb_poster: 285809}
   "Big Hero 6": {tpdb_poster: 152811}
   "Bolt": {tpdb_poster: 152816}
   "Chicken Little": {tpdb_poster: 152818}
@@ -137,7 +147,18 @@ set:
   "Turning Red": {tpdb_poster: 160327}
   "Lightyear": {tpdb_poster: 242086}
   "The Adventures of André and Wally B.": {tpdb_poster: 150985}
+  "Lamp Life": {tpdb_poster: 148087}
+  "Ciao Alberto": {tpdb_poster: 190101}
   "Luxo Jr.": {tpdb_poster: 150986}
+  "Riley's First Date": {tpdb_poster: 149957}
+  "Your Friend the Rat": {tpdb_poster: 149234}
+  "Burn-E": {tpdb_poster: 149954}
+  "George and A.J.": {tpdb_poster: 149951}
+  "Dug's Special Mission": {tpdb_poster: 149950}
+  "22 vs. Earth": {tpdb_poster: 148424}
+  "Toy Story Toons: Hawaiian Vacation": {tpdb_poster: 148083}
+  "Toy Story Toons: Small Fry": {tpdb_poster: 148084}
+  "Toy Story That Time Forgot": {tpdb_poster: 148086}
   "Red's Dream": {tpdb_poster: 150987}
   "Tin Toy": {tpdb_poster: 150988}
   "Knick Knack": {tpdb_poster: 150989}

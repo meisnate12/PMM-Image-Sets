@@ -1,3 +1,9 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/191455
+  set_key: mikenobbs
+  set_link: https://theposterdb.com/set/115877
+  set_author: mikenobbs
+
 collections:
   "Middle-Earth Collection": {tpdb_poster: 191451}
 set:

@@ -1,10 +1,9 @@
 sets:
-
-
   bluesky:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
     styles:
-      default:
-        - pmm:   bluesky/default  # Image Credit to DIIVOY / https://theposterdb.com/set/122213
+      default: diiivoy
+      diiivoy:
+        pmm:   bluesky/diiivoy     # Image Credit to diiivoy / https://theposterdb.com/set/122213
     collections:
       "Illumination Entertainment Collection":
         - "Illumination Entertainment"
@@ -34,12 +33,13 @@ sets:
 
   disney:                      # Source List: https://trakt.tv/users/somewun/lists/disney-pixar-animation-movies / https://trakt.tv/users/donxy/lists/disney-live-action-movies
     styles:
-      default:
-        - pmm: disney/default  # Image Credit to DIIVOY / https://theposterdb.com/set/93857
+      default: diiivoy
+      diiivoy:
+        pmm: disney/diiivoy  # Image Credit to diiivoy / https://theposterdb.com/set/93857
       rhj:
-        - pmm: disney/rhj      # Image Credit to RedHeadjedi / https://theposterdb.com/set/62522
+        pmm: disney/rhj      # Image Credit to RedHeadjedi / https://theposterdb.com/set/62522
       rhj2:
-        - pmm: disney/rh2      # Image Credit to RedHeadjedi / https://theposterdb.com/set/2454
+        pmm: disney/rh2      # Image Credit to RedHeadjedi / https://theposterdb.com/set/2454
     collections:
       "Walt Disney Animation Studios":
         - "Disney Animation Studios"
@@ -144,6 +144,9 @@ sets:
       "Disney Live-Action Remakes":
         - "Disney Live-Action"
     "Toy Story": 862
+    "Jungle Cruise": 451048
+    "Pete's Dragon (2016)": 294272
+    "Pete's Dragon (1977)": 11114
     "Coco": 354912
     "Inside Out": 150540
     "Finding Nemo": 12
@@ -182,6 +185,7 @@ sets:
     "Toy Story of Terror!": 213121
     "Turning Red": 508947
     "Encanto": 568124
+    "Luck (2022)": 585511
     "For the Birds": 13930
     "Wreck-It Ralph": 82690
     "Hercules": 11970
@@ -594,8 +598,9 @@ sets:
 
   dreamworks:                      # Source List: https://trakt.tv/users/pablo-ramon-amorim/lists/dreamworks-animation
     styles:
-      default:
-        - pmm: dreamworks/default  # Image Credit to DIIVOY / https://theposterdb.com/set/97689
+      default: diiivoy
+      diiivoy:
+        pmm: dreamworks/diiivoy  # Image Credit to diiivoy / https://theposterdb.com/set/97689
     collections:
       "DreamWorks Animation":
         - "DreamWorks"
@@ -694,8 +699,9 @@ sets:
 
   illumination:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
     styles:
-      default:
-        - pmm:   illumination/default  # Image Credit to DIIVOY / https://theposterdb.com/set/122213
+      default: diiivoy
+      diiivoy:
+        pmm:   illumination/diiivoy  # Image Credit to diiivoy / https://theposterdb.com/set/122213
     collections:
       "Illumination Entertainment Collection":
         - "Illumination Entertainment"
@@ -752,8 +758,9 @@ sets:
 
   sony:
     styles:
-      default:
-        - pmm: sony/default  # Image Credit to DIIVOY / https://theposterdb.com/set/106184
+      default: diiivoy
+      diiivoy:
+        pmm: sony/diiivoy  # Image Credit to diiivoy / https://theposterdb.com/set/106184
     collections:
       "Sony Pictures Animation Collection":
         - "Sony Pictures Animation"
@@ -812,8 +819,9 @@ sets:
 
   misc:
     styles:
-      default:
-        - pmm:   misc/default
+      default: misc
+      misc:
+        pmm:   misc/misc
     collections:
       "Tom and Jerry Collection":                 # Image Credit to mikenobbs / https://theposterdb.com/set/101330
         - "Tom and Jerry"                         # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
@@ -824,10 +832,13 @@ sets:
       "Scooby-Doo! Animated Collection":           # Image Credit to mikenobbs / https://theposterdb.com/set/98627
         - "Scooby-Doo! Animated"                   # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
       "Sonic the Hedgehog Complete Collection":   
-        - "Sonic the Hedgehog Complete"           # Image Credit to DIIVOY / https://theposterdb.com/set/170160
+        - "Sonic the Hedgehog Complete"           # Image Credit to diiivoy / https://theposterdb.com/set/170160
         - "Sonic the Hedgehog"                    # Source Link: https://trakt.tv/users/shedman214/lists/sonic
       "SEGA Collection":
         - "SEGA"
+    "Ron's Gone Wrong": 482321
+    "Sherlock Gnomes": 370567
+    "Gnomeo & Juliet": 45772
     "Tom and Jerry Cowboy Up!": 892153
     "Tom & Jerry": 587807
     "Tom and Jerry: Back to Oz": 403510
@@ -893,4 +904,3 @@ sets:
     "Sonic X: The Movie": 333548
     "Sonic the Hedgehog 2": 675353
     "Sonic the Hedgehog 3": 939243
-

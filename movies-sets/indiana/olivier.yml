@@ -1,3 +1,9 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/10362
+  set_key: olivier
+  set_link: https://theposterdb.com/set/4874
+  set_author: Olivier_286
+
 collections:
   "Indiana Jones Collection": {tpdb_poster: 10361}
 set:
