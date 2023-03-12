@@ -455,7 +455,7 @@ sets:
   poirot:
     styles: 
       default:  
-        - pmm: poirot/default
+        - pmm: poirot/default       # Image Credit to DIIIVOY https://theposterdb.com/set/70314
     collections:
       "Hercule Poirot Collection":
         - "Hercule Poirot"
