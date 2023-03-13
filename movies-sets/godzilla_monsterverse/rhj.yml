@@ -1,0 +1,13 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/135068
+  set_key: rhj
+  set_link: https://theposterdb.com/set/84136
+  set_author: RedHeadJedi
+
+collections:
+  "Godzilla (Monsterverse)": {tpdb_poster: 135068}
+set:
+  "Godzilla (2014)": {tpdb_poster: 135069}
+  "Kong Skull Island": {tpdb_poster: 135070}
+  "Godzilla King of the Monsters": {tpdb_poster: 135071}
+  "Godzilla vs Kong (2021)": {tpdb_poster: 135072}

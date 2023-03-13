@@ -220,6 +220,20 @@ sets:
     "Godzilla: Final Wars (2004)": 15767
     "Godzilla vs. Kong (2021)": 399566
 
+  godzilla_monsterverse:
+    styles:
+      default: rhj
+      rhj:
+        pmm: godzilla_monsterverse/rhj
+    collections:
+      "Monsterverse Collection":
+        - "Godzilla (Monsterverse)"
+        - "Godzilla Collection"
+    "Godzilla (2014)": 124905
+    "Kong Skull Island": 293167
+    "Godzilla King of the Monsters": 373571
+    "Godzilla vs Kong (2021)": 399566
+
   godzilla_showa:                # Source List: https://trakt.tv/users/rzepkowski/lists/godzilla-movies
     styles:
       default: doctorbat
@@ -282,6 +296,19 @@ sets:
     "Indiana Jones and the Last Crusade (1989)": 89
     "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
     "Indiana Jones and the Dial of Destiny (2023)": 335977
+
+  john_wick:
+    styles:
+      default: rhj
+      rhj: 
+        pmm: john_wick/rhj
+    collections:
+      "John Wick Collection":
+        - "John Wick"
+    "John Wick": 245891
+    "John Wick 2": 324552
+    "John Wick 3": 458156
+    "John Wick 4": 603692
 
   jurassic:                         # Source List: https://trakt.tv/users/psaul3/lists/jurassic-universe?sort=released,asc
     styles:
