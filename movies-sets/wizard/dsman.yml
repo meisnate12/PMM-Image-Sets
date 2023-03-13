@@ -7,11 +7,11 @@ info:
 collections:
   "Wizarding World (of Harry Potter) Collection": {tpdb_poster: 21001}
 set:
-"Harry Potter and the Philosopher's Stone (2001)": {tpdb_poster: 21002}
-"Harry Potter and the Chamber of Secrets (2002)": {tpdb_poster: 21003}
-"Harry Potter and the Prisoner of Azkaban (2004)": {tpdb_poster: 21004}
-"Harry Potter and the Goblet of Fire (2005)": {tpdb_poster: 21005}
-"Harry Potter and the Order of the Phoenix (2007)": {tpdb_poster: 21006}
-"Harry Potter and the Half-Blood Prince (2009)": {tpdb_poster: 21007}
-"Harry Potter and the Deathly Hallows: Part 1 (2010)": {tpdb_poster: 21008}
-"Harry Potter and the Deathly Hallows: Part 2 (2011)": {tpdb_poster: 21009}
+"Harry Potter and the Philosopher's Stone": {tpdb_poster: 21002}
+"Harry Potter and the Chamber of Secrets": {tpdb_poster: 21003}
+"Harry Potter and the Prisoner of Azkaban": {tpdb_poster: 21004}
+"Harry Potter and the Goblet of Fire": {tpdb_poster: 21005}
+"Harry Potter and the Order of the Phoenix": {tpdb_poster: 21006}
+"Harry Potter and the Half-Blood Prince": {tpdb_poster: 21007}
+"Harry Potter and the Deathly Hallows: Part 1": {tpdb_poster: 21008}
+"Harry Potter and the Deathly Hallows: Part 2": {tpdb_poster: 21009}

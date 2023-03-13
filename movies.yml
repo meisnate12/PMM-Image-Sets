@@ -312,19 +312,21 @@ sets:
 
   jurassic:                         # Source List: https://trakt.tv/users/psaul3/lists/jurassic-universe?sort=released,asc
     styles:
-      default: rhj
+      default: diiivoy
+      diiivoy:
+        pmm: jurassic/diiivoy          # Image Credit to diiivoy / https://theposterdb.com/set/103129
       rhj:
         pmm: jurassic/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/97241
     collections:
       "Jurassic Park Collection":
         - "Jurassic Park"
-    "Jurassic Park (1993)": 329
-    "The Lost World: Jurassic Park (1997)": 330
-    "Jurassic Park III (2001)": 331
-    "Jurassic World (2015)": 135397
-    "Jurassic World: Fallen Kingdom (2018)": 351286
-    "Battle at Big Rock (2019)": 630322
-    "Jurassic World Dominion (2022)": 507086
+    "Jurassic Park": 329
+    "The Lost World: Jurassic Park": 330
+    "Jurassic Park III": 331
+    "Jurassic World": 135397
+    "Jurassic World: Fallen Kingdom": 351286
+    "Battle at Big Rock": 630322
+    "Jurassic World Dominion": 507086
 
   marvel:                         # Source List: https://mdblist.com/lists/plexmetamanager/external/15110
     styles:
@@ -615,7 +617,9 @@ sets:
 
   wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
     styles:
-      default: rhj
+      default: diiivoy
+      diiivoy:
+        pmm: wizard/diiivoy              # Image Credit to diiivoy / https://theposterdb.com/set/96588
       rhj:
         pmm: wizard/rhj                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/101665
       rhj2:
@@ -627,17 +631,21 @@ sets:
         - "Wizarding World (of Harry Potter)"
         - "Wizarding World of Harry Potter"
         - "Wizarding World"
-    "Fantastic Beasts and Where to Find Them (2016)": 259316
-    "Fantastic Beasts: The Crimes of Grindelwald (2018)": 338952
-    "Fantastic Beasts: The Secrets of Dumbledore (2022)": 338953
+      "Fantastic Beasts Collection":
+        - "Fantastic Beasts"
+      "Harry Potter Collection":
+        - "Harry Potter"
+    "Fantastic Beasts and Where to Find Them": 259316
+    "Fantastic Beasts: The Crimes of Grindelwald": 338952
+    "Fantastic Beasts: The Secrets of Dumbledore": 338953
     "Fantastic Beasts 4 (None)": 422641
     "Fantastic Beasts 5 (None)": 422642
-    "Harry Potter and the Philosopher's Stone (2001)": 671
-    "Harry Potter and the Chamber of Secrets (2002)": 672
-    "Harry Potter and the Prisoner of Azkaban (2004)": 673
-    "Harry Potter and the Goblet of Fire (2005)": 674
-    "Harry Potter and the Order of the Phoenix (2007)": 675
-    "Harry Potter and the Half-Blood Prince (2009)": 767
-    "Harry Potter and the Deathly Hallows: Part 1 (2010)": 12444
-    "Harry Potter and the Deathly Hallows: Part 2 (2011)": 12445
-    "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": 899082
+    "Harry Potter and the Philosopher's Stone": 671
+    "Harry Potter and the Chamber of Secrets": 672
+    "Harry Potter and the Prisoner of Azkaban": 673
+    "Harry Potter and the Goblet of Fire": 674
+    "Harry Potter and the Order of the Phoenix": 675
+    "Harry Potter and the Half-Blood Prince": 767
+    "Harry Potter and the Deathly Hallows: Part 1": 12444
+    "Harry Potter and the Deathly Hallows: Part 2": 12445
+    "Harry Potter 20th Anniversary: Return to Hogwarts": 899082

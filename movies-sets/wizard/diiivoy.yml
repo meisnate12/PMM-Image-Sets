@@ -1,0 +1,23 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/157013
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/96588
+  set_author: DIIIVOY
+
+collections:
+  "Wizarding World (of Harry Potter) Collection": {tpdb_poster: 21001}
+  "Fantastic Beasts Collection": {tpdb_poster: 157754}
+  "Harry Potter Collection": {tpdb_poster: 157009}
+set:
+  "Harry Potter and the Philosopher's Stone": {tpdb_poster: 157010}
+  "Harry Potter and the Chamber of Secrets": {tpdb_poster: 157011}
+  "Harry Potter and the Prisoner of Azkaban": {tpdb_poster: 157012}
+  "Harry Potter and the Goblet of Fire": {tpdb_poster: 157013}
+  "Harry Potter and the Order of the Phoenix": {tpdb_poster: 157014}
+  "Harry Potter and the Half-Blood Prince": {tpdb_poster: 157015}
+  "Harry Potter and the Deathly Hallows: Part 1": {tpdb_poster: 157016}
+  "Harry Potter and the Deathly Hallows: Part 2": {tpdb_poster: 157017}
+  "Fantastic Beasts and Where to Find Them": {tpdb_poster: 157755}
+  "Fantastic Beasts: The Crimes of Grindelwald": {tpdb_poster: 157756}
+  "Harry Potter 20th Anniversary: Return to Hogwarts": {tpdb_poster: 198017}
+  "Fantastic Beasts: The Secrets of Dumbledore": {tpdb_poster: 235125}

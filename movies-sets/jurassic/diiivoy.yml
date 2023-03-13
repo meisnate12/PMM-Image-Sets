@@ -1,0 +1,17 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/168738
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/103129
+  set_author: DIIIVOY
+
+collections:
+  "Jurassic Park Collection": {tpdb_poster: 168732}
+set:
+  "Jurassic Park": {tpdb_poster: 168733}
+  "The Lost World: Jurassic Park": {tpdb_poster: 168734}
+  "Jurassic Park III": {tpdb_poster: 168735}
+  "Jurassic World": {tpdb_poster: 168737}
+  "Jurassic World: Fallen Kingdom": {tpdb_poster: 168738}
+  "Battle at Big Rock": {tpdb_poster: 168739}
+  # "Jurassic World Dominion: The Prologue": {tpdb_poster: 250527}      # Not on TMDB
+  "Jurassic World Dominion": {tpdb_poster: 250528}
