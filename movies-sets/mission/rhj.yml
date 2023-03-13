@@ -1,0 +1,15 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/65202
+  set_key: rhj
+  set_link: https://theposterdb.com/set/20379
+  set_author: RedHeadJedi
+
+collections:
+  "Mission: Impossible Collection": {tpdb_poster: 41497}
+set:
+  "Mission: Impossible": {tpdb_poster: 65203}
+  "Mission: Impossible 2": {tpdb_poster: 65204}
+  "Mission: Impossible 3": {tpdb_poster: 65205}
+  "Mission: Impossible Ghost Protocol": {tpdb_poster: 65206}
+  "Mission: Impossible Rogue Nation": {tpdb_poster: 65207}
+  "Mission: Impossible Fallout": {tpdb_poster: 65208}
