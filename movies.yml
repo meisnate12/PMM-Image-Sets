@@ -531,6 +531,26 @@ sets:
     "The Lord of the Rings: The Two Towers": 121
     "The Lord of the Rings: The Return of the King": 122
 
+  mission:
+    styles:
+      default: rhj
+      rhj:
+        pmm: mission/rhj
+      rhj2:
+        pmm: mission/rhj2
+    collections:
+      "Mission: Impossible Collection":
+        - "Mission: Impossible"
+        - "Mission Impossible"
+    "Mission: Impossible": 954
+    "Mission: Impossible 2": 955
+    "Mission: Impossible 3": 956
+    "Mission: Impossible Ghost Protocol": 56292
+    "Mission: Impossible Rogue Nation": 177677
+    "Mission: Impossible Fallout": 353081
+    "Mission: Impossible Dead Reckoning 1": 575264
+    "Mission: Impossible Dead Reckoning 2": 575265
+
   pirates:
     styles:
       default: rhj
