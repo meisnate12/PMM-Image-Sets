@@ -5,7 +5,7 @@ info:
   set_author: RedHeadJedi
 
 collections:
-  "James Bond Collection": {poster_tpdb: 176906}
+  "James Bond Collection": {tpdb_poster: 176906}
 set:
   "Dr. No (1962)": {tpdb_poster: 177015}
   "From Russia with Love (1963)": {tpdb_poster: 177016}

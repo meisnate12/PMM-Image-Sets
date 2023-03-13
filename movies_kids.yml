@@ -696,7 +696,6 @@ sets:
     "The Boss Baby: Christmas Bonus": 1045944
     "The Boss Baby: Get That Baby!": 735364
 
-
   illumination:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
     styles:
       default: diiivoy
@@ -755,6 +754,20 @@ sets:
     "Minions: The Rise of Gru": 438148
     "The Super Mario Bros. Movie": 502356
     "Despicable Me 4": 519182
+
+  jumanji:
+    styles:
+      default: rhj
+      rhj:
+        pmm: jumanji/rhj
+      rhj2:
+        pmm: jumanji/rhj2
+    collections:
+      "Jumanji Collection":
+        - "Jumanji"
+    "Jumanji": 8844
+    "Jumanji: Welcome to the Jungle": 353486
+    "Jumanji: The Next Level": 512200
 
   sony:
     styles:
