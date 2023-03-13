@@ -5,7 +5,7 @@ info:
   set_author: RedHeadJedi
 
 collections:
-  "John Wick": {tpdb_poster: 12029}
+  "John Wick Collection": {tpdb_poster: 12029}
 set:
   "John Wick": {tpdb_poster: 12030}
   "John Wick 2": {tpdb_poster: 12031}

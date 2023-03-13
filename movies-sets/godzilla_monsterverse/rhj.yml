@@ -5,7 +5,7 @@ info:
   set_author: RedHeadJedi
 
 collections:
-  "Godzilla (Monsterverse)": {tpdb_poster: 135068}
+  "Monsterverse Collection": {tpdb_poster: 135068}
 set:
   "Godzilla (2014)": {tpdb_poster: 135069}
   "Kong Skull Island": {tpdb_poster: 135070}

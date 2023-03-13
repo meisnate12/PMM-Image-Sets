@@ -1,0 +1,14 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/49933
+  set_key: rhj
+  set_link: https://theposterdb.com/set/31826
+  set_author: RedHeadJedi
+
+collections:
+  "Pirates of the Carribean Collection": {tpdb_poster: 49933}
+set:
+  "Pirates of the Caribbean: The Curse of the Black Pearl": {tpdb_poster: 49934}
+  "Pirates of the Caribbean: Dead Man's Chest": {tpdb_poster: 49935}
+  "Pirates of the Caribbean: At World's End": {tpdb_poster: 49936}
+  "Pirates of the Caribbean: On Stranger Tides": {tpdb_poster: 49937}
+  "Pirates of the Caribbean: Dead Men Tell no Tales": {tpdb_poster: 49938}

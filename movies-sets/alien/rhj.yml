@@ -5,7 +5,7 @@ info:
   set_author: RedHeadJedi
 
 collections:
-  "Alien": {tpdb_poster: 1213}
+  "Alien Collection": {tpdb_poster: 1213}
 set:
   "Alien": {tpdb_poster: 1214}
   "Aliens": {tpdb_poster: 1215}

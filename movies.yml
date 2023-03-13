@@ -139,7 +139,7 @@ sets:
       mikenobbs: 
         pmm: fast_furious/mikenobbs
     collections:
-      "Fast & Furious Collection":
+      "Fast & Furious: Complete Collection":
         - "The Fast & Furious"
         - "Fast & Furious"
     "The Fast and the Furious": 9799
@@ -529,6 +529,34 @@ sets:
     "The Lord of the Rings: The Two Towers": 121
     "The Lord of the Rings: The Return of the King": 122
 
+  pirates:
+    styles:
+      default: rhj
+      rhj: 
+        pmm: pirates/rhj
+      diiivoy:
+        pmm: pirates/diiivoy
+    collections:
+      "Pirates of the Caribbean Collection":
+        - "Pirates of the Caribbean"
+    "Pirates of the Caribbean: The Curse of the Black Pearl": 22
+    "Pirates of the Caribbean: Dead Man's Chest": 58
+    "Pirates of the Caribbean: At World's End": 285
+    "Pirates of the Caribbean: On Stranger Tides": 1865
+    "Pirates of the Caribbean: Dead Men Tell no Tales": 166426
+
+  poirot:
+    styles: 
+      default: diiivoy  
+      diiivoy:        # Image Credit to DIIIVOY https://theposterdb.com/set/70314
+        pmm: poirot/diiivoy
+    collections:
+      "Hercule Poirot Collection":
+        - "Hercule Poirot"
+        - "Poirot"
+    "Death on the Nile (2022)": 505026
+    "Murder on the Orient Express (2017)": 392044
+
   predator:
     styles:
       default: rhj
@@ -542,18 +570,6 @@ sets:
     "Predators": 34851
     "The Predator": 346910
     "Prey": 766507
-
-  poirot:
-    styles: 
-      default: diiivoy  
-      diiivoy:        # Image Credit to DIIIVOY https://theposterdb.com/set/70314
-        pmm: poirot/diiivoy
-    collections:
-      "Hercule Poirot Collection":
-        - "Hercule Poirot"
-        - "Poirot"
-    "Death on the Nile (2022)": 505026
-    "Murder on the Orient Express (2017)": 392044
 
   saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
     styles:
