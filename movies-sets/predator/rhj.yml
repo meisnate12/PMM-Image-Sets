@@ -1,0 +1,14 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/243
+  set_key: rhj
+  set_link: https://theposterdb.com/set/76
+  set_author: RedHeadJedi
+
+collections:
+  "Predator Collection": {tpdb_poster: 243}
+set:
+  "Predator": {tpdb_poster: 244}
+  "Predator 2": {tpdb_poster: 245}
+  "Predators": {tpdb_poster: 246}
+  "The Predator": {tpdb_poster: 247}
+  "Prey": {tpdb_poster: 255438}

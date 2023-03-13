@@ -1,4 +1,21 @@
 sets:
+  alien:
+    styles:
+      default: rhj
+      rhj: 
+        pmm: alien/rhj
+    collections:
+      "Alien Collection":
+        - "Alien"
+    "Alien": 348
+    "Aliens": 679
+    "Alien 3": 8077
+    "Alien Resurrection": 8078
+    "AVP": 395
+    "AVP Requiem": 440
+    "Prometheus": 70981
+    "Alien Covenant": 126889
+  
   bond:                      # Source List: https://trakt.tv/users/any/lists/james-bond
     styles:
       default: rhj
@@ -115,6 +132,29 @@ sets:
     "The Batman": 414906
     "V for Vendetta": 752
     "DC League of Super-Pets": 539681
+
+  fast_furious:
+    styles: 
+      default: mikenobbs
+      mikenobbs: 
+        pmm: fast_furious/mikenobbs
+    collections:
+      "Fast & Furious Collection":
+        - "The Fast & Furious"
+        - "Fast & Furious"
+    "The Fast and the Furious": 9799
+    "2 Fast 2 Furious: Prelude": 77959
+    "2 Fast 2 Furious": 584
+    "Tokyo Drift": 9615
+    "Fast & Furious": 13804
+    "Los Bandoleros": 253835
+    "Fast Five": 51497
+    "Fast & Furious 6": 82992
+    "Furious 7": 168259
+    "The Fate of the Furious": 337339
+    "Hobbs & Shaw": 384018
+    "F9: The Fast Saga": 385128
+    "Fast X": 385687
 
   godfather:                      # Source List: https://trakt.tv/lists/official/the-godfather-collection
     styles:
@@ -462,11 +502,25 @@ sets:
     "The Lord of the Rings: The Two Towers": 121
     "The Lord of the Rings: The Return of the King": 122
 
+  predator:
+    styles:
+      default: rhj
+      rhj:  
+        pmm: predator/rhj
+    collections: 
+      "Predator Collection":
+        - "Predator"
+    "Predator": 106
+    "Predator 2": 169
+    "Predators": 34851
+    "The Predator": 346910
+    "Prey": 766507
+
   poirot:
     styles: 
       default: diiivoy  
       diiivoy:        # Image Credit to DIIIVOY https://theposterdb.com/set/70314
-        - pmm: poirot/diiivoy
+        pmm: poirot/diiivoy
     collections:
       "Hercule Poirot Collection":
         - "Hercule Poirot"
