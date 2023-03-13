@@ -1,0 +1,14 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/12029
+  set_key: rhj
+  set_link: https://theposterdb.com/set/6002
+  set_author: RedHeadJedi
+
+collections:
+  "John Wick Collection": {tpdb_poster: 12029}
+set:
+  "John Wick": {tpdb_poster: 12030}
+  "John Wick 2": {tpdb_poster: 12031}
+  "John Wick 3": {tpdb_poster: 12032}
+  "John Wick 4": {tpdb_poster: null}
+

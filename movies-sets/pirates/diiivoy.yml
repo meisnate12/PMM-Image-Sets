@@ -1,0 +1,14 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/105782
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/66561
+  set_author: DIIIVOY
+
+collections:
+  "Pirates of the Carribean Collection": {tpdb_poster: 105782}
+set:
+  "Pirates of the Caribbean: The Curse of the Black Pearl": {tpdb_poster: 105783}
+  "Pirates of the Caribbean: Dead Man's Chest": {tpdb_poster: 105784}
+  "Pirates of the Caribbean: At World's End": {tpdb_poster: 105785}
+  "Pirates of the Caribbean: On Stranger Tides": {tpdb_poster: 105786}
+  "Pirates of the Caribbean: Dead Men Tell no Tales": {tpdb_poster: 105787}

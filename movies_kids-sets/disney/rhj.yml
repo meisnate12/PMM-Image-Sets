@@ -6,7 +6,7 @@ info:
 
 collections:
   "Walt Disney Animation Studios": {tpdb_poster: 98903}
-  "Pixar Animation Studios": {poster_tpdb: 456}
+  "Pixar Animation Studios": {tpdb_poster: 456}
 set:
   "Snow White and the Seven Dwarfs": {tpdb_poster: 98904}
   "Pinocchio": {tpdb_poster: 98905}

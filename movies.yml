@@ -1,4 +1,21 @@
 sets:
+  alien:
+    styles:
+      default: rhj
+      rhj: 
+        pmm: alien/rhj
+    collections:
+      "Alien Collection":
+        - "Alien"
+    "Alien": 348
+    "Aliens": 679
+    "Alien 3": 8077
+    "Alien Resurrection": 8078
+    "AVP": 395
+    "AVP Requiem": 440
+    "Prometheus": 70981
+    "Alien Covenant": 126889
+  
   bond:                      # Source List: https://trakt.tv/users/any/lists/james-bond
     styles:
       default: rhj
@@ -116,6 +133,29 @@ sets:
     "V for Vendetta": 752
     "DC League of Super-Pets": 539681
 
+  fast_furious:
+    styles: 
+      default: mikenobbs
+      mikenobbs: 
+        pmm: fast_furious/mikenobbs
+    collections:
+      "Fast & Furious: Complete Collection":
+        - "The Fast & Furious"
+        - "Fast & Furious"
+    "The Fast and the Furious": 9799
+    "2 Fast 2 Furious: Prelude": 77959
+    "2 Fast 2 Furious": 584
+    "Tokyo Drift": 9615
+    "Fast & Furious": 13804
+    "Los Bandoleros": 253835
+    "Fast Five": 51497
+    "Fast & Furious 6": 82992
+    "Furious 7": 168259
+    "The Fate of the Furious": 337339
+    "Hobbs & Shaw": 384018
+    "F9: The Fast Saga": 385128
+    "Fast X": 385687
+
   godfather:                      # Source List: https://trakt.tv/lists/official/the-godfather-collection
     styles:
       default: eternal
@@ -180,6 +220,20 @@ sets:
     "Godzilla: Final Wars (2004)": 15767
     "Godzilla vs. Kong (2021)": 399566
 
+  godzilla_monsterverse:
+    styles:
+      default: rhj
+      rhj:
+        pmm: godzilla_monsterverse/rhj
+    collections:
+      "Monsterverse Collection":
+        - "Godzilla (Monsterverse)"
+        - "Godzilla Collection"
+    "Godzilla (2014)": 124905
+    "Kong Skull Island": 293167
+    "Godzilla King of the Monsters": 373571
+    "Godzilla vs Kong (2021)": 399566
+
   godzilla_showa:                # Source List: https://trakt.tv/users/rzepkowski/lists/godzilla-movies
     styles:
       default: doctorbat
@@ -242,6 +296,19 @@ sets:
     "Indiana Jones and the Last Crusade (1989)": 89
     "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
     "Indiana Jones and the Dial of Destiny (2023)": 335977
+
+  john_wick:
+    styles:
+      default: rhj
+      rhj: 
+        pmm: john_wick/rhj
+    collections:
+      "John Wick Collection":
+        - "John Wick"
+    "John Wick": 245891
+    "John Wick 2": 324552
+    "John Wick 3": 458156
+    "John Wick 4": 603692
 
   jurassic:                         # Source List: https://trakt.tv/users/psaul3/lists/jurassic-universe?sort=released,asc
     styles:
@@ -462,17 +529,47 @@ sets:
     "The Lord of the Rings: The Two Towers": 121
     "The Lord of the Rings: The Return of the King": 122
 
+  pirates:
+    styles:
+      default: rhj
+      rhj: 
+        pmm: pirates/rhj
+      diiivoy:
+        pmm: pirates/diiivoy
+    collections:
+      "Pirates of the Caribbean Collection":
+        - "Pirates of the Caribbean"
+    "Pirates of the Caribbean: The Curse of the Black Pearl": 22
+    "Pirates of the Caribbean: Dead Man's Chest": 58
+    "Pirates of the Caribbean: At World's End": 285
+    "Pirates of the Caribbean: On Stranger Tides": 1865
+    "Pirates of the Caribbean: Dead Men Tell no Tales": 166426
+
   poirot:
     styles: 
       default: diiivoy  
       diiivoy:        # Image Credit to DIIIVOY https://theposterdb.com/set/70314
-        - pmm: poirot/diiivoy
+        pmm: poirot/diiivoy
     collections:
       "Hercule Poirot Collection":
         - "Hercule Poirot"
         - "Poirot"
     "Death on the Nile (2022)": 505026
     "Murder on the Orient Express (2017)": 392044
+
+  predator:
+    styles:
+      default: rhj
+      rhj:  
+        pmm: predator/rhj
+    collections: 
+      "Predator Collection":
+        - "Predator"
+    "Predator": 106
+    "Predator 2": 169
+    "Predators": 34851
+    "The Predator": 346910
+    "Prey": 766507
 
   saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
     styles:

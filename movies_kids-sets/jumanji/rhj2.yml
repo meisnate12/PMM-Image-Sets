@@ -1,0 +1,12 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/2573
+  set_key: rhj2
+  set_link: https://theposterdb.com/set/915
+  set_author: RedHeadJedi
+
+collections:
+  "Jumanji Collection": {tpdb_poster: 2573}
+set:
+  "Jumanji": {tpdb_poster: 2574}
+  "Jumanji: Welcome to the Jungle": {tpdb_poster: 2575}
+  "Jumanji: The Next Level": {tpdb_poster: 2577}  
