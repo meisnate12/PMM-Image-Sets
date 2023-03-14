@@ -583,6 +583,18 @@ sets:
     "Mission: Impossible Dead Reckoning 1": 575264
     "Mission: Impossible Dead Reckoning 2": 575265
 
+  nowyouseeme:
+    styles:
+      default: rhj
+      rhj:
+        pmm: nowyouseeme/rhj
+    collections:  
+      "Now You See Me Collection":
+        - "Now You See Me"
+    Now You See Me (2013)": 75656
+    Now You See Me 2 (2016): 291805
+    Now You See Me 3 (2023): 425274
+
   pirates:
     styles:
       default: rhj
