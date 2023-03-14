@@ -29,7 +29,7 @@ sets:
     "Avatar 3 (2024)": 83533
     "Avatar 4 (2026)": 216527
     "Avatar (2009)": 19995
-      edition: 
+      edition: "" 
     "Avatar (2009) Extended":
       mapping_id: 19995
       edition_contains: Extended
@@ -95,7 +95,7 @@ sets:
         - "Batman"
     "Man of Steel": 49521
     "Batman v Superman: Dawn of Justice": 209112
-      edition: 
+      edition: "" 
     "Batman v Superman: Dawn of Justice (Ultimate Edition)":
       mapping_id: 209112
       edition_contains: Ultimate
@@ -107,7 +107,7 @@ sets:
     "Wonder Woman 1984": 464052
     "The Suicide Squad": 436969
     "Zack Snyder's Justice League": 791373
-      edition: 
+      edition: "" 
     "Zack Snyder's Justice League (Justice is Gray Edition)":
       mapping_id: 791373
       edition_contains: Gray
@@ -129,7 +129,7 @@ sets:
     "RED 2": 146216
     "Superman": 1924
     "Superman II": 8536
-      edition: 
+      edition: "" 
     "Superman II (The Richard Donner Cut)":
       mapping_id: 8536
       edition_contains: Donner
@@ -137,7 +137,7 @@ sets:
     "Superman IV: The Quest for Peace": 11411
     "Superman Returns": 1452
     "Watchmen": 13183
-      edition: 
+      edition: "" 
     "Watchmen (Director's Cut)":
       mapping_id: 13183
       edition_contains: Director
@@ -396,7 +396,7 @@ sets:
     "X-Men: First Class (2011)": 49538
     "The Wolverine (2013)": 76170
     "X-Men: Days of Future Past (2014)": 127585
-      edition: 
+      edition: "" 
     "X-Men: Days of Future Past (The Rogue Cut)":
       mapping_id: 127585
       edition_contains: Rogue
@@ -404,7 +404,7 @@ sets:
     "Deadpool: No Good Deed": 558144
     "X-Men: Apocalypse (2016)": 246655
     "Logan (2017)": 263115
-      edition: 
+      edition: "" 
     "Logan (Noir)":
       mapping_id: 263115
       edition_contains: Noir
@@ -412,7 +412,7 @@ sets:
       mapping_id: 383498
       edition_contains: Duper
     "Deadpool 2 (2018)": 383498
-      edition: 
+      edition: "" 
     "Once Upon a Deadpool (2018)": 567604
     "Dark Phoenix (2019)": 320288
     "The New Mutants (2020)": 340102
@@ -516,7 +516,7 @@ sets:
     "Avengers: Endgame (2019)": 299534
     "Spider-Man: Far From Home (2019)": 429617
     "Spider-Man: No Way Home (2021)": 634649
-      edition: 
+      edition: ""
     "Spider-Man: No Way Home (The More Fun Stuff Version) (2021)":
       mapping_id: 634649
       edition_contains: Fun Stuff
