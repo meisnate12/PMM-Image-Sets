@@ -1,0 +1,16 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/303873
+  set_key: rhj
+  set_link: https://theposterdb.com/set/179016
+  set_author: RedHeadJedi
+
+collections:
+  "Avatar": {tpdb_poster: 303873}
+
+set:
+  Avatar 2 (2022): {poster_tpdb: 303875}
+  # Avatar 3 (2024): {poster_tpdb: null}
+  # Avatar 4 (2026): {poster_tpdb: null}
+  Avatar (2009): {poster_tpdb: 303874}
+  Avatar (2009) Extended: {tpdb_poster: 303876}
+  # Avatar 5 (2028): {poster_tpdb: null}

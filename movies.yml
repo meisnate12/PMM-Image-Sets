@@ -15,7 +15,25 @@ sets:
     "AVP Requiem": 440
     "Prometheus": 70981
     "Alien Covenant": 126889
-  
+
+  avatar:
+    styles:
+      default: rhj
+      rhj:
+        pmm: avatar/rhj
+    collections:
+      "Avatar Collection":
+        - "Avatar Collection"
+        - "Avatar"
+    Avatar 2 (2022): 76600
+    Avatar 3 (2024): 83533
+    Avatar 4 (2026): 216527
+    Avatar (2009): 19995
+    Avatar (2009) Extended:
+      mapping_id: 19995
+      edition_contains: Extended
+    Avatar 5 (2028): 393209
+
   bond:                      # Source List: https://trakt.tv/users/any/lists/james-bond
     styles:
       default: rhj
