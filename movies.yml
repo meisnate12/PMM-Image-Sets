@@ -28,10 +28,12 @@ sets:
     "Avatar 2 (2022)": 76600
     "Avatar 3 (2024)": 83533
     "Avatar 4 (2026)": 216527
+    "Avatar (2009)":
+      mapping_id: 19995
+      blank_edition: true
     "Avatar (2009) Extended":
       mapping_id: 19995
       edition_contains: Extended
-    "Avatar (2009)": 19995
     "Avatar 5 (2028)": 393209
 
   bond:                      # Source List: https://trakt.tv/users/any/lists/james-bond
@@ -397,10 +399,10 @@ sets:
     "Deadpool (2016)": 293660
     "Deadpool: No Good Deed": 558144
     "X-Men: Apocalypse (2016)": 246655
+    "Logan (2017)": 263115
     "Logan (Noir)":
       mapping_id: 263115
-      edition_contains: Noir    
-    "Logan (2017)": 263115
+      edition_contains: Noir
     "Deadpool 2 (Super Duper Cut)":
       mapping_id: 383498
       edition_contains: Duper
@@ -591,7 +593,7 @@ sets:
     collections:  
       "Now You See Me Collection":
         - "Now You See Me"
-    Now You See Me (2013): 75656
+    Now You See Me (2013)": 75656
     Now You See Me 2 (2016): 291805
     Now You See Me 3 (2023): 425274
 
