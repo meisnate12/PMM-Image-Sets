@@ -591,7 +591,7 @@ sets:
     collections:  
       "Now You See Me Collection":
         - "Now You See Me"
-    Now You See Me (2013)": 75656
+    Now You See Me (2013): 75656
     Now You See Me 2 (2016): 291805
     Now You See Me 3 (2023): 425274
 
@@ -599,7 +599,7 @@ sets:
     styles:
       default: rhj
       rhj: 
-        pmm: ocean/rhl
+        pmm: ocean/rhj
     collections:
       "Ocean's Collection":
         - "Ocean's"
