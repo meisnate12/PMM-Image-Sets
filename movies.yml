@@ -598,7 +598,8 @@ sets:
   ocean:
     styles:
       default: rhj
-      rhj: ocean/rhl
+      rhj: 
+        pmm: ocean/rhl
     collections:
       "Ocean's Collection":
         - "Ocean's"
