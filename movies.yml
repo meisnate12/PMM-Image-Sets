@@ -530,6 +530,20 @@ sets:
     "Captain America: New World Order (2024)": 822119
     "Werewolf by Night (2022)": 894205
 
+  menInBlack:
+    styles:
+      default: rhj
+      rhj:
+        pmm: menInBlack/rhj
+    collections:
+      "Men in Black Collection":
+        - "Men in Black Collection"
+        - "Men in Black"
+    Men in Black (1997): 607
+    Men in Black II (2002): 608
+    Men in Black 3 (2012): 41154
+    Men in Black International (2019): 479455    
+
   middle:                         # Source List: https://trakt.tv/users/jjmalpz/lists/middle-earth?sort=rank,asc
     styles:
       default: mikenobbs
