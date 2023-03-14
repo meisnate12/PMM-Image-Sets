@@ -7,7 +7,6 @@ sets:
     collections:
       "Alien Collection":
         - "Alien"
-        - "Alien / Predator"
     "Alien": 348
     "Aliens": 679
     "Alien 3": 8077
@@ -363,9 +362,9 @@ sets:
       diiivoy:
         pmm: marvel/diiivoy              # Image Credit to diiivoy / https://theposterdb.com/set/78444
     collections:
-      "In Association With Marvel":
+      "In Association with Marvel":
         - "Marvel"
-        - "In Association with Marvel"
+        - "In Association With Marvel"
       "The Amazing Spider-Man Collection":
         - "The Amazing Spider-Man"
       "Spider-Man Collection":
