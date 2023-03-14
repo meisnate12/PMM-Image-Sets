@@ -28,8 +28,7 @@ sets:
     "Avatar 2 (2022)": 76600
     "Avatar 3 (2024)": 83533
     "Avatar 4 (2026)": 216527
-    "Avatar (2009)": 19995
-      edition: "" 
+    "Avatar (2009)": 
     "Avatar (2009) Extended":
       mapping_id: 19995
       edition_contains: Extended
@@ -94,7 +93,8 @@ sets:
       "Batman Collection":
         - "Batman"
     "Man of Steel": 49521
-    "Batman v Superman: Dawn of Justice": 209112
+    "Batman v Superman: Dawn of Justice":
+    mapping_id: 209112
       edition: "" 
     "Batman v Superman: Dawn of Justice (Ultimate Edition)":
       mapping_id: 209112
@@ -106,7 +106,8 @@ sets:
     "Birds of Prey": 495764
     "Wonder Woman 1984": 464052
     "The Suicide Squad": 436969
-    "Zack Snyder's Justice League": 791373
+    "Zack Snyder's Justice League":
+      mapping_id: 791373
       edition: "" 
     "Zack Snyder's Justice League (Justice is Gray Edition)":
       mapping_id: 791373
@@ -128,7 +129,8 @@ sets:
     "RED": 39514
     "RED 2": 146216
     "Superman": 1924
-    "Superman II": 8536
+    "Superman II":
+      mapping_id: 8536
       edition: "" 
     "Superman II (The Richard Donner Cut)":
       mapping_id: 8536
@@ -136,7 +138,8 @@ sets:
     "Superman III": 9531
     "Superman IV: The Quest for Peace": 11411
     "Superman Returns": 1452
-    "Watchmen": 13183
+    "Watchmen":
+      mapping_id: 13183
       edition: "" 
     "Watchmen (Director's Cut)":
       mapping_id: 13183
@@ -395,7 +398,8 @@ sets:
     "X-Men Origins: Wolverine (2009)": 2080
     "X-Men: First Class (2011)": 49538
     "The Wolverine (2013)": 76170
-    "X-Men: Days of Future Past (2014)": 127585
+    "X-Men: Days of Future Past (2014)":
+      mapping_id: 127585
       edition: "" 
     "X-Men: Days of Future Past (The Rogue Cut)":
       mapping_id: 127585
@@ -403,7 +407,8 @@ sets:
     "Deadpool (2016)": 293660
     "Deadpool: No Good Deed": 558144
     "X-Men: Apocalypse (2016)": 246655
-    "Logan (2017)": 263115
+    "Logan (2017)":
+      mapping_id: 263115
       edition: "" 
     "Logan (Noir)":
       mapping_id: 263115
@@ -411,7 +416,8 @@ sets:
     "Deadpool 2 (Super Duper Cut)":
       mapping_id: 383498
       edition_contains: Duper
-    "Deadpool 2 (2018)": 383498
+    "Deadpool 2 (2018)":
+      mapping_id: 383498
       edition: "" 
     "Once Upon a Deadpool (2018)": 567604
     "Dark Phoenix (2019)": 320288
@@ -515,7 +521,8 @@ sets:
     "Avengers: Infinity War (2018)": 299536
     "Avengers: Endgame (2019)": 299534
     "Spider-Man: Far From Home (2019)": 429617
-    "Spider-Man: No Way Home (2021)": 634649
+    "Spider-Man: No Way Home (2021)":
+      mapping_id: 634649
       edition: ""
     "Spider-Man: No Way Home (The More Fun Stuff Version) (2021)":
       mapping_id: 634649
