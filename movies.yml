@@ -7,6 +7,7 @@ sets:
     collections:
       "Alien Collection":
         - "Alien"
+        - "Alien / Predator"
     "Alien": 348
     "Aliens": 679
     "Alien 3": 8077
@@ -364,6 +365,7 @@ sets:
     collections:
       "In Association With Marvel":
         - "Marvel"
+        - "In Association with Marvel"
       "The Amazing Spider-Man Collection":
         - "The Amazing Spider-Man"
       "Spider-Man Collection":
@@ -378,6 +380,7 @@ sets:
         - "Blade"
       "X-Men Collection":
         - "X-Men"
+        - "X-Men Universe"
       "Wolverine Collection":
         - "Wolverine"
       "The Punisher Collection":
