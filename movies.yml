@@ -28,7 +28,9 @@ sets:
     "Avatar 2 (2022)": 76600
     "Avatar 3 (2024)": 83533
     "Avatar 4 (2026)": 216527
-    "Avatar (2009)": 19995
+    "Avatar (2009)":
+      mapping_id: 19995
+      blank_edition:
     "Avatar (2009) Extended":
       mapping_id: 19995
       edition_contains: Extended
