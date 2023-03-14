@@ -15,7 +15,25 @@ sets:
     "AVP Requiem": 440
     "Prometheus": 70981
     "Alien Covenant": 126889
-  
+
+  avatar:
+    styles:
+      default: rhj
+      rhj:
+        pmm: avatar/rhj
+    collections:
+      "Avatar Collection":
+        - "Avatar Collection"
+        - "Avatar"
+    Avatar 2 (2022): 76600
+    Avatar 3 (2024): 83533
+    Avatar 4 (2026): 216527
+    Avatar (2009): 19995
+    Avatar (2009) Extended:
+      mapping_id: 19995
+      edition_contains: Extended
+    Avatar 5 (2028): 393209
+
   bond:                      # Source List: https://trakt.tv/users/any/lists/james-bond
     styles:
       default: rhj
@@ -512,6 +530,20 @@ sets:
     "Captain America: New World Order (2024)": 822119
     "Werewolf by Night (2022)": 894205
 
+  menInBlack:
+    styles:
+      default: rhj
+      rhj:
+        pmm: menInBlack/rhj
+    collections:
+      "Men in Black Collection":
+        - "Men in Black Collection"
+        - "Men in Black"
+    Men in Black (1997): 607
+    Men in Black II (2002): 608
+    Men in Black 3 (2012): 41154
+    Men in Black International (2019): 479455    
+
   middle:                         # Source List: https://trakt.tv/users/jjmalpz/lists/middle-earth?sort=rank,asc
     styles:
       default: mikenobbs
@@ -522,7 +554,7 @@ sets:
     collections:
       "Middle-Earth Collection":
         - "Middle-Earth"
-        - "Middle Eath Collection"
+        - "Middle Earth Collection"
         - "Middle Earth"
     "The Hobbit: An Unexpected Journey": 49051
     "The Hobbit: The Desolation of Smaug": 57158
@@ -550,6 +582,30 @@ sets:
     "Mission: Impossible Fallout": 353081
     "Mission: Impossible Dead Reckoning 1": 575264
     "Mission: Impossible Dead Reckoning 2": 575265
+
+  nowyouseeme:
+    styles:
+      default: rhj
+      rhj:
+        pmm: nowyouseeme/rhj
+    collections:  
+      "Now You See Me Collection":
+        - "Now You See Me"
+    Now You See Me (2013)": 75656
+    Now You See Me 2 (2016): 291805
+    Now You See Me 3 (2023): 425274
+
+  ocean:
+    styles:
+      default: rhj
+      rhj: ocean/rhl
+    collections:
+      "Ocean's Collection":
+        - "Ocean's"
+    Ocean's Eight (2018): 402900
+    Ocean's Eleven (2001): 161
+    Ocean's Twelve (2004): 163
+    Ocean's Thirteen (2007): 298
 
   pirates:
     styles:

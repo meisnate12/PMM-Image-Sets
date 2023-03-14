@@ -1,0 +1,13 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/228
+  set_key: rhj
+  set_link: https://theposterdb.com/set/70
+  set_author: RedHeadJedi
+
+collections:
+  "Ocean's Collection": {tpdb_poster: 228}
+set:
+  "Ocean's Eleven": {tpdb_poster: 229}
+  "Ocean's Twelve": {tpdb_poster: 230}
+  "Ocean's Thirteen": {tpdb_poster: 231}
+  "Ocean's Eight": {tpdb_poster: 232}

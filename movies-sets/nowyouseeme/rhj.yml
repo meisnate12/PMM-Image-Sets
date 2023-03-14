@@ -1,0 +1,12 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/2628
+  set_key: rhj
+  set_link: https://theposterdb.com/set/20379
+  set_author: RedHeadJedi
+
+collections:
+  "Now You See Me Collection": {tpdb_poster: 2628}
+set:
+  Now You See Me (2013): {tpdb_poster: 2629}
+  Now You See Me 2 (2016): {tpdb_poster: 2630}
+  # Now You See Me 3 (2023): {tpdb_poster: }
