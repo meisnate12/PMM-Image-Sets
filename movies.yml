@@ -595,6 +595,18 @@ sets:
     Now You See Me 2 (2016): 291805
     Now You See Me 3 (2023): 425274
 
+  ocean:
+    styles:
+      default: rhj
+      rhj: ocean/rhl
+    collections:
+      "Ocean's Collection":
+        - "Ocean's"
+    Ocean's Eight (2018): 402900
+    Ocean's Eleven (2001): 161
+    Ocean's Twelve (2004): 163
+    Ocean's Thirteen (2007): 298
+
   pirates:
     styles:
       default: rhj
