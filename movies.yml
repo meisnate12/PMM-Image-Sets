@@ -672,6 +672,29 @@ sets:
     "The Predator": 346910
     "Prey": 766507
 
+  rocky_creed:
+    styles:
+      default: doctorbat
+      doctorbat:
+        pmm: rocky_creed/doctorbat
+    collections:
+      "Rocky Collection":
+        - "Rocky"
+      "Creed Collection":
+        - "Creed"
+      "Rocky / Creed Collection":
+        - "Rocky / Creed"
+    Rocky Balboa (2006): 1246
+    Rocky (1976): 1366
+    Rocky II (1979): 1367
+    Rocky III (1982): 1371
+    Rocky IV (1985): 1374
+    Rocky V (1990): 1375
+    Creed (2015): 312221
+    Creed II (2018): 480530
+    Creed III (2023): 677179
+    Creed IV (): 1083597
+
   saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
     styles:
       default: rhj
