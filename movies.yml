@@ -475,6 +475,7 @@ sets:
     "Marvel Studios: Expanding the Universe (2019)": 647375
     "Spider-Man: Beyond the Spider-Verse (2024)": 911916
 
+
   mcu:                         # Source List: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
     styles:
       default: diiivoy_neon
@@ -566,6 +567,7 @@ sets:
     "Deadpool 3 (2024)": 533535
     "Captain America: New World Order (2024)": 822119
     "Werewolf by Night (2022)": 894205
+    "Director by Night": 1036996
 
   menInBlack:
     styles:

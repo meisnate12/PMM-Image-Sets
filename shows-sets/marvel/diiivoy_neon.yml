@@ -82,3 +82,7 @@ set:
     tpdb_poster: 170620
   "Blade (2011)":
     tpdb_poster: 139559
+  "Daredevil: Born Again":
+    tpdb_poster: 333288
+    seasons:
+      1: {tpdb_poster: 333289}
