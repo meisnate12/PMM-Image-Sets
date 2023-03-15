@@ -3,7 +3,7 @@ sets:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
-        pmm:   bluesky/diiivoy_neon     # Image Credit to diiivoy / https://theposterdb.com/set/122213
+        pmm:   bluesky/diiivoy_neon
     collections:
       "Illumination Entertainment Collection":
         - "Illumination Entertainment"
@@ -35,11 +35,11 @@ sets:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
-        pmm: disney/diiivoy_neon  # Image Credit to diiivoy / https://theposterdb.com/set/93857
+        pmm: disney/diiivoy_neon
       rhj:
-        pmm: disney/rhj      # Image Credit to RedHeadjedi / https://theposterdb.com/set/62522
+        pmm: disney/rhj
       rhj2:
-        pmm: disney/rh2      # Image Credit to RedHeadjedi / https://theposterdb.com/set/2454
+        pmm: disney/rh2
     collections:
       "Walt Disney Animation Studios":
         - "Disney Animation Studios"
@@ -620,7 +620,7 @@ sets:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
-        pmm: dreamworks/diiivoy_neon  # Image Credit to diiivoy / https://theposterdb.com/set/97689
+        pmm: dreamworks/diiivoy_neon
     collections:
       "DreamWorks Animation":
         - "DreamWorks"
@@ -720,7 +720,7 @@ sets:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
-        pmm:   illumination/diiivoy_neon  # Image Credit to diiivoy / https://theposterdb.com/set/122213
+        pmm:   illumination/diiivoy_neon
     collections:
       "Illumination Entertainment Collection":
         - "Illumination Entertainment"
@@ -793,7 +793,7 @@ sets:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
-        pmm: sony/diiivoy_neon  # Image Credit to diiivoy / https://theposterdb.com/set/106184
+        pmm: sony/diiivoy_neon
     collections:
       "Sony Pictures Animation Collection":
         - "Sony Pictures Animation"
@@ -856,17 +856,17 @@ sets:
       misc:
         pmm:   misc/misc
     collections:
-      "Tom and Jerry Collection":                 # Image Credit to mikenobbs / https://theposterdb.com/set/101330
-        - "Tom and Jerry"                         # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
-      "The Land Before Time Collection":           #  Image Credit to mikenobbs / https://theposterdb.com/set/66397
-        - "The Land Before Time"                  # Source List: https://trakt.tv/users/krissykk/lists/animation-land-before-time
+      "Tom and Jerry Collection":                  # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
+        - "Tom and Jerry"                         
+      "The Land Before Time Collection":
+        - "The Land Before Time"
         - "Land Before Time Collection"
         - "Land Before Time"
-      "Scooby-Doo! Animated Collection":           # Image Credit to mikenobbs / https://theposterdb.com/set/98627
-        - "Scooby-Doo! Animated"                   # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
-      "Sonic the Hedgehog Complete Collection":   
-        - "Sonic the Hedgehog Complete"           # Image Credit to diiivoy / https://theposterdb.com/set/170160
-        - "Sonic the Hedgehog"                    # Source Link: https://trakt.tv/users/shedman214/lists/sonic
+      "Scooby-Doo! Animated Collection":          # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+        - "Scooby-Doo! Animated"                  
+      "Sonic the Hedgehog Complete Collection":   # Source Link: https://trakt.tv/users/shedman214/lists/sonic  
+        - "Sonic the Hedgehog Complete"
+        - "Sonic the Hedgehog"                    
       "SEGA Collection":
         - "SEGA"
       "Addams Family (Animated)":

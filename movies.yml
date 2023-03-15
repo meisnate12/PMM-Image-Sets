@@ -40,7 +40,7 @@ sets:
     styles:
       default: rhj
       rhj:
-        pmm: bond/rhj          # Image Credit to RedHeadJedi / https://theposterdb.com/set/107797
+        pmm: bond/rhj
     collections:
       "James Bond Collection":
         - "James Bond"
@@ -75,11 +75,11 @@ sets:
 
   dc:                      # Source List: https://trakt.tv/users/malicekodi2/lists/dc
     styles:
-      default: diiivoy
-      diiivoy:
-        pmm: dc/diiivoy          # Image Credit to diiivoy / https://theposterdb.com/set/80057
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: dc/diiivoy_neon
       rhj:
-        pmm: dc/rhj              # Image Credit to RedHeadjedi / https://theposterdb.com/set/50563
+        pmm: dc/rhj
     collections:
       "Worlds of DC (DCEU)":
         - "Worlds of DC"
@@ -203,7 +203,7 @@ sets:
     styles:
       default: eternal
       eternal:
-        pmm: godfather/eternal          # Image Credit to Eternal / https://theposterdb.com/set/183508
+        pmm: godfather/eternal
     collections:
       "The Godfather Collection":
         - "The Godfather"
@@ -220,9 +220,9 @@ sets:
     styles:
       default: doctorbat
       doctorbat:
-        pmm: godzilla_heisei/doctorbat             # Image Credit to DoctorBat / https://theposterdb.com/set/182956
+        pmm: godzilla_heisei/doctorbat
       doctorbat2:
-        pmm: godzilla_heisei/doctorbat2   # Image Credit to DoctorBat / https://theposterdb.com/set/182960
+        pmm: godzilla_heisei/doctorbat2
     collections:
       "Godzilla (Heisei) Collection":
         - "Godzilla (Heisei)"
@@ -281,9 +281,9 @@ sets:
     styles:
       default: doctorbat
       doctorbat:
-        pmm: godzilla_showa/doctorbat    # Image Credit to DoctorBat / https://theposterdb.com/set/181742
+        pmm: godzilla_showa/doctorbat
       doctorbat2:
-        pmm: godzilla_showa/doctorbat2   # Image Credit to DoctorBat / https://theposterdb.com/set/181738
+        pmm: godzilla_showa/doctorbat2
     collections:
       "Godzilla (Showa) Collection":
         - "Godzilla (Showa)"
@@ -328,9 +328,9 @@ sets:
     styles:
       default: rhj
       rhj:
-        pmm: indiana/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/34045
+        pmm: indiana/rhj
       olivier:
-        pmm: indiana/olivier   # Image Credit to Olivier_286 / https://theposterdb.com/set/4874
+        pmm: indiana/olivier
     collections:
       "Indiana Jones Collection":
         - "Indiana Jones"
@@ -355,11 +355,11 @@ sets:
 
   jurassic:                         # Source List: https://trakt.tv/users/psaul3/lists/jurassic-universe?sort=released,asc
     styles:
-      default: diiivoy
-      diiivoy:
-        pmm: jurassic/diiivoy          # Image Credit to diiivoy / https://theposterdb.com/set/103129
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: jurassic/diiivoy_neon
       rhj:
-        pmm: jurassic/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/97241
+        pmm: jurassic/rhj
     collections:
       "Jurassic Park Collection":
         - "Jurassic Park"
@@ -373,9 +373,9 @@ sets:
 
   marvel:                         # Source List: https://mdblist.com/lists/plexmetamanager/external/15110
     styles:
-      default: diiivoy
-      diiivoy:
-        pmm: marvel/diiivoy              # Image Credit to diiivoy / https://theposterdb.com/set/78444
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: marvel/diiivoy_neon
     collections:
       "In Association with Marvel":
         - "Marvel"
@@ -477,15 +477,15 @@ sets:
 
   mcu:                         # Source List: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
     styles:
-      default: diiivoy
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: mcu/diiivoy_neon
       diiivoy:
-        pmm: mcu/diiivoy       # Image Credit to diiivoy / https://theposterdb.com/set/71510
-      diiivoy2:
-        pmm: mcu/diiivoy2        # Image Credit to diiivoy / https://theposterdb.com/set/41596
+        pmm: mcu/diiivoy
       rhj:
-        pmm: mcu/rhj           # Image Credit to RedHeadJedi / https://theposterdb.com/set/4475
+        pmm: mcu/rhj
       rhj2:
-        pmm: mcu/rhj2          # Image Credit to RedHeadJedi / https://theposterdb.com/set/87080
+        pmm: mcu/rhj2
     collections:
       "Marvel Cinematic Universe":
         - "MCU"
@@ -587,9 +587,9 @@ sets:
     styles:
       default: mikenobbs
       mikenobbs:
-        pmm: middle/mikenobbs         # Image Credit to mikenobbs / https://theposterdb.com/set/115877
+        pmm: middle/mikenobbs
       rhj:
-        pmm: middle/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/20379 / https://theposterdb.com/set/22601
+        pmm: middle/rhj
     collections:
       "Middle-Earth Collection":
         - "Middle-Earth"
@@ -672,9 +672,9 @@ sets:
 
   poirot:
     styles: 
-      default: diiivoy  
-      diiivoy:        # Image Credit to DIIIVOY https://theposterdb.com/set/70314
-        pmm: poirot/diiivoy
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: poirot/diiivoy_neon
     collections:
       "Hercule Poirot Collection":
         - "Hercule Poirot"
@@ -723,7 +723,7 @@ sets:
     styles:
       default: rhj
       rhj:
-        pmm: saw/rhj                      # Image Credit to RedHeadJedi / https://theposterdb.com/set/95260
+        pmm: saw/rhj
     collections:
       "Saw Collection":
         - "Saw"
@@ -741,9 +741,9 @@ sets:
     styles:
       default: rhj
       rhj:
-        pmm: starwars/rhj             # Image Credit to RedHeadJedi / https://theposterdb.com/set/93852
+        pmm: starwars/rhj
       rhj2:
-        pmm: starwars/rhj2             # Image Credit to RedHeadJedi / https://theposterdb.com/set/89606
+        pmm: starwars/rhj2
     collections:
       "Star Wars: The Complete Collection":
         - "Star Wars: The Complete"
@@ -763,15 +763,15 @@ sets:
 
   wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
     styles:
-      default: diiivoy
-      diiivoy:
-        pmm: wizard/diiivoy              # Image Credit to diiivoy / https://theposterdb.com/set/96588
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: wizard/diiivoy_neon
       rhj:
-        pmm: wizard/rhj                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/101665
+        pmm: wizard/rhj
       rhj2:
-        pmm: wizard/rhj2                 # Image Credit to RedHeadJedi / https://theposterdb.com/set/11706
+        pmm: wizard/rhj2
       dsman:
-        pmm: wizard/dsman                 # Image Credit to Dsman124 / https://theposterdb.com/set/12177
+        pmm: wizard/dsman
     collections:
       "Wizarding World (of Harry Potter) Collection":
         - "Wizarding World (of Harry Potter)"
