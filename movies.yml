@@ -697,9 +697,9 @@ sets:
 
   rocky_creed:
     styles:
-      default: doctorbat
-      doctorbat:
-        pmm: rocky_creed/doctorbat
+      default: dannybeaton
+      dannybeaton:
+        pmm: rocky_creed/dannybeaton
     collections:
       "Rocky Collection":
         - "Rocky"
