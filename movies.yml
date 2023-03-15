@@ -7,7 +7,6 @@ sets:
     collections:
       "Alien Collection":
         - "Alien"
-        - "Alien / Predator"
     "Alien": 348
     "Aliens": 679
     "Alien 3": 8077
@@ -95,6 +94,18 @@ sets:
         - "Flash"
       "Batman Collection":
         - "Batman"
+      "The Dark Knight Collection":
+        - "The Dark Knight"
+      "Aquaman Collection":
+        - "Aquaman" 
+      "Suicide Squad Collection":
+        - "The Suicide Squad"
+        - "Suicide Squad"
+      "Shazam! Collection":
+        - "Shazam!"
+      "RED Collection":
+      "Wonder Woman Collection":
+        - "Wonder Woman"
     "Man of Steel": 49521
     "Batman v Superman: Dawn of Justice":
       mapping_id: 209112
@@ -171,6 +182,8 @@ sets:
       "Fast & Furious: Complete Collection":
         - "The Fast & Furious"
         - "Fast & Furious"
+        - "The Fast and the Furious"
+        - "The Fast & the Furious"
     "The Fast and the Furious": 9799
     "2 Fast 2 Furious: Prelude": 77959
     "2 Fast 2 Furious": 584
@@ -363,9 +376,9 @@ sets:
       diiivoy:
         pmm: marvel/diiivoy              # Image Credit to diiivoy / https://theposterdb.com/set/78444
     collections:
-      "In Association With Marvel":
+      "In Association with Marvel":
         - "Marvel"
-        - "In Association with Marvel"
+        - "In Association With Marvel"
       "The Amazing Spider-Man Collection":
         - "The Amazing Spider-Man"
       "Spider-Man Collection":
@@ -396,6 +409,8 @@ sets:
         - "Captain America (1979)"
       "Spider-Man Universe":
         - "Spider-Man Universe"
+      "Venom Collection":
+        - "Venom"
     "Big Hero 6 (2014)": 177572
     "X-Men (2000)": 36657
     "X2 (2003)": 36658
@@ -560,6 +575,8 @@ sets:
       "Men in Black Collection":
         - "Men in Black Collection"
         - "Men in Black"
+        - "Men In Black"
+        - "Men In Black Collection"
     Men in Black (1997): 607
     Men in Black II (2002): 608
     Men in Black 3 (2012): 41154
@@ -577,6 +594,13 @@ sets:
         - "Middle-Earth"
         - "Middle Earth Collection"
         - "Middle Earth"
+      "Hobbit Collection":
+        - "The Hobbit"
+        - "The Hobbit Collection"
+      "Lord of the Rings Collection":
+        - "Lord of the Rings"
+        - "The Lord of the Rings"
+        - "The Lord of the Rings Collection"
     "The Hobbit: An Unexpected Journey": 49051
     "The Hobbit: The Desolation of Smaug": 57158
     "The Hobbit: The Battle of the Five Armies": 122917
@@ -670,6 +694,29 @@ sets:
     "Predators": 34851
     "The Predator": 346910
     "Prey": 766507
+
+  rocky_creed:
+    styles:
+      default: doctorbat
+      doctorbat:
+        pmm: rocky_creed/doctorbat
+    collections:
+      "Rocky Collection":
+        - "Rocky"
+      "Creed Collection":
+        - "Creed"
+      "Rocky / Creed Collection":
+        - "Rocky / Creed"
+    Rocky Balboa (2006): 1246
+    Rocky (1976): 1366
+    Rocky II (1979): 1367
+    Rocky III (1982): 1371
+    Rocky IV (1985): 1374
+    Rocky V (1990): 1375
+    Creed (2015): 312221
+    Creed II (2018): 480530
+    Creed III (2023): 677179
+    Creed IV (): 1083597
 
   saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
     styles:
