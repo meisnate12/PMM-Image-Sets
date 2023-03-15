@@ -256,7 +256,6 @@ sets:
     "Olaf Presents": 404155
     "Ice Age: Scrat Tales": 416952
 
-
   dreamworks:                      # Source List: https://trakt.tv/users/asmobarki/lists/dreamworks
     styles:
       default: diiivoy_neon
@@ -314,6 +313,36 @@ sets:
     "The Boss Baby: Back in the Crib": 419298
     "Kung Fu Panda: The Dragon Knight": 419961
 
+  landbeforetime:
+    styles:
+      default: mikenobbs
+      mikenobbs:
+        pmm: miscellaneous/landbeforetime/mikenobbs
+    collections:
+      "The Land Before Time Collection":              # Source List: https://trakt.tv/users/krissykk/lists/animation-land-before-time
+        - "The Land Before Time"
+    "The Land Before Time": 80822
+
+  scoobydoo:
+    styles:
+      default: mikenobbs
+      mikenobbs:
+        pmm: miscellaneous/scoobydoo/mikenobbs
+    collections:
+      "Scooby-Doo! Animated Collection":          # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+        - "Scooby-Doo! Animated"         
+    "Scooby-Doo, Where Are You!": 78260
+    "The New Scooby-Doo Movies": 75661
+    "Scooby-Doo and Scrappy-Doo": 78740
+    "The 13 Ghosts of Scooby-Doo": 73543
+    "A Pup Named Scooby-Doo": 73546
+    "What's New Scooby-Doo?": 80119
+    "Shaggy & Scooby-Doo Get a Clue!": 81425
+    "Scooby-Doo! Mystery Incorporated": 174681
+    "Be Cool, Scooby-Doo!": 301376
+    "Scooby-Doo and Guess Who?": 361065
+    "The Scooby-Doo Show": 73817
+
   sony:                      # Source List: https://trakt.tv/users/haiderales/lists/sony-pictures-animation
     styles:
       default: diiivoy_neon
@@ -348,25 +377,14 @@ sets:
     "Cloudy with a Chance of Meatballs": 324262
     "Hotel Transylvania: The Series": 328994
 
-  misc:
+  tomjerry:
     styles:
-      default: misc
-      misc:
-        pmm:   misc/misc
+      default: mikenobbs
+      mikenobbs:
+        pmm: miscellaneous/tomjerry/mikenobbs
     collections:
-      "Tom and Jerry Collection":                     # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry?sort=released,desc
-        - "Tom and Jerry"                 
-      "The Land Before Time Collection":              # Source List: https://trakt.tv/users/krissykk/lists/animation-land-before-time
-        - "The Land Before Time"
-        - "Land Before Time Collection"
-        - "Land Before Time"
-      "Scooby-Doo! Animated Collection":              # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
-        - "Scooby-Doo! Animated"                   
-      "Sonic the Hedgehog Complete Collection":       # Source Link: https://trakt.tv/users/shedman214/lists/sonic
-        - "Sonic the Hedgehog Complete
-        - "Sonic the Hedgehog"                    
-      "SEGA Collection":
-        - "SEGA"
+      "Tom and Jerry Collection":                  # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
+        - "Tom and Jerry"                     
     "The Tom and Jerry Comedy Show": 83056
     "The Tom and Jerry Show": 280446
     "Tom and Jerry Kids Show": 77973
@@ -374,23 +392,28 @@ sets:
     "Tom and Jerry": 72860
     "Tom and Jerry in New York": 390477
     "Tom and Jerry Tales": 82837
-    "Dink, the Little Dinosaur": 71440
-    "The Land Before Time": 80822
-    "Scooby-Doo, Where Are You!": 78260
-    "The New Scooby-Doo Movies": 75661
-    "Scooby-Doo and Scrappy-Doo": 78740
-    "The 13 Ghosts of Scooby-Doo": 73543
-    "A Pup Named Scooby-Doo": 73546
-    "What's New Scooby-Doo?": 80119
-    "Shaggy & Scooby-Doo Get a Clue!": 81425
-    "Scooby-Doo! Mystery Incorporated": 174681
-    "Be Cool, Scooby-Doo!": 301376
-    "Scooby-Doo and Guess Who?": 361065
-    "The Scooby-Doo Show": 73817
+
+  sonic:
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: miscellaneous/sonic/diiivoy_neon
+    collections:
+      "Sonic the Hedgehog Complete Collection":   # Source Link: https://trakt.tv/users/shedman214/lists/sonic  
+        - "Sonic the Hedgehog Complete"
+        - "Sonic the Hedgehog"                    
+      "SEGA Collection":
+        - "SEGA"
     "Sonic X": 72459
     "Sonic Boom": 280103
     "Sonic Underground": 73634
     "Sonic the Hedgehog": 73629
     "Sonic Mania Adventures": 373903
     "The Adventures of Sonic the Hedgehog": 73630
+
+  ungrouped:
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: miscellaneous/ungrouped/diiivoy_neon
     "Bluey": 353546

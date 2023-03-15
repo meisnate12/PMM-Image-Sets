@@ -789,6 +789,90 @@ sets:
     "Jumanji: Welcome to the Jungle": 353486
     "Jumanji: The Next Level": 512200
 
+  landbeforetime:
+    styles:
+      default: mikenobbs
+      mikenobbs:
+        pmm: miscellaneous/landbeforetime/mikenobbs
+    collections:
+      "The Land Before Time Collection":              # Source List: https://trakt.tv/users/krissykk/lists/animation-land-before-time?sort=rank,asc
+        - "The Land Before Time"
+        - "Land Before Time Collection"
+        - "Land Before Time"
+    "The Land Before Time": 12144
+    "The Land Before Time III: The Time of the Great Giving": 19004
+    "The Land Before Time IV: Journey Through the Mists": 19164
+    "The Land Before Time IX: Journey to Big Water": 25556
+    "The Land Before Time V: The Mysterious Island": 19165
+    "The Land Before Time VI: The Secret of Saurus Rock": 17337
+    "The Land Before Time VII: The Stone of Cold Fire": 24102
+    "The Land Before Time VIII: The Big Freeze": 25587
+    "The Land Before Time X: The Great Longneck Migration": 24554
+    "The Land Before Time XI: Invasion of the Tinysauruses": 24556
+    "The Land Before Time XII: The Great Day of the Flyers": 31933
+    "The Land Before Time XIII: The Wisdom of Friends": 39961
+    "The Land Before Time XIV: Journey of the Brave": 339526
+    "The Land Before Time: Friends Forever": 35909
+    "The Land Before Time: Good Times and Good Friends": 62053
+    "The Land Before Time: Magical Discoveries": 62056
+    "The Land Before Time: The Great Valley Adventure": 15997
+    "The Land Before Time: Through The Eyes Of A Spiketail": 62054
+    "The Land Before Time: Adventuring In The Mysterious Beyond": 62052
+    "The Land Before Time: Amazing Adventures": 62055
+    "The Land Before Time: 2 DinoRiffic Adventures": 596770
+    "The Land Before Time: Sing Along Songs": 495171
+
+  scoobydoo:
+    styles:
+      default: mikenobbs
+      mikenobbs:
+        pmm: miscellaneous/scoobydoo/mikenobbs
+    collections:
+      "Scooby-Doo! Animated Collection":          # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+        - "Scooby-Doo! Animated"                  
+    "Scooby-Doo! The Sword and the Scoob": 682254
+    "Scooby-Doo! and the Beach Beastie": 340884
+    "Scooby-Doo! and KISS: Rock and Roll Mystery": 347688
+    "Scooby-Doo! Moon Monster Madness": 302960
+    "Scooby-Doo! and WWE: Curse of the Speed Demon": 409122
+    "Scooby-Doo! Shaggy's Showdown": 427564
+    "Scooby-Doo! & Batman: The Brave and the Bold": 484862
+    "Scooby-Doo! and the Gourmet Ghost": 533592
+    "Scooby-Doo! and the Curse of the 13th Ghost": 560066
+    "Scooby-Doo! Return to Zombie Island": 615774
+    "Happy Halloween, Scooby-Doo!": 721656
+    "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog": 843906
+    "Scooby-Doo! Mask of the Blue Falcon": 151535
+    "Scooby-Doo! Spooky Games": 284908
+    "Scooby-Doo! Music of the Vampire": 81900
+    "Big Top Scooby-Doo!": 119321
+    "Scooby-Doo! Stage Fright": 203696
+    "Scooby-Doo! WrestleMania Mystery": 258893
+    "Scooby-Doo! Frankencreepy": 284995
+    "Scooby-Doo! Haunted Holidays": 245881
+    "Scooby-Doo! Pirates Ahoy!": 13355
+    "Chill Out, Scooby-Doo!": 13354
+    "Scooby-Doo! and the Goblin King": 12903
+    "Scooby-Doo! and the Samurai Sword": 16390
+    "Scooby-Doo! Abracadabra-Doo": 32916
+    "Scooby-Doo! Camp Scare": 45752
+    "Scooby-Doo! Legend of the Phantosaur": 67900
+    "Scooby-Doo on Zombie Island": 13151
+    "Scooby-Doo! and the Witch's Ghost": 17681
+    "Scooby-Doo and the Alien Invaders": 20410
+    "Scooby-Doo! and the Cyber Chase": 15601
+    "Scooby-Doo Meets Batman": 287757
+    "Scooby-Doo! and the Legend of the Vampire": 30074
+    "Scooby-Doo! and the Monster of Mexico": 21956
+    "Scooby-Doo! and the Loch Ness Monster": 12902
+    "Scooby-Doo! in Where's My Mummy?": 20558
+    "Aloha Scooby-Doo!": 24615
+    "Scooby-Doo! Meets the Boo Brothers": 24787
+    "Scooby-Doo! and the Reluctant Werewolf": 37211
+    "Scooby-Doo and the Ghoul School": 13350
+    "Scooby-Doo! in Arabian Nights": 13351
+    "Trick or Treat Scooby-Doo!": 1015724
+
   sony:
     styles:
       default: diiivoy_neon
@@ -850,42 +934,14 @@ sets:
     "Hotel Transylvania: Transformania": 585083
     "Spider-Man: Across the Spider-Verse": 569094
 
-  misc:
+  tomjerry:
     styles:
-      default: misc
-      misc:
-        pmm:   misc/misc
+      default: mikenobbs
+      mikenobbs:
+        pmm: miscellaneous/tomjerry/mikenobbs
     collections:
       "Tom and Jerry Collection":                  # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
         - "Tom and Jerry"                         
-      "The Land Before Time Collection":
-        - "The Land Before Time"
-        - "Land Before Time Collection"
-        - "Land Before Time"
-      "Scooby-Doo! Animated Collection":          # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
-        - "Scooby-Doo! Animated"                  
-      "Sonic the Hedgehog Complete Collection":   # Source Link: https://trakt.tv/users/shedman214/lists/sonic  
-        - "Sonic the Hedgehog Complete"
-        - "Sonic the Hedgehog"                    
-      "SEGA Collection":
-        - "SEGA"
-      "Addams Family (Animated)":
-        - "The Addams Family (Animated)"
-      "Gnomeo & Juliet Collection":
-        - "Gnomeo & Juliet"
-    "Ron's Gone Wrong": 482321
-    "Sherlock Gnomes": 370567
-    "Gnomeo & Juliet": 45772
-    "How the Grinch Stole Christmas (2000)": 8871
-    "How the Grinch Stole Christmas (1966)": 13377
-    "The Cat in the Hat": 10588
-    "Wonder Park": 400157
-    "Lyle, Lyle, Crocodile": 830784
-    "Scoob!": 385103
-    "Smallfoot": 446894
-    "Storks": 332210
-    "The Addams Family (2019)": 481084
-    "The Addams Family 2 (2021)": 639721
     "Tom and Jerry Cowboy Up!": 892153
     "Tom & Jerry": 587807
     "Tom and Jerry: Back to Oz": 403510
@@ -904,50 +960,67 @@ sets:
     "Tom and Jerry: Spy Quest": 343977
     "Tom and Jerry: Willy Wonka and the Chocolate Factory": 455411
     "Tom and Jerry Snowman's Land": 1018403
-    "Scooby-Doo! The Sword and the Scoob": 682254
-    "Scooby-Doo! and the Beach Beastie": 340884
-    "Scooby-Doo! and KISS: Rock and Roll Mystery": 347688
-    "Scooby-Doo! Moon Monster Madness": 302960
-    "Scooby-Doo! and WWE: Curse of the Speed Demon": 409122
-    "Scooby-Doo! Shaggy's Showdown": 427564
-    "Scooby-Doo! & Batman: The Brave and the Bold": 484862
-    "Scooby-Doo! and the Gourmet Ghost": 533592
-    "Scooby-Doo! and the Curse of the 13th Ghost": 560066
-    "Scooby-Doo! Return to Zombie Island": 615774
-    "Happy Halloween, Scooby-Doo!": 721656
-    "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog": 843906
-    "Scooby-Doo! Mask of the Blue Falcon": 151535
-    "Scooby-Doo! Spooky Games": 284908
-    "Scooby-Doo! Music of the Vampire": 81900
-    "Big Top Scooby-Doo!": 119321
-    "Scooby-Doo! Stage Fright": 203696
-    "Scooby-Doo! WrestleMania Mystery": 258893
-    "Scooby-Doo! Frankencreepy": 284995
-    "Scooby-Doo! Haunted Holidays": 245881
-    "Scooby-Doo! Pirates Ahoy!": 13355
-    "Chill Out, Scooby-Doo!": 13354
-    "Scooby-Doo! and the Goblin King": 12903
-    "Scooby-Doo! and the Samurai Sword": 16390
-    "Scooby-Doo! Abracadabra-Doo": 32916
-    "Scooby-Doo! Camp Scare": 45752
-    "Scooby-Doo! Legend of the Phantosaur": 67900
-    "Scooby-Doo on Zombie Island": 13151
-    "Scooby-Doo! and the Witch's Ghost": 17681
-    "Scooby-Doo and the Alien Invaders": 20410
-    "Scooby-Doo! and the Cyber Chase": 15601
-    "Scooby-Doo Meets Batman": 287757
-    "Scooby-Doo! and the Legend of the Vampire": 30074
-    "Scooby-Doo! and the Monster of Mexico": 21956
-    "Scooby-Doo! and the Loch Ness Monster": 12902
-    "Scooby-Doo! in Where's My Mummy?": 20558
-    "Aloha Scooby-Doo!": 24615
-    "Scooby-Doo! Meets the Boo Brothers": 24787
-    "Scooby-Doo! and the Reluctant Werewolf": 37211
-    "Scooby-Doo and the Ghoul School": 13350
-    "Scooby-Doo! in Arabian Nights": 13351
-    "Trick or Treat Scooby-Doo!": 1015724
+
+  sonic:
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: miscellaneous/sonic/diiivoy_neon
+    collections:
+      "Sonic the Hedgehog Complete Collection":   # Source Link: https://trakt.tv/users/shedman214/lists/sonic  
+        - "Sonic the Hedgehog Complete"
+        - "Sonic the Hedgehog"                    
+      "SEGA Collection":
+        - "SEGA"
     "Sonic the Hedgehog (2020)": 454626
     "Sonic the Hedgehog: The Movie": 16355
     "Sonic X: The Movie": 333548
     "Sonic the Hedgehog 2": 675353
     "Sonic the Hedgehog 3": 939243
+
+
+    collections:
+      "Warner Animation Group Collection":
+        - "Warner Animation Group"
+      "Addams Family (Animated)":
+        - "The Addams Family (Animated)"
+      "Gnomeo & Juliet Collection":
+        - "Gnomeo & Juliet"
+      "Zog Collection":
+        - "Zog"
+      "The Gruffalo Collection":
+        - "The Gruffalo"
+      "Julia Donaldson Collection":
+        - "Julia Donaldson"
+        - "Julia Donaldson (Writing) Collection"
+        - "Julia Donaldson (Writing)"
+      "Dr. Seuss Collection":
+        - "Dr. Seuss"
+        - "Dr. Seuss (Writing) Collection"
+        - "Dr. Seuss (Writing)"
+    "DC League of Super-Pets": 539681
+    "Ron's Gone Wrong": 482321
+    "Sherlock Gnomes": 370567
+    "Gnomeo & Juliet": 45772
+    "How the Grinch Stole Christmas (2000)": 8871
+    "How the Grinch Stole Christmas (1966)": 13377
+    "The Cat in the Hat": 10588
+    "Wonder Park": 400157
+    "Lyle, Lyle, Crocodile": 830784
+    "Scoob!": 385103
+    "Smallfoot": 446894
+    "Storks": 332210
+    "The Addams Family (2019)": 481084
+    "The Addams Family 2 (2021)": 639721
+    "Tom & Jerry (2021)": 587807
+    "Zog": 570701
+    "Zog and the Flying Doctors": 779611
+    "The Gruffalo": 28118
+    "The Gruffalo's Child": 81684
+    "Stick Man": 374251
+    "Room on the Broom": 152581
+    "The Snail and the Whale": 655424
+    "The Highway Rat": 494603
+    "Superworm": 912802
+    "Paws of Fury: The Legend of Hank": 366672
+    "The Amazing Maurice": 676710

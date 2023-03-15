@@ -1,0 +1,13 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/287062
+  set_key: diiivoy_neon
+  set_link: https://theposterdb.com/set/170160
+  set_author: DIIIVOY
+
+collections:
+  "Sonic the Hedgehog Complete Collection": {tpdb_poster: 287059}
+  "SEGA Collection": {tpdb_poster: 287058}
+set:
+  "Sonic the Hedgehog (2020)": {tpdb_poster: 287061}
+  "Sonic the Hedgehog 2": {tpdb_poster: 287062}
+  "Sonic the Hedgehog: The Movie": {tpdb_poster: 287060}
