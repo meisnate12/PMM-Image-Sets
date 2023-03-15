@@ -979,7 +979,11 @@ sets:
     "Sonic the Hedgehog 2": 675353
     "Sonic the Hedgehog 3": 939243
 
-
+  ungrouped:
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: miscellaneous/ungroup/diiivoy_neon
     collections:
       "Warner Animation Group Collection":
         - "Warner Animation Group"
