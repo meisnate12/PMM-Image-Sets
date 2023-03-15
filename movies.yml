@@ -94,6 +94,18 @@ sets:
         - "Flash"
       "Batman Collection":
         - "Batman"
+      "The Dark Knight Collection":
+        - "The Dark Knight"
+      "Aquaman Collection":
+        - "Aquaman" 
+      "Suicide Squad Collection":
+        - "The Suicide Squad"
+        - "Suicide Squad"
+      "Shazam! Collection":
+        - "Shazam!"
+      "RED Collection":
+      "Wonder Woman Collection":
+        - "Wonder Woman"
     "Man of Steel": 49521
     "Batman v Superman: Dawn of Justice":
       mapping_id: 209112
@@ -397,6 +409,8 @@ sets:
         - "Captain America (1979)"
       "Spider-Man Universe":
         - "Spider-Man Universe"
+      "Venom Collection":
+        - "Venom"
     "Big Hero 6 (2014)": 177572
     "X-Men (2000)": 36657
     "X2 (2003)": 36658
@@ -561,6 +575,8 @@ sets:
       "Men in Black Collection":
         - "Men in Black Collection"
         - "Men in Black"
+        - "Men In Black"
+        - "Men In Black Collection"
     Men in Black (1997): 607
     Men in Black II (2002): 608
     Men in Black 3 (2012): 41154
@@ -578,6 +594,13 @@ sets:
         - "Middle-Earth"
         - "Middle Earth Collection"
         - "Middle Earth"
+      "Hobbit Collection":
+        - "The Hobbit"
+        - "The Hobbit Collection"
+      "Lord of the Rings Collection":
+        - "Lord of the Rings"
+        - "The Lord of the Rings"
+        - "The Lord of the Rings Collection"
     "The Hobbit: An Unexpected Journey": 49051
     "The Hobbit: The Desolation of Smaug": 57158
     "The Hobbit: The Battle of the Five Armies": 122917

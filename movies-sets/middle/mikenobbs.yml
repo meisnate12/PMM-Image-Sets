@@ -6,6 +6,8 @@ info:
 
 collections:
   "Middle-Earth Collection": {tpdb_poster: 191451}
+  "Hobbit Collection": {tpdb_poster: 191452}
+  "Lord of the Rings Collection": {tpdb_poster: 191453}
 set:
   "The Lord of the Rings: The Fellowship of the Ring": {tpdb_poster: 191454}
   "The Lord of the Rings: The Two Towers": {tpdb_poster: 191455}
