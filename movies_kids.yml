@@ -983,7 +983,7 @@ sets:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
-        pmm: miscellaneous/ungroup/diiivoy_neon
+        pmm: miscellaneous/ungrouped/diiivoy_neon
     collections:
       "Warner Animation Group Collection":
         - "Warner Animation Group"
