@@ -206,6 +206,13 @@ sets:
     "Daredevil: Born Again (None)": 422712
     "Wonder Man (None)": 428629
 
+  simpsons:
+    styles:
+      default: agon024
+      agon024:
+        pmm: simpsons/agon024
+    "The Simpsons (1989)": 71663
+    
   starwars:                          # Source List: https://trakt.tv/users/pullsa/lists/the-star-wars-saga-feature-films-and-tv-shows
     styles:
       default: rhj
@@ -237,4 +244,3 @@ sets:
     "Star Wars: Droids (1985)": 70399
     "Star Wars: Ewoks (1985)": 73697
     "Star Wars: Clone Wars (2003)": 72244
-    
