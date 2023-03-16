@@ -599,6 +599,7 @@ sets:
         - "Middle Earth"
       "Hobbit Collection":
         - "The Hobbit"
+        - "Hobbit"
         - "The Hobbit Collection"
       "Lord of the Rings Collection":
         - "Lord of the Rings"
@@ -746,6 +747,8 @@ sets:
         pmm: starwars/rhj
       rhj2:
         pmm: starwars/rhj2
+      rhj3:
+        pmm: starwars/rhj3
     collections:
       "Star Wars: The Complete Collection":
         - "Star Wars: The Complete"
@@ -762,6 +765,8 @@ sets:
     "Star Wars: The Rise of Skywalker (2019)": 181812
     "Solo: A Star Wars Story (2018)": 348350
     "Star Wars: The Clone Wars (2008)": 12180
+    "The Ewok Adventure: (1985)": 1884 
+    "Ewoks: The Battle For Endor (1985)": 10372
 
   wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
     styles:

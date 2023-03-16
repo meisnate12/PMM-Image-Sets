@@ -6,6 +6,8 @@ info:
 
 collections:
   "Middle-Earth Collection": {tpdb_poster: 1716}
+  "Lord of the Rings Collection": {tpdb_poster: 33509}
+  "Hobbit Collection": {tpdb_poster: 36974}
 set:
   "The Lord of the Rings: The Fellowship of the Ring (2001)": {tpdb_poster: 33510}
   "The Lord of the Rings: The Two Towers (2002)": {tpdb_poster: 33511}

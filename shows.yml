@@ -206,6 +206,13 @@ sets:
     "Daredevil: Born Again (None)": 422712
     "Wonder Man (None)": 428629
 
+  simpsons:
+    styles:
+      default: agon024
+      agon024:
+        pmm: simpsons/agon024
+    "The Simpsons (1989)": 71663
+    
   starwars:                          # Source List: https://trakt.tv/users/pullsa/lists/the-star-wars-saga-feature-films-and-tv-shows
     styles:
       default: rhj
@@ -213,6 +220,8 @@ sets:
         pmm: starwars/rhj              # Image Credit to RedHeadJedi / https://theposterdb.com/set/93852
       rhj2:
         pmm: starwars/rhj2          # Image Credit to RedHeadJedi / https://theposterdb.com/set/89606
+      rhj3:
+        pmm: starwars/rhj3
     "Star Wars: The Clone Wars (2008)": 83268
     "Star Wars Rebels (2014)": 283468
     "Star Wars Resistance (2018)": 351575
@@ -229,3 +238,9 @@ sets:
     "Star Wars: Skeleton Crew (None)": 420600
     "Star Wars: Young Jedi Adventures (2023)": 420658
     "Star Wars: Tales of the Jedi (2022)": 420659
+    "Star Wars: Forces of Destiny (2017)": 330710
+    "Star Wars Galaxy of Adventures (2018)": 356114
+    "Disney Gallery / Star Wars: The Mandalorian (2020)": 380352
+    "Star Wars: Droids (1985)": 70399
+    "Star Wars: Ewoks (1985)": 73697
+    "Star Wars: Clone Wars (2003)": 72244
