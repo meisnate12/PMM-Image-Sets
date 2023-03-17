@@ -16,6 +16,7 @@ libraries:
         template_variables:
           use_all: true                 # this is false by default, meaning you need to manually specify which sets you want
   TV Shows:                             # must match a library in your Plex server
+    images_path:
       - pmm: movies
         template_variables:
           use_starwars: true            # will only use the images that are part of the `starwars` set, no other sets will be used.
