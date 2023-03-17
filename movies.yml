@@ -211,7 +211,9 @@ sets:
         - "Godfather"
     "The Godfather (1972)": 238
     "The Godfather: Part II (1974)": 240
-    "The Godfather: Part III (1990)": 242
+    "The Godfather: Part III (1990)": 
+      mapping_id: 242
+      blank_edition: true
     "The Godfather Coda: The Death of Michael Corleone (1990)":
       mapping_id: 242
       editon_contains: Coda
@@ -474,7 +476,6 @@ sets:
     "Marvel: 75 Years, From Pulp to Pop! (2014)": 299969
     "Marvel Studios: Expanding the Universe (2019)": 647375
     "Spider-Man: Beyond the Spider-Verse (2024)": 911916
-
 
   mcu:                         # Source List: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
     styles:
