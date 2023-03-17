@@ -236,9 +236,9 @@ sets:
 
   southpark:
     styles: 
-    default: agon024
-    agon024:
-      pmm: miscellaneous/southpark/agon024
+      default: agon024
+      agon024:
+        pmm: miscellaneous/southpark/agon024
     "Southpark (1997)": 75897
 
   starwars:                          # Source List: https://trakt.tv/users/pullsa/lists/the-star-wars-saga-feature-films-and-tv-shows
@@ -275,9 +275,9 @@ sets:
 
   yellowstone:
     styles: 
-    default: yellowstone
-    agon024:
-      pmm: miscellaneous/yellowstone/agon024
+      default: yellowstone
+      agon024:
+        pmm: miscellaneous/yellowstone/agon024
     collections:
       "Yellowstone Collection":
         - "Yellowstone"
