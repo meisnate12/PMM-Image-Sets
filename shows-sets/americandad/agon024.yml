@@ -1,0 +1,30 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/170240
+  set_key: agon024
+  set_link: https://theposterdb.com/set/103934
+  set_author: agon024
+
+set:
+  "American Dad! (2005)":
+    tpdb_poster: 170263
+    seasons:
+      0: {tpdb_poster: 170241}
+      1: {tpdb_poster: 170242}
+      2: {tpdb_poster: 170243}
+      3: {tpdb_poster: 170244}
+      4: {tpdb_poster: 170245}
+      5: {tpdb_poster: 170246}
+      6: {tpdb_poster: 170247}
+      7: {tpdb_poster: 170248}
+      8: {tpdb_poster: 170249}
+      9: {tpdb_poster: 170250}
+      10: {tpdb_poster: 170251}
+      11: {tpdb_poster: 170252}
+      12: {tpdb_poster: 170253}
+      13: {tpdb_poster: 170254}
+      14: {tpdb_poster: 170255}
+      15: {tpdb_poster: 170256}
+      16: {tpdb_poster: 170257}
+      17: {tpdb_poster: 170258}
+      18: {tpdb_poster: 170259}
+      19: {tpdb_poster: 202183}

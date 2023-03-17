@@ -1,4 +1,11 @@
 sets:
+  americandad:
+    styles:
+      default:  agon024
+      agon024:
+        pmm: americandad/agon024
+    "American Dad! (2005)": 73141
+
   dc:                      # Source List: https://trakt.tv/users/malicekodi2/lists/dc
     styles:
       default: diiivoy_neon
@@ -62,6 +69,20 @@ sets:
     "Krypton (2018)": 328599
     "Birds of Prey (2002)": 77746
     "The Zeta Project (2001)": 74182
+
+  familyguy:
+    styles:
+      default: agon024
+      agon024:
+        pmm: familyguy/agon024
+    "Family Guy (1999)": 75978
+
+  futurama:
+    styles:
+      default: agon024
+      agon024:
+        pmm: futurama/agon024
+    "Futurama (1999)": 73871
 
   marvel:                      # Source List: https://trakt.tv/users/darkman1498/lists/marvel-series
     styles:
@@ -212,7 +233,14 @@ sets:
       agon024:
         pmm: simpsons/agon024
     "The Simpsons (1989)": 71663
-    
+
+  southpark:
+    styles: 
+    default: agon024
+    agon024:
+      pmm: southpark/agon024
+    "Southpark (1997)": 75897
+
   starwars:                          # Source List: https://trakt.tv/users/pullsa/lists/the-star-wars-saga-feature-films-and-tv-shows
     styles:
       default: rhj
