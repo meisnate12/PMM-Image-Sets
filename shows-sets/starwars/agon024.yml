@@ -10,17 +10,17 @@ collections:
   "Star Wars Animation Collection": {tpdb_poster: 249355}
 
 set:
-  "Obi-Wan Kenobi":
+  "Obi-Wan Kenobi (2022)":
     tpdb_poster: 241615
     seasons:
       1: {tpdb_poster: 241616}
-  "Star Wars Galaxy of Adventures":
+  "Star Wars Galaxy of Adventures (2018)":
     tpdb_poster: 241617
     seasons:
       0: {tpdb_poster: 241864}
       1: {tpdb_poster: 241865}
       2: {tpdb_poster: 241866}
-  "Star Wars Rebels":
+  "Star Wars Rebels (2014)":
     tpdb_poster: 241618
     seasons:
       0: {tpdb_poster: 241967}
@@ -28,36 +28,36 @@ set:
       2: {tpdb_poster: 241620}
       3: {tpdb_poster: 241621}
       4: {tpdb_poster: 241622}
-  "Star Wars Resistance":
+  "Star Wars Resistance (2018)":
     tpdb_poster: 241623
     seasons:
       0: {tpdb_poster: 241671}
       1: {tpdb_poster: 241672}
       2: {tpdb_poster: 241674}
-  "Star Wars: Clone Wars":
+  "Star Wars: Clone Wars (2003)":
     tpdb_poster: 241624
     seasons:
       0: {tpdb_poster: 241722}
       1: {tpdb_poster: 241723}
       2: {tpdb_poster: 241724}
       3: {tpdb_poster: 241725}
-  "Star Wars: Droids":
+  "Star Wars: Droids (1985)":
     tpdb_poster: 241625
     seasons:
       0: {tpdb_poster: 241964}
       1: {tpdb_poster: 241965}
-  "Star Wars: Forces of Destiny":
+  "Star Wars: Forces of Destiny (2017)":
     tpdb_poster: 241626
     seasons:
       0: {tpdb_poster: 241961}
       1: {tpdb_poster: 241962}
       2: {tpdb_poster: 241963}
-  "Star Wars: The Bad Batch":
+  "Star Wars: The Bad Batch (2021)":
     tpdb_poster: 241627
     seasons:
       1: {tpdb_poster: 241628}
       2: {tpdb_poster: 241969}
-  "Star Wars: The Clone Wars":
+  "Star Wars: The Clone Wars (2008)":
     tpdb_poster: 241629
     seasons:
       0: {tpdb_poster: 241630}
@@ -68,35 +68,36 @@ set:
       5: {tpdb_poster: 241635}
       6: {tpdb_poster: 241636}
       7: {tpdb_poster: 241637}
-  "Star Wars: Visions":
+  "Star Wars: Visions (2021)":
     tpdb_poster: 241638
     seasons:
       1: {tpdb_poster: 241968}
-  "The Book of Boba Fett":
+  "The Book of Boba Fett (2021)":
     tpdb_poster: 241639
     seasons:
       1: {tpdb_poster: 241640}
-  "The Mandalorian":
+  "The Mandalorian (2019)":
     tpdb_poster: 241641
     seasons:
       1: {tpdb_poster: 241642}
       2: {tpdb_poster: 241643}
       3: {tpdb_poster: 241644}
-  "Star Wars: Ewoks":
+  "Star Wars: Ewoks (1985)":
     tpdb_poster: 241687
     seasons:
       0: {tpdb_poster: 241907}
       1: {tpdb_poster: 241908}
       2: {tpdb_poster: 241909}
-  "Disney Gallery / Star Wars: The Mandalorian":
+  "Disney Gallery / Star Wars: The Mandalorian (2020)":
     tpdb_poster: 241945
     seasons:
       1: {tpdb_poster: 241946}
       2: {tpdb_poster: 241947}
-  "Disney Gallery / Star Wars: The Book of Boba Fett":
+  "Disney Gallery / Star Wars: The Book of Boba Fett (2022)":
     tpdb_poster: 242222
     seasons:
       1: {tpdb_poster: 242223}
+
   "LEGO Star Wars : The Resistance Rises":
     tpdb_poster: 242697
     seasons:
@@ -162,7 +163,7 @@ set:
     tpdb_poster: 249188
     seasons:
       1: {tpdb_poster: 249189}
-  "Obi-Wan Kenobi (2022)":
+  "Obi-Wan Kenobi (2022) Patterson Cut":
     tpdb_poster: 249276
     seasons:
       1: {tpdb_poster: 241616}

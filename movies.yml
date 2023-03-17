@@ -211,7 +211,9 @@ sets:
         - "Godfather"
     "The Godfather (1972)": 238
     "The Godfather: Part II (1974)": 240
-    "The Godfather: Part III (1990)": 242
+    "The Godfather: Part III (1990)": 
+      mapping_id: 242
+      blank_edition: true
     "The Godfather Coda: The Death of Michael Corleone (1990)":
       mapping_id: 242
       editon_contains: Coda
@@ -474,7 +476,6 @@ sets:
     "Marvel: 75 Years, From Pulp to Pop! (2014)": 299969
     "Marvel Studios: Expanding the Universe (2019)": 647375
     "Spider-Man: Beyond the Spider-Verse (2024)": 911916
-
 
   mcu:                         # Source List: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
     styles:
@@ -753,6 +754,12 @@ sets:
       "Star Wars: The Complete Collection":
         - "Star Wars: The Complete"
         - "Star Wars"
+      "LEGO Star Wars Collection":
+        - "LEGO Star Wars"
+      "LEGO Star Wars (Seasonal) Collection":
+        - "LEGO Star Wars (Seasonal)"
+      "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!":
+        - "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!"
     "Star Wars: Episode I - The Phantom Menace (1999)": 1893
     "Star Wars: Episode II - Attack of the Clones (2002)": 1894
     "Star Wars: Episode III - Revenge of the Sith (2005)": 1895
@@ -767,6 +774,18 @@ sets:
     "Star Wars: The Clone Wars (2008)": 12180
     "The Ewok Adventure: (1985)": 1884 
     "Ewoks: The Battle For Endor (1985)": 10372
+    "The Story of the Faithful Wookiee (1978)": 806789
+    "Star Wars: The Holiday Special (1978)": 74849
+    "Star Wars: LEGO Holiday Special (2020)": 732670
+    "Star Wars: LEGO Terrifying Tales (2021)": 857702
+    "Star Wars: LEGO Summer Vacation (2022)": 980804
+    "Star Wars: LEGO Revenge of the Brick (2005)": 81234
+    "Star Wars: LEGO The Quest for R2-D2 (2009)": 81233
+    "Star Wars: LEGO Bombad Bounty (2010)": 79158
+    "Star Wars: LEGO The Padawan Menace (2011)": 70608
+    "Star Wars: LEGO The Empire Strikes Out (2012)": 136406
+    "Star Wars: LEGO The Han Solo Affair (2002)":
+    "Star Wars: LEGO Battle of Sebiris (2016)":
 
   wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
     styles:
