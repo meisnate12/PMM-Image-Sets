@@ -3,7 +3,7 @@ sets:
     styles:
       default:  agon024
       agon024:
-        pmm: americandad/agon024
+        pmm: miscellaneous/americandad/agon024
     "American Dad! (2005)": 73141
 
   dc:                      # Source List: https://trakt.tv/users/malicekodi2/lists/dc
@@ -74,14 +74,14 @@ sets:
     styles:
       default: agon024
       agon024:
-        pmm: familyguy/agon024
+        pmm: miscellaneous/familyguy/agon024
     "Family Guy (1999)": 75978
 
   futurama:
     styles:
       default: agon024
       agon024:
-        pmm: futurama/agon024
+        pmm: miscellaneous/futurama/agon024
     "Futurama (1999)": 73871
 
   marvel:                      # Source List: https://trakt.tv/users/darkman1498/lists/marvel-series
@@ -231,14 +231,14 @@ sets:
     styles:
       default: agon024
       agon024:
-        pmm: simpsons/agon024
+        pmm: miscellaneous/simpsons/agon024
     "The Simpsons (1989)": 71663
 
   southpark:
     styles: 
     default: agon024
     agon024:
-      pmm: southpark/agon024
+      pmm: miscellaneous/southpark/agon024
     "Southpark (1997)": 75897
 
   starwars:                          # Source List: https://trakt.tv/users/pullsa/lists/the-star-wars-saga-feature-films-and-tv-shows
@@ -272,3 +272,15 @@ sets:
     "Star Wars: Droids (1985)": 70399
     "Star Wars: Ewoks (1985)": 73697
     "Star Wars: Clone Wars (2003)": 72244
+
+  yellowstone:
+    styles: 
+    default: yellowstone
+    agon024:
+      pmm: miscellaneous/yellowstone/agon024
+    collections:
+      "Yellowstone Collection":
+        - "Yellowstone"
+    "Yellowstone": 341164
+    "1923": 416491 
+    "1883": 396390
