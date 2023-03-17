@@ -275,7 +275,7 @@ sets:
 
   yellowstone:
     styles: 
-      default: yellowstone
+      default: agon024
       agon024:
         pmm: miscellaneous/yellowstone/agon024
     collections:
