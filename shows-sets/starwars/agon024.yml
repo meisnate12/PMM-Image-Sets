@@ -97,6 +97,7 @@ set:
     tpdb_poster: 242222
     seasons:
       1: {tpdb_poster: 242223}
+
   "LEGO Star Wars : The Resistance Rises":
     tpdb_poster: 242697
     seasons:
@@ -162,7 +163,7 @@ set:
     tpdb_poster: 249188
     seasons:
       1: {tpdb_poster: 249189}
-  "Obi-Wan Kenobi (2022)":
+  "Obi-Wan Kenobi (2022) Patterson Cut":
     tpdb_poster: 249276
     seasons:
       1: {tpdb_poster: 241616}

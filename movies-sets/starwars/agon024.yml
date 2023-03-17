@@ -15,7 +15,7 @@ set:
   "Star Wars (1977)": {tpdb_poster: 167167}
   "Star Wars: The Holiday Special (1978)": {tpdb_poster: 167168}
   "The Empire Strikes Back (1980)": {tpdb_poster: 167169}
-  "RReturn of the Jedi (1983)": {tpdb_poster: 167170}
+  "Return of the Jedi (1983)": {tpdb_poster: 167170}
   "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 167171}
   "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 167172}
   "Star Wars: Episode III - Revenge of the Sith (2005)": {tpdb_poster: 167173}
@@ -37,9 +37,16 @@ set:
   "Star Wars: LEGO The Padawan Menace (2011)": {tpdb_poster: 243117}
   "Star Wars: LEGO The Empire Strikes Out (2012)": {tpdb_poster: 243118}
   "Star Wars: LEGO Summer Vacation (2022)": {tpdb_poster: 243119}
-  "tar Wars: LEGO Battle of Sebiris (2016)": {tpdb_poster: 248197}
+  "Star Wars: LEGO Battle of Sebiris (2016)": {tpdb_poster: 248197}
+  "Star Wars (1977)": {tpdb_poster: 244602}
+  "The Empire Strikes Back (1980)": {tpdb_poster: 244603}
+  "Return of the Jedi (1983)": {tpdb_poster: 244604}
 
   "The Man Who Saved the World": {tpdb_poster: 244605}
+  "The Empire Strikes Back (1980)": {tpdb_poster: 244608}
+  "Star Wars (1977)": {tpdb_poster: 244607}
+  "Return of the Jedi (1983)": {tpdb_poster: 244609}
+  "The Ewok Adventure (1985)": {tpdb_poster: 247450}
   "Robot Chicken: Star Wars": {tpdb_poster: 249309}
   "Robot Chicken: Star Wars Episode II": {tpdb_poster: 249310}
   "Robot Chicken: Star Wars Episode III": {tpdb_poster: 249311}
