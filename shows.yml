@@ -250,6 +250,8 @@ sets:
         pmm: starwars/rhj2          # Image Credit to RedHeadJedi / https://theposterdb.com/set/89606
       rhj3:
         pmm: starwars/rhj3
+      agon024: 
+        pmm: starwars/agon024
     "Star Wars: The Clone Wars (2008)": 83268
     "Star Wars Rebels (2014)": 283468
     "Star Wars Resistance (2018)": 351575
@@ -268,12 +270,23 @@ sets:
     "Star Wars: Tales of the Jedi (2022)": 420659
     "Star Wars: Forces of Destiny (2017)": 330710
     "Star Wars Galaxy of Adventures (2018)": 356114
+    "Star Wars: Galaxy of Creatures (2021)": 413005
+    "Star Wars: Galaxy of Sounds (2021)": 410728
+    "Star Wars: Jedi Temple Challenge (2020)": 373220
+    "Star Wars: Roll Out (2019)": 368962
+    "Star Wars Vehicle Flythroughs (2021)": 402177
+    "Light & Magic (2022)": 419829
+    "Star Wars: Galactic Pals (2022)": 419443
     "Disney Gallery / Star Wars: The Mandalorian (2020)": 380352
     "Disney Gallery / Star Wars: The Book of Boba Fett (2022)": 419714
     "Star Wars: Droids (1985)": 70399
     "Star Wars: Ewoks (1985)": 73697
     "Star Wars: Clone Wars (2003)": 72244
     "LEGO Star Wars (2013)": 250498
+    "Lego Star Wars: The Yoda Chronicles (2013)": 368742
+    "Star Wars Blips (2017)": 334444
+    "Star Wars: LEGO The Han Solo Affair (2002)":
+    "Star Wars: LEGO Battle of Sebiris (2016)":
     "Star Wars: LEGO Celebrate the Season (2020)":
 
   yellowstone:

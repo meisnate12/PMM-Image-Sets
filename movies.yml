@@ -750,6 +750,8 @@ sets:
         pmm: starwars/rhj2
       rhj3:
         pmm: starwars/rhj3
+      agon024:
+        pmm: starwars/agon024
     collections:
       "Star Wars: The Complete Collection":
         - "Star Wars: The Complete"
@@ -772,7 +774,7 @@ sets:
     "Star Wars: The Rise of Skywalker (2019)": 181812
     "Solo: A Star Wars Story (2018)": 348350
     "Star Wars: The Clone Wars (2008)": 12180
-    "The Ewok Adventure: (1985)": 1884 
+    "The Ewok Adventure (1985)": 1884 
     "Ewoks: The Battle For Endor (1985)": 10372
     "The Story of the Faithful Wookiee (1978)": 806789
     "Star Wars: The Holiday Special (1978)": 74849
@@ -784,8 +786,19 @@ sets:
     "Star Wars: LEGO Bombad Bounty (2010)": 79158
     "Star Wars: LEGO The Padawan Menace (2011)": 70608
     "Star Wars: LEGO The Empire Strikes Out (2012)": 136406
-    "Star Wars: LEGO The Han Solo Affair (2002)":
-    "Star Wars: LEGO Battle of Sebiris (2016)":
+    "The Man Who Saved the World (1982)": 20787
+    "Robot Chicken: Star Wars": 42979
+    "Robot Chicken: Star Wars Episode II": 42982
+    "Robot Chicken: Star Wars Episode III": 51888
+    "Family Guy Presents: Something, Something, Something, Dark Side": 625651
+    "Family Guy Presents: It's a Trap!": 278427
+    "Family Guy Presents: Blue Harvest": 653528
+    "How Star Wars Was Saved in the Edit": 515580
+    "Star Wars: Music by John Williams": 219566
+    "From Star Wars to Star Wars: The Story of Industrial Light & Magic": 277499
+    "Empire of Dreams: The Story of the Star Wars Trilogy": 76180
+    "The Making of The Empire Strikes Back": 485213
+
 
   wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
     styles:
