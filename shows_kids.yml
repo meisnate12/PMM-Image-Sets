@@ -1,5 +1,5 @@
 sets:
-  disney:                      # Source List: https://trakt.tv/users/darkman1498/lists/disney-animated-series
+  disney:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -107,156 +107,160 @@ sets:
         - "Sleeping Beauty"
       "Disney Live-Action Remakes":
         - "Disney Live-Action"
-    "Sam and Friends": 253697
-    "The Muppet Show": 72476
-    "Muppet Babies": 75216
-    "Jim Henson's Little Muppet Monsters": 71548
-    "The Wuzzles": 70964
-    "Disney's Adventures of the Gummi Bears": 76081
-    "DuckTales": 75931
-    "The New Adventures of Winnie the Pooh": 78442
-    "Chip 'n Dale Rescue Rangers": 75477
-    "The Jim Henson Hour": 70713
-    "TaleSpin": 75476
-    "Doug": 72210
-    "Darkwing Duck": 75475
-    "Goof Troop": 78250
-    "The Little Mermaid": 77088
-    "Raw Toonage": 71686
-    "Bonkers": 72013
-    "Marsupilami": 71595
-    "Aladdin": 73981
-    "Gargoyles": 72885
-    "The Shnookums and Meat Funny Cartoon Show": 76300
-    "Timon & Pumbaa": 70559
-    "Muppets Tonight": 78801
-    "Adventures from the Book of Virtues": 76598
-    "Quack Pack": 76599
-    "Mighty Ducks: The Animated Series": 76059
-    "Jungle Cubs": 73717
-    "Nightmare Ned": 78143
-    "101 Dalmatians: The Series": 73719
-    "Recess": 71780
-    "Pepper Ann": 73720
-    "Disney's Hercules": 72163
-    "PB&J Otter": 74195
-    "Rolie Polie Olie": 77147
-    "Mickey Mouse Works": 70958
-    "The Weekenders": 79669
-    "Teacher's Pet": 73733
-    "Buzz Lightyear of Star Command": 72474
-    "House of Mouse": 74189
-    "Lloyd in Space": 74174
-    "The Legend of Tarzan": 76600
-    "The Proud Family": 76814
-    "Stanley": 79373
-    "Teamo Supremo": 78237
-    "Kim Possible": 78259
-    "Fillmore!": 79910
-    "Lilo & Stitch: The Series": 71624
-    "JoJo's Circus": 79370
-    "Dave the Barbarian": 79538
-    "Brandy & Mr. Whiskers": 74289
-    "Higglytown Heroes": 73305
-    "Super Robot Monkey Team Hyperforce Go!": 253986
-    "American Dragon: Jake Long": 74344
-    "The Buzz on Maggie": 75374
-    "Little Einsteins": 78978
-    "Get Ed": 278076
-    "The Emperor's New School": 79855
-    "Mickey Mouse Clubhouse": 79854
-    "The Replacements": 84192
-    "Yin Yang Yo!": 150691
-    "Handy Manny": 81587
-    "Muppets TV": 367443
-    "Phineas and Ferb": 81848
-    "My Friends Tigger and Pooh": 80850
-    "Stitch!": 98661
-    "Special Agent Oso": 112931
-    "Jungle Junction": 136141
-    "Fish Hooks": 193491
-    "Kick Buttowski": 159221
-    "Jake and the Never Land Pirates": 223831
-    "Minnie's Bow Toons": 263271
-    "Doc McStuffins": 258111
-    "Motorcity": 258233
-    "Tron: Uprising": 258480
-    "Randy Cunningham: 9th Grade Ninja": 262736
-    "Gravity Falls": 259972
-    "Henry Hugglemonster": 268338
-    "Wander Over Yonder": 272417
-    "Sofia the First": 264365
-    "Sheriff Callie's Wild West": 277289
-    "The 7D": 283115
-    "Penn Zero: Part-Time Hero": 288914
-    "Star vs. the Forces of Evil": 282994
-    "Miles From Tomorrowland": 290506
-    "Muppet Moments": 374328
-    "Pickle & Peanut": 300105
-    "Goldie and Bear": 300622
-    "The Muppets": 295721
-    "Star Darlings": 307245
-    "The Lion Guard": 282756
-    "Elena of Avalor": 312964
-    "Future-Worm!": 296709
-    "Milo Murphy's Law": 315954
-    "Mickey Mouse Mixed-Up Adventures": 320725
-    "Stitch & Ai": 343739
-    "Rapunzel's Tangled Adventure": 318990
-    "Puppy Dog Pals": 325978
-    "Billy Dilley's Super-Duper Subterranean Summer": 328374
-    "DuckTales (2017)": 330134
-    "Vampirina": 335717
-    "Big Hero 6: The Series": 322241
-    "Legend of the Three Caballeros": 349466
-    "Big City Greens": 342059
-    "Fancy Nancy": 348820
-    "101 Dalmatian Street": 349423
-    "T.O.T.S.": 363930
-    "Amphibia": 350984
-    "The Rocketeer": 371012
-    "The Owl House": 349578
-    "Mira, Royal Detective": 373754
-    "Dug Days": 393210
-    "Cars on the Road": 412436
-    "Tiana": 393208
-    "Moana: The Series": 393209
-    "Monsters at Work": 362280
-    "Zootopia+": 393206
-    "Baymax!": 393207
-    "The Chicken Squad": 373755
-    "Pixar in Real Life": 371609
-    "Pixar Popcorn": 393212
-    "Iwájú": 393219
-    "Win or Lose": 393242
-    "The Simpsons": 71663
-    "King of the Hill": 73903
-    "Family Guy": 75978
-    "American Dad!": 73141
-    "The Cleveland Show": 93991
-    "Bob's Burgers": 194031
-    "Duncanville": 364530
-    "Solar Opposites": 375892
-    "Central Park": 368121
-    "The Great North": 353887
-    "Koala Man": 399758
-    "Little Demon": 381028
-    "Futurama": 73871
-    "Archer": 110381
-    "Allen Gregory": 249081
-    "Unsupervised": 254561
-    "Brickleberry": 259569
-    "Napoleon Dynamite": 249363
-    "Out There": 265406
-    "Chozen": 275126
-    "Bordertown": 275120
-    "Son of Zorn": 311817
-    "Bless the Harts": 353889
-    "Hoops": 374971
-    "Olaf Presents": 404155
-    "Ice Age: Scrat Tales": 416952
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/darkman1498/lists/disney-animated-series
+    shows:
+      "Sam and Friends": 253697
+      "The Muppet Show": 72476
+      "Muppet Babies": 75216
+      "Jim Henson's Little Muppet Monsters": 71548
+      "The Wuzzles": 70964
+      "Disney's Adventures of the Gummi Bears": 76081
+      "DuckTales": 75931
+      "The New Adventures of Winnie the Pooh": 78442
+      "Chip 'n Dale Rescue Rangers": 75477
+      "The Jim Henson Hour": 70713
+      "TaleSpin": 75476
+      "Doug": 72210
+      "Darkwing Duck": 75475
+      "Goof Troop": 78250
+      "The Little Mermaid": 77088
+      "Raw Toonage": 71686
+      "Bonkers": 72013
+      "Marsupilami": 71595
+      "Aladdin": 73981
+      "Gargoyles": 72885
+      "The Shnookums and Meat Funny Cartoon Show": 76300
+      "Timon & Pumbaa": 70559
+      "Muppets Tonight": 78801
+      "Adventures from the Book of Virtues": 76598
+      "Quack Pack": 76599
+      "Mighty Ducks: The Animated Series": 76059
+      "Jungle Cubs": 73717
+      "Nightmare Ned": 78143
+      "101 Dalmatians: The Series": 73719
+      "Recess": 71780
+      "Pepper Ann": 73720
+      "Disney's Hercules": 72163
+      "PB&J Otter": 74195
+      "Rolie Polie Olie": 77147
+      "Mickey Mouse Works": 70958
+      "The Weekenders": 79669
+      "Teacher's Pet": 73733
+      "Buzz Lightyear of Star Command": 72474
+      "House of Mouse": 74189
+      "Lloyd in Space": 74174
+      "The Legend of Tarzan": 76600
+      "The Proud Family": 76814
+      "Stanley": 79373
+      "Teamo Supremo": 78237
+      "Kim Possible": 78259
+      "Fillmore!": 79910
+      "Lilo & Stitch: The Series": 71624
+      "JoJo's Circus": 79370
+      "Dave the Barbarian": 79538
+      "Brandy & Mr. Whiskers": 74289
+      "Higglytown Heroes": 73305
+      "Super Robot Monkey Team Hyperforce Go!": 253986
+      "American Dragon: Jake Long": 74344
+      "The Buzz on Maggie": 75374
+      "Little Einsteins": 78978
+      "Get Ed": 278076
+      "The Emperor's New School": 79855
+      "Mickey Mouse Clubhouse": 79854
+      "The Replacements": 84192
+      "Yin Yang Yo!": 150691
+      "Handy Manny": 81587
+      "Muppets TV": 367443
+      "Phineas and Ferb": 81848
+      "My Friends Tigger and Pooh": 80850
+      "Stitch!": 98661
+      "Special Agent Oso": 112931
+      "Jungle Junction": 136141
+      "Fish Hooks": 193491
+      "Kick Buttowski": 159221
+      "Jake and the Never Land Pirates": 223831
+      "Minnie's Bow Toons": 263271
+      "Doc McStuffins": 258111
+      "Motorcity": 258233
+      "Tron: Uprising": 258480
+      "Randy Cunningham: 9th Grade Ninja": 262736
+      "Gravity Falls": 259972
+      "Henry Hugglemonster": 268338
+      "Wander Over Yonder": 272417
+      "Sofia the First": 264365
+      "Sheriff Callie's Wild West": 277289
+      "The 7D": 283115
+      "Penn Zero: Part-Time Hero": 288914
+      "Star vs. the Forces of Evil": 282994
+      "Miles From Tomorrowland": 290506
+      "Muppet Moments": 374328
+      "Pickle & Peanut": 300105
+      "Goldie and Bear": 300622
+      "The Muppets": 295721
+      "Star Darlings": 307245
+      "The Lion Guard": 282756
+      "Elena of Avalor": 312964
+      "Future-Worm!": 296709
+      "Milo Murphy's Law": 315954
+      "Mickey Mouse Mixed-Up Adventures": 320725
+      "Stitch & Ai": 343739
+      "Rapunzel's Tangled Adventure": 318990
+      "Puppy Dog Pals": 325978
+      "Billy Dilley's Super-Duper Subterranean Summer": 328374
+      "DuckTales (2017)": 330134
+      "Vampirina": 335717
+      "Big Hero 6: The Series": 322241
+      "Legend of the Three Caballeros": 349466
+      "Big City Greens": 342059
+      "Fancy Nancy": 348820
+      "101 Dalmatian Street": 349423
+      "T.O.T.S.": 363930
+      "Amphibia": 350984
+      "The Rocketeer": 371012
+      "The Owl House": 349578
+      "Mira, Royal Detective": 373754
+      "Dug Days": 393210
+      "Cars on the Road": 412436
+      "Tiana": 393208
+      "Moana: The Series": 393209
+      "Monsters at Work": 362280
+      "Zootopia+": 393206
+      "Baymax!": 393207
+      "The Chicken Squad": 373755
+      "Pixar in Real Life": 371609
+      "Pixar Popcorn": 393212
+      "Iwájú": 393219
+      "Win or Lose": 393242
+      "The Simpsons": 71663
+      "King of the Hill": 73903
+      "Family Guy": 75978
+      "American Dad!": 73141
+      "The Cleveland Show": 93991
+      "Bob's Burgers": 194031
+      "Duncanville": 364530
+      "Solar Opposites": 375892
+      "Central Park": 368121
+      "The Great North": 353887
+      "Koala Man": 399758
+      "Little Demon": 381028
+      "Futurama": 73871
+      "Archer": 110381
+      "Allen Gregory": 249081
+      "Unsupervised": 254561
+      "Brickleberry": 259569
+      "Napoleon Dynamite": 249363
+      "Out There": 265406
+      "Chozen": 275126
+      "Bordertown": 275120
+      "Son of Zorn": 311817
+      "Bless the Harts": 353889
+      "Hoops": 374971
+      "Olaf Presents": 404155
+      "Ice Age: Scrat Tales": 416952
 
-  dreamworks:                      # Source List: https://trakt.tv/users/asmobarki/lists/dreamworks
+  dreamworks:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -288,30 +292,34 @@ sets:
         - "Trolls"
       "Madagascar Collection":
         - "Madagascar"
-    "The Angry Beavers": 76386
-    "DreamWorks Shorts": 144611
-    "Dragons": 261202
-    "Kung Fu Panda: Legends of Awesomeness": 250632
-    "The Penguins of Madagascar": 85075
-    "Monsters vs. Aliens": 267978
-    "Turbo FAST": 268855
-    "The Mr. Peabody & Sherman Show": 301314
-    "The Epic Tales of Captain Underpants in Space": 388044
-    "The Adventures of Puss in Boots": 290174
-    "Dawn of the Croods": 301614
-    "The Boss Baby: Back in Business": 342858
-    "The Epic Tales of Captain Underpants": 347765
-    "Hi Score Girl": 346673
-    "Dragons: Rescue Riders": 370115
-    "Kung Fu Panda: The Paws of Destiny": 353844
-    "The Rocky and Bullwinkle show": 76705
-    "The Adventures of Rocky and Bullwinkle": 347581
-    "Trolls: TrollsTopia": 391482
-    "Dragons: The Nine Realms": 411408
-    "Yabba Dabba Dinosaurs": 376638
-    "Madagascar: A Little Wild": 387162
-    "The Boss Baby: Back in the Crib": 419298
-    "Kung Fu Panda: The Dragon Knight": 419961
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/asmobarki/lists/dreamworks
+    shows:
+      "The Angry Beavers": 76386
+      "DreamWorks Shorts": 144611
+      "Dragons": 261202
+      "Kung Fu Panda: Legends of Awesomeness": 250632
+      "The Penguins of Madagascar": 85075
+      "Monsters vs. Aliens": 267978
+      "Turbo FAST": 268855
+      "The Mr. Peabody & Sherman Show": 301314
+      "The Epic Tales of Captain Underpants in Space": 388044
+      "The Adventures of Puss in Boots": 290174
+      "Dawn of the Croods": 301614
+      "The Boss Baby: Back in Business": 342858
+      "The Epic Tales of Captain Underpants": 347765
+      "Hi Score Girl": 346673
+      "Dragons: Rescue Riders": 370115
+      "Kung Fu Panda: The Paws of Destiny": 353844
+      "The Rocky and Bullwinkle show": 76705
+      "The Adventures of Rocky and Bullwinkle": 347581
+      "Trolls: TrollsTopia": 391482
+      "Dragons: The Nine Realms": 411408
+      "Yabba Dabba Dinosaurs": 376638
+      "Madagascar: A Little Wild": 387162
+      "The Boss Baby: Back in the Crib": 419298
+      "Kung Fu Panda: The Dragon Knight": 419961
 
   landbeforetime:
     styles:
@@ -319,9 +327,12 @@ sets:
       mikenobbs:
         pmm: miscellaneous/landbeforetime/mikenobbs
     collections:
-      "The Land Before Time Collection":              # Source List: https://trakt.tv/users/krissykk/lists/animation-land-before-time
+      "The Land Before Time Collection":
         - "The Land Before Time"
-    "The Land Before Time": 80822
+    builders:
+      tvdb_show: 80822
+    shows:
+      "The Land Before Time": 80822
 
   scoobydoo:
     styles:
@@ -329,21 +340,25 @@ sets:
       mikenobbs:
         pmm: miscellaneous/scoobydoo/mikenobbs
     collections:
-      "Scooby-Doo! Animated Collection":          # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
-        - "Scooby-Doo! Animated"         
-    "Scooby-Doo, Where Are You!": 78260
-    "The New Scooby-Doo Movies": 75661
-    "Scooby-Doo and Scrappy-Doo": 78740
-    "The 13 Ghosts of Scooby-Doo": 73543
-    "A Pup Named Scooby-Doo": 73546
-    "What's New Scooby-Doo?": 80119
-    "Shaggy & Scooby-Doo Get a Clue!": 81425
-    "Scooby-Doo! Mystery Incorporated": 174681
-    "Be Cool, Scooby-Doo!": 301376
-    "Scooby-Doo and Guess Who?": 361065
-    "The Scooby-Doo Show": 73817
+      "Scooby-Doo! Animated Collection":
+        - "Scooby-Doo! Animated"
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+    shows:
+      "Scooby-Doo, Where Are You!": 78260
+      "The New Scooby-Doo Movies": 75661
+      "Scooby-Doo and Scrappy-Doo": 78740
+      "The 13 Ghosts of Scooby-Doo": 73543
+      "A Pup Named Scooby-Doo": 73546
+      "What's New Scooby-Doo?": 80119
+      "Shaggy & Scooby-Doo Get a Clue!": 81425
+      "Scooby-Doo! Mystery Incorporated": 174681
+      "Be Cool, Scooby-Doo!": 301376
+      "Scooby-Doo and Guess Who?": 361065
+      "The Scooby-Doo Show": 73817
 
-  sony:                      # Source List: https://trakt.tv/users/haiderales/lists/sony-pictures-animation
+  sony:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -355,27 +370,11 @@ sets:
         - "Cloudy with a Chance of Meatballs"
       "Hotel Transylvania Collection":
         - "Hotel Transylvania"
-      "Open Season Collection":
-        - "Open Season"
-      "Peter Rabbit Collection":
-        - "Peter Rabbit"
-      "Spider-Man: Spider-Verse Collection":
-        - "Spider-Man: Spider-Verse"
-      "Surf's Up Collection":
-        - "Surf's Up"
-      "The Angry Birds Collection":
-        - "The Angry Birds"
-        - "Angry Birds Collection"
-        - "Angry Birds"
-      "The Smurfs (Theatrical) Collection":
-        - "The Smurfs (Theatrical)"
-        - "Smurfs (Theatrical) Collection"
-        - "Smurfs (Theatrical)"
-        - "The Smurfs Collection"
-        - "The Smurfs"
-        - "Smurfs"
-    "Cloudy with a Chance of Meatballs": 324262
-    "Hotel Transylvania: The Series": 328994
+    builders:
+      tvdb_show: 324262, 328994
+    shows:
+      "Cloudy with a Chance of Meatballs": 324262
+      "Hotel Transylvania: The Series": 328994
 
   tomjerry:
     styles:
@@ -383,15 +382,19 @@ sets:
       mikenobbs:
         pmm: miscellaneous/tomjerry/mikenobbs
     collections:
-      "Tom and Jerry Collection":                  # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
-        - "Tom and Jerry"                     
-    "The Tom and Jerry Comedy Show": 83056
-    "The Tom and Jerry Show": 280446
-    "Tom and Jerry Kids Show": 77973
-    "The New Tom & Jerry Show": 76206
-    "Tom and Jerry": 72860
-    "Tom and Jerry in New York": 390477
-    "Tom and Jerry Tales": 82837
+      "Tom and Jerry Collection":
+        - "Tom and Jerry"
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
+    shows:
+      "The Tom and Jerry Comedy Show": 83056
+      "The Tom and Jerry Show": 280446
+      "Tom and Jerry Kids Show": 77973
+      "The New Tom & Jerry Show": 76206
+      "Tom and Jerry": 72860
+      "Tom and Jerry in New York": 390477
+      "Tom and Jerry Tales": 82837
 
   sonic:
     styles:
@@ -399,21 +402,28 @@ sets:
       diiivoy_neon:
         pmm: miscellaneous/sonic/diiivoy_neon
     collections:
-      "Sonic the Hedgehog Complete Collection":   # Source Link: https://trakt.tv/users/shedman214/lists/sonic  
+      "Sonic the Hedgehog Complete Collection":   # Source Link:  
         - "Sonic the Hedgehog Complete"
         - "Sonic the Hedgehog"                    
       "SEGA Collection":
         - "SEGA"
-    "Sonic X": 72459
-    "Sonic Boom": 280103
-    "Sonic Underground": 73634
-    "Sonic the Hedgehog": 73629
-    "Sonic Mania Adventures": 373903
-    "The Adventures of Sonic the Hedgehog": 73630
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/shedman214/lists/sonic 
+    shows:
+      "Sonic X": 72459
+      "Sonic Boom": 280103
+      "Sonic Underground": 73634
+      "Sonic the Hedgehog": 73629
+      "Sonic Mania Adventures": 373903
+      "The Adventures of Sonic the Hedgehog": 73630
 
   ungrouped:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
         pmm: miscellaneous/ungrouped/diiivoy_neon
-    "Bluey": 353546
+    builders:
+      tvdb_show: 353546
+    shows:
+      "Bluey": 353546

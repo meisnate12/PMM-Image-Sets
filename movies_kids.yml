@@ -13,25 +13,30 @@ sets:
         - "Rio"
       "Ice Age Collection":
         - "Ice Age"
-    "Ice Age": 425
-    "Robots": 9928
-    "Ice Age: The Meltdown": 950
-    "Horton Hears a Who!": 12222
-    "Ice Age: Dawn of the Dinosaurs": 8355
-    "Rio": 46195
-    "Ice Age: Continental Drift": 57800
-    "Epic": 116711
-    "Rio 2": 172385
-    "The Peanuts Movie": 227973
-    "Ice Age: Collision Course": 278154
-    "Spies in Disguise": 431693
-    "Nimona": 961323
-    "Ferdinand": 364689
-    "The Ice Age Adventures of Buck Wild": 774825
-    "Ice Age: The Great Egg-Scapade": 387893
-    "Ice Age: A Mammoth Christmas": 79218
+    builders:
+      trakt_list:
+        -  https://trakt.tv/users/haiderales/lists/blue-sky-studios
+      tmdb_movie: 774825, 387893, 79218
+    movies:
+      "Ice Age": 425
+      "Robots": 9928
+      "Ice Age: The Meltdown": 950
+      "Horton Hears a Who!": 12222
+      "Ice Age: Dawn of the Dinosaurs": 8355
+      "Rio": 46195
+      "Ice Age: Continental Drift": 57800
+      "Epic": 116711
+      "Rio 2": 172385
+      "The Peanuts Movie": 227973
+      "Ice Age: Collision Course": 278154
+      "Spies in Disguise": 431693
+      "Nimona": 961323
+      "Ferdinand": 364689
+      "The Ice Age Adventures of Buck Wild": 774825
+      "Ice Age: The Great Egg-Scapade": 387893
+      "Ice Age: A Mammoth Christmas": 79218
 
-  disney:                      # Source List: https://trakt.tv/users/somewun/lists/disney-pixar-animation-movies / https://trakt.tv/users/donxy/lists/disney-live-action-movies
+  disney:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -143,480 +148,485 @@ sets:
         - "Sleeping Beauty"
       "Disney Live-Action Remakes":
         - "Disney Live-Action"
-    "Toy Story": 862
-    "Jungle Cruise": 451048
-    "The Sword in the Stone": 9078
-    "Pete's Dragon (2016)": 294272
-    "Pete's Dragon (1977)": 11114
-    "Coco": 354912
-    "Inside Out": 150540
-    "Finding Nemo": 12
-    "Up": 14160
-    "The Lion King": 8587
-    "WALL·E": 10681
-    "Ratatouille": 2062
-    "Piper": 399106
-    "Beauty and the Beast": 10020
-    "Toy Story 3": 10193
-    "Toy Story 2": 863
-    "The Nightmare Before Christmas": 9479
-    "Fantasia": 756
-    "Toy Story 4": 301528
-    "The Incredibles": 9806
-    "The Little Mermaid": 10144
-    "Mickey's Christmas Carol": 14813
-    "Soul": 508442
-    "Moana": 277834
-    "Monsters, Inc.": 585
-    "Aladdin": 812
-    "Paperman": 140420
-    "Presto": 13042
-    "Zootopia": 269149
-    "Raya and the Last Dragon": 527774
-    "Big Hero 6": 177572
-    "Tangled": 38757
-    "Mulan": 10674
-    "Incredibles 2": 260513
-    "La luna": 83564
-    "Tarzan": 37135
-    "Bao": 514754
-    "Geri's Game": 13929
-    "Lilo & Stitch": 11544
-    "Day & Night": 40619
-    "Toy Story of Terror!": 213121
-    "Turning Red": 508947
-    "Encanto": 568124
-    "Luck (2022)": 585511
-    "For the Birds": 13930
-    "Wreck-It Ralph": 82690
-    "Hercules": 11970
-    "Inner Workings": 406785
-    "The Emperor's New Groove": 11688
-    "Luca": 508943
-    "Partly Cloudy": 24480
-    "Lifted": 13060
-    "Finding Dory": 127380
-    "A Bug's Life": 9487
-    "BURN·E": 13413
-    "One Man Band": 13933
-    "Monsters University": 62211
-    "The Blue Umbrella": 200481
-    "Frozen": 109445
-    "Alice in Wonderland": 12092
-    "Snow White and the Seven Dwarfs": 408
-    "Pinocchio": 10895
-    "Saludos Amigos": 14906
-    "Melody Time": 13757
-    "Make Mine Music": 20343
-    "The Adventures of Ichabod and Mr. Toad": 13465
-    "Cinderella": 11224
-    "Peter Pan": 10693
-    "Lady and the Tramp": 10340
-    "Sleeping Beauty": 10882
-    "One Hundred and One Dalmatians": 12230
-    "The Jungle Book": 9325
-    "The Aristocats": 10112
-    "Robin Hood": 11886
-    "The Many Adventures of Winnie the Pooh": 250480
-    "The Rescuers": 11319
-    "The Fox and the Hound": 10948
-    "Enchanted": 4523
-    "Winnie the Pooh": 51162
-    "Jack-Jack Attack": 13932
-    "The Princess and the Frog": 10198
-    "Toy Story That Time Forgot": 256835
-    "Frozen II": 330457
-    "Onward": 508439
-    "The Hunchback of Notre Dame": 10545
-    "Cars": 920
-    "Frankenweenie": 62214
-    "The Great Mouse Detective": 9994
-    "Partysaurus Rex": 130925
-    "Tangled Ever After": 82881
-    "Knick Knack": 13928
-    "James and the Giant Peach": 10539
-    "The Brave Little Toaster": 19933
-    "Hawaiian Vacation": 77887
-    "Brave": 62177
-    "Far from the Tree": 831827
-    "Luxo Jr.": 13925
-    "Lava": 286192
-    "Bolt": 13053
-    "Secret of the Wings": 75258
-    "Ralph Breaks the Internet": 404368
-    "Fantasia 2000": 49948
-    "Sanjay's Super Team": 345637
-    "Treasure Planet": 9016
-    "Small Fry": 82424
-    "Burn-E": 13413
-    "Chip 'n Dale: Rescue Rangers": 420821
-    "Lightyear": 718789
-    "Ciao Alberto": 876716
-    "The Rescuers Down Under": 11135
-    "The Three Caballeros": 15947
-    "Mike's New Car": 13931
-    "Prep & Landing": 26809
-    "Dug's Special Mission": 24589
-    "Frozen Fever": 326359
-    "Meet the Robinsons": 1267
-    "Destino": 35114
-    "Kitbull": 574074
-    "A Christmas Carol": 17979
-    "A Goofy Movie": 15789
-    "The Good Dinosaur": 105864
-    "The Lion King 1½": 11430
-    "Your Friend the Rat": 13061
-    "Boundin'": 13062
-    "Cars 3": 260514
-    "Pocahontas": 10530
-    "Pooh's Heffalump Movie": 13682
-    "Piglet's Big Movie": 13691
-    "Mickey's Twice Upon a Christmas": 13378
-    "Atlantis: The Lost Empire": 10865
-    "Once Upon a Snowman": 741074
-    "Us Again": 779047
-    "Strange World": 877269
-    "Purl": 532953
-    "The Lion King II: Simba's Pride": 9732
-    "Riley's First Date?": 355338
-    "Lou": 433471
-    "Brother Bear": 10009
-    "Oliver & Company": 12233
-    "Fun and Fancy Free": 46929
-    "Mater and the Ghostlight": 13934
-    "The Tigger Movie": 15655
-    "Party Central": 258152
-    "Dinosaur": 10567
-    "The Black Cauldron": 10957
-    "Recess: School's Out": 19405
-    "22 vs. Earth": 811367
-    "Song of the South": 13850
-    "Winnie the Pooh: A Very Merry Pooh Year": 13706
-    "Tin Toy": 13927
-    "Auntie Edna": 546728
-    "Cars 2": 49013
-    "Lilo & Stitch 2: Stitch Has a Glitch": 20760
-    "Brother Bear 2": 10010
-    "Bambi": 3170
-    "Bambi II": 13205
-    "The Prince and the Pauper": 25831
-    "Red's Dream": 13926
-    "Burrow": 747059
-    "Mickey, Donald, Goofy: The Three Musketeers": 21385
-    "Buzz Lightyear of Star Command: The Adventure Begins": 16187
-    "Winnie the Pooh: Springtime with Roo": 16394
-    "Donald in Mathmagic Land": 19715
-    "Kronk's New Groove": 13417
-    "Mulan II": 12242
-    "Return to Never Land": 16690
-    "Olaf's Frozen Adventure": 460793
-    "Lamp Life": 594530
-    "101 Dalmatians II: Patch's London Adventure": 13654
-    "The Little Matchgirl": 38580
-    "Planes: Fire & Rescue": 218836
-    "Lady and the Tramp II: Scamp's Adventure": 18269
-    "Disenchanted": 338958
-    "The Adventures of André and Wally B.": 13924
-    "Chicken Little": 9982
-    "Tick Tock Tale": 352812
-    "The Ugly Duckling": 74751
-    "The Ballad of Nessie": 76346
-    "Home on the Range": 13700
-    "Trick or Treat": 67699
-    "Diary of a Wimpy Kid": 774741
-    "Marine Life Interviews": 427004
-    "George and A.J.": 72962
-    "Tarzan II": 15657
-    "John Henry": 197725
-    "How to Hook Up Your Home Theater": 105325
-    "Teacher's Pet": 24034
-    "Atlantis: Milo's Return": 8965
-    "Twenty Something": 852719
-    "Planes": 151960
-    "Mars Needs Moms": 50321
-    "The Wild": 9904
-    "The Fox and the Hound 2": 9948
-    "Prep & Landing Stocking Stuffer: Operation: Secret Santa": 88212
-    "Lorenzo": 245003
-    "The Mad Doctor": 101806
-    "Plane Crazy": 45665
-    "Pooh's Heffalump Halloween Movie": 14885
-    "Night at the Museum: Kahmunrah Rises Again": 751741
-    "Valiant": 14175
-    "Belle's Magical World": 20235
-    "The Legend of Mor'du": 141423
-    "G-Force": 19585
-    "Tummy Trouble": 83200
-    "Cinderella II: Dreams Come True": 14128
-    "The Haunted House": 77022
-    "Doug's 1st Movie": 16508
-    "Chip an' Dale": 53478
-    "Arjun: The Warrior Prince": 117369
-    "The Hunchback of Notre Dame II": 12448
-    "Runaway Brain": 67166
-    "Super Rhino": 16604
-    "Ye Olden Days": 67790
-    "Diary of a Wimpy Kid: Rodrick Rules": 897192
-    "Nona": 852721
-    "Dante's Lunch": 449621
-    "Trail Mix-Up": 83203
-    "The Little Mermaid Live!": 642271
-    "The Pixar Shorts: A Short History": 265447
-    "How to Swim": 66986
-    "Victory Through Air Power": 22779
-    "Mr. Incredible and Pals": 55423
-    "Donald's Dog Laundry": 55362
-    "Pluto's Judgement Day": 67162
-    "Winnie the Pooh: A Valentine for You": 76669
-    "Exploring the Reef": 296850
-    "Captain Sparky vs. The Flying Saucers": 166659
-    "The Gallopin' Gaucho": 113252
-    "Hercules: Zero to Hero": 153609
-    "The Karnival Kid": 99037
-    "Building a Building": 161836
-    "Truant Officer Donald": 94181
-    "Paul Bunyan": 44293
-    "Mickey's Orphans": 134360
-    "A Winnie the Pooh Thanksgiving": 357684
-    "My Friends Tigger & Pooh: Friendly Tails": 322202
-    "How to Play Golf": 62599
-    "Let's Stick Together": 66989
-    "Miss Fritter's Racing Skoool": 483396
-    "Wynken, Blynken & Nod": 58144
-    "Mickey's Circus": 67010
-    "Trolley Troubles": 106555
-    "Two Chips and a Miss": 97907
-    "How to Be a Detective": 66882
-    "No Smoking": 67145
-    "The Barn Dance": 113254
-    "The Robber Kitten": 109314
-    "Next Door": 209674
-    "Billposters": 53462
-    "Goofy's Glider": 66868
-    "Mickey's Nightmare": 156454
-    "Lullaby Land": 107661
-    "Mickey's Gala Premier": 161833
-    "Aquarela do Brasil": 35807
-    "The Barnyard Concert": 166656
-    "Mickey's Revue": 156462
-    "The Legend of Johnny Appleseed": 44455
-    "Mickey's Choo-Choo": 180089
-    "Donald's Double Trouble": 55365
-    "How to Dance": 66883
-    "Donald's Happy Birthday": 55399
-    "Luxo Jr. in 'Surprise' and 'Light & Heavy'": 325309
-    "The Opry House": 190232
-    "Giantland": 161832
-    "Home Made Home": 66878
-    "Once Upon a Wintertime": 218827
-    "Barnyard Olympics": 156468
-    "The Whoopee Party": 70880
-    "How to Sleep": 66985
-    "The Cactus Kid": 39093
-    "Winter": 209679
-    "Touchdown Mickey": 156461
-    "Mickey's Pal Pluto": 161884
-    "Mickey's Mellerdrammer": 161841
-    "Father's Day Off": 66852
-    "Hello Aloha": 66874
-    "Lion Down": 66993
-    "The Dognapper": 174264
-    "Two Weeks Vacation": 67704
-    "The Birthday Party": 39304
-    "Puppy Love": 161846
-    "Discover Spot": 145511
-    "Palm Springs": 209676
-    "The Mad Dog": 156488
-    "Mickey Steps Out": 162707
-    "Father's Week-End": 66863
-    "Cold War": 66836
-    "Camping Out": 174274
-    "Two Gun Goofy": 67706
-    "Old Sequoia": 67149
-    "Belle's Tales of Friendship": 341986
-    "The Castaway": 162331
-    "The Barnyard Broadcast": 162321
-    "The Story Room: The Making of 'Lilo & Stitch'": 353998
-    "The Shindig": 162792
-    "The Pet Store": 161840
-    "The Picnic": 162965
-    "Jungle Rhythm": 190371
-    "Shanghaied": 174303
-    "Get Rich Quick": 66865
-    "Lion Around": 66991
-    "The Mail Pilot": 61129
-    "For Whom the Bulls Toil": 67624
-    "The Brave Engineer": 78482
-    "Fishin' Around": 162593
-    "Blue Rhythm": 162584
-    "Pioneer Days": 162932
-    "Parade of the Award Nominees": 161605
-    "Mickey's Steam Roller": 135908
-    "The Moose Hunt": 162561
-    "The Wayward Canary": 161614
-    "Uncle Donald's Ants": 67708
-    "Oh Teacher": 33711
-    "Great Guns": 39823
-    "El Gaucho Goofy": 165024
-    "The Musical Farmer": 156500
-    "Father's Lion": 66862
-    "Summer": 67501
-    "Casey Bats Again": 160286
-    "Social Lion": 56015
-    "Trader Mickey": 156456
-    "Front and Back": 246673
-    "Mickey Plays Papa": 174508
-    "Fiddling Around": 166528
-    "The Delivery Boy": 162776
-    "Lake Titicaca": 222597
-    "Pecos Bill": 204017
-    "The Steeple Chase": 161887
-    "Rival Romeos": 39821
-    "Canine Casanova": 68491
-    "Man's Best Friend": 66998
-    "Pedro": 169660
-    "Donald and the Wheel": 54477
-    "Academy Award Review of Walt Disney Cartoons": 370521
-    "Up and Down": 287097
-    "Chip 'n' Dale: Here Comes Trouble": 49554
-    "Sky Scrappers": 190029
-    "All Wet": 189854
-    "Alice in the Wooly West": 40846
-    "Celebrating Mickey": 618163
-    "Walt Disney Cartoon Classics Limited Gold Edition II: An Officer and a Duck": 495566
-    "Pip's Predicament: A Pop-Up Adventure": 563493
-    "Sagebrush Sadie": 322138
-    "Hungry Hoboes": 322583
-    "Africa Before Dark": 321822
-    "The Ocean Hop": 39822
-    "Tall Timber": 190031
-    "Oh, What a Knight": 39820
-    "Empty Socks": 321479
-    "Ozzie of the Mounted": 189977
-    "Bright Lights": 39815
-    "Poor Papa": 323437
-    "The Fox Chase": 39819
-    "Harem Scarem": 299308
-    "Ride 'Em Plow Boy": 322139
-    "Hot Dogs": 323439
-    "Neck 'n' Neck": 321515
-    "Donald Duck - 75th Anniversary": 278306
-    "Kim Possible: The Secret Files": 23617
-    "Mickey's Audition": 464608
-    "The Magical World of Winnie the Pooh: Share Your World": 322777
-    "Walt Disney Treasures: More Silly Symphonies": 298464
-    "Mickey's Summer Madness": 22751
-    "Little Einsteins: Mission Celebration": 285458
-    "Walt Disney Treasures: Disney Rarities": 298295
-    "Everybody Loves Donald": 37740
-    "The Magical world of Winnie the Pooh : Growing up with Pooh": 322781
-    "Walt Disney Treasures - The Complete Goofy": 293973
-    "The Magical World of Winnie the Pooh: A Great Day of Discovery": 76701
-    "Kim Possible: Monkey Business": 318929
-    "Disney's Best: The Fabulous '50s": 724728
-    "Mickey Mouse Clubhouse: Mickey's Sport-Y-Thon": 402163
-    "Where the Toys Come From": 126472
-    "Donald Duck's Frantic Antic": 533694
-    "A Dairy Tale": 154489
-    "Bongo": 144458
-    "The Magical World of Winnie the Pooh: It’s Playtime with Pooh": 76882
-    "Groovin' with Ken": 701163
-    "The Magical World of Winnie the Pooh: Love and Friendship": 298164
-    "Cip & Ciop - L'albero dei guai": 294029
-    "The Magical World of Winnie the Pooh: All for One, One for All": 305790
-    "The Magical World of Winnie the Pooh: Little Things Mean a Lot": 298167
-    "Mufasa: The Lion King": 762509
-    "Prep & Landing: Tiny's Big Adventure": 195698
-    "Music Land": 673615
-    "Handy Manny: Big Construction Job": 331259
-    "Phineas and Ferb: The Perry Files": 267857
-    "Donald Loves Daisy": 285319
-    "Little Einsteins: The Legend of the Golden Pyramid": 285459
-    "The Cold-blooded Penguin": 143993
-    "Minnie's Yoo Hoo": 165977
-    "Off His Rockers": 197747
-    "The Banker's Daughter": 234082
-    "Prep & Landing: Totally Tinsel Collection": 450297
-    "Wolf Totem": 417613
-    "The G.I. Bill of Rights": 800001
-    "I'm No Fool with Fire": 373770
-    "I'm No Fool as a Pedestrian": 374580
-    "You and Your Ears": 374583
-    "I'm No Fool in Water": 374588
-    "You and Your Eyes": 374584
-    "You and Your Food": 374594
-    "You and Your Senses of Smell and Taste": 374589
-    "You and Your Five Senses": 374592
-    "You the Human Animal": 374593
-    "Oilspot and Lipstick": 374484
-    "Mickey's Laugh Factory": 68829
-    "Mickey's Safety Club: Street Safe, Street Smart": 642488
-    "Donald Duck Goes West": 519712
-    "Stand by Me": 197739
-    "Wuzzles: Bulls of a Feather": 842712
-    "The Ol' Swimmin' Hole": 321516
-    "Rickety Gin": 321480
-    "Down and Out with Donald Duck": 377471
-    "Contrasts in Rhythm": 899144
-    "Trees": 290832
-    "The Mickey Mouse Anniversary Show": 533494
-    "School House Rock Multiplication": 458847
-    "One by One": 28133
-    "Elemental": 976573
-    "Blue Bayou": 374447
-    "Wish": 1022796
-    "Elio": 1022787
-    "Inside Out 2": 1022789
-    "Walt Disney Cartoon Classics Limited Gold Edition II: Life with Mickey": 495580
-    "Petal to the Metal": 374492
-    "Walt Disney's 50th Anniversary Show": 533687
-    "Recycle Rex": 374493
-    "My Friends Tigger & Pooh: The World Around Us": 373073
-    "My Friends Tigger and Pooh: Chasing Rainbows": 418179
-    "Planes: Meet the Stars": 302064
-    "Discover Blu-ray 3D with Timon & Pumbaa": 1076813
-    "Handy Manny: Big Race": 331266
-    "Checkin in with Goofy": 854741
-    "Circle of Life: An Environmental Fable": 374499
-    "Pixar Short Films Collection: Volume 1": 288767
-    "Pixar Short Films Collection: Volume 2": 303659
-    "Pixar Short Films Collection: Volume 3": 553381
-    "Surprise": 287096
-    "Tiny Toy Stories": 585397
-    "Beach Chair": 300247
-    "Dory's Reef Cam": 777350
-    "Flags and Waves": 300445
-    "A Spark Story": 852724
-    "Blowin' in the Wind": 567672
-    "Automaton": 899613
-    "Winnie Puuh - Honigsüße Abenteuer 7: Freunde helfen einander": 355241
-    "In the Land of Imagined Things": 616783
-    "Disney's Christmas": 920091
-    "Toy Story 5": 1084244
-    "Untitled Domee Shi/Pixar Film": 1078246
-    "Pete's Dragon": 294272
-    "Mary Poppins": 433
-    "Dumbo": 11360
-    "Mary Poppins Returns": 400650
-    "101 Dalmatians (1996)": 11674
-    "102 Dalmatians (2000)": 10481
-    "Alice in Wonderland (2010)": 12155
-    "Maleficent (2014)": 102651
-    "Cinderella (2015)": 150689
-    "The Jungle Book (2016)": 278927
-    "Alice Through the Looking Glass (2016)": 241259 
-    "Beauty and the Beast (2017)": 321612
-    "Christopher Robin (2018)": 420814
-    "Dumbo (2019)": 329996
-    "Aladdin (2019)": 420817
-    "The Lion King (2019)": 420818
-    "Maleficent: Mistress of Evil (2019)": 420809
-    "Lady and the Tramp (2019)": 512895
-    "Mulan (2020)": 337401
-    "Cruella (2021)": 337404
-    "Pinocchio (2022)": 532639
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/somewun/lists/disney-pixar-animation-movies
+        - https://trakt.tv/users/donxy/lists/disney-live-action-movies
+    movies:
+      "Toy Story": 862
+      "Jungle Cruise": 451048
+      "The Sword in the Stone": 9078
+      "Pete's Dragon (2016)": 294272
+      "Pete's Dragon (1977)": 11114
+      "Coco": 354912
+      "Inside Out": 150540
+      "Finding Nemo": 12
+      "Up": 14160
+      "The Lion King": 8587
+      "WALL·E": 10681
+      "Ratatouille": 2062
+      "Piper": 399106
+      "Beauty and the Beast": 10020
+      "Toy Story 3": 10193
+      "Toy Story 2": 863
+      "The Nightmare Before Christmas": 9479
+      "Fantasia": 756
+      "Toy Story 4": 301528
+      "The Incredibles": 9806
+      "The Little Mermaid": 10144
+      "Mickey's Christmas Carol": 14813
+      "Soul": 508442
+      "Moana": 277834
+      "Monsters, Inc.": 585
+      "Aladdin": 812
+      "Paperman": 140420
+      "Presto": 13042
+      "Zootopia": 269149
+      "Raya and the Last Dragon": 527774
+      "Big Hero 6": 177572
+      "Tangled": 38757
+      "Mulan": 10674
+      "Incredibles 2": 260513
+      "La luna": 83564
+      "Tarzan": 37135
+      "Bao": 514754
+      "Geri's Game": 13929
+      "Lilo & Stitch": 11544
+      "Day & Night": 40619
+      "Toy Story of Terror!": 213121
+      "Turning Red": 508947
+      "Encanto": 568124
+      "Luck (2022)": 585511
+      "For the Birds": 13930
+      "Wreck-It Ralph": 82690
+      "Hercules": 11970
+      "Inner Workings": 406785
+      "The Emperor's New Groove": 11688
+      "Luca": 508943
+      "Partly Cloudy": 24480
+      "Lifted": 13060
+      "Finding Dory": 127380
+      "A Bug's Life": 9487
+      "BURN·E": 13413
+      "One Man Band": 13933
+      "Monsters University": 62211
+      "The Blue Umbrella": 200481
+      "Frozen": 109445
+      "Alice in Wonderland": 12092
+      "Snow White and the Seven Dwarfs": 408
+      "Pinocchio": 10895
+      "Saludos Amigos": 14906
+      "Melody Time": 13757
+      "Make Mine Music": 20343
+      "The Adventures of Ichabod and Mr. Toad": 13465
+      "Cinderella": 11224
+      "Peter Pan": 10693
+      "Lady and the Tramp": 10340
+      "Sleeping Beauty": 10882
+      "One Hundred and One Dalmatians": 12230
+      "The Jungle Book": 9325
+      "The Aristocats": 10112
+      "Robin Hood": 11886
+      "The Many Adventures of Winnie the Pooh": 250480
+      "The Rescuers": 11319
+      "The Fox and the Hound": 10948
+      "Enchanted": 4523
+      "Winnie the Pooh": 51162
+      "Jack-Jack Attack": 13932
+      "The Princess and the Frog": 10198
+      "Toy Story That Time Forgot": 256835
+      "Frozen II": 330457
+      "Onward": 508439
+      "The Hunchback of Notre Dame": 10545
+      "Cars": 920
+      "Frankenweenie": 62214
+      "The Great Mouse Detective": 9994
+      "Partysaurus Rex": 130925
+      "Tangled Ever After": 82881
+      "Knick Knack": 13928
+      "James and the Giant Peach": 10539
+      "The Brave Little Toaster": 19933
+      "Hawaiian Vacation": 77887
+      "Brave": 62177
+      "Far from the Tree": 831827
+      "Luxo Jr.": 13925
+      "Lava": 286192
+      "Bolt": 13053
+      "Secret of the Wings": 75258
+      "Ralph Breaks the Internet": 404368
+      "Fantasia 2000": 49948
+      "Sanjay's Super Team": 345637
+      "Treasure Planet": 9016
+      "Small Fry": 82424
+      "Burn-E": 13413
+      "Chip 'n Dale: Rescue Rangers": 420821
+      "Lightyear": 718789
+      "Ciao Alberto": 876716
+      "The Rescuers Down Under": 11135
+      "The Three Caballeros": 15947
+      "Mike's New Car": 13931
+      "Prep & Landing": 26809
+      "Dug's Special Mission": 24589
+      "Frozen Fever": 326359
+      "Meet the Robinsons": 1267
+      "Destino": 35114
+      "Kitbull": 574074
+      "A Christmas Carol": 17979
+      "A Goofy Movie": 15789
+      "The Good Dinosaur": 105864
+      "The Lion King 1½": 11430
+      "Your Friend the Rat": 13061
+      "Boundin'": 13062
+      "Cars 3": 260514
+      "Pocahontas": 10530
+      "Pooh's Heffalump Movie": 13682
+      "Piglet's Big Movie": 13691
+      "Mickey's Twice Upon a Christmas": 13378
+      "Atlantis: The Lost Empire": 10865
+      "Once Upon a Snowman": 741074
+      "Us Again": 779047
+      "Strange World": 877269
+      "Purl": 532953
+      "The Lion King II: Simba's Pride": 9732
+      "Riley's First Date?": 355338
+      "Lou": 433471
+      "Brother Bear": 10009
+      "Oliver & Company": 12233
+      "Fun and Fancy Free": 46929
+      "Mater and the Ghostlight": 13934
+      "The Tigger Movie": 15655
+      "Party Central": 258152
+      "Dinosaur": 10567
+      "The Black Cauldron": 10957
+      "Recess: School's Out": 19405
+      "22 vs. Earth": 811367
+      "Song of the South": 13850
+      "Winnie the Pooh: A Very Merry Pooh Year": 13706
+      "Tin Toy": 13927
+      "Auntie Edna": 546728
+      "Cars 2": 49013
+      "Lilo & Stitch 2: Stitch Has a Glitch": 20760
+      "Brother Bear 2": 10010
+      "Bambi": 3170
+      "Bambi II": 13205
+      "The Prince and the Pauper": 25831
+      "Red's Dream": 13926
+      "Burrow": 747059
+      "Mickey, Donald, Goofy: The Three Musketeers": 21385
+      "Buzz Lightyear of Star Command: The Adventure Begins": 16187
+      "Winnie the Pooh: Springtime with Roo": 16394
+      "Donald in Mathmagic Land": 19715
+      "Kronk's New Groove": 13417
+      "Mulan II": 12242
+      "Return to Never Land": 16690
+      "Olaf's Frozen Adventure": 460793
+      "Lamp Life": 594530
+      "101 Dalmatians II: Patch's London Adventure": 13654
+      "The Little Matchgirl": 38580
+      "Planes: Fire & Rescue": 218836
+      "Lady and the Tramp II: Scamp's Adventure": 18269
+      "Disenchanted": 338958
+      "The Adventures of André and Wally B.": 13924
+      "Chicken Little": 9982
+      "Tick Tock Tale": 352812
+      "The Ugly Duckling": 74751
+      "The Ballad of Nessie": 76346
+      "Home on the Range": 13700
+      "Trick or Treat": 67699
+      "Diary of a Wimpy Kid": 774741
+      "Marine Life Interviews": 427004
+      "George and A.J.": 72962
+      "Tarzan II": 15657
+      "John Henry": 197725
+      "How to Hook Up Your Home Theater": 105325
+      "Teacher's Pet": 24034
+      "Atlantis: Milo's Return": 8965
+      "Twenty Something": 852719
+      "Planes": 151960
+      "Mars Needs Moms": 50321
+      "The Wild": 9904
+      "The Fox and the Hound 2": 9948
+      "Prep & Landing Stocking Stuffer: Operation: Secret Santa": 88212
+      "Lorenzo": 245003
+      "The Mad Doctor": 101806
+      "Plane Crazy": 45665
+      "Pooh's Heffalump Halloween Movie": 14885
+      "Night at the Museum: Kahmunrah Rises Again": 751741
+      "Valiant": 14175
+      "Belle's Magical World": 20235
+      "The Legend of Mor'du": 141423
+      "G-Force": 19585
+      "Tummy Trouble": 83200
+      "Cinderella II: Dreams Come True": 14128
+      "The Haunted House": 77022
+      "Doug's 1st Movie": 16508
+      "Chip an' Dale": 53478
+      "Arjun: The Warrior Prince": 117369
+      "The Hunchback of Notre Dame II": 12448
+      "Runaway Brain": 67166
+      "Super Rhino": 16604
+      "Ye Olden Days": 67790
+      "Diary of a Wimpy Kid: Rodrick Rules": 897192
+      "Nona": 852721
+      "Dante's Lunch": 449621
+      "Trail Mix-Up": 83203
+      "The Little Mermaid Live!": 642271
+      "The Pixar Shorts: A Short History": 265447
+      "How to Swim": 66986
+      "Victory Through Air Power": 22779
+      "Mr. Incredible and Pals": 55423
+      "Donald's Dog Laundry": 55362
+      "Pluto's Judgement Day": 67162
+      "Winnie the Pooh: A Valentine for You": 76669
+      "Exploring the Reef": 296850
+      "Captain Sparky vs. The Flying Saucers": 166659
+      "The Gallopin' Gaucho": 113252
+      "Hercules: Zero to Hero": 153609
+      "The Karnival Kid": 99037
+      "Building a Building": 161836
+      "Truant Officer Donald": 94181
+      "Paul Bunyan": 44293
+      "Mickey's Orphans": 134360
+      "A Winnie the Pooh Thanksgiving": 357684
+      "My Friends Tigger & Pooh: Friendly Tails": 322202
+      "How to Play Golf": 62599
+      "Let's Stick Together": 66989
+      "Miss Fritter's Racing Skoool": 483396
+      "Wynken, Blynken & Nod": 58144
+      "Mickey's Circus": 67010
+      "Trolley Troubles": 106555
+      "Two Chips and a Miss": 97907
+      "How to Be a Detective": 66882
+      "No Smoking": 67145
+      "The Barn Dance": 113254
+      "The Robber Kitten": 109314
+      "Next Door": 209674
+      "Billposters": 53462
+      "Goofy's Glider": 66868
+      "Mickey's Nightmare": 156454
+      "Lullaby Land": 107661
+      "Mickey's Gala Premier": 161833
+      "Aquarela do Brasil": 35807
+      "The Barnyard Concert": 166656
+      "Mickey's Revue": 156462
+      "The Legend of Johnny Appleseed": 44455
+      "Mickey's Choo-Choo": 180089
+      "Donald's Double Trouble": 55365
+      "How to Dance": 66883
+      "Donald's Happy Birthday": 55399
+      "Luxo Jr. in 'Surprise' and 'Light & Heavy'": 325309
+      "The Opry House": 190232
+      "Giantland": 161832
+      "Home Made Home": 66878
+      "Once Upon a Wintertime": 218827
+      "Barnyard Olympics": 156468
+      "The Whoopee Party": 70880
+      "How to Sleep": 66985
+      "The Cactus Kid": 39093
+      "Winter": 209679
+      "Touchdown Mickey": 156461
+      "Mickey's Pal Pluto": 161884
+      "Mickey's Mellerdrammer": 161841
+      "Father's Day Off": 66852
+      "Hello Aloha": 66874
+      "Lion Down": 66993
+      "The Dognapper": 174264
+      "Two Weeks Vacation": 67704
+      "The Birthday Party": 39304
+      "Puppy Love": 161846
+      "Discover Spot": 145511
+      "Palm Springs": 209676
+      "The Mad Dog": 156488
+      "Mickey Steps Out": 162707
+      "Father's Week-End": 66863
+      "Cold War": 66836
+      "Camping Out": 174274
+      "Two Gun Goofy": 67706
+      "Old Sequoia": 67149
+      "Belle's Tales of Friendship": 341986
+      "The Castaway": 162331
+      "The Barnyard Broadcast": 162321
+      "The Story Room: The Making of 'Lilo & Stitch'": 353998
+      "The Shindig": 162792
+      "The Pet Store": 161840
+      "The Picnic": 162965
+      "Jungle Rhythm": 190371
+      "Shanghaied": 174303
+      "Get Rich Quick": 66865
+      "Lion Around": 66991
+      "The Mail Pilot": 61129
+      "For Whom the Bulls Toil": 67624
+      "The Brave Engineer": 78482
+      "Fishin' Around": 162593
+      "Blue Rhythm": 162584
+      "Pioneer Days": 162932
+      "Parade of the Award Nominees": 161605
+      "Mickey's Steam Roller": 135908
+      "The Moose Hunt": 162561
+      "The Wayward Canary": 161614
+      "Uncle Donald's Ants": 67708
+      "Oh Teacher": 33711
+      "Great Guns": 39823
+      "El Gaucho Goofy": 165024
+      "The Musical Farmer": 156500
+      "Father's Lion": 66862
+      "Summer": 67501
+      "Casey Bats Again": 160286
+      "Social Lion": 56015
+      "Trader Mickey": 156456
+      "Front and Back": 246673
+      "Mickey Plays Papa": 174508
+      "Fiddling Around": 166528
+      "The Delivery Boy": 162776
+      "Lake Titicaca": 222597
+      "Pecos Bill": 204017
+      "The Steeple Chase": 161887
+      "Rival Romeos": 39821
+      "Canine Casanova": 68491
+      "Man's Best Friend": 66998
+      "Pedro": 169660
+      "Donald and the Wheel": 54477
+      "Academy Award Review of Walt Disney Cartoons": 370521
+      "Up and Down": 287097
+      "Chip 'n' Dale: Here Comes Trouble": 49554
+      "Sky Scrappers": 190029
+      "All Wet": 189854
+      "Alice in the Wooly West": 40846
+      "Celebrating Mickey": 618163
+      "Walt Disney Cartoon Classics Limited Gold Edition II: An Officer and a Duck": 495566
+      "Pip's Predicament: A Pop-Up Adventure": 563493
+      "Sagebrush Sadie": 322138
+      "Hungry Hoboes": 322583
+      "Africa Before Dark": 321822
+      "The Ocean Hop": 39822
+      "Tall Timber": 190031
+      "Oh, What a Knight": 39820
+      "Empty Socks": 321479
+      "Ozzie of the Mounted": 189977
+      "Bright Lights": 39815
+      "Poor Papa": 323437
+      "The Fox Chase": 39819
+      "Harem Scarem": 299308
+      "Ride 'Em Plow Boy": 322139
+      "Hot Dogs": 323439
+      "Neck 'n' Neck": 321515
+      "Donald Duck - 75th Anniversary": 278306
+      "Kim Possible: The Secret Files": 23617
+      "Mickey's Audition": 464608
+      "The Magical World of Winnie the Pooh: Share Your World": 322777
+      "Walt Disney Treasures: More Silly Symphonies": 298464
+      "Mickey's Summer Madness": 22751
+      "Little Einsteins: Mission Celebration": 285458
+      "Walt Disney Treasures: Disney Rarities": 298295
+      "Everybody Loves Donald": 37740
+      "The Magical world of Winnie the Pooh : Growing up with Pooh": 322781
+      "Walt Disney Treasures - The Complete Goofy": 293973
+      "The Magical World of Winnie the Pooh: A Great Day of Discovery": 76701
+      "Kim Possible: Monkey Business": 318929
+      "Disney's Best: The Fabulous '50s": 724728
+      "Mickey Mouse Clubhouse: Mickey's Sport-Y-Thon": 402163
+      "Where the Toys Come From": 126472
+      "Donald Duck's Frantic Antic": 533694
+      "A Dairy Tale": 154489
+      "Bongo": 144458
+      "The Magical World of Winnie the Pooh: It’s Playtime with Pooh": 76882
+      "Groovin' with Ken": 701163
+      "The Magical World of Winnie the Pooh: Love and Friendship": 298164
+      "Cip & Ciop - L'albero dei guai": 294029
+      "The Magical World of Winnie the Pooh: All for One, One for All": 305790
+      "The Magical World of Winnie the Pooh: Little Things Mean a Lot": 298167
+      "Mufasa: The Lion King": 762509
+      "Prep & Landing: Tiny's Big Adventure": 195698
+      "Music Land": 673615
+      "Handy Manny: Big Construction Job": 331259
+      "Phineas and Ferb: The Perry Files": 267857
+      "Donald Loves Daisy": 285319
+      "Little Einsteins: The Legend of the Golden Pyramid": 285459
+      "The Cold-blooded Penguin": 143993
+      "Minnie's Yoo Hoo": 165977
+      "Off His Rockers": 197747
+      "The Banker's Daughter": 234082
+      "Prep & Landing: Totally Tinsel Collection": 450297
+      "Wolf Totem": 417613
+      "The G.I. Bill of Rights": 800001
+      "I'm No Fool with Fire": 373770
+      "I'm No Fool as a Pedestrian": 374580
+      "You and Your Ears": 374583
+      "I'm No Fool in Water": 374588
+      "You and Your Eyes": 374584
+      "You and Your Food": 374594
+      "You and Your Senses of Smell and Taste": 374589
+      "You and Your Five Senses": 374592
+      "You the Human Animal": 374593
+      "Oilspot and Lipstick": 374484
+      "Mickey's Laugh Factory": 68829
+      "Mickey's Safety Club: Street Safe, Street Smart": 642488
+      "Donald Duck Goes West": 519712
+      "Stand by Me": 197739
+      "Wuzzles: Bulls of a Feather": 842712
+      "The Ol' Swimmin' Hole": 321516
+      "Rickety Gin": 321480
+      "Down and Out with Donald Duck": 377471
+      "Contrasts in Rhythm": 899144
+      "Trees": 290832
+      "The Mickey Mouse Anniversary Show": 533494
+      "School House Rock Multiplication": 458847
+      "One by One": 28133
+      "Elemental": 976573
+      "Blue Bayou": 374447
+      "Wish": 1022796
+      "Elio": 1022787
+      "Inside Out 2": 1022789
+      "Walt Disney Cartoon Classics Limited Gold Edition II: Life with Mickey": 495580
+      "Petal to the Metal": 374492
+      "Walt Disney's 50th Anniversary Show": 533687
+      "Recycle Rex": 374493
+      "My Friends Tigger & Pooh: The World Around Us": 373073
+      "My Friends Tigger and Pooh: Chasing Rainbows": 418179
+      "Planes: Meet the Stars": 302064
+      "Discover Blu-ray 3D with Timon & Pumbaa": 1076813
+      "Handy Manny: Big Race": 331266
+      "Checkin in with Goofy": 854741
+      "Circle of Life: An Environmental Fable": 374499
+      "Pixar Short Films Collection: Volume 1": 288767
+      "Pixar Short Films Collection: Volume 2": 303659
+      "Pixar Short Films Collection: Volume 3": 553381
+      "Surprise": 287096
+      "Tiny Toy Stories": 585397
+      "Beach Chair": 300247
+      "Dory's Reef Cam": 777350
+      "Flags and Waves": 300445
+      "A Spark Story": 852724
+      "Blowin' in the Wind": 567672
+      "Automaton": 899613
+      "Winnie Puuh - Honigsüße Abenteuer 7: Freunde helfen einander": 355241
+      "In the Land of Imagined Things": 616783
+      "Disney's Christmas": 920091
+      "Toy Story 5": 1084244
+      "Untitled Domee Shi/Pixar Film": 1078246
+      "Pete's Dragon": 294272
+      "Mary Poppins": 433
+      "Dumbo": 11360
+      "Mary Poppins Returns": 400650
+      "101 Dalmatians (1996)": 11674
+      "102 Dalmatians (2000)": 10481
+      "Alice in Wonderland (2010)": 12155
+      "Maleficent (2014)": 102651
+      "Cinderella (2015)": 150689
+      "The Jungle Book (2016)": 278927
+      "Alice Through the Looking Glass (2016)": 241259 
+      "Beauty and the Beast (2017)": 321612
+      "Christopher Robin (2018)": 420814
+      "Dumbo (2019)": 329996
+      "Aladdin (2019)": 420817
+      "The Lion King (2019)": 420818
+      "Maleficent: Mistress of Evil (2019)": 420809
+      "Lady and the Tramp (2019)": 512895
+      "Mulan (2020)": 337401
+      "Cruella (2021)": 337404
+      "Pinocchio (2022)": 532639
 
-  dreamworks:                      # Source List: https://trakt.tv/users/pablo-ramon-amorim/lists/dreamworks-animation
+  dreamworks:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -648,76 +658,80 @@ sets:
         - "Trolls"
       "Madagascar Collection":
         - "Madagascar"
-    "Antz": 8916
-    "The Prince of Egypt": 9837
-    "The Road to El Dorado": 10501
-    "Chicken Run": 7443
-    "Shrek": 808
-    "Spirit: Stallion of the Cimarron": 9023
-    "Sinbad: Legend of the Seven Seas": 14411
-    "Shrek 2": 809
-    "Shark Tale": 10555
-    "Madagascar": 953
-    "Wallace & Gromit: The Curse of the Were-Rabbit": 533
-    "Over the Hedge": 7518
-    "Flushed Away": 11619
-    "Shrek the Third": 810
-    "Bee Movie": 5559
-    "Kung Fu Panda": 9502
-    "Madagascar: Escape 2 Africa": 10527
-    "Monsters vs Aliens": 15512
-    "How to Train Your Dragon": 10191
-    "Shrek Forever After": 10192
-    "Megamind": 38055
-    "Kung Fu Panda 2": 49444
-    "Puss in Boots": 417859
-    "Madagascar 3: Europe's Most Wanted": 80321
-    "Rise of the Guardians": 81188
-    "The Croods": 49519
-    "Turbo": 77950
-    "Mr. Peabody & Sherman": 82703
-    "How to Train Your Dragon 2": 82702
-    "Penguins of Madagascar": 270946
-    "Home": 228161
-    "Kung Fu Panda 3": 140300
-    "Trolls": 136799
-    "The Boss Baby": 295693
-    "Captain Underpants: The First Epic Movie": 268531
-    "How to Train Your Dragon: The Hidden World": 166428
-    "Abominable": 431580
-    "Trolls World Tour": 446893
-    "The Croods: A New Age": 529203
-    "Spirit Untamed": 637693
-    "The Boss Baby: Family Business": 459151
-    "Joseph: King of Dreams": 16366
-    "Trollhunters: Rise of the Titans": 730840
-    "Scared Shrekless": 48466
-    "Mutant Pumpkins from Outer Space": 53985
-    "Puss in Boots: The Three Diablos": 83201
-    "Spirit Riding Free: Spirit of Christmas": 653904
-    "Spirit Riding Free: Ride Along Adventure": 773935
-    "Merry Madagascar": 25472
-    "Madly Madagascar": 161143
-    "Dragons: Gift of the Night Fury": 91417
-    "Donkey's Christmas Shrektacular": 51256
-    "Kung Fu Panda: Secrets of the Masters": 81003
-    "Kung Fu Panda: Secrets of the Scroll": 381693
-    "Book of Dragons": 79379
-    "Legend of the BoneKnapper Dragon": 47626
-    "The Ghost of Lord Farquaad": 25523
-    "Dragons: Dawn Of The Dragon Racers": 298115
-    "Far Far Away Idol": 58508
-    "Trolls Holiday": 484510
-    "The Madagascar Penguins in a Christmas Caper": 10258
-    "DreamWorks Home: For the Holidays": 490156
-    "Kung Fu Panda: Secrets of the Furious Five": 15854
-    "The Bad Guys": 629542
-    "Maraschino Ruby": 981424
-    "Puss in Boots: The Last Wish": 315162
-    "The Boss Baby: Christmas Bonus": 1045944
-    "The Boss Baby: Get That Baby!": 735364
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/pablo-ramon-amorim/lists/dreamworks-animation
+    movies:
+      "Antz": 8916
+      "The Prince of Egypt": 9837
+      "The Road to El Dorado": 10501
+      "Chicken Run": 7443
+      "Shrek": 808
+      "Spirit: Stallion of the Cimarron": 9023
+      "Sinbad: Legend of the Seven Seas": 14411
+      "Shrek 2": 809
+      "Shark Tale": 10555
+      "Madagascar": 953
+      "Wallace & Gromit: The Curse of the Were-Rabbit": 533
+      "Over the Hedge": 7518
+      "Flushed Away": 11619
+      "Shrek the Third": 810
+      "Bee Movie": 5559
+      "Kung Fu Panda": 9502
+      "Madagascar: Escape 2 Africa": 10527
+      "Monsters vs Aliens": 15512
+      "How to Train Your Dragon": 10191
+      "Shrek Forever After": 10192
+      "Megamind": 38055
+      "Kung Fu Panda 2": 49444
+      "Puss in Boots": 417859
+      "Madagascar 3: Europe's Most Wanted": 80321
+      "Rise of the Guardians": 81188
+      "The Croods": 49519
+      "Turbo": 77950
+      "Mr. Peabody & Sherman": 82703
+      "How to Train Your Dragon 2": 82702
+      "Penguins of Madagascar": 270946
+      "Home": 228161
+      "Kung Fu Panda 3": 140300
+      "Trolls": 136799
+      "The Boss Baby": 295693
+      "Captain Underpants: The First Epic Movie": 268531
+      "How to Train Your Dragon: The Hidden World": 166428
+      "Abominable": 431580
+      "Trolls World Tour": 446893
+      "The Croods: A New Age": 529203
+      "Spirit Untamed": 637693
+      "The Boss Baby: Family Business": 459151
+      "Joseph: King of Dreams": 16366
+      "Trollhunters: Rise of the Titans": 730840
+      "Scared Shrekless": 48466
+      "Mutant Pumpkins from Outer Space": 53985
+      "Puss in Boots: The Three Diablos": 83201
+      "Spirit Riding Free: Spirit of Christmas": 653904
+      "Spirit Riding Free: Ride Along Adventure": 773935
+      "Merry Madagascar": 25472
+      "Madly Madagascar": 161143
+      "Dragons: Gift of the Night Fury": 91417
+      "Donkey's Christmas Shrektacular": 51256
+      "Kung Fu Panda: Secrets of the Masters": 81003
+      "Kung Fu Panda: Secrets of the Scroll": 381693
+      "Book of Dragons": 79379
+      "Legend of the BoneKnapper Dragon": 47626
+      "The Ghost of Lord Farquaad": 25523
+      "Dragons: Dawn Of The Dragon Racers": 298115
+      "Far Far Away Idol": 58508
+      "Trolls Holiday": 484510
+      "The Madagascar Penguins in a Christmas Caper": 10258
+      "DreamWorks Home: For the Holidays": 490156
+      "Kung Fu Panda: Secrets of the Furious Five": 15854
+      "The Bad Guys": 629542
+      "Maraschino Ruby": 981424
+      "Puss in Boots: The Last Wish": 315162
+      "The Boss Baby: Christmas Bonus": 1045944
+      "The Boss Baby: Get That Baby!": 735364
 
-  illumination:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
+  illumination:
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -735,46 +749,50 @@ sets:
         - "The Secret Life of Pets"
         - "Secret Life of Pets Collection"
         - "Secret Life of Pets"
-    "Despicable Me": 20352
-    "Minions: Home Makeover": 54553
-    "Minions: Orientation Day": 54559
-    "Banana": 54551
-    "Hop": 50359
-    "Phil's Dance Party": 240159
-    "The Lorax": 73723
-    "Wagon Ho!": 125448
-    "Forces of Nature": 125453
-    "Serenade": 125445
-    "Despicable Me 2": 93456
-    "Minions: Puppy": 229407
-    "Minions: Training Wheels": 229408
-    "Panic in the Mailroom": 229405
-    "Minions": 211672
-    "Cro Minion": 366141
-    "Competition": 366142
-    "Binky Nelson Unpacified": 366143
-    "Mower Minions": 403052
-    "The Secret Life of Pets": 328111
-    "Norman Television": 424889
-    "Weenie": 424873
-    "Sing": 335797
-    "Gunter Babysits": 448450
-    "Love at First Sight": 449124
-    "Eddie's Life Coach": 449655
-    "Despicable Me 3": 324852
-    "The Secret Life of Kyle": 484809
-    "Yellow Is the New Black": 553903
-    "The Grinch": 360920
-    "The Dog Days of Winter": 580312
-    "Santa's Little Helpers": 579524
-    "The Secret Life of Pets 2": 412117
-    "Super Gidget": 624993
-    "Minion Scouts": 624995
-    "Minions: Holiday Special": 764079
-    "Sing 2": 438695
-    "Minions: The Rise of Gru": 438148
-    "The Super Mario Bros. Movie": 502356
-    "Despicable Me 4": 519182
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/darkman1498/lists/illumination
+    movies:
+      "Despicable Me": 20352
+      "Minions: Home Makeover": 54553
+      "Minions: Orientation Day": 54559
+      "Banana": 54551
+      "Hop": 50359
+      "Phil's Dance Party": 240159
+      "The Lorax": 73723
+      "Wagon Ho!": 125448
+      "Forces of Nature": 125453
+      "Serenade": 125445
+      "Despicable Me 2": 93456
+      "Minions: Puppy": 229407
+      "Minions: Training Wheels": 229408
+      "Panic in the Mailroom": 229405
+      "Minions": 211672
+      "Cro Minion": 366141
+      "Competition": 366142
+      "Binky Nelson Unpacified": 366143
+      "Mower Minions": 403052
+      "The Secret Life of Pets": 328111
+      "Norman Television": 424889
+      "Weenie": 424873
+      "Sing": 335797
+      "Gunter Babysits": 448450
+      "Love at First Sight": 449124
+      "Eddie's Life Coach": 449655
+      "Despicable Me 3": 324852
+      "The Secret Life of Kyle": 484809
+      "Yellow Is the New Black": 553903
+      "The Grinch": 360920
+      "The Dog Days of Winter": 580312
+      "Santa's Little Helpers": 579524
+      "The Secret Life of Pets 2": 412117
+      "Super Gidget": 624993
+      "Minion Scouts": 624995
+      "Minions: Holiday Special": 764079
+      "Sing 2": 438695
+      "Minions: The Rise of Gru": 438148
+      "The Super Mario Bros. Movie": 502356
+      "Despicable Me 4": 519182
 
   jumanji:
     styles:
@@ -786,9 +804,12 @@ sets:
     collections:
       "Jumanji Collection":
         - "Jumanji"
-    "Jumanji": 8844
-    "Jumanji: Welcome to the Jungle": 353486
-    "Jumanji: The Next Level": 512200
+    builders:
+      tmdb_collection: 495527
+    movies:
+      "Jumanji": 8844
+      "Jumanji: Welcome to the Jungle": 353486
+      "Jumanji: The Next Level": 512200
 
   landbeforetime:
     styles:
@@ -796,32 +817,36 @@ sets:
       mikenobbs:
         pmm: miscellaneous/landbeforetime/mikenobbs
     collections:
-      "The Land Before Time Collection":              # Source List: https://trakt.tv/users/krissykk/lists/animation-land-before-time?sort=rank,asc
+      "The Land Before Time Collection":
         - "The Land Before Time"
         - "Land Before Time Collection"
         - "Land Before Time"
-    "The Land Before Time": 12144
-    "The Land Before Time III: The Time of the Great Giving": 19004
-    "The Land Before Time IV: Journey Through the Mists": 19164
-    "The Land Before Time IX: Journey to Big Water": 25556
-    "The Land Before Time V: The Mysterious Island": 19165
-    "The Land Before Time VI: The Secret of Saurus Rock": 17337
-    "The Land Before Time VII: The Stone of Cold Fire": 24102
-    "The Land Before Time VIII: The Big Freeze": 25587
-    "The Land Before Time X: The Great Longneck Migration": 24554
-    "The Land Before Time XI: Invasion of the Tinysauruses": 24556
-    "The Land Before Time XII: The Great Day of the Flyers": 31933
-    "The Land Before Time XIII: The Wisdom of Friends": 39961
-    "The Land Before Time XIV: Journey of the Brave": 339526
-    "The Land Before Time: Friends Forever": 35909
-    "The Land Before Time: Good Times and Good Friends": 62053
-    "The Land Before Time: Magical Discoveries": 62056
-    "The Land Before Time: The Great Valley Adventure": 15997
-    "The Land Before Time: Through The Eyes Of A Spiketail": 62054
-    "The Land Before Time: Adventuring In The Mysterious Beyond": 62052
-    "The Land Before Time: Amazing Adventures": 62055
-    "The Land Before Time: 2 DinoRiffic Adventures": 596770
-    "The Land Before Time: Sing Along Songs": 495171
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/krissykk/lists/animation-land-before-time
+    movies:
+      "The Land Before Time": 12144
+      "The Land Before Time III: The Time of the Great Giving": 19004
+      "The Land Before Time IV: Journey Through the Mists": 19164
+      "The Land Before Time IX: Journey to Big Water": 25556
+      "The Land Before Time V: The Mysterious Island": 19165
+      "The Land Before Time VI: The Secret of Saurus Rock": 17337
+      "The Land Before Time VII: The Stone of Cold Fire": 24102
+      "The Land Before Time VIII: The Big Freeze": 25587
+      "The Land Before Time X: The Great Longneck Migration": 24554
+      "The Land Before Time XI: Invasion of the Tinysauruses": 24556
+      "The Land Before Time XII: The Great Day of the Flyers": 31933
+      "The Land Before Time XIII: The Wisdom of Friends": 39961
+      "The Land Before Time XIV: Journey of the Brave": 339526
+      "The Land Before Time: Friends Forever": 35909
+      "The Land Before Time: Good Times and Good Friends": 62053
+      "The Land Before Time: Magical Discoveries": 62056
+      "The Land Before Time: The Great Valley Adventure": 15997
+      "The Land Before Time: Through The Eyes Of A Spiketail": 62054
+      "The Land Before Time: Adventuring In The Mysterious Beyond": 62052
+      "The Land Before Time: Amazing Adventures": 62055
+      "The Land Before Time: 2 DinoRiffic Adventures": 596770
+      "The Land Before Time: Sing Along Songs": 495171
 
   scoobydoo:
     styles:
@@ -829,50 +854,54 @@ sets:
       mikenobbs:
         pmm: miscellaneous/scoobydoo/mikenobbs
     collections:
-      "Scooby-Doo! Animated Collection":          # Source List: https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
-        - "Scooby-Doo! Animated"                  
-    "Scooby-Doo! The Sword and the Scoob": 682254
-    "Scooby-Doo! and the Beach Beastie": 340884
-    "Scooby-Doo! and KISS: Rock and Roll Mystery": 347688
-    "Scooby-Doo! Moon Monster Madness": 302960
-    "Scooby-Doo! and WWE: Curse of the Speed Demon": 409122
-    "Scooby-Doo! Shaggy's Showdown": 427564
-    "Scooby-Doo! & Batman: The Brave and the Bold": 484862
-    "Scooby-Doo! and the Gourmet Ghost": 533592
-    "Scooby-Doo! and the Curse of the 13th Ghost": 560066
-    "Scooby-Doo! Return to Zombie Island": 615774
-    "Happy Halloween, Scooby-Doo!": 721656
-    "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog": 843906
-    "Scooby-Doo! Mask of the Blue Falcon": 151535
-    "Scooby-Doo! Spooky Games": 284908
-    "Scooby-Doo! Music of the Vampire": 81900
-    "Big Top Scooby-Doo!": 119321
-    "Scooby-Doo! Stage Fright": 203696
-    "Scooby-Doo! WrestleMania Mystery": 258893
-    "Scooby-Doo! Frankencreepy": 284995
-    "Scooby-Doo! Haunted Holidays": 245881
-    "Scooby-Doo! Pirates Ahoy!": 13355
-    "Chill Out, Scooby-Doo!": 13354
-    "Scooby-Doo! and the Goblin King": 12903
-    "Scooby-Doo! and the Samurai Sword": 16390
-    "Scooby-Doo! Abracadabra-Doo": 32916
-    "Scooby-Doo! Camp Scare": 45752
-    "Scooby-Doo! Legend of the Phantosaur": 67900
-    "Scooby-Doo on Zombie Island": 13151
-    "Scooby-Doo! and the Witch's Ghost": 17681
-    "Scooby-Doo and the Alien Invaders": 20410
-    "Scooby-Doo! and the Cyber Chase": 15601
-    "Scooby-Doo Meets Batman": 287757
-    "Scooby-Doo! and the Legend of the Vampire": 30074
-    "Scooby-Doo! and the Monster of Mexico": 21956
-    "Scooby-Doo! and the Loch Ness Monster": 12902
-    "Scooby-Doo! in Where's My Mummy?": 20558
-    "Aloha Scooby-Doo!": 24615
-    "Scooby-Doo! Meets the Boo Brothers": 24787
-    "Scooby-Doo! and the Reluctant Werewolf": 37211
-    "Scooby-Doo and the Ghoul School": 13350
-    "Scooby-Doo! in Arabian Nights": 13351
-    "Trick or Treat Scooby-Doo!": 1015724
+      "Scooby-Doo! Animated Collection": 
+        - "Scooby-Doo! Animated"
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+    movies:
+      "Scooby-Doo! The Sword and the Scoob": 682254
+      "Scooby-Doo! and the Beach Beastie": 340884
+      "Scooby-Doo! and KISS: Rock and Roll Mystery": 347688
+      "Scooby-Doo! Moon Monster Madness": 302960
+      "Scooby-Doo! and WWE: Curse of the Speed Demon": 409122
+      "Scooby-Doo! Shaggy's Showdown": 427564
+      "Scooby-Doo! & Batman: The Brave and the Bold": 484862
+      "Scooby-Doo! and the Gourmet Ghost": 533592
+      "Scooby-Doo! and the Curse of the 13th Ghost": 560066
+      "Scooby-Doo! Return to Zombie Island": 615774
+      "Happy Halloween, Scooby-Doo!": 721656
+      "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog": 843906
+      "Scooby-Doo! Mask of the Blue Falcon": 151535
+      "Scooby-Doo! Spooky Games": 284908
+      "Scooby-Doo! Music of the Vampire": 81900
+      "Big Top Scooby-Doo!": 119321
+      "Scooby-Doo! Stage Fright": 203696
+      "Scooby-Doo! WrestleMania Mystery": 258893
+      "Scooby-Doo! Frankencreepy": 284995
+      "Scooby-Doo! Haunted Holidays": 245881
+      "Scooby-Doo! Pirates Ahoy!": 13355
+      "Chill Out, Scooby-Doo!": 13354
+      "Scooby-Doo! and the Goblin King": 12903
+      "Scooby-Doo! and the Samurai Sword": 16390
+      "Scooby-Doo! Abracadabra-Doo": 32916
+      "Scooby-Doo! Camp Scare": 45752
+      "Scooby-Doo! Legend of the Phantosaur": 67900
+      "Scooby-Doo on Zombie Island": 13151
+      "Scooby-Doo! and the Witch's Ghost": 17681
+      "Scooby-Doo and the Alien Invaders": 20410
+      "Scooby-Doo! and the Cyber Chase": 15601
+      "Scooby-Doo Meets Batman": 287757
+      "Scooby-Doo! and the Legend of the Vampire": 30074
+      "Scooby-Doo! and the Monster of Mexico": 21956
+      "Scooby-Doo! and the Loch Ness Monster": 12902
+      "Scooby-Doo! in Where's My Mummy?": 20558
+      "Aloha Scooby-Doo!": 24615
+      "Scooby-Doo! Meets the Boo Brothers": 24787
+      "Scooby-Doo! and the Reluctant Werewolf": 37211
+      "Scooby-Doo and the Ghoul School": 13350
+      "Scooby-Doo! in Arabian Nights": 13351
+      "Trick or Treat Scooby-Doo!": 1015724
 
   sony:
     styles:
@@ -905,35 +934,38 @@ sets:
         - "The Smurfs Collection"
         - "The Smurfs"
         - "Smurfs"
-    "Open Season": 7484
-    "Surf's Up": 9408
-    "Open Season 2": 13690
-    "Cloudy with a Chance of Meatballs": 22794
-    "Open Season 3": 51170
-    "The Smurfs": 41513
-    "Arthur Christmas": 51052
-    "The Pirates! In an Adventure with Scientists!": 72197
-    "Hotel Transylvania": 76492
-    "The Smurfs 2": 77931
-    "Cloudy with a Chance of Meatballs 2": 109451
-    "Hotel Transylvania 2": 159824
-    "Goosebumps": 257445
-    "The Angry Birds Movie": 153518
-    "Surf's Up 2: WaveMania": 411840
-    "Smurfs: The Lost Village": 137116
-    "The Emoji Movie": 378236
-    "The Star": 355547
-    "Peter Rabbit": 381719
-    "Hotel Transylvania 3: Summer Vacation": 400155
-    "Goosebumps 2: Haunted Halloween": 442062
-    "Spider-Man: Into the Spider-Verse": 324857
-    "The Angry Birds Movie 2": 454640
-    "Wish Dragon": 550205
-    "The Mitchells vs. the Machines": 501929
-    "Peter Rabbit 2: The Runaway": 522478
-    "Vivo": 449406
-    "Hotel Transylvania: Transformania": 585083
-    "Spider-Man: Across the Spider-Verse": 569094
+    builders:
+      tmdb_movie: 7484, 9408, 13690, 22794, 51170, 41513, 51052, 72197, 76492, 77931, 109451, 159824, 257445, 153518, 411840, 137116, 378236, 355547, 381719, 400155, 442062, 324857, 454640, 550205, 501929, 522478, 449406, 585083, 569094
+    movies:
+      "Open Season": 7484
+      "Surf's Up": 9408
+      "Open Season 2": 13690
+      "Cloudy with a Chance of Meatballs": 22794
+      "Open Season 3": 51170
+      "The Smurfs": 41513
+      "Arthur Christmas": 51052
+      "The Pirates! In an Adventure with Scientists!": 72197
+      "Hotel Transylvania": 76492
+      "The Smurfs 2": 77931
+      "Cloudy with a Chance of Meatballs 2": 109451
+      "Hotel Transylvania 2": 159824
+      "Goosebumps": 257445
+      "The Angry Birds Movie": 153518
+      "Surf's Up 2: WaveMania": 411840
+      "Smurfs: The Lost Village": 137116
+      "The Emoji Movie": 378236
+      "The Star": 355547
+      "Peter Rabbit": 381719
+      "Hotel Transylvania 3: Summer Vacation": 400155
+      "Goosebumps 2: Haunted Halloween": 442062
+      "Spider-Man: Into the Spider-Verse": 324857
+      "The Angry Birds Movie 2": 454640
+      "Wish Dragon": 550205
+      "The Mitchells vs. the Machines": 501929
+      "Peter Rabbit 2: The Runaway": 522478
+      "Vivo": 449406
+      "Hotel Transylvania: Transformania": 585083
+      "Spider-Man: Across the Spider-Verse": 569094
 
   tomjerry:
     styles:
@@ -941,26 +973,30 @@ sets:
       mikenobbs:
         pmm: miscellaneous/tomjerry/mikenobbs
     collections:
-      "Tom and Jerry Collection":                  # Source List: https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
-        - "Tom and Jerry"                         
-    "Tom and Jerry Cowboy Up!": 892153
-    "Tom & Jerry": 587807
-    "Tom and Jerry: Back to Oz": 403510
-    "Tom and Jerry: The Movie": 22582
-    "Tom and Jerry: The Magic Ring": 14787
-    "Tom and Jerry Blast Off to Mars!": 21078
-    "Tom and Jerry: The Fast and the Furry": 42246
-    "Tom and Jerry: Shiver Me Whiskers": 60293
-    "Tom and Jerry: A Nutcracker Tale": 24696
-    "Tom and Jerry Meet Sherlock Holmes": 43956
-    "Tom and Jerry & The Wizard of Oz": 72972
-    "Tom and Jerry: Robin Hood and His Merry Mouse": 134623
-    "Tom and Jerry's Giant Adventure": 199753
-    "Tom and Jerry: The Lost Dragon": 287233
-    "Tom and Jerry Santa's Little Helpers": 307650
-    "Tom and Jerry: Spy Quest": 343977
-    "Tom and Jerry: Willy Wonka and the Chocolate Factory": 455411
-    "Tom and Jerry Snowman's Land": 1018403
+      "Tom and Jerry Collection":
+        - "Tom and Jerry"
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
+    movies:
+      "Tom and Jerry Cowboy Up!": 892153
+      "Tom & Jerry": 587807
+      "Tom and Jerry: Back to Oz": 403510
+      "Tom and Jerry: The Movie": 22582
+      "Tom and Jerry: The Magic Ring": 14787
+      "Tom and Jerry Blast Off to Mars!": 21078
+      "Tom and Jerry: The Fast and the Furry": 42246
+      "Tom and Jerry: Shiver Me Whiskers": 60293
+      "Tom and Jerry: A Nutcracker Tale": 24696
+      "Tom and Jerry Meet Sherlock Holmes": 43956
+      "Tom and Jerry & The Wizard of Oz": 72972
+      "Tom and Jerry: Robin Hood and His Merry Mouse": 134623
+      "Tom and Jerry's Giant Adventure": 199753
+      "Tom and Jerry: The Lost Dragon": 287233
+      "Tom and Jerry Santa's Little Helpers": 307650
+      "Tom and Jerry: Spy Quest": 343977
+      "Tom and Jerry: Willy Wonka and the Chocolate Factory": 455411
+      "Tom and Jerry Snowman's Land": 1018403
 
   sonic:
     styles:
@@ -968,16 +1004,20 @@ sets:
       diiivoy_neon:
         pmm: miscellaneous/sonic/diiivoy_neon
     collections:
-      "Sonic the Hedgehog Complete Collection":   # Source Link: https://trakt.tv/users/shedman214/lists/sonic  
+      "Sonic the Hedgehog Complete Collection":
         - "Sonic the Hedgehog Complete"
         - "Sonic the Hedgehog"                    
       "SEGA Collection":
         - "SEGA"
-    "Sonic the Hedgehog (2020)": 454626
-    "Sonic the Hedgehog: The Movie": 16355
-    "Sonic X: The Movie": 333548
-    "Sonic the Hedgehog 2": 675353
-    "Sonic the Hedgehog 3": 939243
+    builders:
+      trakt_list:
+        - https://trakt.tv/users/shedman214/lists/sonic 
+    movies:
+      "Sonic the Hedgehog (2020)": 454626
+      "Sonic the Hedgehog: The Movie": 16355
+      "Sonic X: The Movie": 333548
+      "Sonic the Hedgehog 2": 675353
+      "Sonic the Hedgehog 3": 939243
 
   ungrouped:
     styles:
@@ -1003,29 +1043,32 @@ sets:
         - "Dr. Seuss"
         - "Dr. Seuss (Writing) Collection"
         - "Dr. Seuss (Writing)"
-    "DC League of Super-Pets": 539681
-    "Ron's Gone Wrong": 482321
-    "Sherlock Gnomes": 370567
-    "Gnomeo & Juliet": 45772
-    "How the Grinch Stole Christmas (2000)": 8871
-    "How the Grinch Stole Christmas (1966)": 13377
-    "The Cat in the Hat": 10588
-    "Wonder Park": 400157
-    "Lyle, Lyle, Crocodile": 830784
-    "Scoob!": 385103
-    "Smallfoot": 446894
-    "Storks": 332210
-    "The Addams Family (2019)": 481084
-    "The Addams Family 2 (2021)": 639721
-    "Tom & Jerry (2021)": 587807
-    "Zog": 570701
-    "Zog and the Flying Doctors": 779611
-    "The Gruffalo": 28118
-    "The Gruffalo's Child": 81684
-    "Stick Man": 374251
-    "Room on the Broom": 152581
-    "The Snail and the Whale": 655424
-    "The Highway Rat": 494603
-    "Superworm": 912802
-    "Paws of Fury: The Legend of Hank": 366672
-    "The Amazing Maurice": 676710
+    builders:
+      tmdb_movie: 539681, 482321, 370567, 45772, 8871, 13377, 10588, 400157, 830784, 385103, 446894, 332210, 481084, 639721, 587807, 570701, 779611, 28118, 81684, 374251, 152581, 655424, 494603, 912802, 366672, 676710
+    movies:
+      "DC League of Super-Pets": 539681
+      "Ron's Gone Wrong": 482321
+      "Sherlock Gnomes": 370567
+      "Gnomeo & Juliet": 45772
+      "How the Grinch Stole Christmas (2000)": 8871
+      "How the Grinch Stole Christmas (1966)": 13377
+      "The Cat in the Hat": 10588
+      "Wonder Park": 400157
+      "Lyle, Lyle, Crocodile": 830784
+      "Scoob!": 385103
+      "Smallfoot": 446894
+      "Storks": 332210
+      "The Addams Family (2019)": 481084
+      "The Addams Family 2 (2021)": 639721
+      "Tom & Jerry (2021)": 587807
+      "Zog": 570701
+      "Zog and the Flying Doctors": 779611
+      "The Gruffalo": 28118
+      "The Gruffalo's Child": 81684
+      "Stick Man": 374251
+      "Room on the Broom": 152581
+      "The Snail and the Whale": 655424
+      "The Highway Rat": 494603
+      "Superworm": 912802
+      "Paws of Fury: The Legend of Hank": 366672
+      "The Amazing Maurice": 676710
