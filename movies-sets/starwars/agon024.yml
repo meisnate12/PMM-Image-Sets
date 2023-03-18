@@ -6,6 +6,8 @@ info:
 
 collections:
   "Star Wars: The Complete Collection": {tpdb_poster: 167166}
+  "Star Wars: Harmys Despecialized Collection": {tpdb_poster: 244601}
+  "Star Wars: Project 4K Collection": {tpdb_poster: 244606}
   "LEGO Star Wars Collection": {tpdb_poster: 242734}
   "Robot Chicken - Star Wars Collection": {tpdb_poster: 249308}
   "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!": {tpdb_poster: 249341}
@@ -27,7 +29,7 @@ set:
   "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 167179}
   "Star Wars: LEGO Holiday Special (2020)": {tpdb_poster: 167180}
   "Star Wars: LEGO Terrifying Tales (2021)": {tpdb_poster: 241601}
-  "The Ewok Adventure: (1985)": {tpdb_poster: 241613}
+  "The Ewok Adventure (1985)": {tpdb_poster: 241613}
   "Ewoks: The Battle For Endor (1985)": {tpdb_poster: 241614}
   "The Story of the Faithful Wookiee (1978)": {tpdb_poster: 242696}
   "Star Wars: LEGO The Han Solo Affair (2002)": {tpdb_poster: 243113}
@@ -38,15 +40,13 @@ set:
   "Star Wars: LEGO The Empire Strikes Out (2012)": {tpdb_poster: 243118}
   "Star Wars: LEGO Summer Vacation (2022)": {tpdb_poster: 243119}
   "Star Wars: LEGO Battle of Sebiris (2016)": {tpdb_poster: 248197}
-  "Star Wars (1977)": {tpdb_poster: 244602}
-  "The Empire Strikes Back (1980)": {tpdb_poster: 244603}
-  "Return of the Jedi (1983)": {tpdb_poster: 244604}
-
-  "The Man Who Saved the World": {tpdb_poster: 244605}
-  "The Empire Strikes Back (1980)": {tpdb_poster: 244608}
-  "Star Wars (1977)": {tpdb_poster: 244607}
-  "Return of the Jedi (1983)": {tpdb_poster: 244609}
-  "The Ewok Adventure (1985)": {tpdb_poster: 247450}
+  "Star Wars (1977) Harmys": {tpdb_poster: 244602}
+  "The Empire Strikes Back (1980) Harmys": {tpdb_poster: 244603}
+  "Return of the Jedi (1983) Harmys": {tpdb_poster: 244604}
+  "The Man Who Saved the World (1982)": {tpdb_poster: 244605}
+  "The Empire Strikes Back (1980) - Project 4K80": {tpdb_poster: 244608}
+  "Star Wars (1977) - Project 4K77": {tpdb_poster: 244607}
+  "Return of the Jedi (1983) - Project 4K83": {tpdb_poster: 244609}
   "Robot Chicken: Star Wars": {tpdb_poster: 249309}
   "Robot Chicken: Star Wars Episode II": {tpdb_poster: 249310}
   "Robot Chicken: Star Wars Episode III": {tpdb_poster: 249311}

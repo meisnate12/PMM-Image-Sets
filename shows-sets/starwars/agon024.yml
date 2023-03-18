@@ -97,7 +97,66 @@ set:
     tpdb_poster: 242222
     seasons:
       1: {tpdb_poster: 242223}
+  "Star Wars: Andor (2022)":
+    tpdb_poster: 247533
+    seasons:
+      0: {tpdb_poster: 267524}
+      1: {tpdb_poster: 247534}
+  "Lego Star Wars: The Yoda Chronicles (2013)":
+    tpdb_poster: 242709
+    seasons:
+      0: {tpdb_poster: 243636}
+      1: {tpdb_poster: 242710}
+      2: {tpdb_poster: 242711}
+  "Star Wars: Tales of the Jedi (2022)":
+    tpdb_poster: 273184
+    seasons:
+      1: {tpdb_poster: 273185}
+  "Star Wars Blips (2017)":
+    tpdb_poster: 249177
+    seasons:
+      1: {tpdb_poster: 249178}
+  "Star Wars: Galaxy of Creatures (2021)":
+    tpdb_poster: 249179
+    seasons:
+      0: {tpdb_poster: 249190}
+      1: {tpdb_poster: 249180}
+  "Star Wars Galaxy of Sounds (2021)":
+    tpdb_poster: 249181
+    seasons:
+      1: {tpdb_poster: 249182}
+  "Star Wars: Jedi Temple Challenge (2020)":
+    tpdb_poster: 249184
+    seasons:
+      1: {tpdb_poster: 249185}
+  "Star Wars: Roll Out (2019)":
+    tpdb_poster: 249186
+    seasons:
+      1: {tpdb_poster: 249187}
+  "Star Wars Vehicle Flythroughs (2021)":
+    tpdb_poster: 249188
+    seasons:
+      1: {tpdb_poster: 249189}
+  "Obi-Wan Kenobi (2022) Patterson Cut":
+    tpdb_poster: 249276
+    seasons:
+      1: {tpdb_poster: 241616}
+  "Light & Magic (2022)":
+    tpdb_poster: 276539
+    seasons:
+      1: {tpdb_poster: 276540}
+  "Star Wars: Galactic Pals (2022)":
+    tpdb_poster: 279908
+    seasons:
+      1: {tpdb_poster: 279909}
 
+###Here below cannot find solo entry in tvdb
+  "LEGO Star Wars: Celebrate The Season":
+    tpdb_poster: 252225
+    seasons:
+      1: {tpdb_poster: 252226}
+      2: {tpdb_poster: 252227}
+      3: {tpdb_poster: 252228}
   "LEGO Star Wars : The Resistance Rises":
     tpdb_poster: 242697
     seasons:
@@ -117,65 +176,7 @@ set:
       0: {tpdb_poster: 242706}
       1: {tpdb_poster: 242707}
       2: {tpdb_poster: 242708}
-  "Lego Star Wars: The Yoda Chronicles":
-    tpdb_poster: 242709
-    seasons:
-      0: {tpdb_poster: 243636}
-      1: {tpdb_poster: 242710}
-      2: {tpdb_poster: 242711}
-  "Star Wars: Andor":
-    tpdb_poster: 247533
-    seasons:
-      0: {tpdb_poster: 267524}
-      1: {tpdb_poster: 247534}
-  "LEGO Star Wars: Celebrate The Season":
-    tpdb_poster: 252225
-    seasons:
-      1: {tpdb_poster: 252226}
-      2: {tpdb_poster: 252227}
-      3: {tpdb_poster: 252228}
-  "Star Wars: Tales of the Jedi":
-    tpdb_poster: 273184
-    seasons:
-      1: {tpdb_poster: 273185}
-  "Star Wars Blips":
-    tpdb_poster: 249177
-    seasons:
-      1: {tpdb_poster: 249178}
-  "Star Wars: Galaxy of Creatures":
-    tpdb_poster: 249179
-    seasons:
-      0: {tpdb_poster: 249190}
-      1: {tpdb_poster: 249180}
-  "Star Wars Galaxy of Sounds":
-    tpdb_poster: 249181
-    seasons:
-      1: {tpdb_poster: 249182}
-  "Star Wars: Jedi Temple Challenge":
-    tpdb_poster: 249184
-    seasons:
-      1: {tpdb_poster: 249185}
-  "Star Wars: Roll Out":
-    tpdb_poster: 249186
-    seasons:
-      1: {tpdb_poster: 249187}
-  "Star Wars Vehicle Flythroughs":
-    tpdb_poster: 249188
-    seasons:
-      1: {tpdb_poster: 249189}
-  "Obi-Wan Kenobi (2022) Patterson Cut":
-    tpdb_poster: 249276
-    seasons:
-      1: {tpdb_poster: 241616}
   "Icons Unearthed: Star Wars":
     tpdb_poster: 252229
     seasons:
       1: {tpdb_poster: 252230}
-  "Light & Magic":
-    tpdb_poster: 276539
-    seasons:
-      1: {tpdb_poster: 276540}
-  "Star Wars: Galactic Pals":
-    tpdb_poster: 279908
-    seasons:
-      1: {tpdb_poster: 279909}
