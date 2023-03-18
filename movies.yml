@@ -2,7 +2,7 @@ sets:
   alien:
     styles:
       default: rhj
-      rhj: 
+      rhj:
         pmm: alien/rhj
     builders:
       trakt_list:
@@ -107,7 +107,7 @@ sets:
       "The Dark Knight Collection":
         - "The Dark Knight"
       "Aquaman Collection":
-        - "Aquaman" 
+        - "Aquaman"
       "Suicide Squad Collection":
         - "The Suicide Squad"
         - "Suicide Squad"
@@ -189,9 +189,9 @@ sets:
       "DC League of Super-Pets": 539681
 
   fast_furious:
-    styles: 
+    styles:
       default: mikenobbs
-      mikenobbs: 
+      mikenobbs:
         pmm: fast_furious/mikenobbs
     collections:
       "Fast & Furious: Complete Collection":
@@ -201,7 +201,7 @@ sets:
         - "The Fast & the Furious"
     builders:
       tmdb_collection: 9485, 688042
-      tmdb_movie: Los Bandoleros
+      tmdb_movie: 253835
     movies:
       "The Fast and the Furious": 9799
       "2 Fast 2 Furious: Prelude": 77959
@@ -232,12 +232,12 @@ sets:
     movies:
       "The Godfather (1972)": 238
       "The Godfather: Part II (1974)": 240
-      "The Godfather: Part III (1990)": 
+      "The Godfather: Part III (1990)":
         mapping_id: 242
         blank_edition: true
       "The Godfather Coda: The Death of Michael Corleone (1990)":
         mapping_id: 242
-        editon_contains: Coda
+        edition_contains: Coda
 
   godzilla_heisei:
     styles:
@@ -294,7 +294,7 @@ sets:
       "Godzilla (Showa) Collection":
         - "Godzilla (Showa)"
     builders:
-      tmdb_movie:: 1679, 18983, 329237, 1680, 686487, 1682, 15766, 19545, 3115, 18627, 3107, 39462, 39464, 19336, 39264, 38582, 19333
+      tmdb_movie: 1679, 18983, 329237, 1680, 686487, 1682, 15766, 19545, 3115, 18627, 3107, 39462, 39464, 19336, 39264, 38582, 19333
     movies:
       "Godzilla, King of the Monsters! (1956)": 18983
       "Godzilla Raids Again (1955)": 1679
@@ -336,7 +336,7 @@ sets:
   john_wick:
     styles:
       default: rhj
-      rhj: 
+      rhj:
         pmm: john_wick/rhj
     collections:
       "John Wick Collection":
@@ -594,9 +594,9 @@ sets:
       "Men in Black (1997)": 607
       "Men in Black II (2002)": 608
       "Men in Black 3 (2012)": 41154
-      "Men in Black International (2019)": 479455    
+      "Men in Black International (2019)": 479455
 
-  middle:                         # Source List: 
+  middle:                         # Source List:
     styles:
       default: mikenobbs
       mikenobbs:
@@ -654,7 +654,7 @@ sets:
       default: rhj
       rhj:
         pmm: nowyouseeme/rhj
-    collections:  
+    collections:
       "Now You See Me Collection":
         - "Now You See Me"
     builders:
@@ -667,7 +667,7 @@ sets:
   ocean:
     styles:
       default: rhj
-      rhj: 
+      rhj:
         pmm: ocean/rhj
     collections:
       "Ocean's Collection":
@@ -684,7 +684,7 @@ sets:
   pirates:
     styles:
       default: rhj
-      rhj: 
+      rhj:
         pmm: pirates/rhj
       diiivoy:
         pmm: pirates/diiivoy
@@ -701,7 +701,7 @@ sets:
       "Pirates of the Caribbean: Dead Men Tell no Tales": 166426
 
   poirot:
-    styles: 
+    styles:
       default: diiivoy_neon
       diiivoy_neon:
         pmm: poirot/diiivoy_neon
@@ -718,9 +718,9 @@ sets:
   predator:
     styles:
       default: rhj
-      rhj:  
+      rhj:
         pmm: predator/rhj
-    collections: 
+    collections:
       "Predator Collection":
         - "Predator"
     builders:
@@ -817,7 +817,7 @@ sets:
       "Star Wars: The Rise of Skywalker (2019)": 181812
       "Solo: A Star Wars Story (2018)": 348350
       "Star Wars: The Clone Wars (2008)": 12180
-      "The Ewok Adventure (1985)": 1884 
+      "The Ewok Adventure (1985)": 1884
       "Ewoks: The Battle For Endor (1985)": 10372
       "The Story of the Faithful Wookiee (1978)": 806789
       "Star Wars: The Holiday Special (1978)": 74849
