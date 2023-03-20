@@ -52,44 +52,27 @@ try:
         raise Failed(e)
     if not pmmargs["trakt_id"] or not pmmargs["trakt_token"]:
         raise Failed("trakt_id and trakt_token are required")
-    readme = """# PMM Image Sets
-
-PMM Image Sets is a set of pre-defined Metadata files to work in conjunction with [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager)
-
-Image Sets allow you to easily apply our curated set of Posters and Title Cards to your libraries, skipping the need to manually download and apply individual posters to your media.
-
-## Usage
-
-Image Sets can be called out in your Plex Meta Manager config file as follows:
-
-```yaml
-libraries:
-  Movies:                               # must match a library in your Plex server
-    images_path:
-      - pmm: movies
-        template_variables:
-          use_all: true                 # this is false by default, meaning you need to manually specify which sets you want
-  TV Shows:                             # must match a library in your Plex server
-    images_path:
-      - pmm: shows
-        template_variables:
-          use_starwars: true            # will only use the images that are part of the `starwars` set, no other sets will be used.
-```
-"""
 
     sets_yaml = YAML(path=os.path.join(base_dir, "sets.yml"), preserve_quotes=True)
     for file_key, set_info in sets_yaml["sets"].items():
-        metadata_path = os.path.join(base_dir, f"{file_key}.yml")
+        metadata_dir = os.path.join(base_dir, file_key)
+        style_dir = os.path.join(metadata_dir, "styles")
+        os.makedirs(style_dir, exist_ok=True)
+        metadata_path = os.path.join(metadata_dir, "set.yml")
+        missing_path = os.path.join(metadata_dir, "missing.yml")
+        styles_path = os.path.join(metadata_dir, "styles")
+        readme_path = os.path.join(metadata_dir, "readme.html")
         if not os.path.exists(metadata_path):
             logger.error(f"File not Found: {metadata_path}")
+            with open(metadata_path, "w") as f:
+                f.write("sets:\n")
             continue
 
         try:
-            readme += f"\n## {set_info['title']}\n\n{set_info['description']}\n"
+            readme = f"<h1>{set_info['title']}</h1>\n{set_info['description']}\n"
             logger.separator(set_info["title"])
-            sets_path = os.path.join(base_dir, f"{file_key}-sets")
             yaml_data = YAML(path=metadata_path, preserve_quotes=True)
-            missing_yaml = YAML(path=os.path.join(base_dir, f"{file_key}_missing.yml"), create=True, preserve_quotes=True)
+            missing_yaml = YAML(path=missing_path, create=True, preserve_quotes=True)
             missing = {}
             if "sets" not in yaml_data:
                 raise Failed('File is missing base attribute "sets"')
@@ -396,7 +379,7 @@ libraries:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    readme += f"\n### {new_data['title']}\n\n**Set Key:** `{set_key}`\n\n#### Styles:\n\n"
+                    readme += f"<h2>{new_data['title']}</h2>\n<strong>Set Key:</strong> <code>{set_key}</code>\n<h3>Styles:</h3>\n"
                     readme += f'<table style="border-collapse: collapse; border: none;"><tr style="border: none;">\n'
 
                     for style, style_data in set_data["styles"].items():
@@ -409,7 +392,7 @@ libraries:
                             style_data = style_data[0]
                         if "pmm" not in style_data or not style_data["pmm"]:
                             continue
-                        style_path = sets_path
+                        style_path = styles_path
                         for p in style_data["pmm"].split("/"):
                             style_path = os.path.join(style_path, p)
                         if not style_path.endswith(".yml"):
@@ -501,29 +484,31 @@ libraries:
                         style_yaml.save()
 
                         style_image = style_yaml["info"]["style_image"]
-                        if style_image.startswith("https://theposterdb.com/api/assets/"):
+                        if style_image.startswith("https://theposterdb.com/api/assets/") and False:
                             if match := re.search(r"(\d+)", str(style_image)):
                                 if response := html.fromstring(requests.get(f"https://theposterdb.com/poster/{int(match.group(1))}", headers=headers).content).xpath("//meta[@property='og:image']/@content"):
                                     style_image = response[0]
 
-                        readme += f'<td style="border: none;text-align: center;"><img src="{style_image}" height="200"/> '
-                        readme += f'<br><strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code> '
+                        readme += f'<td style="border: none;text-align: center;"><img src="{style_image}" height="200"/> \n'
+                        readme += f'<br><strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code> \n'
                         readme += f'<br><strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a> <br></td>\n'
 
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
                     readme += f'</tr></table>\n'
 
                     yaml_data["sets"][set_key] = new_data
+
                 except Failed as e:
                     logger.error(e)
+
+            with open(readme_path, "w") as f:
+                f.write(readme)
             missing_yaml.data = missing
             missing_yaml.save()
             yaml_data.save()
         except Failed as e:
             logger.error(e)
         logger.info()
-    with open(os.path.join(base_dir, "README.md"), "w") as readme_file:
-        readme_file.write(readme)
 
 except Failed as e:
     logger.separator()
