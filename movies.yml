@@ -53,6 +53,7 @@ sets:
         - "007"
     builders:
       tmdb_collection: 645
+      tmdb_movie: 12208
     movies:
       "Dr. No (1962)": 646
       "From Russia with Love (1963)": 657
