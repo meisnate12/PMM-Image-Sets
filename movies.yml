@@ -5,8 +5,7 @@ sets:
       rhj:
         pmm: alien/rhj
     builders:
-      trakt_list:
-        - https://trakt.tv/users/arachn0id/lists/alien-film-series
+      tmdb_collection: 8091, 115762, 135416
     collections:
       "Alien Collection":
         - "Alien"
@@ -118,8 +117,7 @@ sets:
       "Wonder Woman Collection":
         - "Wonder Woman"
     builders:
-      trakt_list:
-        - https://trakt.tv/users/malicekodi2/lists/dc
+      #trakt_list: https://trakt.tv/users/malicekodi2/lists/dc
     movies:
       "Man of Steel": 49521
       "Batman v Superman: Dawn of Justice":
@@ -294,7 +292,8 @@ sets:
       "Godzilla (Showa) Collection":
         - "Godzilla (Showa)"
     builders:
-      tmdb_movie: 1679, 18983, 329237, 1680, 686487, 1682, 15766, 19545, 3115, 18627, 3107, 39462, 39464, 19336, 39264, 38582, 19333
+      tmdb_collection: 374509
+      tmdb_movie: 18983, 329237, 686487
     movies:
       "Godzilla, King of the Monsters! (1956)": 18983
       "Godzilla Raids Again (1955)": 1679
@@ -360,8 +359,8 @@ sets:
       "Jurassic Park Collection":
         - "Jurassic Park"
     builders:
-      trakt_list:
-        - https://trakt.tv/users/psaul3/lists/jurassic-universe
+      tmdb_collection: 328
+      tmdb_movie: 630322
     movies:
       "Jurassic Park": 329
       "The Lost World: Jurassic Park": 330
@@ -413,8 +412,7 @@ sets:
       "Venom Collection":
         - "Venom"
     builders:
-      mdblist_list:
-        - https://mdblist.com/lists/plexmetamanager/external/15110
+      #mdblist_list: https://mdblist.com/lists/plexmetamanager/external/15110
     movies:
       "Big Hero 6 (2014)": 177572
       "X-Men (2000)": 36657
@@ -518,8 +516,8 @@ sets:
       "Marvel One-Shots Collection":
         - "Marvel One-Shots"
     builders:
-      trakt_list:
-        - https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
+      #tmdb_collection: 131292, 131296, 131295, 86311, 284433, 422834, 618529, 531241, 529892, 623911, 912503, 1011336
+      #trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
     movies:
       "Captain America: The First Avenger (2011)": 1771
       "Marvel One-Shot: Agent Carter (2013)": 211387
@@ -576,11 +574,11 @@ sets:
       "Werewolf by Night (2022)": 894205
       "Director by Night": 1036996
 
-  menInBlack:
+  mib:
     styles:
       default: rhj
       rhj:
-        pmm: menInBlack/rhj
+        pmm: mib/rhj
     collections:
       "Men in Black Collection":
         - "Men in Black Collection"
@@ -802,8 +800,7 @@ sets:
       "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!":
         - "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!"
     builders:
-      trakt_list:
-        - https://trakt.tv/users/hitsquid/lists/star-wars-the-complete-saga
+      #trakt_list: https://trakt.tv/users/hitsquid/lists/star-wars-the-complete-saga
     movies:
       "Star Wars: Episode I - The Phantom Menace (1999)": 1893
       "Star Wars: Episode II - Attack of the Clones (2002)": 1894
