@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/155368
-  set_key: rhj
-  set_link: https://theposterdb.com/set/95260
-  set_author: RedHeadJedi
-
+  style_author: RedHeadJedi
+  style_image: https://theposterdb.com/api/assets/155368
+  style_key: rhj
+  style_link: https://theposterdb.com/set/95260
 collections:
   "Saw Collection": {tpdb_poster: 155363}
-set:
+movies:
   "Saw (2004)": {tpdb_poster: 155364}
   "Saw II (2005)": {tpdb_poster: 155365}
   "Saw III (2006)": {tpdb_poster: 155366}

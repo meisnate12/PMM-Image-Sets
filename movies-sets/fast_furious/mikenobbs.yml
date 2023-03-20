@@ -1,21 +1,19 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/1070
-  set_key: mikenobbs
-  set_link: https://theposterdb.com/set/297
-  set_author: mikenobbs
-
+  style_author: mikenobbs
+  style_image: https://theposterdb.com/api/assets/1070
+  style_key: mikenobbs
+  style_link: https://theposterdb.com/set/297
 collections:
   "Fast & Furious: Complete Collection": {tpdb_poster: 1070}
-set:
-  "The Fast and the Furious": {tpdb_poster: 1071}
-  "2 Fast 2 Furious: Prelude": {tpdb_poster: 1072}
-  "2 Fast 2 Furious": {tpdb_poster: 1073}
-  "Tokyo Drift": {tpdb_poster: 1074}
-  "Fast & Furious": {tpdb_poster: 1075}
-  "Los Bandoleros": {tpdb_poster: 1076}
-  "Fast Five": {tpdb_poster: 1077}
-  "Fast & Furious 6": {tpdb_poster: 1079}
-  "Furious 7": {tpdb_poster: 1080}
-  "The Fate of the Furious": {tpdb_poster: 1081}
-  "Hobbs & Shaw": {tpdb_poster: 1082}
-  "F9: The Fast Saga": {tpdb_poster: 166110}
+movies:
+  "The Fast and the Furious (2001)": {tpdb_poster: 1071}
+  "2 Fast 2 Furious (2003)": {tpdb_poster: 1073}
+  "The Fast and the Furious: Tokyo Drift (2006)": {tpdb_poster: 1074}
+  "Fast & Furious (2009)": {tpdb_poster: 1075}
+  "Los Bandoleros (2009)": {tpdb_poster: 1076}
+  "Fast Five (2011)": {tpdb_poster: 1077}
+  "Fast & Furious 6 (2013)": {tpdb_poster: 1079}
+  "Furious 7 (2015)": {tpdb_poster: 1080}
+  "The Fate of the Furious (2017)": {tpdb_poster: 1081}
+  "Fast & Furious Presents: Hobbs & Shaw (2019)": {tpdb_poster: 1082}
+  "F9 (2021)": {tpdb_poster: 166110}

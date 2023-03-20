@@ -1,19 +1,17 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/309124
-  set_key: doctorbat
-  set_link: https://theposterdb.com/set/181742
-  set_author: DoctorBat
-
+  style_author: DoctorBat
+  style_image: https://theposterdb.com/api/assets/309124
+  style_key: doctorbat
+  style_link: https://theposterdb.com/set/181742
 collections:
   "Godzilla (Showa) Collection": {tpdb_poster: 309070}
-set:
+movies:
   "Godzilla Raids Again (1955)": {tpdb_poster: 309108}
   "Godzilla, King of the Monsters! (1956)": {tpdb_poster: 309109}
   "Gigantis: The Fire Monster (1959)": {tpdb_poster: 309110}
   "King Kong vs. Godzilla (1962)": {tpdb_poster: 309111}
   "King Kong vs. Godzilla (1963)": {tpdb_poster: 309112}
   "Mothra vs. Godzilla (1964)": {tpdb_poster: 309113}
-  "Godzilla vs. The Thing (1964)": {tpdb_poster: 309114}
   "Ghidorah, the Three-Headed Monster (1964)": {tpdb_poster: 309115}
   "Invasion of Astro-Monster (1965)": {tpdb_poster: 309116}
   "Ebirah, Horror of the Deep (1966)": {tpdb_poster: 309117}

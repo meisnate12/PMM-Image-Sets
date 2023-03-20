@@ -1,10 +1,10 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/112185
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/70314
-  set_author: DIIIVOY
+  style_author: DIIIVOY
+  style_image: https://theposterdb.com/api/assets/112185
+  style_key: diiivoy_neon
+  style_link: https://theposterdb.com/set/70314
 collections:
   "Hercule Poirot Collection": {tpdb_poster: 112183}
-set:
-  "Death on the Nile (2022)": {tpdb_poster: 112184}
+movies:
   "Murder on the Orient Express (2017)": {tpdb_poster: 112185}
+  "Death on the Nile (2022)": {tpdb_poster: 112184}

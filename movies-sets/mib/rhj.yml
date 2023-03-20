@@ -1,14 +1,12 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/16550
-  set_key: rhj
-  set_link: https://theposterdb.com/set/9203
-  set_author: RedHeadJedi
-
+  style_author: RedHeadJedi
+  style_image: https://theposterdb.com/api/assets/16550
+  style_key: rhj
+  style_link: https://theposterdb.com/set/9203
 collections:
   "Men in Black Collection": {tpdb_poster: 16550}
-
-set:
-  Men in Black (1997): {tpdb_poster: 16551}
-  Men in Black II (2002): {tpdb_poster: 16552}
-  Men in Black 3 (2012): {tpdb_poster: 16553}
-  Men in Black International (2019): {tpdb_poster: 16554}
+movies:
+  "Men in Black (1997)": {tpdb_poster: 16551}
+  "Men in Black II (2002)": {tpdb_poster: 16552}
+  "Men in Black 3 (2012)": {tpdb_poster: 16553}
+  "Men in Black: International (2019)": {tpdb_poster: 16554}

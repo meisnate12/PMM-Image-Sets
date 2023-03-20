@@ -1,20 +1,19 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/85948
-  set_key: rhj
-  set_link: https://theposterdb.com/set/11706
-  set_author: RedHeadJedi
-
+  style_author: RedHeadJedi
+  style_image: https://theposterdb.com/api/assets/85948
+  style_key: rhj2
+  style_link: https://theposterdb.com/set/11706
 collections:
   "Wizarding World (of Harry Potter) Collection": {tpdb_poster: 85944}
-set:
-  "Harry Potter and the Philosopher's Stone": {tpdb_poster: 85945}
-  "Harry Potter and the Chamber of Secrets": {tpdb_poster: 85946}
-  "Harry Potter and the Prisoner of Azkaban": {tpdb_poster: 85947}
-  "Harry Potter and the Goblet of Fire": {tpdb_poster: 85948}
-  "Harry Potter and the Order of the Phoenix": {tpdb_poster: 85949}
-  "Harry Potter and the Half-Blood Prince": {tpdb_poster: 85950}
-  "Harry Potter and the Deathly Hallows: Part 1": {tpdb_poster: 85951}
-  "Harry Potter and the Deathly Hallows: Part 2": {tpdb_poster: 85952}
-  "Fantastic Beasts and Where to Find Them": {tpdb_poster: 85953}
-  "Fantastic Beasts: The Crimes of Grindelwald": {tpdb_poster: 85954}
-  "Harry Potter 20th Anniversary: Return to Hogwarts": {tpdb_poster: 201115}
+movies:
+  "Harry Potter and the Philosopher's Stone (2001)": {tpdb_poster: 85945}
+  "Harry Potter and the Chamber of Secrets (2002)": {tpdb_poster: 85946}
+  "Harry Potter and the Prisoner of Azkaban (2004)": {tpdb_poster: 85947}
+  "Harry Potter and the Goblet of Fire (2005)": {tpdb_poster: 85948}
+  "Harry Potter and the Order of the Phoenix (2007)": {tpdb_poster: 85949}
+  "Harry Potter and the Half-Blood Prince (2009)": {tpdb_poster: 85950}
+  "Harry Potter and the Deathly Hallows: Part 1 (2010)": {tpdb_poster: 85951}
+  "Harry Potter and the Deathly Hallows: Part 2 (2011)": {tpdb_poster: 85952}
+  "Fantastic Beasts and Where to Find Them (2016)": {tpdb_poster: 85953}
+  "Fantastic Beasts: The Crimes of Grindelwald (2018)": {tpdb_poster: 85954}
+  "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": {tpdb_poster: 201115}

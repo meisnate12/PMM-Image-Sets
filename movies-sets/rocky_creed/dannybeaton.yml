@@ -1,22 +1,18 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/5901
-  set_key: dannybeaton
-  set_link: https://theposterdb.com/set/2402
-  set_author: Danny Beaton
-
+  style_author: Danny Beaton
+  style_image: https://theposterdb.com/api/assets/5901
+  style_key: dannybeaton
+  style_link: https://theposterdb.com/set/2402
 collections:
   "Rocky Collection": {tpdb_poster: 5901}
   "Creed Collection": {tpdb_poster: 5903}
   "Rocky / Creed Collection": {tpdb_poster: 5907}
-
-set:
-  Rocky Balboa (2006): {tpdb_poster: 5911}
-  Rocky (1976): {tpdb_poster: 5902}
-  Rocky II (1979): {tpdb_poster: 5904}
-  Rocky III (1982): {tpdb_poster: 5906}
-  Rocky IV (1985): {tpdb_poster: 5909}
-  Rocky V (1990): {tpdb_poster: 5910}
-  Creed (2015): {tpdb_poster: 5905}
-  Creed II (2018): {tpdb_poster: 5908}
-  Creed III (2023): {tpdb_poster: null}
-  Creed IV (): {tpdb_poster: null}
+movies:
+  "Rocky (1976)": {tpdb_poster: 5902}
+  "Rocky II (1979)": {tpdb_poster: 5904}
+  "Rocky III (1982)": {tpdb_poster: 5906}
+  "Rocky IV (1985)": {tpdb_poster: 5909}
+  "Rocky V (1990)": {tpdb_poster: 5910}
+  "Rocky Balboa (2006)": {tpdb_poster: 5911}
+  "Creed (2015)": {tpdb_poster: 5905}
+  "Creed II (2018)": {tpdb_poster: 5908}

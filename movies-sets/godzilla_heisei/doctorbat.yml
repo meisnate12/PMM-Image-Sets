@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/311350
-  set_key: doctorbat
-  set_link: https://theposterdb.com/set/182956
-  set_author: DoctorBat
-
+  style_author: DoctorBat
+  style_image: https://theposterdb.com/api/assets/311350
+  style_key: doctorbat
+  style_link: https://theposterdb.com/set/182956
 collections:
   "Godzilla (Heisei) Collection": {tpdb_poster: 311343}
-set:
+movies:
   "The Return of Godzilla (1984)": {tpdb_poster: 311344}
   "Godzilla 1985 (1985)": {tpdb_poster: 311345}
   "Godzilla vs. Biollante (1989)": {tpdb_poster: 311346}

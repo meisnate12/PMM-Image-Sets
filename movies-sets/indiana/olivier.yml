@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/10362
-  set_key: olivier
-  set_link: https://theposterdb.com/set/4874
-  set_author: Olivier_286
-
+  style_author: Olivier_286
+  style_image: https://theposterdb.com/api/assets/10362
+  style_key: olivier
+  style_link: https://theposterdb.com/set/4874
 collections:
   "Indiana Jones Collection": {tpdb_poster: 10361}
-set:
+movies:
   "Raiders of the Lost Ark (1981)": {tpdb_poster: 10362}
   "Indiana Jones and the Temple of Doom (1984)": {tpdb_poster: 10363}
   "Indiana Jones and the Last Crusade (1989)": {tpdb_poster: 10364}

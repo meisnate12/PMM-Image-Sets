@@ -1,13 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/312509
-  set_key: eternal
-  set_link: https://theposterdb.com/set/183508
-  set_author: Eternal
-
+  style_author: Eternal
+  style_image: https://theposterdb.com/api/assets/312509
+  style_key: eternal
+  style_link: https://theposterdb.com/set/183508
 collections:
   "The Godfather Collection": {tpdb_poster: 312507}
-set:
+movies:
   "The Godfather (1972)": {tpdb_poster: 312508}
-  "The Godfather: Part II (1974)": {tpdb_poster: 312509}
-  "The Godfather: Part III (1990)": {tpdb_poster: 312510}
-  "The Godfather Coda: The Death of Michael Corleone (1990)": {tpdb_poster: 312511}
+  "The Godfather Part II (1974)": {tpdb_poster: 312509}
+  "The Godfather Part III (1990)": {tpdb_poster: 312511}

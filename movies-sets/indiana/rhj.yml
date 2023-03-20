@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/53304
-  set_key: rhj
-  set_link: https://theposterdb.com/set/34045
-  set_author: RedHeadJedi
-
+  style_author: RedHeadJedi
+  style_image: https://theposterdb.com/api/assets/53304
+  style_key: rhj
+  style_link: https://theposterdb.com/set/34045
 collections:
   "Indiana Jones Collection": {tpdb_poster: 53303}
-set:
+movies:
   "Raiders of the Lost Ark (1981)": {tpdb_poster: 53304}
   "Indiana Jones and the Temple of Doom (1984)": {tpdb_poster: 53305}
   "Indiana Jones and the Last Crusade (1989)": {tpdb_poster: 53306}

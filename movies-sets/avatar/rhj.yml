@@ -1,16 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/303873
-  set_key: rhj
-  set_link: https://theposterdb.com/set/179016
-  set_author: RedHeadJedi
-
-collections:
-  "Avatar": {tpdb_poster: 303873}
-
-set:
-  "Avatar 2 (2022)": {tpdb_poster: 303875}
-  # "Avatar 3 (2024)": {tpdb_poster: null}
-  # "Avatar 4 (2026)": {tpdb_poster: null}
-  "Avatar (2009)": {tpdb_poster: 303874}
-  "Avatar (2009) Extended": {tpdb_poster: 303876}
-  # "Avatar 5 (2028)": {tpdb_poster: null}
+  style_author: RedHeadJedi
+  style_image: https://theposterdb.com/api/assets/303873
+  style_key: rhj
+  style_link: https://theposterdb.com/set/179016
+collections: {}
+movies:
+  "Avatar (2009)": {tpdb_poster: 303876}
+  "Avatar: The Way of Water (2022)": {tpdb_poster: 303875}

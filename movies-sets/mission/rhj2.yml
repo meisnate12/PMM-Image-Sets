@@ -1,15 +1,14 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/2705
-  set_key: rhj2
-  set_link: https://theposterdb.com/set/1001
-  set_author: RedHeadJedi
-
+  style_author: RedHeadJedi
+  style_image: https://theposterdb.com/api/assets/2705
+  style_key: rhj2
+  style_link: https://theposterdb.com/set/1001
 collections:
   "Mission: Impossible Collection": {tpdb_poster: 2705}
-set:
-  "Mission: Impossible": {tpdb_poster: 2706}
-  "Mission: Impossible 2": {tpdb_poster: 2707}
-  "Mission: Impossible 3": {tpdb_poster: 2708}
-  "Mission: Impossible Ghost Protocol": {tpdb_poster: 2709}
-  "Mission: Impossible Rogue Nation": {tpdb_poster: 2710}
-  "Mission: Impossible Fallout": {tpdb_poster: 2711}
+movies:
+  "Mission: Impossible (1996)": {tpdb_poster: 2706}
+  "Mission: Impossible II (2000)": {tpdb_poster: 2707}
+  "Mission: Impossible III (2006)": {tpdb_poster: 2708}
+  "Mission: Impossible - Ghost Protocol (2011)": {tpdb_poster: 2709}
+  "Mission: Impossible - Rogue Nation (2015)": {tpdb_poster: 2710}
+  "Mission: Impossible - Fallout (2018)": {tpdb_poster: 2711}

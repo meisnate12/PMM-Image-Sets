@@ -1,17 +1,15 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/168738
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/103129
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: https://theposterdb.com/api/assets/168738
+  style_key: diiivoy_neon
+  style_link: https://theposterdb.com/set/103129
 collections:
   "Jurassic Park Collection": {tpdb_poster: 168732}
-set:
-  "Jurassic Park": {tpdb_poster: 168733}
-  "The Lost World: Jurassic Park": {tpdb_poster: 168734}
-  "Jurassic Park III": {tpdb_poster: 168735}
-  "Jurassic World": {tpdb_poster: 168737}
-  "Jurassic World: Fallen Kingdom": {tpdb_poster: 168738}
-  "Battle at Big Rock": {tpdb_poster: 168739}
-  # "Jurassic World Dominion: The Prologue": {tpdb_poster: 250527}      # Not on TMDB
-  "Jurassic World Dominion": {tpdb_poster: 250528}
+movies:
+  "Jurassic Park (1993)": {tpdb_poster: 168733}
+  "The Lost World: Jurassic Park (1997)": {tpdb_poster: 168734}
+  "Jurassic Park III (2001)": {tpdb_poster: 168735}
+  "Jurassic World (2015)": {tpdb_poster: 168737}
+  "Jurassic World: Fallen Kingdom (2018)": {tpdb_poster: 168738}
+  "Battle at Big Rock (2019)": {tpdb_poster: 168739}
+  "Jurassic World Dominion (2022)": {tpdb_poster: 250528}

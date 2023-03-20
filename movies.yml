@@ -1,66 +1,65 @@
 sets:
   alien:
-    styles:
-      default: rhj
-      rhj:
-        pmm: alien/rhj
+    title: Alien
     builders:
       tmdb_collection: 8091, 115762, 135416
-    collections:
-      "Alien Collection":
-        - "Alien"
-    movies:
-      "Alien": 348
-      "Aliens": 679
-      "Alien 3": 8077
-      "Alien Resurrection": 8078
-      "AVP": 395
-      "AVP Requiem": 440
-      "Prometheus": 70981
-      "Alien Covenant": 126889
-
-  avatar:
     styles:
       default: rhj
       rhj:
-        pmm: avatar/rhj
     collections:
-      "Avatar Collection":
-        - "Avatar Collection"
-        - "Avatar"
+      "Alien Collection":
+      - "Alien"
+      "AVP Collection":
+      - "AVP"
+      "Prometheus Collection":
+      - "Prometheus"
+    movies:
+      "Alien (1979)": 348
+      "Aliens (1986)": 679
+      "Alien³ (1992)": 8077
+      "Alien Resurrection (1997)": 8078
+      "AVP: Alien vs. Predator (2004)": 395
+      "Aliens vs Predator: Requiem (2007)": 440
+      "Prometheus (2012)": 70981
+      "Alien: Covenant (2017)": 126889
+  avatar:
+    title: Avatar
     builders:
       tmdb_collection: 87096
+    styles:
+      default: rhj
+      rhj:
+    collections:
+      "Avatar Collection":
+      - "Avatar"
+      - "Avatar Collection"
     movies:
-      "Avatar 2 (2022)": 76600
-      "Avatar 3 (2024)": 83533
-      "Avatar 4 (2026)": 216527
+      "Avatar (2009) (Extended)":
+        mapping_id: 19995
+        edition_contains: Extended
       "Avatar (2009)":
         mapping_id: 19995
         blank_edition: true
-      "Avatar (2009) Extended":
-        mapping_id: 19995
-        edition_contains: Extended
-      "Avatar 5 (2028)": 393209
-
+      "Avatar: The Way of Water (2022)": 76600
   bond:
-    styles:
-      default: rhj
-      rhj:
-        pmm: bond/rhj
-    collections:
-      "James Bond Collection":
-        - "James Bond"
-        - "007"
+    title: Bond
     builders:
       tmdb_collection: 645
       tmdb_movie: 12208
+    styles:
+      default: rhj
+      rhj:
+    collections:
+      "James Bond Collection":
+      - "007"
+      - "James Bond"
     movies:
       "Dr. No (1962)": 646
       "From Russia with Love (1963)": 657
       "Goldfinger (1964)": 658
       "Thunderball (1965)": 660
-      "Casino Royale (1967)": 12208
       "You Only Live Twice (1967)": 667
+      "Casino Royale (1967)": 12208
       "On Her Majesty's Secret Service (1969)": 668
       "Diamonds Are Forever (1971)": 681
       "Live and Let Die (1973)": 253
@@ -82,7 +81,6 @@ sets:
       "Skyfall (2012)": 37724
       "Spectre (2015)": 206647
       "No Time to Die (2021)": 370172
-
   dc:
     styles:
       default: diiivoy_neon
@@ -92,31 +90,31 @@ sets:
         pmm: dc/rhj
     collections:
       "Worlds of DC (DCEU)":
-        - "Worlds of DC"
-        - "DC Extended Universe"
+      - "Worlds of DC"
+      - "DC Extended Universe"
       "Superman Collection":
-        - "Superman"
+      - "Superman"
       "Harley Quinn Collection":
-        - "Harley Quinn"
+      - "Harley Quinn"
       "The Flash Collection":
-        - "The Flash"
-        - "Flash Collection"
-        - "Flash"
+      - "The Flash"
+      - "Flash Collection"
+      - "Flash"
       "Batman Collection":
-        - "Batman"
+      - "Batman"
       "The Dark Knight Collection":
-        - "The Dark Knight"
+      - "The Dark Knight"
       "Aquaman Collection":
-        - "Aquaman"
+      - "Aquaman"
       "Suicide Squad Collection":
-        - "The Suicide Squad"
-        - "Suicide Squad"
+      - "The Suicide Squad"
+      - "Suicide Squad"
       "Shazam! Collection":
-        - "Shazam!"
+      - "Shazam!"
       "RED Collection":
-        - "RED"
+      - "RED"
       "Wonder Woman Collection":
-        - "Wonder Woman"
+      - "Wonder Woman"
     builders:
       #trakt_list: https://trakt.tv/users/malicekodi2/lists/dc
     movies:
@@ -188,116 +186,118 @@ sets:
       "DC League of Super-Pets": 539681
 
   fast_furious:
-    styles:
-      default: mikenobbs
-      mikenobbs:
-        pmm: fast_furious/mikenobbs
-    collections:
-      "Fast & Furious: Complete Collection":
-        - "The Fast & Furious"
-        - "Fast & Furious"
-        - "The Fast and the Furious"
-        - "The Fast & the Furious"
+    title: Fast Furious
     builders:
       tmdb_collection: 9485, 688042
       tmdb_movie: 253835
+    styles:
+      default: mikenobbs
+      mikenobbs:
+    collections:
+      "Fast & Furious: Complete Collection":
+      - "Fast & Furious"
+      - "Fast & Furious: Complete"
+      - "The Fast & Furious"
+      - "The Fast & the Furious"
+      - "The Fast and the Furious"
+      "The Fast and the Furious Collection":
+      - "Fast and the Furious"
+      - "Fast and the Furious Collection"
+      - "The Fast and the Furious"
+      "Hobbs & Shaw Collection":
+      - "Hobbs & Shaw"
     movies:
-      "The Fast and the Furious": 9799
-      "2 Fast 2 Furious: Prelude": 77959
-      "2 Fast 2 Furious": 584
-      "Tokyo Drift": 9615
-      "Fast & Furious": 13804
-      "Los Bandoleros": 253835
-      "Fast Five": 51497
-      "Fast & Furious 6": 82992
-      "Furious 7": 168259
-      "The Fate of the Furious": 337339
-      "Hobbs & Shaw": 384018
-      "F9: The Fast Saga": 385128
-      "Fast X": 385687
-
+      "The Fast and the Furious (2001)": 9799
+      "2 Fast 2 Furious (2003)": 584
+      "The Fast and the Furious: Tokyo Drift (2006)": 9615
+      "Fast & Furious (2009)": 13804
+      "Los Bandoleros (2009)": 253835
+      "Fast Five (2011)": 51497
+      "Fast & Furious 6 (2013)": 82992
+      "Furious 7 (2015)": 168259
+      "The Fate of the Furious (2017)": 337339
+      "Fast & Furious Presents: Hobbs & Shaw (2019)": 384018
+      "F9 (2021)": 385128
+      "Fast X (2023)": 385687
   godfather:
+    title: Godfather
+    builders:
+      tmdb_collection: 230
     styles:
       default: eternal
       eternal:
-        pmm: godfather/eternal
     collections:
       "The Godfather Collection":
-        - "The Godfather"
-        - "Godfather Collection"
-        - "Godfather"
-    builders:
-      tmdb_collection: 230
+      - "Godfather"
+      - "Godfather Collection"
+      - "The Godfather"
     movies:
       "The Godfather (1972)": 238
-      "The Godfather: Part II (1974)": 240
-      "The Godfather: Part III (1990)":
-        mapping_id: 242
-        blank_edition: true
-      "The Godfather Coda: The Death of Michael Corleone (1990)":
+      "The Godfather Part II (1974)": 240
+      "The Godfather Part III (1990) (Coda)":
         mapping_id: 242
         edition_contains: Coda
-
+      "The Godfather Part III (1990)":
+        mapping_id: 242
+        blank_edition: true
   godzilla_heisei:
-    styles:
-      default: doctorbat
-      doctorbat:
-        pmm: godzilla_heisei/doctorbat
-      doctorbat2:
-        pmm: godzilla_heisei/doctorbat2
-    collections:
-      "Godzilla (Heisei) Collection":
-        - "Godzilla (Heisei)"
+    title: Godzilla Heisei
     builders:
       tmdb_collection: 374511
       tmdb_movie: 39256
+    styles:
+      default: doctorbat
+      doctorbat:
+      doctorbat2:
+    collections:
+      "Godzilla (Heisei) Collection":
+      - "Godzilla (Heisei)"
     movies:
       "The Return of Godzilla (1984)": 421467
-
       "Godzilla 1985 (1985)": 39256
-      "Godzilla (1998)": 929
       "Godzilla vs. Biollante (1989)": 18289
       "Godzilla vs. King Ghidorah (1991)": 36679
       "Godzilla vs. Mothra (1992)": 39465
       "Godzilla vs. Mechagodzilla II (1993)": 6593
       "Godzilla vs. SpaceGodzilla (1994)": 39466
       "Godzilla vs. Destoroyah (1995)": 12561
-
   godzilla_monsterverse:
-    styles:
-      default: rhj
-      rhj:
-        pmm: godzilla_monsterverse/rhj
-    collections:
-      "Monsterverse Collection":
-        - "Godzilla (Monsterverse)"
-        - "Godzilla (MonsterVerse)"
-        - "Godzilla Collection"
+    title: Godzilla Monsterverse
     builders:
       tmdb_collection: 535313
       tmdb_movie: 293167
+    styles:
+      default: rhj
+      rhj:
+    collections:
+      "Monsterverse Collection":
+      - "Godzilla (MonsterVerse)"
+      - "Godzilla (Monsterverse)"
+      - "Godzilla Collection"
+      - "Monsterverse"
+      "Godzilla Collection":
+      - "Godzilla"
     movies:
       "Godzilla (2014)": 124905
-      "Kong Skull Island": 293167
-      "Godzilla King of the Monsters": 373571
-      "Godzilla vs Kong (2021)": 399566
-
+      "Kong: Skull Island (2017)": 293167
+      "Godzilla: King of the Monsters (2019)": 373571
+      "Godzilla vs. Kong (2021)": 399566
   godzilla_showa:
-    styles:
-      default: doctorbat
-      doctorbat:
-        pmm: godzilla_showa/doctorbat
-      doctorbat2:
-        pmm: godzilla_showa/doctorbat2
-    collections:
-      "Godzilla (Showa) Collection":
-        - "Godzilla (Showa)"
+    title: Godzilla Showa
     builders:
       tmdb_collection: 374509
       tmdb_movie: 18983, 329237, 686487
+    styles:
+      default: doctorbat
+      doctorbat:
+      doctorbat2:
+    collections:
+      "Godzilla (Showa) Collection":
+      - "Godzilla (Showa)"
     movies:
-      "Godzilla, King of the Monsters! (1956)": 18983
+      "Godzilla (1954)": 1678
       "Godzilla Raids Again (1955)": 1679
+      "Godzilla, King of the Monsters! (1956)": 18983
       "Gigantis: The Fire Monster (1959)": 329237
       "King Kong vs. Godzilla (1962)": 1680
       "King Kong vs. Godzilla (1963)": 686487
@@ -313,64 +313,58 @@ sets:
       "Godzilla vs. Megalon (1973)": 39264
       "Godzilla vs. Mechagodzilla (1974)": 38582
       "Terror of Mechagodzilla (1975)": 19333
-
   indiana:
+    title: Indiana
+    builders:
+      tmdb_collection: 84
     styles:
       default: rhj
       rhj:
-        pmm: indiana/rhj
       olivier:
-        pmm: indiana/olivier
     collections:
       "Indiana Jones Collection":
-        - "Indiana Jones"
-    builders:
-      tmdb_collection: 84
+      - "Indiana Jones"
     movies:
       "Raiders of the Lost Ark (1981)": 85
       "Indiana Jones and the Temple of Doom (1984)": 87
       "Indiana Jones and the Last Crusade (1989)": 89
       "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
       "Indiana Jones and the Dial of Destiny (2023)": 335977
-
   john_wick:
+    title: John Wick
+    builders:
+      tmdb_collection: 404609
     styles:
       default: rhj
       rhj:
-        pmm: john_wick/rhj
     collections:
       "John Wick Collection":
-        - "John Wick"
-    builders:
-      tmdb_collection: 404609
+      - "John Wick"
     movies:
-      "John Wick": 245891
-      "John Wick 2": 324552
-      "John Wick 3": 458156
-      "John Wick 4": 603692
-
+      "John Wick (2014)": 245891
+      "John Wick: Chapter 2 (2017)": 324552
+      "John Wick: Chapter 3 - Parabellum (2019)": 458156
+      "John Wick: Chapter 4 (2023)": 603692
   jurassic:
-    styles:
-      default: diiivoy_neon
-      diiivoy_neon:
-        pmm: jurassic/diiivoy_neon
-      rhj:
-        pmm: jurassic/rhj
-    collections:
-      "Jurassic Park Collection":
-        - "Jurassic Park"
+    title: Jurassic
     builders:
       tmdb_collection: 328
       tmdb_movie: 630322
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      rhj:
+    collections:
+      "Jurassic Park Collection":
+      - "Jurassic Park"
     movies:
-      "Jurassic Park": 329
-      "The Lost World: Jurassic Park": 330
-      "Jurassic Park III": 331
-      "Jurassic World": 135397
-      "Jurassic World: Fallen Kingdom": 351286
-      "Battle at Big Rock": 630322
-      "Jurassic World Dominion": 507086
-
+      "Jurassic Park (1993)": 329
+      "The Lost World: Jurassic Park (1997)": 330
+      "Jurassic Park III (2001)": 331
+      "Jurassic World (2015)": 135397
+      "Jurassic World: Fallen Kingdom (2018)": 351286
+      "Battle at Big Rock (2019)": 630322
+      "Jurassic World Dominion (2022)": 507086
   marvel:
     styles:
       default: diiivoy_neon
@@ -378,40 +372,40 @@ sets:
         pmm: marvel/diiivoy_neon
     collections:
       "In Association with Marvel":
-        - "Marvel"
-        - "In Association With Marvel"
+      - "Marvel"
+      - "In Association With Marvel"
       "The Amazing Spider-Man Collection":
-        - "The Amazing Spider-Man"
+      - "The Amazing Spider-Man"
       "Spider-Man Collection":
-        - "Spider-Man"
+      - "Spider-Man"
       "Spider-Man: Spider-Verse Collection":
-        - "Spider-Man: Spider-Verse"
-        - "Spider-Verse Collection"
-        - "Spider-Verse"
+      - "Spider-Man: Spider-Verse"
+      - "Spider-Verse Collection"
+      - "Spider-Verse"
       "Deadpool Collection":
-        - "Deadpool"
+      - "Deadpool"
       "Blade Collection":
-        - "Blade"
+      - "Blade"
       "X-Men Collection":
-        - "X-Men"
-        - "X-Men Universe"
+      - "X-Men"
+      - "X-Men Universe"
       "Wolverine Collection":
-        - "Wolverine"
+      - "Wolverine"
       "The Punisher Collection":
-        - "The Punisher"
-        - "Punisher"
+      - "The Punisher"
+      - "Punisher"
       "Fantastic Four Collection":
-        - "Fantastic Four"
+      - "Fantastic Four"
       "Daredevil Collection":
-        - "Daredevil"
+      - "Daredevil"
       "Ghost Rider Collection":
-        - "Ghost Rider"
+      - "Ghost Rider"
       "Captain America (1979) Collection":
-        - "Captain America (1979)"
+      - "Captain America (1979)"
       "Spider-Man Universe":
-        - "Spider-Man Universe"
+      - "Spider-Man Universe"
       "Venom Collection":
-        - "Venom"
+      - "Venom"
     builders:
       #mdblist_list: https://mdblist.com/lists/plexmetamanager/external/15110
     movies:
@@ -491,31 +485,31 @@ sets:
         pmm: mcu/rhj2
     collections:
       "Marvel Cinematic Universe":
-        - "MCU"
+      - "MCU"
       "Captain America Collection":
-        - "Captain America"
+      - "Captain America"
       "Iron Man Collection":
-        - "Iron Man"
+      - "Iron Man"
       "The Avengers Collection":
-        - "The Avengers"
-        - "Avengers Collection"
-        - "Avengers"
+      - "The Avengers"
+      - "Avengers Collection"
+      - "Avengers"
       "Captain Marvel Collection":
-        - "Captain Marvel"
+      - "Captain Marvel"
       "Doctor Strange Collection":
-        - "Doctor Strange"
+      - "Doctor Strange"
       "Thor Collection":
-        - "Thor"
+      - "Thor"
       "Spider-Man (Avengers) Collection":
-        - "Spider-Man (Avengers)"
+      - "Spider-Man (Avengers)"
       "Guardians of the Galaxy Collection":
-        - "Guardians of the Galaxy"
+      - "Guardians of the Galaxy"
       "Black Panther Collection":
-        - "Black Panther"
+      - "Black Panther"
       "Ant-Man Collection":
-        - "Ant-Man"
+      - "Ant-Man"
       "Marvel One-Shots Collection":
-        - "Marvel One-Shots"
+      - "Marvel One-Shots"
     builders:
       #tmdb_collection: 131292, 131296, 131295, 86311, 284433, 422834, 618529, 531241, 529892, 623911, 912503, 1011336
       #trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
@@ -576,198 +570,194 @@ sets:
       "Director by Night": 1036996
 
   mib:
-    styles:
-      default: rhj
-      rhj:
-        pmm: mib/rhj
-    collections:
-      "Men in Black Collection":
-        - "Men in Black Collection"
-        - "Men in Black"
-        - "Men In Black"
-        - "Men In Black Collection"
+    title: Mib
     builders:
       tmdb_collection: 86055
       tmdb_movie: 479455
+    styles:
+      default: rhj
+      rhj:
+    collections:
+      "Men in Black Collection":
+      - "Men In Black"
+      - "Men In Black Collection"
+      - "Men in Black"
+      - "Men in Black Collection"
+      "Men In Black Collection":
+      - "Men In Black"
     movies:
       "Men in Black (1997)": 607
       "Men in Black II (2002)": 608
       "Men in Black 3 (2012)": 41154
-      "Men in Black International (2019)": 479455
-
+      "Men in Black: International (2019)": 479455
   middle:                         # Source List:
+    title: Middle
+    builders:
+      tmdb_collection: 121938, 119
     styles:
       default: mikenobbs
       mikenobbs:
-        pmm: middle/mikenobbs
       rhj:
-        pmm: middle/rhj
     collections:
       "Middle-Earth Collection":
-        - "Middle-Earth"
-        - "Middle Earth Collection"
-        - "Middle Earth"
+      - "Middle Earth"
+      - "Middle Earth Collection"
+      - "Middle-Earth"
       "Hobbit Collection":
-        - "The Hobbit"
-        - "Hobbit"
-        - "The Hobbit Collection"
+      - "Hobbit"
+      - "The Hobbit"
+      - "The Hobbit Collection"
       "Lord of the Rings Collection":
-        - "Lord of the Rings"
-        - "The Lord of the Rings"
-        - "The Lord of the Rings Collection"
-    builders:
-      tmdb_collection: 121938, 119
+      - "Lord of the Rings"
+      - "The Lord of the Rings"
+      - "The Lord of the Rings Collection"
+      "The Hobbit Collection":
+      - "Hobbit"
+      - "Hobbit Collection"
+      - "The Hobbit"
+      "The Lord of the Rings Collection":
+      - "Lord of the Rings"
+      - "Lord of the Rings Collection"
+      - "The Lord of the Rings"
     movies:
-      "The Hobbit: An Unexpected Journey": 49051
-      "The Hobbit: The Desolation of Smaug": 57158
-      "The Hobbit: The Battle of the Five Armies": 122917
-      "The Lord of the Rings: The Fellowship of the Ring": 120
-      "The Lord of the Rings: The Two Towers": 121
-      "The Lord of the Rings: The Return of the King": 122
-
+      "The Lord of the Rings: The Fellowship of the Ring (2001)": 120
+      "The Lord of the Rings: The Two Towers (2002)": 121
+      "The Lord of the Rings: The Return of the King (2003)": 122
+      "The Hobbit: An Unexpected Journey (2012)": 49051
+      "The Hobbit: The Desolation of Smaug (2013)": 57158
+      "The Hobbit: The Battle of the Five Armies (2014)": 122917
   mission:
-    styles:
-      default: rhj
-      rhj:
-        pmm: mission/rhj
-      rhj2:
-        pmm: mission/rhj2
-    collections:
-      "Mission: Impossible Collection":
-        - "Mission: Impossible"
-        - "Mission Impossible"
+    title: Mission
     builders:
       tmdb_collection: 87359
-    movies:
-      "Mission: Impossible": 954
-      "Mission: Impossible 2": 955
-      "Mission: Impossible 3": 956
-      "Mission: Impossible Ghost Protocol": 56292
-      "Mission: Impossible Rogue Nation": 177677
-      "Mission: Impossible Fallout": 353081
-      "Mission: Impossible Dead Reckoning 1": 575264
-      "Mission: Impossible Dead Reckoning 2": 575265
-
-  nowyouseeme:
     styles:
       default: rhj
       rhj:
-        pmm: nowyouseeme/rhj
+      rhj2:
     collections:
-      "Now You See Me Collection":
-        - "Now You See Me"
+      "Mission: Impossible Collection":
+      - "Mission Impossible"
+      - "Mission: Impossible"
+    movies:
+      "Mission: Impossible (1996)": 954
+      "Mission: Impossible II (2000)": 955
+      "Mission: Impossible III (2006)": 956
+      "Mission: Impossible - Ghost Protocol (2011)": 56292
+      "Mission: Impossible - Rogue Nation (2015)": 177677
+      "Mission: Impossible - Fallout (2018)": 353081
+      "Mission: Impossible - Dead Reckoning Part One (2023)": 575264
+  nowyouseeme:
+    title: Nowyouseeme
     builders:
       tmdb_collection: 382685
-    movies:
-      Now You See Me (2013): 75656
-      Now You See Me 2 (2016): 291805
-      Now You See Me 3 (2023): 425274
-
-  ocean:
     styles:
       default: rhj
       rhj:
-        pmm: ocean/rhj
     collections:
-      "Ocean's Collection":
-        - "Ocean's"
+      "Now You See Me Collection":
+      - "Now You See Me"
+    movies:
+      "Now You See Me (2013)": 75656
+      "Now You See Me 2 (2016)": 291805
+  ocean:
+    title: Ocean
     builders:
       tmdb_collection: 304
       tmdb_movie: 402900
+    styles:
+      default: rhj
+      rhj:
+    collections:
+      "Ocean's Collection":
+      - "Ocean's"
     movies:
-      "Ocean's Eight (2018)": 402900
       "Ocean's Eleven (2001)": 161
       "Ocean's Twelve (2004)": 163
       "Ocean's Thirteen (2007)": 298
-
+      "Ocean's Eight (2018)": 402900
   pirates:
+    title: Pirates
+    builders:
+      tmdb_collection: 295
     styles:
       default: rhj
       rhj:
-        pmm: pirates/rhj
       diiivoy:
-        pmm: pirates/diiivoy
     collections:
       "Pirates of the Caribbean Collection":
-        - "Pirates of the Caribbean"
-    builders:
-      tmdb_collection: 295
+      - "Pirates of the Caribbean"
     movies:
-      "Pirates of the Caribbean: The Curse of the Black Pearl": 22
-      "Pirates of the Caribbean: Dead Man's Chest": 58
-      "Pirates of the Caribbean: At World's End": 285
-      "Pirates of the Caribbean: On Stranger Tides": 1865
-      "Pirates of the Caribbean: Dead Men Tell no Tales": 166426
-
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)": 22
+      "Pirates of the Caribbean: Dead Man's Chest (2006)": 58
+      "Pirates of the Caribbean: At World's End (2007)": 285
+      "Pirates of the Caribbean: On Stranger Tides (2011)": 1865
+      "Pirates of the Caribbean: Dead Men Tell No Tales (2017)": 166426
   poirot:
+    title: Poirot
+    builders:
+      tmdb_collection: 735384
     styles:
       default: diiivoy_neon
       diiivoy_neon:
-        pmm: poirot/diiivoy_neon
     collections:
       "Hercule Poirot Collection":
-        - "Hercule Poirot"
-        - "Poirot"
-    builders:
-      tmdb_collection: 735384
+      - "Hercule Poirot"
+      - "Poirot"
     movies:
-      "Death on the Nile (2022)": 505026
       "Murder on the Orient Express (2017)": 392044
-
+      "Death on the Nile (2022)": 505026
+      "A Haunting in Venice (2023)": 945729
   predator:
+    title: Predator
+    builders:
+      tmdb_collection: 399
     styles:
       default: rhj
       rhj:
-        pmm: predator/rhj
     collections:
       "Predator Collection":
-        - "Predator"
-    builders:
-      tmdb_collection: 399
+      - "Predator"
     movies:
-      "Predator": 106
-      "Predator 2": 169
-      "Predators": 34851
-      "The Predator": 346910
-      "Prey": 766507
-
+      "Predator (1987)": 106
+      "Predator 2 (1990)": 169
+      "Predators (2010)": 34851
+      "The Predator (2018)": 346910
+      "Prey (2022)": 766507
   rocky_creed:
+    title: Rocky Creed
+    builders:
+      tmdb_collection: 1575, 553717
     styles:
       default: dannybeaton
       dannybeaton:
-        pmm: rocky_creed/dannybeaton
     collections:
       "Rocky Collection":
-        - "Rocky"
+      - "Rocky"
       "Creed Collection":
-        - "Creed"
+      - "Creed"
       "Rocky / Creed Collection":
-        - "Rocky / Creed"
-    builders:
-      tmdb_collection: 1575, 553717
+      - "Rocky / Creed"
     movies:
-      "Rocky Balboa (2006)": 1246
       "Rocky (1976)": 1366
       "Rocky II (1979)": 1367
       "Rocky III (1982)": 1371
       "Rocky IV (1985)": 1374
       "Rocky V (1990)": 1375
+      "Rocky Balboa (2006)": 1246
       "Creed (2015)": 312221
       "Creed II (2018)": 480530
       "Creed III (2023)": 677179
-      "Creed IV ()": 1083597
-
   saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
-    styles:
-      default: rhj
-      rhj:
-        pmm: saw/rhj
-    collections:
-      "Saw Collection":
-        - "Saw"
+    title: Saw
     builders:
       tmdb_collection: 656
       tmdb_movie: 602734
+    styles:
+      default: rhj
+      rhj:
+    collections:
+      "Saw Collection":
+      - "Saw"
     movies:
       "Saw (2004)": 176
       "Saw II (2005)": 215
@@ -778,7 +768,6 @@ sets:
       "Saw 3D (2010)": 41439
       "Jigsaw (2017)": 298250
       "Spiral: From the Book of Saw (2021)": 602734
-
   starwars:                             # Source List:
     styles:
       default: rhj
@@ -792,14 +781,14 @@ sets:
         pmm: starwars/agon024
     collections:
       "Star Wars: The Complete Collection":
-        - "Star Wars: The Complete"
-        - "Star Wars"
+      - "Star Wars: The Complete"
+      - "Star Wars"
       "LEGO Star Wars Collection":
-        - "LEGO Star Wars"
+      - "LEGO Star Wars"
       "LEGO Star Wars (Seasonal) Collection":
-        - "LEGO Star Wars (Seasonal)"
+      - "LEGO Star Wars (Seasonal)"
       "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!":
-        - "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!"
+      - "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!"
     builders:
       #trakt_list: https://trakt.tv/users/hitsquid/lists/star-wars-the-complete-saga
     movies:
@@ -842,40 +831,35 @@ sets:
 
 
   wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
-    styles:
-      default: diiivoy_neon
-      diiivoy_neon:
-        pmm: wizard/diiivoy_neon
-      rhj:
-        pmm: wizard/rhj
-      rhj2:
-        pmm: wizard/rhj2
-      dsman:
-        pmm: wizard/dsman
-    collections:
-      "Wizarding World (of Harry Potter) Collection":
-        - "Wizarding World (of Harry Potter)"
-        - "Wizarding World of Harry Potter"
-        - "Wizarding World"
-      "Fantastic Beasts Collection":
-        - "Fantastic Beasts"
-      "Harry Potter Collection":
-        - "Harry Potter"
+    title: Wizard
     builders:
       tmdb_collection: 435259, 1241
       tmdb_movie: 899082
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      rhj:
+      rhj2:
+      dsman:
+    collections:
+      "Wizarding World (of Harry Potter) Collection":
+      - "Wizarding World"
+      - "Wizarding World (of Harry Potter)"
+      - "Wizarding World of Harry Potter"
+      "Fantastic Beasts Collection":
+      - "Fantastic Beasts"
+      "Harry Potter Collection":
+      - "Harry Potter"
     movies:
-      "Fantastic Beasts and Where to Find Them": 259316
-      "Fantastic Beasts: The Crimes of Grindelwald": 338952
-      "Fantastic Beasts: The Secrets of Dumbledore": 338953
-      "Fantastic Beasts 4 (None)": 422641
-      "Fantastic Beasts 5 (None)": 422642
-      "Harry Potter and the Philosopher's Stone": 671
-      "Harry Potter and the Chamber of Secrets": 672
-      "Harry Potter and the Prisoner of Azkaban": 673
-      "Harry Potter and the Goblet of Fire": 674
-      "Harry Potter and the Order of the Phoenix": 675
-      "Harry Potter and the Half-Blood Prince": 767
-      "Harry Potter and the Deathly Hallows: Part 1": 12444
-      "Harry Potter and the Deathly Hallows: Part 2": 12445
-      "Harry Potter 20th Anniversary: Return to Hogwarts": 899082
+      "Harry Potter and the Philosopher's Stone (2001)": 671
+      "Harry Potter and the Chamber of Secrets (2002)": 672
+      "Harry Potter and the Prisoner of Azkaban (2004)": 673
+      "Harry Potter and the Goblet of Fire (2005)": 674
+      "Harry Potter and the Order of the Phoenix (2007)": 675
+      "Harry Potter and the Half-Blood Prince (2009)": 767
+      "Harry Potter and the Deathly Hallows: Part 1 (2010)": 12444
+      "Harry Potter and the Deathly Hallows: Part 2 (2011)": 12445
+      "Fantastic Beasts and Where to Find Them (2016)": 259316
+      "Fantastic Beasts: The Crimes of Grindelwald (2018)": 338952
+      "Fantastic Beasts: The Secrets of Dumbledore (2022)": 338953
+      "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": 899082

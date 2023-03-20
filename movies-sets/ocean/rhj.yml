@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/228
-  set_key: rhj
-  set_link: https://theposterdb.com/set/70
-  set_author: RedHeadJedi
-
+  style_author: RedHeadJedi
+  style_image: https://theposterdb.com/api/assets/228
+  style_key: rhj
+  style_link: https://theposterdb.com/set/70
 collections:
   "Ocean's Collection": {tpdb_poster: 228}
-set:
+movies:
   "Ocean's Eleven (2001)": {tpdb_poster: 229}
   "Ocean's Twelve (2004)": {tpdb_poster: 230}
   "Ocean's Thirteen (2007)": {tpdb_poster: 231}

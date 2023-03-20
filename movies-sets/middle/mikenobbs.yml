@@ -1,17 +1,16 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/191455
-  set_key: mikenobbs
-  set_link: https://theposterdb.com/set/115877
-  set_author: mikenobbs
-
+  style_author: mikenobbs
+  style_image: https://theposterdb.com/api/assets/191455
+  style_key: mikenobbs
+  style_link: https://theposterdb.com/set/115877
 collections:
   "Middle-Earth Collection": {tpdb_poster: 191451}
   "Hobbit Collection": {tpdb_poster: 191452}
   "Lord of the Rings Collection": {tpdb_poster: 191453}
-set:
-  "The Lord of the Rings: The Fellowship of the Ring": {tpdb_poster: 191454}
-  "The Lord of the Rings: The Two Towers": {tpdb_poster: 191455}
-  "The Lord of the Rings: The Return of the King": {tpdb_poster: 191456}
-  "The Hobbit: An Unexpected Journey": {tpdb_poster: 191457}
-  "The Hobbit: The Desolation of Smaug": {tpdb_poster: 191458}
-  "The Hobbit: The Battle of the Five Armies": {tpdb_poster: 191459}
+movies:
+  "The Lord of the Rings: The Fellowship of the Ring (2001)": {tpdb_poster: 191454}
+  "The Lord of the Rings: The Two Towers (2002)": {tpdb_poster: 191455}
+  "The Lord of the Rings: The Return of the King (2003)": {tpdb_poster: 191456}
+  "The Hobbit: An Unexpected Journey (2012)": {tpdb_poster: 191457}
+  "The Hobbit: The Desolation of Smaug (2013)": {tpdb_poster: 191458}
+  "The Hobbit: The Battle of the Five Armies (2014)": {tpdb_poster: 191459}
