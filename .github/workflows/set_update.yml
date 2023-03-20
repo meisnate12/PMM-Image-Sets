@@ -8,7 +8,7 @@ on:
   pull_request:
 
 jobs:
-  Update-Media-Stingers:
+  Image-Set-Update:
     runs-on: ubuntu-latest
     steps:
 
