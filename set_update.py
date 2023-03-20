@@ -85,7 +85,6 @@ libraries:
             continue
 
         try:
-
             readme += f"\n## {set_info['title']}\n\n{set_info['description']}\n"
             logger.separator(set_info["title"])
             sets_path = os.path.join(base_dir, f"{file_key}-sets")
@@ -501,7 +500,13 @@ libraries:
                         style_yaml.data = new_style
                         style_yaml.save()
 
-                        readme += f'<td style="border: none;text-align: center;"><img src="{style_yaml["info"]["style_image"]}" height="200"/> '
+                        style_image = style_yaml["info"]["style_image"]
+                        if style_image.startswith("https://theposterdb.com/api/assets/"):
+                            if match := re.search(r"(\d+)", str(style_image)):
+                                if response := html.fromstring(requests.get(f"https://theposterdb.com/poster/{int(match.group(1))}", headers=headers).content).xpath("//meta[@property='og:image']/@content"):
+                                    style_image = response[0]
+
+                        readme += f'<td style="border: none;text-align: center;"><img src="{style_image}" height="200"/> '
                         readme += f'<br><strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code> '
                         readme += f'<br><strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a> <br></td>\n'
 

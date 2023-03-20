@@ -1,5 +1,5 @@
 lxml==4.9.2
-pmmutils==0.4.1
+pmmutils==0.4.2
 requests==2.28.2
 tmdbapis==1.1.0
-tqdm==4.64.1
+tqdm==4.65.0
