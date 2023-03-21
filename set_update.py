@@ -378,7 +378,7 @@ try:
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
                     readme += f"<h3>{new_data['title']}</h3>\n<strong>Set Key:</strong> <code>{set_key}</code>\n<h4>Styles:</h4>\n"
-                    readme += f'<table style="border-collapse: collapse; border: none;">\n\t<tr style="border: none;">\n'
+                    readme += f'<table class="image-table">\n\t<tr>\n'
 
                     for style, style_data in set_data["styles"].items():
                         if style == "default":
@@ -513,7 +513,7 @@ try:
                                                 handler.write(img_res.content)
                                             style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{set_key}/{style}{ext}"
 
-                        readme += f'\t\t<td style="border: none;text-align: center;">\n\t\t\t<img src="{style_image}" height="200"/><br>\n'
+                        readme += f'\t\t<td>\n\t\t\t<img src="{style_image}" height="200"/><br>\n'
                         readme += f'\t\t\t<strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
                         readme += f'\t\t\t<strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a><br>\n\t\t</td>\n'
 
