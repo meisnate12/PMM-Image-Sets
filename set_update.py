@@ -377,8 +377,9 @@ try:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    readme += f"<h3>{new_data['title']}</h3>\n<strong>Set Key:</strong> <code>{set_key}</code>\n<h4>Styles:</h4>\n"
-                    readme += f'<table class="image-table">\n\t<tr>\n'
+                    readme += f'<h3>{new_data["title"]}</h3>\n<strong>Section Key:</strong> <code>{set_key}</code>\n'
+                    readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
+                    readme += f'\t<table class="image-table">\n\t\t<tr>\n'
 
                     for style, style_data in set_data["styles"].items():
                         if style == "default":
@@ -513,12 +514,12 @@ try:
                                                 handler.write(img_res.content)
                                             style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{set_key}/{style}{ext}"
 
-                        readme += f'\t\t<td>\n\t\t\t<img src="{style_image}" height="200"/><br>\n'
-                        readme += f'\t\t\t<strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
-                        readme += f'\t\t\t<strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a><br>\n\t\t</td>\n'
+                        readme += f'\t\t\t<td>\n\t\t\t\t<img src="{style_image}" height="200"/><br>\n'
+                        readme += f'\t\t\t\t<strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
+                        readme += f'\t\t\t\t<strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a><br>\n\t\t\t</td>\n'
 
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
-                    readme += f'\t</tr>\n</table>\n\n'
+                    readme += f'\t\t</tr>\n\t</table>\n</div>\n\n'
 
                     yaml_data["sections"][set_key] = new_data
 
