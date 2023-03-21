@@ -61,7 +61,7 @@ try:
         metadata_path = os.path.join(metadata_dir, "set.yml")
         missing_path = os.path.join(metadata_dir, "missing.yml")
         styles_path = os.path.join(metadata_dir, "styles")
-        readme_path = os.path.join(metadata_dir, "readme.html")
+        readme_path = os.path.join(metadata_dir, "readme.md")
         if not os.path.exists(metadata_path):
             logger.error(f"File not Found: {metadata_path}")
             with open(metadata_path, "w") as f:
@@ -69,16 +69,16 @@ try:
             continue
 
         try:
-            readme = f"<h1>{set_info['title']}</h1>\n{set_info['description']}\n"
+            readme = f"<h1>{set_info['title']}</h1>\n{set_info['description']}\n\n"
             logger.separator(set_info["title"])
             yaml_data = YAML(path=metadata_path, preserve_quotes=True)
             missing_yaml = YAML(path=missing_path, create=True, preserve_quotes=True)
             missing = {}
-            if "sets" not in yaml_data:
-                raise Failed('File is missing base attribute "sets"')
-            if not yaml_data["sets"]:
-                raise Failed('File base attribute "sets" is empty')
-            for set_key, set_data in yaml_data["sets"].items():
+            if "sections" not in yaml_data:
+                raise Failed('File is missing base attribute "sections"')
+            if not yaml_data["sections"]:
+                raise Failed('File base attribute "sections" is empty')
+            for set_key, set_data in yaml_data["sections"].items():
                 try:
                     logger.separator(set_key, border=False, space=False)
                     new_data = {}
@@ -357,12 +357,10 @@ try:
                                     if ed_attr in old_data and old_data[ed_attr]:
                                         if old_data[ed_attr] in used_editions:
                                             raise Failed(f"Edition Error: Edition {old_data[ed_attr]} already used")
-                                        final[f"{title} ({old_data[ed_attr]})"] = (v["year"], {
-                                            "mapping_id": k,
-                                            ed_attr: old_data[ed_attr]
-                                        })
-                                        if old_title != title:
-                                            style_translation[old_title] = title
+                                        ed_title = f"{title} ({old_data[ed_attr]})"
+                                        final[ed_title] = (v["year"], {"mapping_id": k, ed_attr: old_data[ed_attr]})
+                                        if old_title != ed_title:
+                                            style_translation[old_title] = ed_title
                                         used_editions.append(old_data[ed_attr])
                                         return True
                                     return False
@@ -379,8 +377,8 @@ try:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    readme += f"<h2>{new_data['title']}</h2>\n<strong>Set Key:</strong> <code>{set_key}</code>\n<h3>Styles:</h3>\n"
-                    readme += f'<table style="border-collapse: collapse; border: none;"><tr style="border: none;">\n'
+                    readme += f"<h3>{new_data['title']}</h3>\n<strong>Set Key:</strong> <code>{set_key}</code>\n<h4>Styles:</h4>\n"
+                    readme += f'<table style="border-collapse: collapse; border: none;">\n\t<tr style="border: none;">\n'
 
                     for style, style_data in set_data["styles"].items():
                         if style == "default":
@@ -392,11 +390,11 @@ try:
                             style_data = style_data[0]
                         if "pmm" not in style_data or not style_data["pmm"]:
                             continue
-                        style_path = styles_path
+                        style_path_key = styles_path
                         for p in style_data["pmm"].split("/"):
-                            style_path = os.path.join(style_path, p)
-                        if not style_path.endswith(".yml"):
-                            style_path += ".yml"
+                            style_path_key = os.path.join(style_path_key, p)
+                        style_path_key.removesuffix(".yml")
+                        style_path = f"{style_path_key}.yml"
                         style_yaml = YAML(path=style_path, create=True, preserve_quotes=True)
                         new_style = {"info": {"style_author": None, "style_image": None, "style_key": style, "style_link": None}, "collections": {}, attr: {}}
 
@@ -414,9 +412,11 @@ try:
                         if set_key in missing_yaml and style in missing_yaml[set_key] and "info" in missing_yaml[set_key][style]:
                             missing_info = missing_yaml[set_key][style]["info"]
 
+                        reset_image = False
                         for style_attr, old_style_attr in [("style_author", "set_author"), ("style_image", "asset_image"), ("style_link", "set_link")]:
                             if missing_info and style_attr in missing_info and missing_info[style_attr]:
                                 new_style["info"][style_attr] = missing_info[style_attr]
+                                reset_image = True
                             elif "info" in style_yaml and style_attr in style_yaml["info"] and style_yaml["info"][style_attr]:
                                 new_style["info"][style_attr] = style_yaml["info"][style_attr]
                             elif "info" in style_yaml and old_style_attr in style_yaml["info"] and style_yaml["info"][old_style_attr]:
@@ -483,20 +483,44 @@ try:
                         style_yaml.data = new_style
                         style_yaml.save()
 
-                        style_image = style_yaml["info"]["style_image"]
-                        if style_image.startswith("https://theposterdb.com/api/assets/") and False:
-                            if match := re.search(r"(\d+)", str(style_image)):
-                                if response := html.fromstring(requests.get(f"https://theposterdb.com/poster/{int(match.group(1))}", headers=headers).content).xpath("//meta[@property='og:image']/@content"):
-                                    style_image = response[0]
+                        style_image = None
+                        for ext in [".png", ".jpg", ".webp"]:
+                            style_image_path = style_path_key + ext
+                            if os.path.exists(style_image_path):
+                                if reset_image:
+                                    os.remove(style_image_path)
+                                else:
+                                    style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{set_key}/{style}{ext}"
+                                break
+                        if not style_image:
+                            style_image = style_yaml["info"]["style_image"]
+                            if style_image.startswith("https://theposterdb.com/api/assets/"):
+                                if match := re.search(r"(\d+)", str(style_image)):
+                                    if response := html.fromstring(requests.get(f"https://theposterdb.com/poster/{int(match.group(1))}", headers=headers).content).xpath("//meta[@property='og:image']/@content"):
+                                        img_res = requests.get(response[0], headers=headers)
+                                        if img_res.status_code >= 400:
+                                            logger.error(f"Image Error: Failed to download Image URL: {response[0]}")
+                                        elif "Content-Type" not in img_res.headers or img_res.headers["Content-Type"] not in ["image/png", "image/jpeg", "image/webp"]:
+                                            logger.error("Image Not PNG, JPG, or WEBP")
+                                        else:
+                                            if img_res.headers["Content-Type"] == "image/jpeg":
+                                                ext = ".jpg"
+                                            elif img_res.headers["Content-Type"] == "image/webp":
+                                                ext = ".webp"
+                                            else:
+                                                ext = ".png"
+                                            with open(style_path_key + ext, "wb") as handler:
+                                                handler.write(img_res.content)
+                                            style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{set_key}/{style}{ext}"
 
-                        readme += f'<td style="border: none;text-align: center;"><img src="{style_image}" height="200"/> \n'
-                        readme += f'<br><strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code> \n'
-                        readme += f'<br><strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a> <br></td>\n'
+                        readme += f'\t\t<td style="border: none;text-align: center;">\n\t\t\t<img src="{style_image}" height="200"/><br>\n'
+                        readme += f'\t\t\t<strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
+                        readme += f'\t\t\t<strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a><br>\n\t\t</td>\n'
 
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
-                    readme += f'</tr></table>\n'
+                    readme += f'\t</tr>\n</table>\n\n'
 
-                    yaml_data["sets"][set_key] = new_data
+                    yaml_data["sections"][set_key] = new_data
 
                 except Failed as e:
                     logger.error(e)
