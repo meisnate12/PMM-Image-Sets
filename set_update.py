@@ -365,12 +365,10 @@ try:
                                     if ed_attr in old_data and old_data[ed_attr]:
                                         if old_data[ed_attr] in used_editions:
                                             raise Failed(f"Edition Error: Edition {old_data[ed_attr]} already used")
-                                        final[f"{title} ({old_data[ed_attr]})"] = (v["year"], {
-                                            "mapping_id": k,
-                                            ed_attr: old_data[ed_attr]
-                                        })
-                                        if old_title != title:
-                                            style_translation[old_title] = title
+                                        ed_title = f"{title} ({old_data[ed_attr]})"
+                                        final[ed_title] = (v["year"], {"mapping_id": k, ed_attr: old_data[ed_attr]})
+                                        if old_title != ed_title:
+                                            style_translation[old_title] = ed_title
                                         used_editions.append(old_data[ed_attr])
                                         return True
                                     return False
