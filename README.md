@@ -1,5 +1,4 @@
 # PMM Image Sets
-Last generated at: March 21, 2023 07:05 AM UTC
 
 PMM Image Sets is a set of pre-defined Metadata files to work in conjunction with [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager)
 

@@ -53,14 +53,6 @@ try:
     if not pmmargs["trakt_id"] or not pmmargs["trakt_token"]:
         raise Failed("trakt_id and trakt_token are required")
 
-    with open("README.md", "r") as f:
-        readme_data = f.readlines()
-
-    readme_data[1] = f"Last generated at: {datetime.utcnow().strftime('%B %d, %Y %I:%M %p')} UTC\n"
-
-    with open("README.md", "w") as f:
-        f.writelines(readme_data)
-
     sets_yaml = YAML(path=os.path.join(base_dir, "sets.yml"), preserve_quotes=True)
     for file_key, set_info in sets_yaml["sets"].items():
         metadata_dir = os.path.join(base_dir, file_key)
