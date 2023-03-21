@@ -1,4 +1,4 @@
-sets:
+sections:
   bluesky:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
     styles:
       default: diiivoy_neon
