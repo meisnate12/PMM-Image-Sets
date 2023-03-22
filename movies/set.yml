@@ -1,6 +1,6 @@
 sections:
   alien:
-    title: Alien
+    title: Alien Set
     builders:
       tmdb_collection: 8091, 115762, 135416
     styles:
@@ -23,7 +23,7 @@ sections:
       "Prometheus (2012)": 70981
       "Alien: Covenant (2017)": 126889
   avatar:
-    title: Avatar
+    title: Avatar Set
     builders:
       tmdb_collection: 87096
     styles:
@@ -42,7 +42,7 @@ sections:
         blank_edition: true
       "Avatar: The Way of Water (2022)": 76600
   bond:
-    title: Bond
+    title: James Bond Set
     builders:
       tmdb_collection: 645
       tmdb_movie: 12208
@@ -186,7 +186,7 @@ sections:
       "DC League of Super-Pets": 539681
 
   fast_furious:
-    title: Fast Furious
+    title: The Fast and the Furious Set
     builders:
       tmdb_collection: 9485, 688042
       tmdb_movie: 253835
@@ -220,7 +220,7 @@ sections:
       "F9 (2021)": 385128
       "Fast X (2023)": 385687
   godfather:
-    title: Godfather
+    title: The Godfather Set
     builders:
       tmdb_collection: 230
     styles:
@@ -241,7 +241,7 @@ sections:
         mapping_id: 242
         blank_edition: true
   godzilla_heisei:
-    title: Godzilla Heisei
+    title: Godzilla Heisei Set
     builders:
       tmdb_collection: 374511
       tmdb_movie: 39256
@@ -262,7 +262,7 @@ sections:
       "Godzilla vs. SpaceGodzilla (1994)": 39466
       "Godzilla vs. Destoroyah (1995)": 12561
   godzilla_monsterverse:
-    title: Godzilla Monsterverse
+    title: Godzilla Monsterverse Set
     builders:
       tmdb_collection: 535313
       tmdb_movie: 293167
@@ -283,7 +283,7 @@ sections:
       "Godzilla: King of the Monsters (2019)": 373571
       "Godzilla vs. Kong (2021)": 399566
   godzilla_showa:
-    title: Godzilla Showa
+    title: Godzilla Showa Set
     builders:
       tmdb_collection: 374509
       tmdb_movie: 18983, 329237, 686487
@@ -314,7 +314,7 @@ sections:
       "Godzilla vs. Mechagodzilla (1974)": 38582
       "Terror of Mechagodzilla (1975)": 19333
   indiana:
-    title: Indiana
+    title: Indiana Jones Set
     builders:
       tmdb_collection: 84
     styles:
@@ -331,7 +331,7 @@ sections:
       "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
       "Indiana Jones and the Dial of Destiny (2023)": 335977
   john_wick:
-    title: John Wick
+    title: John Wick Set
     builders:
       tmdb_collection: 404609
     styles:
@@ -346,7 +346,7 @@ sections:
       "John Wick: Chapter 3 - Parabellum (2019)": 458156
       "John Wick: Chapter 4 (2023)": 603692
   jurassic:
-    title: Jurassic
+    title: Jurassic Park Set
     builders:
       tmdb_collection: 328
       tmdb_movie: 630322
@@ -570,7 +570,7 @@ sections:
       "Director by Night": 1036996
 
   mib:
-    title: Mib
+    title: Men in Black Set
     builders:
       tmdb_collection: 86055
       tmdb_movie: 479455
@@ -591,7 +591,7 @@ sections:
       "Men in Black 3 (2012)": 41154
       "Men in Black: International (2019)": 479455
   middle:                         # Source List:
-    title: Middle
+    title: Middle-Earth Set
     builders:
       tmdb_collection: 121938, 119
     styles:
@@ -627,7 +627,7 @@ sections:
       "The Hobbit: The Desolation of Smaug (2013)": 57158
       "The Hobbit: The Battle of the Five Armies (2014)": 122917
   mission:
-    title: Mission
+    title: Mission Impossible Set
     builders:
       tmdb_collection: 87359
     styles:
@@ -647,7 +647,7 @@ sections:
       "Mission: Impossible - Fallout (2018)": 353081
       "Mission: Impossible - Dead Reckoning Part One (2023)": 575264
   nowyouseeme:
-    title: Nowyouseeme
+    title: Now You See Me Set
     builders:
       tmdb_collection: 382685
     styles:
@@ -660,7 +660,7 @@ sections:
       "Now You See Me (2013)": 75656
       "Now You See Me 2 (2016)": 291805
   ocean:
-    title: Ocean
+    title: Ocean's Set
     builders:
       tmdb_collection: 304
       tmdb_movie: 402900
@@ -676,7 +676,7 @@ sections:
       "Ocean's Thirteen (2007)": 298
       "Ocean's Eight (2018)": 402900
   pirates:
-    title: Pirates
+    title: Pirates of the Caribbean Set
     builders:
       tmdb_collection: 295
     styles:
@@ -693,7 +693,7 @@ sections:
       "Pirates of the Caribbean: On Stranger Tides (2011)": 1865
       "Pirates of the Caribbean: Dead Men Tell No Tales (2017)": 166426
   poirot:
-    title: Poirot
+    title: Hercule Poirot Set
     builders:
       tmdb_collection: 735384
     styles:
@@ -708,7 +708,7 @@ sections:
       "Death on the Nile (2022)": 505026
       "A Haunting in Venice (2023)": 945729
   predator:
-    title: Predator
+    title: Predator Set
     builders:
       tmdb_collection: 399
     styles:
@@ -748,7 +748,7 @@ sections:
       "Creed II (2018)": 480530
       "Creed III (2023)": 677179
   saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
-    title: Saw
+    title: Saw Set
     builders:
       tmdb_collection: 656
       tmdb_movie: 602734
@@ -831,7 +831,7 @@ sections:
 
 
   wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
-    title: Wizard
+    title: Wizarding World (of Harry Potter) Set
     builders:
       tmdb_collection: 435259, 1241
       tmdb_movie: 899082
