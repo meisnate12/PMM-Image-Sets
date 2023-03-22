@@ -337,6 +337,7 @@ sections:
     styles:
       default: rhj
       rhj:
+      morkoz:
     collections:
       "John Wick Collection":
       - "John Wick"

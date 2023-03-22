@@ -1,7 +1,7 @@
 <h1>Sets - Movies</h1>
 Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
 
-<h3>Alien Set</h3>
+<h3>Alien</h3>
 <strong>Section Key:</strong> <code>alien</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -16,7 +16,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Avatar Set</h3>
+<h3>Avatar</h3>
 <strong>Section Key:</strong> <code>avatar</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -31,7 +31,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>James Bond Set</h3>
+<h3>Bond</h3>
 <strong>Section Key:</strong> <code>bond</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -46,7 +46,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>The Fast and the Furious Set</h3>
+<h3>Fast Furious</h3>
 <strong>Section Key:</strong> <code>fast_furious</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -61,7 +61,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>The Godfather Set</h3>
+<h3>Godfather</h3>
 <strong>Section Key:</strong> <code>godfather</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -76,7 +76,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Godzilla Heisei Set</h3>
+<h3>Godzilla Heisei</h3>
 <strong>Section Key:</strong> <code>godzilla_heisei</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -96,7 +96,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Godzilla Monsterverse Set</h3>
+<h3>Godzilla Monsterverse</h3>
 <strong>Section Key:</strong> <code>godzilla_monsterverse</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -111,7 +111,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Godzilla Showa Set</h3>
+<h3>Godzilla Showa</h3>
 <strong>Section Key:</strong> <code>godzilla_showa</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -131,7 +131,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Indiana Jones Set</h3>
+<h3>Indiana</h3>
 <strong>Section Key:</strong> <code>indiana</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -151,7 +151,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>John Wick Set</h3>
+<h3>John Wick</h3>
 <strong>Section Key:</strong> <code>john_wick</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -166,7 +166,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Jurassic Park Set</h3>
+<h3>Jurassic</h3>
 <strong>Section Key:</strong> <code>jurassic</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -186,7 +186,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Men in Black Set</h3>
+<h3>Mib</h3>
 <strong>Section Key:</strong> <code>mib</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -201,7 +201,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Middle-Earth Set</h3>
+<h3>Middle</h3>
 <strong>Section Key:</strong> <code>middle</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -221,7 +221,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Mission Impossible Set</h3>
+<h3>Mission</h3>
 <strong>Section Key:</strong> <code>mission</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -241,7 +241,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Now You See Me Set</h3>
+<h3>Nowyouseeme</h3>
 <strong>Section Key:</strong> <code>nowyouseeme</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -256,7 +256,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Ocean's Set</h3>
+<h3>Ocean</h3>
 <strong>Section Key:</strong> <code>ocean</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -271,7 +271,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Pirates of the Caribbean Set</h3>
+<h3>Pirates</h3>
 <strong>Section Key:</strong> <code>pirates</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -291,7 +291,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Hercule Poirot Set</h3>
+<h3>Poirot</h3>
 <strong>Section Key:</strong> <code>poirot</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -306,7 +306,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Predator Set</h3>
+<h3>Predator</h3>
 <strong>Section Key:</strong> <code>predator</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -336,7 +336,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Saw Set</h3>
+<h3>Saw</h3>
 <strong>Section Key:</strong> <code>saw</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -351,7 +351,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 	</table>
 </div>
 
-<h3>Wizarding World (of Harry Potter) Set</h3>
+<h3>Wizard</h3>
 <strong>Section Key:</strong> <code>wizard</code>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
