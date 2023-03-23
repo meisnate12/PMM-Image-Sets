@@ -10,128 +10,86 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 		<td>Alien Set</td>
 		<td><code>alien</code></td>
 	</tr>
-</table>
-
 	<tr>
 		<td>Avatar Set</td>
 		<td><code>avatar</code></td>
 	</tr>
-</table>
-
-	<tr>
-		<td>Godzilla Heisei Set</td>
-		<td><code>godzilla_heisei</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Godzilla Monsterverse Set</td>
-		<td><code>godzilla_monsterverse</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Godzilla Showa Set</td>
-		<td><code>godzilla_showa</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Hercule Poirot Set</td>
-		<td><code>poirot</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Indiana Jones Set</td>
-		<td><code>indiana</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>James Bond Set</td>
-		<td><code>bond</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>John Wick Set</td>
-		<td><code>john_wick</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Jurassic Park Set</td>
-		<td><code>jurassic</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Men in Black Set</td>
-		<td><code>mib</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Middle-Earth Set</td>
-		<td><code>middle</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Mission Impossible Set</td>
-		<td><code>mission</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Now You See Me Set</td>
-		<td><code>nowyouseeme</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Ocean's Set</td>
-		<td><code>ocean</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Pirates of the Caribbean Set</td>
-		<td><code>pirates</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Predator Set</td>
-		<td><code>predator</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Rocky Creed</td>
-		<td><code>rocky_creed</code></td>
-	</tr>
-</table>
-
-	<tr>
-		<td>Saw Set</td>
-		<td><code>saw</code></td>
-	</tr>
-</table>
-
 	<tr>
 		<td>The Fast and the Furious Set</td>
 		<td><code>fast_furious</code></td>
 	</tr>
-</table>
-
 	<tr>
 		<td>The Godfather Set</td>
 		<td><code>godfather</code></td>
 	</tr>
-</table>
-
+	<tr>
+		<td>Godzilla Heisei Set</td>
+		<td><code>godzilla_heisei</code></td>
+	</tr>
+	<tr>
+		<td>Godzilla Monsterverse Set</td>
+		<td><code>godzilla_monsterverse</code></td>
+	</tr>
+	<tr>
+		<td>Godzilla Showa Set</td>
+		<td><code>godzilla_showa</code></td>
+	</tr>
+	<tr>
+		<td>Hercule Poirot Set</td>
+		<td><code>poirot</code></td>
+	</tr>
+	<tr>
+		<td>Indiana Jones Set</td>
+		<td><code>indiana</code></td>
+	</tr>
+	<tr>
+		<td>James Bond Set</td>
+		<td><code>bond</code></td>
+	</tr>
+	<tr>
+		<td>John Wick Set</td>
+		<td><code>john_wick</code></td>
+	</tr>
+	<tr>
+		<td>Jurassic Park Set</td>
+		<td><code>jurassic</code></td>
+	</tr>
+	<tr>
+		<td>Men in Black Set</td>
+		<td><code>mib</code></td>
+	</tr>
+	<tr>
+		<td>Middle-Earth Set</td>
+		<td><code>middle</code></td>
+	</tr>
+	<tr>
+		<td>Mission Impossible Set</td>
+		<td><code>mission</code></td>
+	</tr>
+	<tr>
+		<td>Now You See Me Set</td>
+		<td><code>nowyouseeme</code></td>
+	</tr>
+	<tr>
+		<td>Ocean's Set</td>
+		<td><code>ocean</code></td>
+	</tr>
+	<tr>
+		<td>Pirates of the Caribbean Set</td>
+		<td><code>pirates</code></td>
+	</tr>
+	<tr>
+		<td>Predator Set</td>
+		<td><code>predator</code></td>
+	</tr>
+	<tr>
+		<td>Rocky Creed</td>
+		<td><code>rocky_creed</code></td>
+	</tr>
+	<tr>
+		<td>Saw Set</td>
+		<td><code>saw</code></td>
+	</tr>
 	<tr>
 		<td>Wizarding World (of Harry Potter) Set</td>
 		<td><code>wizard</code></td>
@@ -163,6 +121,36 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 				<img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/avatar/rhj.jpg" height="200"/><br>
 				<strong>Style Key:</strong> <code>rhj</code><br>
 				<strong>Credit:</strong> <a href="https://theposterdb.com/set/179016">RedHeadJedi</a><br>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<h3>The Fast and the Furious Set<a class="headerlink" href="#the-fast-and-the-furious-set" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>fast_furious</code>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+	<table class="image-table">
+		<tr>
+			<td>
+				<img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/fast_furious/mikenobbs.jpg" height="200"/><br>
+				<strong>Style Key:</strong> <code>mikenobbs</code><br>
+				<strong>Credit:</strong> <a href="https://theposterdb.com/set/297">mikenobbs</a><br>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<h3>The Godfather Set<a class="headerlink" href="#the-godfather-set" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>godfather</code>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+	<table class="image-table">
+		<tr>
+			<td>
+				<img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godfather/eternal.jpg" height="200"/><br>
+				<strong>Style Key:</strong> <code>eternal</code><br>
+				<strong>Credit:</strong> <a href="https://theposterdb.com/set/183508">Eternal</a><br>
 			</td>
 		</tr>
 	</table>
@@ -458,36 +446,6 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 				<img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/saw/rhj.jpg" height="200"/><br>
 				<strong>Style Key:</strong> <code>rhj</code><br>
 				<strong>Credit:</strong> <a href="https://theposterdb.com/set/95260">RedHeadJedi</a><br>
-			</td>
-		</tr>
-	</table>
-</div>
-
-<h3>The Fast and the Furious Set<a class="headerlink" href="#the-fast-and-the-furious-set" title="Permalink to this heading">¶</a></h3>
-<strong>Section Key:</strong> <code>fast_furious</code>
-<button class="image-accordion">Styles</button>
-<div class="image-panel">
-	<table class="image-table">
-		<tr>
-			<td>
-				<img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/fast_furious/mikenobbs.jpg" height="200"/><br>
-				<strong>Style Key:</strong> <code>mikenobbs</code><br>
-				<strong>Credit:</strong> <a href="https://theposterdb.com/set/297">mikenobbs</a><br>
-			</td>
-		</tr>
-	</table>
-</div>
-
-<h3>The Godfather Set<a class="headerlink" href="#the-godfather-set" title="Permalink to this heading">¶</a></h3>
-<strong>Section Key:</strong> <code>godfather</code>
-<button class="image-accordion">Styles</button>
-<div class="image-panel">
-	<table class="image-table">
-		<tr>
-			<td>
-				<img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godfather/eternal.jpg" height="200"/><br>
-				<strong>Style Key:</strong> <code>eternal</code><br>
-				<strong>Credit:</strong> <a href="https://theposterdb.com/set/183508">Eternal</a><br>
 			</td>
 		</tr>
 	</table>
