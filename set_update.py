@@ -132,7 +132,7 @@ try:
                         else:
                             number_items[v] = k
 
-                    builder_html = "<br><strong>Builders:</strong>\n<ul>\n"
+                    builder_html = "<br><strong>Builders:</strong>\n<br>\n"
                     items = {}
                     for k, v in new_data["builders"].items():
                         if k in ["tmdb_collection", "tmdb_movie", "tmdb_show", "tvdb_show", "imdb_id", "tmdb_list"]:
@@ -212,7 +212,7 @@ try:
                                 except TMDbException as e:
                                     raise Failed(f"TMDb Error: No {k[5:].capitalize()} found for TMDb ID {_id}: {e}")
                             if extra_html:
-                                builder_html += f'  <li><code>{k}</code>: {", ".join(extra_html)}</li>\n'
+                                builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {", ".join(extra_html)}<br>\n'
 
                         elif k == "imdb_list":
                             imdb_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
@@ -276,7 +276,7 @@ try:
                                 if not imdb_ids:
                                     raise Failed(f"IMDb Error: No IMDb IDs Found at {imdb_url}")
 
-                                builder_html += f'  <li><code>{k}</code>: {a_link(imdb_url)}</li>\n'
+                                builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(imdb_url)}<br>\n'
                                 for imdb_id in imdb_ids:
                                     try:
                                         find_results = tmdbapi.find_by_id(imdb_id=imdb_id)
@@ -328,7 +328,7 @@ try:
                                 if len(output_json) == 0:
                                     raise Failed(f"Trakt Error: List {trakt_url} is empty")
 
-                                builder_html += f'  <li><code>{k}</code>: {a_link(trakt_url)}</li>\n'
+                                builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(trakt_url)}<br>\n'
 
                                 id_translation = {"movie": "movie", "show": "show", "season": "show", "episode": "show"}
                                 id_types = {
@@ -375,7 +375,7 @@ try:
                                 except JSONDecodeError:
                                     raise Failed(f"Mdblist Error: Invalid Response")
 
-                                builder_html += f'  <li><code>{k}</code>: {a_link(mdblist_url)}</li>\n'
+                                builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(mdblist_url)}<br>\n'
                                 for json_data in response:
                                     if is_movie and json_data["mediatype"] == "movie" and json_data["id"] not in items:
                                         items[json_data["id"]] = {"title": json_data["title"], "year": json_data["release_year"]}
