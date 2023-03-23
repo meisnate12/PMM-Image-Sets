@@ -432,7 +432,7 @@ try:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    new_index_table += f'<li>{a_link(new_data["title"], local_link=True)} (<code>{section_key}</code>)</li>'
+                    new_index_table += f'<li><div class="images-inline-link">{a_link(new_data["title"], local_link=True)} (<code>{section_key}</code>)</div></li>'
                     index_table += f'  <tr>\n    <td>{a_link(new_data["title"], local_link=True)}</td>\n'
                     index_table += f'    <td><code>{section_key}</code></td>\n  </tr>\n'
                     readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n{builder_html}'
