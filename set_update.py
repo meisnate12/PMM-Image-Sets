@@ -672,13 +672,13 @@ try:
 
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
                     readme += "\t\t</tr>\n\t</table>\n</div>\n\n"
-                    index_table += "</table>\n\n"
                     sections[section_key] = new_data
 
                 except Failed as e:
                     logger.error(e)
                     sections[section_key] = section_data
-
+            
+            index_table += "</table>\n\n"
             with open(readme_path, "w") as f:
                 f.write(index_table + readme)
             missing_yaml.data = missing
