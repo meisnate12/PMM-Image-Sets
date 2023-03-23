@@ -1,6 +1,6 @@
 sections:
   alien:
-    title: Alien
+    title: Alien Set
     builders:
       tmdb_collection: 8091, 115762, 135416
     styles:
@@ -23,7 +23,7 @@ sections:
       "Prometheus (2012)": 70981
       "Alien: Covenant (2017)": 126889
   avatar:
-    title: Avatar
+    title: Avatar Set
     builders:
       tmdb_collection: 87096
     styles:
@@ -41,46 +41,6 @@ sections:
         mapping_id: 19995
         blank_edition: true
       "Avatar: The Way of Water (2022)": 76600
-  bond:
-    title: Bond
-    builders:
-      tmdb_collection: 645
-      tmdb_movie: 12208
-    styles:
-      default: rhj
-      rhj:
-    collections:
-      "James Bond Collection":
-      - "007"
-      - "James Bond"
-    movies:
-      "Dr. No (1962)": 646
-      "From Russia with Love (1963)": 657
-      "Goldfinger (1964)": 658
-      "Thunderball (1965)": 660
-      "You Only Live Twice (1967)": 667
-      "Casino Royale (1967)": 12208
-      "On Her Majesty's Secret Service (1969)": 668
-      "Diamonds Are Forever (1971)": 681
-      "Live and Let Die (1973)": 253
-      "The Man with the Golden Gun (1974)": 682
-      "The Spy Who Loved Me (1977)": 691
-      "Moonraker (1979)": 698
-      "For Your Eyes Only (1981)": 699
-      "Octopussy (1983)": 700
-      "Never Say Never Again (1983)": 36670
-      "A View to a Kill (1985)": 707
-      "The Living Daylights (1987)": 708
-      "Licence to Kill (1989)": 709
-      "GoldenEye (1995)": 710
-      "Tomorrow Never Dies (1997)": 714
-      "The World Is Not Enough (1999)": 36643
-      "Die Another Day (2002)": 36669
-      "Casino Royale (2006)": 36557
-      "Quantum of Solace (2008)": 10764
-      "Skyfall (2012)": 37724
-      "Spectre (2015)": 206647
-      "No Time to Die (2021)": 370172
   dc:
     styles:
       default: diiivoy_neon
@@ -185,63 +145,8 @@ sections:
       "V for Vendetta": 752
       "DC League of Super-Pets": 539681
 
-  fast_furious:
-    title: Fast Furious
-    builders:
-      tmdb_collection: 9485, 688042
-      tmdb_movie: 253835
-    styles:
-      default: mikenobbs
-      mikenobbs:
-    collections:
-      "Fast & Furious: Complete Collection":
-      - "Fast & Furious"
-      - "Fast & Furious: Complete"
-      - "The Fast & Furious"
-      - "The Fast & the Furious"
-      - "The Fast and the Furious"
-      "The Fast and the Furious Collection":
-      - "Fast and the Furious"
-      - "Fast and the Furious Collection"
-      - "The Fast and the Furious"
-      "Hobbs & Shaw Collection":
-      - "Hobbs & Shaw"
-    movies:
-      "The Fast and the Furious (2001)": 9799
-      "2 Fast 2 Furious (2003)": 584
-      "The Fast and the Furious: Tokyo Drift (2006)": 9615
-      "Fast & Furious (2009)": 13804
-      "Los Bandoleros (2009)": 253835
-      "Fast Five (2011)": 51497
-      "Fast & Furious 6 (2013)": 82992
-      "Furious 7 (2015)": 168259
-      "The Fate of the Furious (2017)": 337339
-      "Fast & Furious Presents: Hobbs & Shaw (2019)": 384018
-      "F9 (2021)": 385128
-      "Fast X (2023)": 385687
-  godfather:
-    title: Godfather
-    builders:
-      tmdb_collection: 230
-    styles:
-      default: eternal
-      eternal:
-    collections:
-      "The Godfather Collection":
-      - "Godfather"
-      - "Godfather Collection"
-      - "The Godfather"
-    movies:
-      "The Godfather (1972)": 238
-      "The Godfather Part II (1974)": 240
-      "The Godfather Part III (1990) (Coda)":
-        mapping_id: 242
-        edition_contains: Coda
-      "The Godfather Part III (1990)":
-        mapping_id: 242
-        blank_edition: true
   godzilla_heisei:
-    title: Godzilla Heisei
+    title: Godzilla Heisei Set
     builders:
       tmdb_collection: 374511
       tmdb_movie: 39256
@@ -262,7 +167,7 @@ sections:
       "Godzilla vs. SpaceGodzilla (1994)": 39466
       "Godzilla vs. Destoroyah (1995)": 12561
   godzilla_monsterverse:
-    title: Godzilla Monsterverse
+    title: Godzilla Monsterverse Set
     builders:
       tmdb_collection: 535313
       tmdb_movie: 293167
@@ -283,7 +188,7 @@ sections:
       "Godzilla: King of the Monsters (2019)": 373571
       "Godzilla vs. Kong (2021)": 399566
   godzilla_showa:
-    title: Godzilla Showa
+    title: Godzilla Showa Set
     builders:
       tmdb_collection: 374509
       tmdb_movie: 18983, 329237, 686487
@@ -313,8 +218,23 @@ sections:
       "Godzilla vs. Megalon (1973)": 39264
       "Godzilla vs. Mechagodzilla (1974)": 38582
       "Terror of Mechagodzilla (1975)": 19333
+  poirot:
+    title: Hercule Poirot Set
+    builders:
+      tmdb_collection: 735384
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+    collections:
+      "Hercule Poirot Collection":
+      - "Hercule Poirot"
+      - "Poirot"
+    movies:
+      "Murder on the Orient Express (2017)": 392044
+      "Death on the Nile (2022)": 505026
+      "A Haunting in Venice (2023)": 945729
   indiana:
-    title: Indiana
+    title: Indiana Jones Set
     builders:
       tmdb_collection: 84
     styles:
@@ -330,13 +250,54 @@ sections:
       "Indiana Jones and the Last Crusade (1989)": 89
       "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
       "Indiana Jones and the Dial of Destiny (2023)": 335977
+  bond:
+    title: James Bond Set
+    builders:
+      tmdb_collection: 645
+      tmdb_movie: 12208
+    styles:
+      default: rhj
+      rhj:
+    collections:
+      "James Bond Collection":
+      - "007"
+      - "James Bond"
+    movies:
+      "Dr. No (1962)": 646
+      "From Russia with Love (1963)": 657
+      "Goldfinger (1964)": 658
+      "Thunderball (1965)": 660
+      "You Only Live Twice (1967)": 667
+      "Casino Royale (1967)": 12208
+      "On Her Majesty's Secret Service (1969)": 668
+      "Diamonds Are Forever (1971)": 681
+      "Live and Let Die (1973)": 253
+      "The Man with the Golden Gun (1974)": 682
+      "The Spy Who Loved Me (1977)": 691
+      "Moonraker (1979)": 698
+      "For Your Eyes Only (1981)": 699
+      "Octopussy (1983)": 700
+      "Never Say Never Again (1983)": 36670
+      "A View to a Kill (1985)": 707
+      "The Living Daylights (1987)": 708
+      "Licence to Kill (1989)": 709
+      "GoldenEye (1995)": 710
+      "Tomorrow Never Dies (1997)": 714
+      "The World Is Not Enough (1999)": 36643
+      "Die Another Day (2002)": 36669
+      "Casino Royale (2006)": 36557
+      "Quantum of Solace (2008)": 10764
+      "Skyfall (2012)": 37724
+      "Spectre (2015)": 206647
+      "No Time to Die (2021)": 370172
   john_wick:
-    title: John Wick
+    title: John Wick Set
     builders:
       tmdb_collection: 404609
     styles:
       default: rhj
       rhj:
+      morkoz:
     collections:
       "John Wick Collection":
       - "John Wick"
@@ -346,7 +307,7 @@ sections:
       "John Wick: Chapter 3 - Parabellum (2019)": 458156
       "John Wick: Chapter 4 (2023)": 603692
   jurassic:
-    title: Jurassic
+    title: Jurassic Park Set
     builders:
       tmdb_collection: 328
       tmdb_movie: 630322
@@ -570,7 +531,7 @@ sections:
       "Director by Night": 1036996
 
   mib:
-    title: Mib
+    title: Men in Black Set
     builders:
       tmdb_collection: 86055
       tmdb_movie: 479455
@@ -590,8 +551,8 @@ sections:
       "Men in Black II (2002)": 608
       "Men in Black 3 (2012)": 41154
       "Men in Black: International (2019)": 479455
-  middle:                         # Source List:
-    title: Middle
+  middle:
+    title: Middle-Earth Set
     builders:
       tmdb_collection: 121938, 119
     styles:
@@ -627,7 +588,7 @@ sections:
       "The Hobbit: The Desolation of Smaug (2013)": 57158
       "The Hobbit: The Battle of the Five Armies (2014)": 122917
   mission:
-    title: Mission
+    title: Mission Impossible Set
     builders:
       tmdb_collection: 87359
     styles:
@@ -647,7 +608,7 @@ sections:
       "Mission: Impossible - Fallout (2018)": 353081
       "Mission: Impossible - Dead Reckoning Part One (2023)": 575264
   nowyouseeme:
-    title: Nowyouseeme
+    title: Now You See Me Set
     builders:
       tmdb_collection: 382685
     styles:
@@ -660,7 +621,7 @@ sections:
       "Now You See Me (2013)": 75656
       "Now You See Me 2 (2016)": 291805
   ocean:
-    title: Ocean
+    title: Ocean's Set
     builders:
       tmdb_collection: 304
       tmdb_movie: 402900
@@ -676,7 +637,7 @@ sections:
       "Ocean's Thirteen (2007)": 298
       "Ocean's Eight (2018)": 402900
   pirates:
-    title: Pirates
+    title: Pirates of the Caribbean Set
     builders:
       tmdb_collection: 295
     styles:
@@ -692,23 +653,8 @@ sections:
       "Pirates of the Caribbean: At World's End (2007)": 285
       "Pirates of the Caribbean: On Stranger Tides (2011)": 1865
       "Pirates of the Caribbean: Dead Men Tell No Tales (2017)": 166426
-  poirot:
-    title: Poirot
-    builders:
-      tmdb_collection: 735384
-    styles:
-      default: diiivoy_neon
-      diiivoy_neon:
-    collections:
-      "Hercule Poirot Collection":
-      - "Hercule Poirot"
-      - "Poirot"
-    movies:
-      "Murder on the Orient Express (2017)": 392044
-      "Death on the Nile (2022)": 505026
-      "A Haunting in Venice (2023)": 945729
   predator:
-    title: Predator
+    title: Predator Set
     builders:
       tmdb_collection: 399
     styles:
@@ -747,8 +693,8 @@ sections:
       "Creed (2015)": 312221
       "Creed II (2018)": 480530
       "Creed III (2023)": 677179
-  saw:                                  # Source List: https://trakt.tv/users/bruinschris/lists/saw-1-9
-    title: Saw
+  saw:
+    title: Saw Set
     builders:
       tmdb_collection: 656
       tmdb_movie: 602734
@@ -830,8 +776,63 @@ sections:
       "The Making of The Empire Strikes Back": 485213
 
 
-  wizard:                             # Source List: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order
-    title: Wizard
+  fast_furious:
+    title: The Fast and the Furious Set
+    builders:
+      tmdb_collection: 9485, 688042
+      tmdb_movie: 253835
+    styles:
+      default: mikenobbs
+      mikenobbs:
+    collections:
+      "Fast & Furious: Complete Collection":
+      - "Fast & Furious"
+      - "Fast & Furious: Complete"
+      - "The Fast & Furious"
+      - "The Fast & the Furious"
+      - "The Fast and the Furious"
+      "The Fast and the Furious Collection":
+      - "Fast and the Furious"
+      - "Fast and the Furious Collection"
+      - "The Fast and the Furious"
+      "Hobbs & Shaw Collection":
+      - "Hobbs & Shaw"
+    movies:
+      "The Fast and the Furious (2001)": 9799
+      "2 Fast 2 Furious (2003)": 584
+      "The Fast and the Furious: Tokyo Drift (2006)": 9615
+      "Fast & Furious (2009)": 13804
+      "Los Bandoleros (2009)": 253835
+      "Fast Five (2011)": 51497
+      "Fast & Furious 6 (2013)": 82992
+      "Furious 7 (2015)": 168259
+      "The Fate of the Furious (2017)": 337339
+      "Fast & Furious Presents: Hobbs & Shaw (2019)": 384018
+      "F9 (2021)": 385128
+      "Fast X (2023)": 385687
+  godfather:
+    title: The Godfather Set
+    builders:
+      tmdb_collection: 230
+    styles:
+      default: eternal
+      eternal:
+    collections:
+      "The Godfather Collection":
+      - "Godfather"
+      - "Godfather Collection"
+      - "The Godfather"
+    movies:
+      "The Godfather (1972)": 238
+      "The Godfather Part II (1974)": 240
+      "The Godfather Part III (1990) (Coda)":
+        mapping_id: 242
+        edition_contains: Coda
+      "The Godfather Part III (1990)":
+        mapping_id: 242
+        blank_edition: true
+  wizard:
+    title: Wizarding World (of Harry Potter) Set
     builders:
       tmdb_collection: 435259, 1241
       tmdb_movie: 899082

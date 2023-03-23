@@ -20,7 +20,6 @@ except (ModuleNotFoundError, ImportError):
     print("Requirements Error: Requirements are not installed")
     sys.exit(0)
 
-
 options = [
     {"arg": "ta", "key": "tmdbapi",      "env": "TMDBAPI",      "type": "str",  "default": None,  "help": "TMDb V3 API Key for connecting to TMDb."},
     {"arg": "td", "key": "trakt_id",     "env": "TRAKT_ID",     "type": "str",  "default": None,  "help": "Trakt Client ID for connecting to Trakt."},
@@ -53,6 +52,7 @@ try:
     if not pmmargs["trakt_id"] or not pmmargs["trakt_token"]:
         raise Failed("trakt_id and trakt_token are required")
 
+    tvdb_lookup = {}
     sets_yaml = YAML(path=os.path.join(base_dir, "sets.yml"), preserve_quotes=True)
     for file_key, set_info in sets_yaml["sets"].items():
         metadata_dir = os.path.join(base_dir, file_key)
@@ -78,33 +78,34 @@ try:
                 raise Failed('File is missing base attribute "sections"')
             if not yaml_data["sections"]:
                 raise Failed('File base attribute "sections" is empty')
-            for set_key, set_data in yaml_data["sections"].items():
+            sections = {}
+            for section_key, section_data in yaml_data["sections"].items():
+                section_key = str(section_key).lower()
                 try:
-                    logger.separator(set_key, border=False, space=False)
+                    logger.separator(section_key, border=False, space=False)
                     new_data = {}
-                    titles = [k for k in set_data if k not in ["builders", "styles", "collections"]]
-                    if "styles" not in set_data:
-                        raise Failed(f"Set: {set_key} has no styles attribute")
-                    if not set_data["styles"]:
-                        raise Failed(f"Set: {set_key} styles attribute is blank")
+                    titles = [k for k in section_data if k not in ["builders", "styles", "collections"]]
+                    if "styles" not in section_data:
+                        raise Failed(f"Set: {section_key} has no styles attribute")
+                    if not section_data["styles"]:
+                        raise Failed(f"Set: {section_key} styles attribute is blank")
 
-                    if "movies" in set_data and set_data["movies"] and isinstance(set_data["movies"], dict):
+                    if "movies" in section_data and section_data["movies"] and isinstance(section_data["movies"], dict):
                         is_movie = True
                         attr = "movies"
-                    elif "shows" in set_data and set_data["shows"] and isinstance(set_data["shows"], dict):
+                    elif "shows" in section_data and section_data["shows"] and isinstance(section_data["shows"], dict):
                         is_movie = False
                         attr = "shows"
                     else:
-                        raise Failed(f"Set: {set_key} must have either the movies or shows attribute")
+                        raise Failed(f"Set: {section_key} must have either the movies or shows attribute")
 
-                    new_data["title"] = set_data["title"] if "title" in set_data and set_data["title"] else str(set_key).replace("_", " ").title()
-                    new_data["builders"] = set_data["builders"] if "builders" in set_data and set_data["builders"] else {}
+                    new_data["title"] = section_data["title"] if "title" in section_data and section_data["title"] else str(section_key).replace("_", " ").title()
+                    new_data["builders"] = section_data["builders"] if "builders" in section_data and section_data["builders"] else {}
                     if not new_data["builders"]:
-                        logger.error("No Builders Found ignoring Set")
-                        continue
-                    new_data["styles"] = {"default": set_data["styles"]["default"]}
-                    new_data["collections"] = set_data["collections"] if "collections" in set_data and set_data["collections"] else {}
-                    existing = set_data[attr] if set_data[attr] and isinstance(set_data[attr], dict) else {}
+                        raise Failed("No Builders Found ignoring Set")
+                    new_data["styles"] = {"default": section_data["styles"]["default"]}
+                    new_data["collections"] = section_data["collections"] if "collections" in section_data and section_data["collections"] else {}
+                    existing = section_data[attr] if section_data[attr] and isinstance(section_data[attr], dict) else {}
                     dict_items = {}
                     number_items = {}
                     final = {}
@@ -150,15 +151,22 @@ try:
                                     elif k == "tmdb_show":
                                         tmdb_items.append(tmdbapi.tv_show(_id))
                                     elif k == "tvdb_show":
-                                        results = tmdbapi.find_by_id(tvdb_id=str(_id))
-                                        if not results.tv_results:
-                                            raise Failed(f"TVDb Error: No Results were found for tvdb_id: {_id}")
-                                        tmdb_items.append(results.tv_results[0])
+                                        if int(_id) in tvdb_lookup:
+                                            tmdb_items.append(tvdb_lookup[int(_id)])
+                                        else:
+                                            results = tmdbapi.find_by_id(tvdb_id=str(_id))
+                                            if not results.tv_results:
+                                                raise Failed(f"TVDb Error: No Results were found for tvdb_id: {_id}")
+                                            if results.tv_results[0].tvdb_id not in tvdb_lookup:
+                                                tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
+                                            tmdb_items.append(results.tv_results[0])
                                     elif k == "imdb_id":
                                         results = tmdbapi.find_by_id(imdb_id=str(_id))
                                         if is_movie and results.movie_results:
                                             tmdb_items.append(results.movie_results[0])
                                         elif not is_movie and results.tv_results:
+                                            if results.tv_results[0].tvdb_id not in tvdb_lookup:
+                                                tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
                                             tmdb_items.append(results.tv_results[0])
                                         else:
                                             raise Failed(f"IMDb Error: No Results were found for imdb_id: {_id}")
@@ -234,17 +242,19 @@ try:
                                     raise Failed(f"IMDb Error: No IMDb IDs Found at {imdb_url}")
                                 for imdb_id in imdb_ids:
                                     try:
-                                        results = tmdbapi.find_by_id(imdb_id=imdb_id)
-                                        if is_movie and results.movie_results:
-                                            i = results.movie_results[0]
+                                        find_results = tmdbapi.find_by_id(imdb_id=imdb_id)
+                                        if is_movie and find_results.movie_results:
+                                            i = find_results.movie_results[0]
                                             if i.id not in items:
                                                 items[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
-                                        elif results.tv_results:
-                                            i = results.tv_results[0]
+                                        elif not is_movie and find_results.tv_results:
+                                            i = find_results.tv_results[0]
+                                            if i.tvdb_id not in tvdb_lookup:
+                                                tvdb_lookup[i.tvdb_id] = i
                                             if i.tvdb_id not in items:
                                                 items[i.tvdb_id] = {"title": i.name, "year": i.first_air_date.year if i.first_air_date else ""}
                                         else:
-                                            logger.error(f"TMDb Error: No TMDb ID found for IMDb ID {imdb_id}")
+                                            raise TMDbException
                                     except TMDbException:
                                         logger.error(f"TMDb Error: No TMDb ID found for IMDb ID {imdb_id}")
                         elif k == "trakt_list":
@@ -252,7 +262,7 @@ try:
                             for trakt_url in trakt_urls:
                                 if not trakt_url.startswith("https://trakt.tv/"):
                                     raise Failed("Trakt Error: url must begin with https://trakt.tv/")
-                                url = requests.utils.urlparse(trakt_url).path.replace("/official/", "/")
+                                url = requests.utils.urlparse(trakt_url).path.replace("/official/", "/") # noqa
                                 try:
                                     trakt_headers = {
                                         "Content-Type": "application/json",
@@ -358,7 +368,7 @@ try:
                                         if old_data[ed_attr] in used_editions:
                                             raise Failed(f"Edition Error: Edition {old_data[ed_attr]} already used")
                                         ed_title = f"{title} ({old_data[ed_attr]})"
-                                        final[ed_title] = (v["year"], {"mapping_id": k, ed_attr: old_data[ed_attr]})
+                                        final[ed_title] = (v["year"], {"mapping_id": k, ed_attr: old_data[ed_attr]}) # noqa
                                         if old_title != ed_title:
                                             style_translation[old_title] = ed_title
                                         used_editions.append(old_data[ed_attr])
@@ -377,14 +387,14 @@ try:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    readme += f'<h3>{new_data["title"]}</h3>\n<strong>Section Key:</strong> <code>{set_key}</code>\n'
+                    readme += f'<h3>{new_data["title"]}</h3>\n<strong>Section Key:</strong> <code>{section_key}</code>\n'
                     readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
                     readme += f'\t<table class="image-table">\n\t\t<tr>\n'
 
-                    for style, style_data in set_data["styles"].items():
+                    for style, style_data in section_data["styles"].items():
                         if style == "default":
                             continue
-                        default_style_path = f"{set_key}/{style}"
+                        default_style_path = f"{section_key}/{style}"
                         if not style_data:
                             style_data = {"pmm": default_style_path}
                         if isinstance(style_data, list):
@@ -396,38 +406,42 @@ try:
                             style_path_key = os.path.join(style_path_key, p)
                         style_path_key.removesuffix(".yml")
                         style_path = f"{style_path_key}.yml"
+                        os.makedirs(os.path.basename(style_path), exist_ok=True)
                         style_yaml = YAML(path=style_path, create=True, preserve_quotes=True)
                         new_style = {"info": {"style_author": None, "style_image": None, "style_key": style, "style_link": None}, "collections": {}, attr: {}}
 
                         def init_missing(ms_atr, ms_nm, image_default=False):
-                            if set_key not in missing:
-                                missing[set_key] = {}
-                            if style not in missing[set_key]:
-                                missing[set_key][style] = {}
-                            if ms_atr not in missing[set_key][style]:
-                                missing[set_key][style][ms_atr] = {}
-                            if ms_nm not in missing[set_key][style][ms_atr]:
-                                missing[set_key][style][ms_atr][ms_nm] = YAML.inline({"tpdb_poster": None, "url_poster": None}) if image_default else None
+                            if section_key not in missing:
+                                missing[section_key] = {}
+                            if style not in missing[section_key]:
+                                missing[section_key][style] = {}
+                            if ms_atr not in missing[section_key][style]:
+                                missing[section_key][style][ms_atr] = {}
+                            if ms_nm not in missing[section_key][style][ms_atr]:
+                                missing[section_key][style][ms_atr][ms_nm] = YAML.inline({"tpdb_poster": None, "url_poster": None}) if image_default else None
 
                         missing_info = None
-                        if set_key in missing_yaml and style in missing_yaml[set_key] and "info" in missing_yaml[set_key][style]:
-                            missing_info = missing_yaml[set_key][style]["info"]
+                        if section_key in missing_yaml and style in missing_yaml[section_key] and "info" in missing_yaml[section_key][style]:
+                            missing_info = missing_yaml[section_key][style]["info"]
 
                         reset_image = False
-                        for style_attr, old_style_attr in [("style_author", "set_author"), ("style_image", "asset_image"), ("style_link", "set_link")]:
-                            if missing_info and style_attr in missing_info and missing_info[style_attr]:
+                        for style_attr, old_style_attr in [("style_author", "set_author"), ("style_image", "asset_image"), ("style_link", "set_link"), ("track_seasons", ""), ("track_episodes", "")]:
+                            if missing_info and style_attr in missing_info and missing_info[style_attr] is not None:
                                 new_style["info"][style_attr] = missing_info[style_attr]
-                                reset_image = True
-                            elif "info" in style_yaml and style_attr in style_yaml["info"] and style_yaml["info"][style_attr]:
+                                if style_attr == "style_image":
+                                    reset_image = True
+                            elif "info" in style_yaml and style_attr in style_yaml["info"] and style_yaml["info"][style_attr] is not None:
                                 new_style["info"][style_attr] = style_yaml["info"][style_attr]
-                            elif "info" in style_yaml and old_style_attr in style_yaml["info"] and style_yaml["info"][old_style_attr]:
+                            elif "info" in style_yaml and old_style_attr in style_yaml["info"] and style_yaml["info"][old_style_attr] is not None:
                                 new_style["info"][style_attr] = style_yaml["info"][old_style_attr]
-                            else:
+                            elif style_attr not in ["track_seasons", "track_episodes"]:
                                 init_missing("info", style_attr)
+                        track_seasons = True if "track_seasons" in new_style["info"] and new_style["info"]["track_seasons"] else False
+                        track_episodes = True if "track_episodes" in new_style["info"] and new_style["info"]["track_episodes"] else False
 
                         missing_collections = None
-                        if set_key in missing_yaml and style in missing_yaml[set_key] and "collections" in missing_yaml[set_key][style]:
-                            missing_collections = missing_yaml[set_key][style]["collections"]
+                        if section_key in missing_yaml and style in missing_yaml[section_key] and "collections" in missing_yaml[section_key][style]:
+                            missing_collections = missing_yaml[section_key][style]["collections"]
 
                         def check_images(input_images):
                             output_images = {}
@@ -463,10 +477,11 @@ try:
                             old_items = {style_translation[k] if k in style_translation else k: v for k, v in style_yaml["set"].items()}
 
                         missing_items = None
-                        if set_key in missing_yaml and style in missing_yaml[set_key] and attr in missing_yaml[set_key][style]:
-                            missing_items = missing_yaml[set_key][style][attr]
+                        if section_key in missing_yaml and style in missing_yaml[section_key] and attr in missing_yaml[section_key][style]:
+                            missing_items = missing_yaml[section_key][style][attr]
 
-                        for item in new_data[attr]:
+                        for item, item_data in new_data[attr].items():
+                            item_id = item_data["mapping_id"] if isinstance(item_data, dict) else item_data
                             original_images = old_items[item] if item in old_items else {}
                             new_images = {}
 
@@ -475,6 +490,34 @@ try:
 
                             if "tpdb_poster" not in new_images and "url_poster" not in new_images:
                                 new_images = check_images(original_images)
+
+                            """
+                            if not is_movie and "seasons" in original_images:
+                                for season_num, season_data in original_images["seasons"].items():
+                                    
+                                
+                                if int(item_id) in tvdb_lookup:
+                                    tmdb_obj = tvdb_lookup[int(item_id)]
+                                else:
+                                    results = tmdbapi.find_by_id(tvdb_id=str(item_id))
+                                    if not results.tv_results:
+                                        raise Failed(f"TVDb Error: No Results were found for tvdb_id: {item_id}")
+                                    if results.tv_results[0].tvdb_id not in tvdb_lookup:
+                                        tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
+                                    tmdb_obj = results.tv_results[0]
+                                for season in tmdb_obj.seasons:
+                                    if "seasons" not in new_images:
+                                        new_images["seasons"] = {}
+
+                                    if pmmargs["episode"]:
+                                        new_images["seasons"][season.season_number] = {"poster_tpdb": None, "episodes": {}} if pmmargs["season"] else {"episodes": {}}
+                                        for episode in season.episodes:
+                                            new_images["seasons"][season.season_number]["episodes"][episode.episode_number] = YAML.inline({"poster_tpdb": None})
+                                    else:
+                                        new_images["seasons"][season.season_number] = YAML.inline({"poster_tpdb": None})
+
+
+                            """
 
                             if "tpdb_poster" not in new_images and "url_poster" not in new_images:
                                 init_missing(attr, item, image_default=True)
@@ -491,7 +534,7 @@ try:
                                 if reset_image:
                                     os.remove(style_image_path)
                                 else:
-                                    style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{set_key}/{style}{ext}"
+                                    style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{section_key}/{style}{ext}"
                                 break
                         if not style_image:
                             style_image = style_yaml["info"]["style_image"]
@@ -512,7 +555,7 @@ try:
                                                 ext = ".png"
                                             with open(style_path_key + ext, "wb") as handler:
                                                 handler.write(img_res.content)
-                                            style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{set_key}/{style}{ext}"
+                                            style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{section_key}/{style}{ext}"
 
                         readme += f'\t\t\t<td>\n\t\t\t\t<img src="{style_image}" height="200"/><br>\n'
                         readme += f'\t\t\t\t<strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
@@ -521,15 +564,18 @@ try:
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
                     readme += f'\t\t</tr>\n\t</table>\n</div>\n\n'
 
-                    yaml_data["sections"][set_key] = new_data
+                    sections[section_key] = new_data
 
                 except Failed as e:
                     logger.error(e)
+                    sections[section_key] = section_data
 
             with open(readme_path, "w") as f:
                 f.write(readme)
             missing_yaml.data = missing
             missing_yaml.save()
+            sorted_sections = sorted(sections.keys(), key=lambda x: sections[x]["title"] if "title" in sections[x] else str(x).replace("_", " ").title())
+            yaml_data.data = {"sections": {k: sections[k] for k in sorted_sections}}
             yaml_data.save()
         except Failed as e:
             logger.error(e)

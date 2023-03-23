@@ -1,4 +1,5 @@
 sections:
+    title: Walt Disney Set
   disney:
     styles:
       default: diiivoy_neon
@@ -261,6 +262,7 @@ sections:
       "Ice Age: Scrat Tales": 416952
 
   dreamworks:
+    title: DreamWorks Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -322,6 +324,7 @@ sections:
       "Kung Fu Panda: The Dragon Knight": 419961
 
   landbeforetime:
+    title: The Land Before Time Set
     styles:
       default: mikenobbs
       mikenobbs:
@@ -335,6 +338,7 @@ sections:
       "The Land Before Time": 80822
 
   scoobydoo:
+    title: Scooby-Doo! Set
     styles:
       default: mikenobbs
       mikenobbs:
@@ -359,6 +363,7 @@ sections:
       "The Scooby-Doo Show": 73817
 
   sony:
+    title: Sony Pictures Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -377,6 +382,7 @@ sections:
       "Hotel Transylvania: The Series": 328994
 
   tomjerry:
+    title: Tom and Jerry Set
     styles:
       default: mikenobbs
       mikenobbs:
@@ -397,6 +403,7 @@ sections:
       "Tom and Jerry Tales": 82837
 
   sonic:
+    title: Sonic the Hedgehog Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -419,6 +426,7 @@ sections:
       "The Adventures of Sonic the Hedgehog": 73630
 
   ungrouped:
+    title: Ungrouped Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:

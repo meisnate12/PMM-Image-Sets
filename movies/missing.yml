@@ -7,17 +7,6 @@ avatar:
   rhj:
     collections:
       "Avatar Collection": {tpdb_poster: null, url_poster: null}
-fast_furious:
-  mikenobbs:
-    collections:
-      "The Fast and the Furious Collection": {tpdb_poster: null, url_poster: null}
-      "Hobbs & Shaw Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Fast X (2023)": {tpdb_poster: null, url_poster: null}
-godfather:
-  eternal:
-    movies:
-      "The Godfather Part III (1990) (Coda)": {tpdb_poster: null, url_poster: null}
 godzilla_monsterverse:
   rhj:
     collections:
@@ -26,6 +15,10 @@ godzilla_showa:
   doctorbat:
     movies:
       "Godzilla (1954)": {tpdb_poster: null, url_poster: null}
+poirot:
+  diiivoy_neon:
+    movies:
+      "A Haunting in Venice (2023)": {tpdb_poster: null, url_poster: null}
 indiana:
   rhj:
     movies:
@@ -66,14 +59,21 @@ pirates:
   diiivoy:
     collections:
       "Pirates of the Caribbean Collection": {tpdb_poster: null, url_poster: null}
-poirot:
-  diiivoy_neon:
-    movies:
-      "A Haunting in Venice (2023)": {tpdb_poster: null, url_poster: null}
 rocky_creed:
   dannybeaton:
     movies:
       "Creed III (2023)": {tpdb_poster: null, url_poster: null}
+fast_furious:
+  mikenobbs:
+    collections:
+      "The Fast and the Furious Collection": {tpdb_poster: null, url_poster: null}
+      "Hobbs & Shaw Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Fast X (2023)": {tpdb_poster: null, url_poster: null}
+godfather:
+  eternal:
+    movies:
+      "The Godfather Part III (1990) (Coda)": {tpdb_poster: null, url_poster: null}
 wizard:
   rhj:
     collections:

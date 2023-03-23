@@ -1,5 +1,6 @@
 sections:
   bluesky:                      # Source List: https://trakt.tv/users/darkman1498/lists/illumination
+    title: Blue Sky Studios Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -37,6 +38,7 @@ sections:
       "Ice Age: A Mammoth Christmas": 79218
 
   disney:
+    title: Walt Disney Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -627,6 +629,7 @@ sections:
       "Pinocchio (2022)": 532639
 
   dreamworks:
+    title: DreamWorks Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -732,6 +735,7 @@ sections:
       "The Boss Baby: Get That Baby!": 735364
 
   illumination:
+    title: Illumination Entertainment Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -795,6 +799,7 @@ sections:
       "Despicable Me 4": 519182
 
   jumanji:
+    title: Jumanji Set
     styles:
       default: rhj
       rhj:
@@ -812,6 +817,7 @@ sections:
       "Jumanji: The Next Level": 512200
 
   landbeforetime:
+    title: The Land Before Time Set
     styles:
       default: mikenobbs
       mikenobbs:
@@ -849,6 +855,7 @@ sections:
       "The Land Before Time: Sing Along Songs": 495171
 
   scoobydoo:
+    title: Scooby-Doo! Set
     styles:
       default: mikenobbs
       mikenobbs:
@@ -904,6 +911,7 @@ sections:
       "Trick or Treat Scooby-Doo!": 1015724
 
   sony:
+    title: Sony Pictures Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -968,6 +976,7 @@ sections:
       "Spider-Man: Across the Spider-Verse": 569094
 
   tomjerry:
+    title: Tom and Jerry Set
     styles:
       default: mikenobbs
       mikenobbs:
@@ -999,6 +1008,7 @@ sections:
       "Tom and Jerry Snowman's Land": 1018403
 
   sonic:
+    title: Sonic the Hedgehog Complete
     styles:
       default: diiivoy_neon
       diiivoy_neon:
@@ -1020,6 +1030,7 @@ sections:
       "Sonic the Hedgehog 3": 939243
 
   ungrouped:
+    title: Ungrouped Set
     styles:
       default: diiivoy_neon
       diiivoy_neon:
