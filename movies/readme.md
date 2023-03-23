@@ -2,28 +2,28 @@
 Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
 
 <ul class="images-index-table">
-  <li><div class="images-inline-link"><a href="#alien-set">Alien Set</a>&nbsp;&nbsp;(<code>alien</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#avatar-set">Avatar Set</a>&nbsp;&nbsp;(<code>avatar</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#the-fast-and-the-furious-set">The Fast and the Furious Set</a>&nbsp;&nbsp;(<code>fast_furious</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#the-godfather-set">The Godfather Set</a>&nbsp;&nbsp;(<code>godfather</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#godzilla-heisei-set">Godzilla Heisei Set</a>&nbsp;&nbsp;(<code>godzilla_heisei</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#godzilla-monsterverse-set">Godzilla Monsterverse Set</a>&nbsp;&nbsp;(<code>godzilla_monsterverse</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#godzilla-showa-set">Godzilla Showa Set</a>&nbsp;&nbsp;(<code>godzilla_showa</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#hercule-poirot-set">Hercule Poirot Set</a>&nbsp;&nbsp;(<code>poirot</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#indiana-jones-set">Indiana Jones Set</a>&nbsp;&nbsp;(<code>indiana</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#james-bond-set">James Bond Set</a>&nbsp;&nbsp;(<code>bond</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#john-wick-set">John Wick Set</a>&nbsp;&nbsp;(<code>john_wick</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#jurassic-park-set">Jurassic Park Set</a>&nbsp;&nbsp;(<code>jurassic</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#men-in-black-set">Men in Black Set</a>&nbsp;&nbsp;(<code>mib</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#middle-earth-set">Middle-Earth Set</a>&nbsp;&nbsp;(<code>middle</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#mission-impossible-set">Mission Impossible Set</a>&nbsp;&nbsp;(<code>mission</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#now-you-see-me-set">Now You See Me Set</a>&nbsp;&nbsp;(<code>nowyouseeme</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#ocean's-set">Ocean's Set</a>&nbsp;&nbsp;(<code>ocean</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#pirates-of-the-caribbean-set">Pirates of the Caribbean Set</a>&nbsp;&nbsp;(<code>pirates</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#predator-set">Predator Set</a>&nbsp;&nbsp;(<code>predator</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#rocky-creed">Rocky Creed</a>&nbsp;&nbsp;(<code>rocky_creed</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#saw-set">Saw Set</a>&nbsp;&nbsp;(<code>saw</code>)</div></li>
-  <li><div class="images-inline-link"><a href="#wizarding-world-(of-harry-potter)-set">Wizarding World (of Harry Potter) Set</a>&nbsp;&nbsp;(<code>wizard</code>)</div></li>
+  <li><a href="#<div-class="images-inline-link">alien-set<br><code>alien</code></div>"><div class="images-inline-link">Alien Set<br><code>alien</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">avatar-set<br><code>avatar</code></div>"><div class="images-inline-link">Avatar Set<br><code>avatar</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">the-fast-and-the-furious-set<br><code>fast_furious</code></div>"><div class="images-inline-link">The Fast and the Furious Set<br><code>fast_furious</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">the-godfather-set<br><code>godfather</code></div>"><div class="images-inline-link">The Godfather Set<br><code>godfather</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">godzilla-heisei-set<br><code>godzilla_heisei</code></div>"><div class="images-inline-link">Godzilla Heisei Set<br><code>godzilla_heisei</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">godzilla-monsterverse-set<br><code>godzilla_monsterverse</code></div>"><div class="images-inline-link">Godzilla Monsterverse Set<br><code>godzilla_monsterverse</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">godzilla-showa-set<br><code>godzilla_showa</code></div>"><div class="images-inline-link">Godzilla Showa Set<br><code>godzilla_showa</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">hercule-poirot-set<br><code>poirot</code></div>"><div class="images-inline-link">Hercule Poirot Set<br><code>poirot</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">indiana-jones-set<br><code>indiana</code></div>"><div class="images-inline-link">Indiana Jones Set<br><code>indiana</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">james-bond-set<br><code>bond</code></div>"><div class="images-inline-link">James Bond Set<br><code>bond</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">john-wick-set<br><code>john_wick</code></div>"><div class="images-inline-link">John Wick Set<br><code>john_wick</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">jurassic-park-set<br><code>jurassic</code></div>"><div class="images-inline-link">Jurassic Park Set<br><code>jurassic</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">men-in-black-set<br><code>mib</code></div>"><div class="images-inline-link">Men in Black Set<br><code>mib</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">middle-earth-set<br><code>middle</code></div>"><div class="images-inline-link">Middle-Earth Set<br><code>middle</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">mission-impossible-set<br><code>mission</code></div>"><div class="images-inline-link">Mission Impossible Set<br><code>mission</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">now-you-see-me-set<br><code>nowyouseeme</code></div>"><div class="images-inline-link">Now You See Me Set<br><code>nowyouseeme</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">ocean's-set<br><code>ocean</code></div>"><div class="images-inline-link">Ocean's Set<br><code>ocean</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">pirates-of-the-caribbean-set<br><code>pirates</code></div>"><div class="images-inline-link">Pirates of the Caribbean Set<br><code>pirates</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">predator-set<br><code>predator</code></div>"><div class="images-inline-link">Predator Set<br><code>predator</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">rocky-creed<br><code>rocky_creed</code></div>"><div class="images-inline-link">Rocky Creed<br><code>rocky_creed</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">saw-set<br><code>saw</code></div>"><div class="images-inline-link">Saw Set<br><code>saw</code></div></a></li>
+  <li><a href="#<div-class="images-inline-link">wizarding-world-(of-harry-potter)-set<br><code>wizard</code></div>"><div class="images-inline-link">Wizarding World (of Harry Potter) Set<br><code>wizard</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
