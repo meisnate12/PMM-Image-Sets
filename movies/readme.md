@@ -38,9 +38,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/357" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/alien/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/357" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/357" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/alien/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/357" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -57,9 +59,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/179016" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/avatar/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/179016" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/179016" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/avatar/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/179016" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -77,9 +81,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/297" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/fast_furious/mikenobbs.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>mikenobbs</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/297" target="_blank" rel="noopener noreferrer">mikenobbs</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/297" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/fast_furious/mikenobbs.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>mikenobbs</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/297" target="_blank" rel="noopener noreferrer">mikenobbs</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -96,9 +102,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/183508" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godfather/eternal.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>eternal</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/183508" target="_blank" rel="noopener noreferrer">Eternal</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/183508" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godfather/eternal.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>eternal</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/183508" target="_blank" rel="noopener noreferrer">Eternal</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -116,14 +124,18 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/182956" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_heisei/doctorbat.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>doctorbat</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/182956" target="_blank" rel="noopener noreferrer">DoctorBat</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/182956" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_heisei/doctorbat.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>doctorbat</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/182956" target="_blank" rel="noopener noreferrer">DoctorBat</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/182960" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_heisei/doctorbat2.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>doctorbat2</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/182960" target="_blank" rel="noopener noreferrer">DoctorBat</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/182960" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_heisei/doctorbat2.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>doctorbat2</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/182960" target="_blank" rel="noopener noreferrer">DoctorBat</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -141,9 +153,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/84136" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_monsterverse/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/84136" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/84136" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_monsterverse/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/84136" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -161,14 +175,18 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/181742" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_showa/doctorbat.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>doctorbat</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/181742" target="_blank" rel="noopener noreferrer">DoctorBat</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/181742" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_showa/doctorbat.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>doctorbat</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/181742" target="_blank" rel="noopener noreferrer">DoctorBat</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/181738" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_showa/doctorbat2.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>doctorbat2</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/181738" target="_blank" rel="noopener noreferrer">DoctorBat</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/181738" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/godzilla_showa/doctorbat2.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>doctorbat2</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/181738" target="_blank" rel="noopener noreferrer">DoctorBat</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -185,9 +203,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/70314" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/poirot/diiivoy_neon.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/70314" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/70314" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/poirot/diiivoy_neon.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/70314" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -204,14 +224,18 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/34045" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/indiana/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/34045" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/34045" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/indiana/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/34045" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/4874" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/indiana/olivier.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>olivier</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/4874" target="_blank" rel="noopener noreferrer">Olivier_286</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/4874" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/indiana/olivier.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>olivier</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/4874" target="_blank" rel="noopener noreferrer">Olivier_286</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -229,9 +253,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/107797" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/bond/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/107797" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/107797" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/bond/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/107797" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -248,14 +274,18 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/6002" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/john_wick/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/6002" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/6002" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/john_wick/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/6002" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/146057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/john_wick/morkoz.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>morkoz</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/146057" target="_blank" rel="noopener noreferrer">MorkOz</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/146057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/john_wick/morkoz.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>morkoz</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/146057" target="_blank" rel="noopener noreferrer">MorkOz</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -273,14 +303,18 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/103129" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/jurassic/diiivoy_neon.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/103129" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/103129" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/jurassic/diiivoy_neon.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/103129" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/97241" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/jurassic/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/97241" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/97241" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/jurassic/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/97241" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -298,9 +332,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/9203" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/mib/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/9203" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/9203" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/mib/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/9203" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -317,14 +353,18 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/115877" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/middle/mikenobbs.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>mikenobbs</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/115877" target="_blank" rel="noopener noreferrer">mikenobbs</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/115877" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/middle/mikenobbs.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>mikenobbs</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/115877" target="_blank" rel="noopener noreferrer">mikenobbs</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/middle/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/middle/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -341,14 +381,18 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/mission/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/mission/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/1001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/mission/rhj2.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj2</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/1001" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/1001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/mission/rhj2.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj2</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/1001" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -365,9 +409,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/nowyouseeme/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/nowyouseeme/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/20379" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -385,9 +431,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/70" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/ocean/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/70" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/70" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/ocean/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/70" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -404,14 +452,18 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/31826" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/pirates/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/31826" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/31826" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/pirates/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/31826" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/66561" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/pirates/diiivoy.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>diiivoy</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/66561" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/66561" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/pirates/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/66561" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -428,9 +480,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/76" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/predator/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/76" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/76" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/predator/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/76" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -447,9 +501,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/2402" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/rocky_creed/dannybeaton.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>dannybeaton</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/2402" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/2402" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/rocky_creed/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/2402" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -467,9 +523,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/95260" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/saw/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/95260" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/95260" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/saw/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/95260" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
     </tr>
   </table>
@@ -487,24 +545,32 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <table class="image-table">
     <tr>
       <td>
-        <a href="https://theposterdb.com/set/96588" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/wizard/diiivoy_neon.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/96588" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/96588" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/wizard/diiivoy_neon.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/96588" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/101665" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/wizard/rhj.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/101665" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/101665" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/wizard/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/101665" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/11706" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/wizard/rhj2.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>rhj2</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/11706" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/11706" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/wizard/rhj2.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj2</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/11706" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
       </td>
       <td>
-        <a href="https://theposterdb.com/set/12177" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/wizard/dsman.jpg" height="200"/></a><br>
-        <strong>Style Key:</strong> <code>dsman</code><br>
-        <strong>Credit:</strong> <a href="https://theposterdb.com/set/12177" target="_blank" rel="noopener noreferrer">Dsman124</a><br>
+        <div>
+          <a href="https://theposterdb.com/set/12177" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/wizard/dsman.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dsman</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/12177" target="_blank" rel="noopener noreferrer">Dsman124</a><br>
+        </div>
       </td>
     </tr>
   </table>
