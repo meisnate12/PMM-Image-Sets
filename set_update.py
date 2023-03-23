@@ -81,7 +81,14 @@ try:
                 if input_text is None:
                     input_text = input_url
                 extra_a = '' if local_link else ' target="_blank" rel="noopener noreferrer"'
-                return f'<a href="{create_local_link(input_url) if local_link else input_url}"{extra_a}>{input_text}</a>'
+                if local_link is False:
+                    _link = input_url
+                elif local_link is True:
+                    _link = create_local_link(input_url)
+                else:
+                    _link = create_local_link(local_link)
+
+                return f'<a href="{_link}"{extra_a}>{input_text}</a>'
 
             readme = heading("Sections", "2")
             index_table = f'{heading(set_info["title"], "1")}{set_info["description"]}\n\n<ul class="images-index-table">\n'
@@ -432,7 +439,7 @@ try:
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
                     index_line = f'<div class="images-inline-link">{new_data["title"]}<br><code>{section_key}</code></div>'
-                    index_table += f'  <li>{a_link(index_line, local_link=True)}</li>\n'
+                    index_table += f'  <li>{a_link(index_line, local_link=new_data["title"])}</li>\n'
                     readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n{builder_html}'
                     readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
                     readme += f'  <table class="image-table">\n    <tr>\n'
