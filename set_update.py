@@ -702,9 +702,9 @@ try:
                                             style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{section_key}/{style}{ext}"
 
                         img_link = a_link(style_yaml["info"]["style_link"], f'<img src="{style_image}" height="200"/>')
-                        readme += f'      <td>\n        {img_link}<br>\n'
-                        readme += f'        <strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
-                        readme += f'        <strong>Credit:</strong> {a_link(style_yaml["info"]["style_link"], style_yaml["info"]["style_author"])}<br>\n      </td>\n'
+                        readme += f'      <td>\n        <div>\n          {img_link}<br>\n'
+                        readme += f'          <strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
+                        readme += f'          <strong>Credit:</strong> {a_link(style_yaml["info"]["style_link"], style_yaml["info"]["style_author"])}<br>\n        </div>\n      </td>\n'
 
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
                     readme += "    </tr>\n  </table>\n</div>\n\n"
