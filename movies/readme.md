@@ -7,91 +7,91 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 		<th>Key</th>
 	</tr>
 	<tr>
-		<td><a-href="#alien-set">Alien-Set</a></td>
+		<td><a href="#alien-set">Alien Set</a></td>
 		<td><code>alien</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#avatar-set">Avatar-Set</a></td>
+		<td><a href="#avatar-set">Avatar Set</a></td>
 		<td><code>avatar</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#the-fast-and-the-furious-set">The-Fast-and-the-Furious-Set</a></td>
+		<td><a href="#the-fast-and-the-furious-set">The Fast and the Furious Set</a></td>
 		<td><code>fast_furious</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#the-godfather-set">The-Godfather-Set</a></td>
+		<td><a href="#the-godfather-set">The Godfather Set</a></td>
 		<td><code>godfather</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#godzilla-heisei-set">Godzilla-Heisei-Set</a></td>
+		<td><a href="#godzilla-heisei-set">Godzilla Heisei Set</a></td>
 		<td><code>godzilla_heisei</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#godzilla-monsterverse-set">Godzilla-Monsterverse-Set</a></td>
+		<td><a href="#godzilla-monsterverse-set">Godzilla Monsterverse Set</a></td>
 		<td><code>godzilla_monsterverse</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#godzilla-showa-set">Godzilla-Showa-Set</a></td>
+		<td><a href="#godzilla-showa-set">Godzilla Showa Set</a></td>
 		<td><code>godzilla_showa</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#hercule-poirot-set">Hercule-Poirot-Set</a></td>
+		<td><a href="#hercule-poirot-set">Hercule Poirot Set</a></td>
 		<td><code>poirot</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#indiana-jones-set">Indiana-Jones-Set</a></td>
+		<td><a href="#indiana-jones-set">Indiana Jones Set</a></td>
 		<td><code>indiana</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#james-bond-set">James-Bond-Set</a></td>
+		<td><a href="#james-bond-set">James Bond Set</a></td>
 		<td><code>bond</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#john-wick-set">John-Wick-Set</a></td>
+		<td><a href="#john-wick-set">John Wick Set</a></td>
 		<td><code>john_wick</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#jurassic-park-set">Jurassic-Park-Set</a></td>
+		<td><a href="#jurassic-park-set">Jurassic Park Set</a></td>
 		<td><code>jurassic</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#men-in-black-set">Men-in-Black-Set</a></td>
+		<td><a href="#men-in-black-set">Men in Black Set</a></td>
 		<td><code>mib</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#middle-earth-set">Middle-Earth-Set</a></td>
+		<td><a href="#middle-earth-set">Middle-Earth Set</a></td>
 		<td><code>middle</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#mission-impossible-set">Mission-Impossible-Set</a></td>
+		<td><a href="#mission-impossible-set">Mission Impossible Set</a></td>
 		<td><code>mission</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#now-you-see-me-set">Now-You-See-Me-Set</a></td>
+		<td><a href="#now-you-see-me-set">Now You See Me Set</a></td>
 		<td><code>nowyouseeme</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#ocean's-set">Ocean's-Set</a></td>
+		<td><a href="#ocean's-set">Ocean's Set</a></td>
 		<td><code>ocean</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#pirates-of-the-caribbean-set">Pirates-of-the-Caribbean-Set</a></td>
+		<td><a href="#pirates-of-the-caribbean-set">Pirates of the Caribbean Set</a></td>
 		<td><code>pirates</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#predator-set">Predator-Set</a></td>
+		<td><a href="#predator-set">Predator Set</a></td>
 		<td><code>predator</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#rocky-creed">Rocky-Creed</a></td>
+		<td><a href="#rocky-creed">Rocky Creed</a></td>
 		<td><code>rocky_creed</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#saw-set">Saw-Set</a></td>
+		<td><a href="#saw-set">Saw Set</a></td>
 		<td><code>saw</code></td>
 	</tr>
 	<tr>
-		<td><a-href="#wizarding-world-(of-harry-potter)-set">Wizarding-World-(of-Harry-Potter)-Set</a></td>
+		<td><a href="#wizarding-world-(of-harry-potter)-set">Wizarding World (of Harry Potter) Set</a></td>
 		<td><code>wizard</code></td>
 	</tr>
 </table>
