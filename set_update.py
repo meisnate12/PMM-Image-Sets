@@ -75,7 +75,7 @@ try:
 
             readme = heading("Sections", "2")
             index_table = f'{heading(set_info["title"], "1")}{set_info["description"]}\n\n'
-            index_table += f'<table class="align-default table">\n\t<tr>\n\t\t<th>Section</th>\n\t\t<th>Key</th>\n\t</tr>\n'
+            index_table += f'<table class="align-default table">\n  <tr>\n    <th>Section</th>\n    <th>Key</th>\n  </tr>\n'
             logger.separator(set_info["title"])
             yaml_data = YAML(path=metadata_path, preserve_quotes=True)
             missing_yaml = YAML(path=missing_path, create=True, preserve_quotes=True)
@@ -123,6 +123,7 @@ try:
                         else:
                             number_items[v] = k
 
+                    builder_html = "<strong>Builders:</strong>\n<ul>\n"
                     items = {}
                     for k, v in new_data["builders"].items():
                         if k in ["tmdb_collection", "tmdb_movie", "tmdb_show", "tvdb_show", "imdb_id", "tmdb_list"]:
@@ -144,40 +145,55 @@ try:
                             for _id in checked_list:
                                 try:
                                     tmdb_items = []
+                                    _tmdb = None
                                     if k == "tmdb_list":
                                         results = tmdbapi.list(_id)
                                         tmdb_items.extend(results.get_results(results.total_results))
+                                        _url = f"https://www.themoviedb.org/list/{_id}"
                                     elif k == "tmdb_collection":
                                         col = tmdbapi.collection(_id)
                                         if col.name not in new_collections:
                                             new_collections[col.name] = []
                                         tmdb_items.extend(col.movies)
+                                        _url = f"https://www.themoviedb.org/collection/{_id}"
                                     elif k == "tmdb_movie":
                                         tmdb_items.append(tmdbapi.movie(_id))
+                                        _url = f"https://www.themoviedb.org/movie/{_id}"
                                     elif k == "tmdb_show":
                                         tmdb_items.append(tmdbapi.tv_show(_id))
+                                        _url = f"https://www.themoviedb.org/tv/{_id}"
                                     elif k == "tvdb_show":
                                         if int(_id) in tvdb_lookup:
-                                            tmdb_items.append(tvdb_lookup[int(_id)])
+                                            tmdb_item = tvdb_lookup[int(_id)]
                                         else:
                                             results = tmdbapi.find_by_id(tvdb_id=str(_id))
                                             if not results.tv_results:
                                                 raise Failed(f"TVDb Error: No Results were found for tvdb_id: {_id}")
                                             if results.tv_results[0].tvdb_id not in tvdb_lookup:
                                                 tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
-                                            tmdb_items.append(results.tv_results[0])
+                                            tmdb_item = results.tv_results[0]
+                                        tmdb_items.append(tmdb_item)
+                                        _url = f"https://www.thetvdb.com/dereferrer/series/{_id}"
+                                        _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
                                     elif k == "imdb_id":
                                         results = tmdbapi.find_by_id(imdb_id=str(_id))
                                         if is_movie and results.movie_results:
-                                            tmdb_items.append(results.movie_results[0])
+                                            tmdb_item = results.movie_results[0]
+                                            _tmdb = f"https://www.themoviedb.org/movie/{tmdb_item.id}"
                                         elif not is_movie and results.tv_results:
-                                            if results.tv_results[0].tvdb_id not in tvdb_lookup:
-                                                tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
-                                            tmdb_items.append(results.tv_results[0])
+                                            tmdb_item = results.tv_results[0]
+                                            if tmdb_item.tvdb_id not in tvdb_lookup:
+                                                tvdb_lookup[tmdb_item.tvdb_id] = tmdb_item
+                                            _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
                                         else:
                                             raise Failed(f"IMDb Error: No Results were found for imdb_id: {_id}")
+                                        tmdb_items.append(tmdb_item)
+                                        _url = f"https://www.imdb.com/title/{_id}"
                                     else:
                                         raise TMDbException
+
+                                    extra_html = f' (<a href="{_tmdb}">TMDb</a>)' if _tmdb else ""
+                                    builder_html += f'  <li><code>{k}</code>: <a href="{_url}">{_id}</a>{extra_html}</li>\n'
                                     for i in tmdb_items:
                                         if is_movie and isinstance(i, Movie) and i.id not in items:
                                             items[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
@@ -246,6 +262,8 @@ try:
                                     time.sleep(2)
                                 if not imdb_ids:
                                     raise Failed(f"IMDb Error: No IMDb IDs Found at {imdb_url}")
+
+                                builder_html += f'  <li><code>{k}</code>: <a href="{imdb_url}">{imdb_url}</a></li>\n'
                                 for imdb_id in imdb_ids:
                                     try:
                                         find_results = tmdbapi.find_by_id(imdb_id=imdb_id)
@@ -297,6 +315,8 @@ try:
                                 if len(output_json) == 0:
                                     raise Failed(f"Trakt Error: List {trakt_url} is empty")
 
+                                builder_html += f'  <li><code>{k}</code>: <a href="{trakt_url}">{trakt_url}</a></li>\n'
+
                                 id_translation = {"movie": "movie", "show": "show", "season": "show", "episode": "show"}
                                 id_types = {
                                     "movie": ("tmdb", "TMDb ID"),
@@ -341,6 +361,8 @@ try:
                                         raise Failed(f"Mdblist Error: Invalid Response {response}")
                                 except JSONDecodeError:
                                     raise Failed(f"Mdblist Error: Invalid Response")
+
+                                builder_html += f'  <li><code>{k}</code>: <a href="{mdblist_url}">{mdblist_url}</a></li>\n'
                                 for json_data in response:
                                     if is_movie and json_data["mediatype"] == "movie" and json_data["id"] not in items:
                                         items[json_data["id"]] = {"title": json_data["title"], "year": json_data["release_year"]}
@@ -396,11 +418,15 @@ try:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    index_table += f'\t<tr>\n\t\t<td><a href="#{new_data["title"].lower().replace(" ", "-")}">{new_data["title"]}</a></td>\n\t\t<td><code>{section_key}</code></td>\n\t</tr>\n'
+                    index_table += f'  <tr>\n    <td><a href="#{new_data["title"].lower().replace(" ", "-")}">{new_data["title"]}</a></td>\n'
+                    index_table += f'    <td><code>{section_key}</code></td>\n  </tr>\n'
                     readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n'
-                    readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
-                    readme += f'\t<table class="image-table">\n\t\t<tr>\n'
+                    readme += f'<strong>Builders:</strong>\n{builder_html}'
 
+
+
+                    readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
+                    readme += f'  <table class="image-table">\n    <tr>\n'
                     for style, style_data in section_data["styles"].items():
                         if style == "default":
                             continue
@@ -667,12 +693,12 @@ try:
                                                 handler.write(img_res.content)
                                             style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{section_key}/{style}{ext}"
 
-                        readme += f'\t\t\t<td>\n\t\t\t\t<img src="{style_image}" height="200"/><br>\n'
-                        readme += f'\t\t\t\t<strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
-                        readme += f'\t\t\t\t<strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a><br>\n\t\t\t</td>\n'
+                        readme += f'      <td>\n        <img src="{style_image}" height="200"/><br>\n'
+                        readme += f'        <strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
+                        readme += f'        <strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a><br>\n      </td>\n'
 
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
-                    readme += "\t\t</tr>\n\t</table>\n</div>\n\n"
+                    readme += "    </tr>\n  </table>\n</div>\n\n"
                     sections[section_key] = new_data
 
                 except Failed as e:
