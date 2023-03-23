@@ -70,7 +70,8 @@ try:
 
         try:
             def heading(heading_str, level):
-                return f'<h{level}>{heading_str}<a class="headerlink" href="#{str(heading_str).lower().replace(" ", "-")}" title="Permalink to this heading">¶</a></h{level}>\n'
+                heading_link = str(heading_str).lower().replace(" ", "-")
+                return f'<h{level} id="{heading_link}">{heading_str}<a class="headerlink" href="#{heading_link}" title="Permalink to this heading">¶</a></h{level}>\n'
 
             readme = heading("Sections", "2")
             index_table = f'{heading(set_info["title"], "1")}{set_info["description"]}\n\n'
