@@ -84,8 +84,7 @@ try:
                 return f'<a href="{create_local_link(input_url) if local_link else input_url}"{extra_a}>{input_text}</a>'
 
             readme = heading("Sections", "2")
-            new_index_table = f'{heading(set_info["title"], "1")}{set_info["description"]}\n\n<ul class="images-index-table">\n'
-            index_table = f'<table class="align-default table">\n  <tr>\n    <th>Section</th>\n    <th>Key</th>\n  </tr>\n'
+            index_table = f'{heading(set_info["title"], "1")}{set_info["description"]}\n\n<ul class="images-index-table">\n'
             logger.separator(set_info["title"])
             yaml_data = YAML(path=metadata_path, preserve_quotes=True)
             missing_yaml = YAML(path=missing_path, create=True, preserve_quotes=True)
@@ -432,9 +431,7 @@ try:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    new_index_table += f'<li><div class="images-inline-link">{a_link(new_data["title"], local_link=True)} (<code>{section_key}</code>)</div></li>'
-                    index_table += f'  <tr>\n    <td>{a_link(new_data["title"], local_link=True)}</td>\n'
-                    index_table += f'    <td><code>{section_key}</code></td>\n  </tr>\n'
+                    index_table += f'  <li><div class="images-inline-link">{a_link(new_data["title"], local_link=True)}&nbsp;&nbsp;(<code>{section_key}</code>)</div></li>\n'
                     readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n{builder_html}'
                     readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
                     readme += f'  <table class="image-table">\n    <tr>\n'
@@ -717,10 +714,9 @@ try:
                     logger.error(e)
                     sections[section_key] = section_data
 
-            index_table += "</table>\n\n"
-            new_index_table += "</ul>\n\n"
+            index_table += "</ul>\n\n"
             with open(readme_path, "w") as f:
-                f.write(new_index_table + index_table + readme)
+                f.write(index_table + readme)
             missing_yaml.data = missing
             missing_yaml.save()
 
