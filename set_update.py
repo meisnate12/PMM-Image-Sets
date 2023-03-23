@@ -69,7 +69,12 @@ try:
             continue
 
         try:
-            readme = f"<h1>{set_info['title']}</h1>\n{set_info['description']}\n\n"
+            def heading(heading_str, level):
+                return f'<h{level}>{heading_str}<a class="headerlink" href="#{str(heading_str).lower().replace(" ", "-")}" title="Permalink to this heading">¶</a></h{level}>\n'
+
+            readme = ""
+            index_table = f'{heading(set_info["title"], "1")}{set_info["description"]}\n\n'
+            index_table += f'<table class="image-index-table">\n\t<tr>\n\t\t<th>Section</th>\n\t\t<th>Key</th>\n\t</tr>\n'
             logger.separator(set_info["title"])
             yaml_data = YAML(path=metadata_path, preserve_quotes=True)
             missing_yaml = YAML(path=missing_path, create=True, preserve_quotes=True)
@@ -104,7 +109,7 @@ try:
                     if not new_data["builders"]:
                         raise Failed("No Builders Found ignoring Set")
                     new_data["styles"] = {"default": section_data["styles"]["default"]}
-                    new_data["collections"] = section_data["collections"] if "collections" in section_data and section_data["collections"] else {}
+                    new_collections = section_data["collections"] if "collections" in section_data and section_data["collections"] else {}
                     existing = section_data[attr] if section_data[attr] and isinstance(section_data[attr], dict) else {}
                     dict_items = {}
                     number_items = {}
@@ -143,8 +148,8 @@ try:
                                         tmdb_items.extend(results.get_results(results.total_results))
                                     elif k == "tmdb_collection":
                                         col = tmdbapi.collection(_id)
-                                        if col.name not in new_data["collections"]:
-                                            new_data["collections"][col.name] = []
+                                        if col.name not in new_collections:
+                                            new_collections[col.name] = []
                                         tmdb_items.extend(col.movies)
                                     elif k == "tmdb_movie":
                                         tmdb_items.append(tmdbapi.movie(_id))
@@ -341,9 +346,9 @@ try:
                                     elif not is_movie and json_data["mediatype"] == "show" and json_data["tvdbid"] not in items:
                                         items[json_data["tvdbid"]] = {"title": json_data["title"], "year": json_data["release_year"]}
 
-                    if new_data["collections"]:
+                    if new_collections:
                         new_cols = {}
-                        for k, v in new_data["collections"].items():
+                        for k, v in new_collections.items():
                             alts = v if v else []
                             if (new_k := str(k).removesuffix(" Collection")) not in alts and new_k != k:
                                 alts.append(YAML.quote(new_k))
@@ -354,7 +359,7 @@ try:
                             alts.sort()
 
                             new_cols[YAML.quote(k)] = [YAML.quote(i) for i in alts]
-                        new_data["collections"] = new_cols
+                        new_collections = new_cols
                     style_translation = {}
                     for k, v in items.items():
                         title = f"{v['title']} ({v['year']})" if v["year"] else v["title"]
@@ -385,9 +390,13 @@ try:
                                     style_translation[number_items[k]] = title
                             final[title] = (v["year"], k)
 
+                    if new_collections:
+                        new_data["collections"] = new_collections
+
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    readme += f'<h3>{new_data["title"]}</h3>\n<strong>Section Key:</strong> <code>{section_key}</code>\n'
+                    index_table += f'\t<tr>\n\t\t<td>{new_data["title"]}</td>\n\t\t<td><code>{section_key}</code></td>\n\t</tr>\n'
+                    readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n'
                     readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
                     readme += f'\t<table class="image-table">\n\t\t<tr>\n'
 
@@ -408,9 +417,20 @@ try:
                         style_path = f"{style_path_key}.yml"
                         os.makedirs(os.path.basename(style_path), exist_ok=True)
                         style_yaml = YAML(path=style_path, create=True, preserve_quotes=True)
-                        new_style = {"info": {"style_author": None, "style_image": None, "style_key": style, "style_link": None}, "collections": {}, attr: {}}
+                        new_style = {"info": {"style_author": None, "style_image": None, "style_key": style, "style_link": None}}
 
-                        def init_missing(ms_atr, ms_nm, image_default=False):
+                        def init_missing(ms_atr, ms_nm, pos=None, bkg=None, init_s=None, init_e=None):
+                            if pos or bkg:
+                                temp_dict = {}
+                                if pos:
+                                    temp_dict["tpdb_poster"] = None
+                                    temp_dict["url_poster"] = None
+                                if bkg:
+                                    temp_dict["tpdb_background"] = None
+                                    temp_dict["url_background"] = None
+                                image_dict = YAML.inline(temp_dict)
+                            else:
+                                image_dict = None
                             if section_key not in missing:
                                 missing[section_key] = {}
                             if style not in missing[section_key]:
@@ -418,14 +438,25 @@ try:
                             if ms_atr not in missing[section_key][style]:
                                 missing[section_key][style][ms_atr] = {}
                             if ms_nm not in missing[section_key][style][ms_atr]:
-                                missing[section_key][style][ms_atr][ms_nm] = YAML.inline({"tpdb_poster": None, "url_poster": None}) if image_default else None
+                                missing[section_key][style][ms_atr][ms_nm] = image_dict if init_s is None else {}
+                            if init_s is not None:
+                                if "seasons" not in missing[section_key][style][ms_atr][ms_nm]:
+                                    missing[section_key][style][ms_atr][ms_nm]["seasons"] = {}
+                                if init_s not in missing[section_key][style][ms_atr][ms_nm]["seasons"]:
+                                    missing[section_key][style][ms_atr][ms_nm]["seasons"][init_s] = image_dict if init_e is None else {}
+                                if init_e is not None:
+                                    if "episodes" not in missing[section_key][style][ms_atr][ms_nm]["seasons"][init_s]:
+                                        missing[section_key][style][ms_atr][ms_nm]["seasons"][init_s]["episodes"] = {}
+                                    if init_e not in missing[section_key][style][ms_atr][ms_nm]["seasons"][init_s]["episodes"]:
+                                        missing[section_key][style][ms_atr][ms_nm]["seasons"][init_s]["episodes"][init_e] = image_dict
 
                         missing_info = None
                         if section_key in missing_yaml and style in missing_yaml[section_key] and "info" in missing_yaml[section_key][style]:
                             missing_info = missing_yaml[section_key][style]["info"]
 
                         reset_image = False
-                        for style_attr, old_style_attr in [("style_author", "set_author"), ("style_image", "asset_image"), ("style_link", "set_link"), ("track_seasons", ""), ("track_episodes", "")]:
+                        for style_attr, old_style_attr in [("style_author", "set_author"), ("style_image", "asset_image"), ("style_link", "set_link"),
+                                                           ("track_seasons", ""), ("track_episodes", ""), ("track_backgrounds", "")]:
                             if missing_info and style_attr in missing_info and missing_info[style_attr] is not None:
                                 new_style["info"][style_attr] = missing_info[style_attr]
                                 if style_attr == "style_image":
@@ -434,40 +465,55 @@ try:
                                 new_style["info"][style_attr] = style_yaml["info"][style_attr]
                             elif "info" in style_yaml and old_style_attr in style_yaml["info"] and style_yaml["info"][old_style_attr] is not None:
                                 new_style["info"][style_attr] = style_yaml["info"][old_style_attr]
-                            elif style_attr not in ["track_seasons", "track_episodes"]:
+                            elif style_attr not in ["track_seasons", "track_episodes", "track_backgrounds"]:
                                 init_missing("info", style_attr)
                         track_seasons = True if "track_seasons" in new_style["info"] and new_style["info"]["track_seasons"] else False
                         track_episodes = True if "track_episodes" in new_style["info"] and new_style["info"]["track_episodes"] else False
+                        track_backgrounds = True if "track_backgrounds" in new_style["info"] and new_style["info"]["track_backgrounds"] else False
 
                         missing_collections = None
                         if section_key in missing_yaml and style in missing_yaml[section_key] and "collections" in missing_yaml[section_key][style]:
                             missing_collections = missing_yaml[section_key][style]["collections"]
 
-                        def check_images(input_images):
+                        def check_images(input_images, current_images):
                             output_images = {}
-                            if "tpdb_poster" in input_images and input_images["tpdb_poster"]:
+
+                            if "tpdb_poster" in current_images and current_images["tpdb_poster"]:
+                                output_images["tpdb_poster"] = current_images["tpdb_poster"]
+                            elif "url_poster" in current_images and current_images["url_poster"]:
+                                output_images["url_poster"] = current_images["url_poster"]
+                            elif "tpdb_poster" in input_images and input_images["tpdb_poster"]:
                                 output_images["tpdb_poster"] = input_images["tpdb_poster"]
                             elif "url_poster" in input_images and input_images["url_poster"]:
                                 output_images["url_poster"] = input_images["url_poster"]
-                            if "tpdb_background" in input_images and input_images["tpdb_background"]:
+
+                            if "tpdb_background" in current_images and current_images["tpdb_background"]:
+                                output_images["tpdb_background"] = current_images["tpdb_background"]
+                            elif "url_background" in current_images and current_images["url_background"]:
+                                output_images["url_background"] = current_images["url_background"]
+                            elif "tpdb_background" in input_images and input_images["tpdb_background"]:
                                 output_images["tpdb_background"] = input_images["tpdb_background"]
                             elif "url_background" in input_images and input_images["url_background"]:
                                 output_images["url_background"] = input_images["url_background"]
                             return output_images
 
-                        for item in new_data["collections"]:
+                        for item in new_collections:
                             original_images = style_yaml["collections"][item] if "collections" in style_yaml and item in style_yaml["collections"] else {}
                             new_images = {}
 
                             if missing_collections and item in missing_collections and missing_collections[item]:
-                                new_images = check_images(missing_collections[item])
+                                new_images = check_images(missing_collections[item], new_images)
 
-                            if "tpdb_poster" not in new_images and "url_poster" not in new_images:
-                                new_images = check_images(original_images)
+                            new_images = check_images(original_images, new_images)
 
-                            if "tpdb_poster" not in new_images and "url_poster" not in new_images:
-                                init_missing("collections", item, image_default=True)
-                            else:
+                            no_p = True if "tpdb_poster" not in new_images and "url_poster" not in new_images else False
+                            no_b = True if "tpdb_background" not in new_images and "url_background" not in new_images else False
+                            if no_p or (track_backgrounds and no_b):
+                                init_missing("collections", item, pos=no_p, bkg=no_b if track_backgrounds else None)
+
+                            if new_images:
+                                if "collections" not in new_style:
+                                    new_style["collections"] = {}
                                 new_style["collections"][item] = YAML.inline(new_images)
 
                         old_items = {}
@@ -485,17 +531,20 @@ try:
                             original_images = old_items[item] if item in old_items else {}
                             new_images = {}
 
+                            missing_item = {}
                             if missing_items and item in missing_items and missing_items[item]:
-                                new_images = check_images(missing_items[item])
+                                missing_item = missing_items[item]
+                                new_images = check_images(missing_item, new_images)
 
-                            if "tpdb_poster" not in new_images and "url_poster" not in new_images:
-                                new_images = check_images(original_images)
+                            new_images = check_images(original_images, new_images)
 
-                            """
-                            if not is_movie and "seasons" in original_images:
-                                for season_num, season_data in original_images["seasons"].items():
-                                    
-                                
+                            no_p = True if "tpdb_poster" not in new_images and "url_poster" not in new_images else False
+                            no_b = True if "tpdb_background" not in new_images and "url_background" not in new_images else False
+                            if no_p or (track_backgrounds and no_b):
+                                init_missing(attr, item, pos=no_p, bkg=no_b if track_backgrounds else None)
+
+                            if not is_movie:
+                                og_seasons = original_images["seasons"] if "seasons" in original_images and original_images["seasons"] else {}
                                 if int(item_id) in tvdb_lookup:
                                     tmdb_obj = tvdb_lookup[int(item_id)]
                                 else:
@@ -505,24 +554,84 @@ try:
                                     if results.tv_results[0].tvdb_id not in tvdb_lookup:
                                         tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
                                     tmdb_obj = results.tv_results[0]
-                                for season in tmdb_obj.seasons:
-                                    if "seasons" not in new_images:
-                                        new_images["seasons"] = {}
 
-                                    if pmmargs["episode"]:
-                                        new_images["seasons"][season.season_number] = {"poster_tpdb": None, "episodes": {}} if pmmargs["season"] else {"episodes": {}}
-                                        for episode in season.episodes:
-                                            new_images["seasons"][season.season_number]["episodes"][episode.episode_number] = YAML.inline({"poster_tpdb": None})
-                                    else:
-                                        new_images["seasons"][season.season_number] = YAML.inline({"poster_tpdb": None})
+                                missing_seasons = {}
+                                if "seasons" in missing_item and missing_item["seasons"]:
+                                    missing_seasons = missing_item["seasons"]
 
+                                if track_seasons or track_episodes or og_seasons:
+                                    seasons = {0: None}
+                                    for s in tmdb_obj.seasons:
+                                        seasons[s.season_number] = s
+                                    for s_num, season in seasons.items():
+                                        if s_num in og_seasons and og_seasons[s_num]:
+                                            original_season_images = og_seasons[s_num]
+                                        elif str(s_num) in og_seasons and og_seasons[str(s_num)]:
+                                            original_season_images = og_seasons[str(s_num)]
+                                        else:
+                                            original_season_images = {}
+                                        new_season_images = {}
+                                        if s_num in missing_seasons and missing_seasons[s_num]:
+                                            new_season_images = check_images(missing_seasons[s_num], new_season_images)
+                                        elif str(s_num) in missing_seasons and missing_seasons[str(s_num)]:
+                                            new_season_images = check_images(missing_seasons[str(s_num)], new_season_images)
 
-                            """
+                                        new_season_images = check_images(original_season_images, new_season_images)
 
-                            if "tpdb_poster" not in new_images and "url_poster" not in new_images:
-                                init_missing(attr, item, image_default=True)
-                            else:
-                                new_style[attr][item] = YAML.inline(new_images)
+                                        if s_num > 0:
+                                            no_p = True if "tpdb_poster" not in new_season_images and "url_poster" not in new_season_images else False
+                                            no_b = True if "tpdb_background" not in new_season_images and "url_background" not in new_season_images else False
+                                            if no_p or (track_backgrounds and no_b):
+                                                init_missing(attr, item, pos=no_p, bkg=no_b if track_backgrounds else None, init_s=s_num)
+
+                                        missing_episodes = {}
+                                        if "episodes" in missing_seasons and missing_seasons["episodes"]:
+                                            missing_episodes = missing_seasons["episodes"]
+
+                                        og_episodes = original_season_images["episodes"] if "episodes" in original_season_images and original_season_images["episodes"] else {}
+                                        if track_episodes or og_episodes:
+                                            if s_num > 0:
+                                                for episode in season.episodes:
+                                                    e_num = episode.episode_number
+                                                    if e_num in og_episodes and og_episodes[e_num]:
+                                                        original_episode_images = og_episodes[e_num]
+                                                    elif str(e_num) in og_episodes and og_episodes[str(e_num)]:
+                                                        original_episode_images = og_episodes[str(e_num)]
+                                                    else:
+                                                        original_episode_images = {}
+                                                    new_episode_images = {}
+                                                    if e_num in missing_episodes and missing_episodes[e_num]:
+                                                        new_episode_images = check_images(missing_episodes[e_num], new_episode_images)
+                                                    elif str(e_num) in missing_episodes and missing_episodes[str(e_num)]:
+                                                        new_episode_images = check_images(missing_episodes[str(e_num)], new_episode_images)
+
+                                                    new_episode_images = check_images(original_episode_images, new_episode_images)
+
+                                                    no_p = True if "tpdb_poster" not in new_episode_images and "url_poster" not in new_episode_images else False
+                                                    no_b = True if "tpdb_background" not in new_episode_images and "url_background" not in new_episode_images else False
+                                                    if no_p or (track_backgrounds and no_b):
+                                                        init_missing(attr, item, pos=no_p, bkg=no_b if track_backgrounds else None, init_s=s_num, init_e=e_num)
+
+                                                    if new_episode_images:
+                                                        if "episodes" not in new_season_images:
+                                                            new_season_images["episodes"] = {}
+                                                        new_season_images["episodes"][e_num] = YAML.inline(new_episode_images)
+                                            elif og_episodes:
+                                                for e_num, ep_data in og_episodes.items():
+                                                    if new_episode_images := check_images(ep_data, {}):
+                                                        if "episodes" not in new_season_images:
+                                                            new_season_images["episodes"] = {}
+                                                        new_season_images["episodes"][int(e_num)] = YAML.inline(new_episode_images)
+
+                                        if new_season_images:
+                                            if "seasons" not in new_images:
+                                                new_images["seasons"] = {}
+                                            new_images["seasons"][s_num] = new_season_images if "episodes" in new_season_images else YAML.inline(new_season_images)
+
+                            if new_images:
+                                if attr not in new_style:
+                                    new_style[attr] = {}
+                                new_style[attr][item] = new_images if "seasons" in new_images else YAML.inline(new_images)
 
                         style_yaml.data = new_style
                         style_yaml.save()
@@ -562,8 +671,8 @@ try:
                         readme += f'\t\t\t\t<strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a><br>\n\t\t\t</td>\n'
 
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
-                    readme += f'\t\t</tr>\n\t</table>\n</div>\n\n'
-
+                    readme += "\t\t</tr>\n\t</table>\n</div>\n\n"
+                    index_table += "</table>\n\n"
                     sections[section_key] = new_data
 
                 except Failed as e:
@@ -571,10 +680,17 @@ try:
                     sections[section_key] = section_data
 
             with open(readme_path, "w") as f:
-                f.write(readme)
+                f.write(index_table + readme)
             missing_yaml.data = missing
             missing_yaml.save()
-            sorted_sections = sorted(sections.keys(), key=lambda x: sections[x]["title"] if "title" in sections[x] else str(x).replace("_", " ").title())
+
+            def sort_title(x):
+                _title = sections[x]["title"] if "title" in sections[x] else str(x).replace("_", " ").title()
+                for prefix in ["The", "A", "An"]:
+                    _title = _title.removeprefix(f"{prefix} ")
+                return _title
+
+            sorted_sections = sorted(sections.keys(), key=lambda x: sort_title(x))
             yaml_data.data = {"sections": {k: sections[k] for k in sorted_sections}}
             yaml_data.save()
         except Failed as e:
