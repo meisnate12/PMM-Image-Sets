@@ -145,6 +145,61 @@ sections:
       "V for Vendetta": 752
       "DC League of Super-Pets": 539681
 
+  fast_furious:
+    title: The Fast and the Furious Set
+    builders:
+      tmdb_collection: 9485, 688042
+      tmdb_movie: 253835
+    styles:
+      default: mikenobbs
+      mikenobbs:
+    collections:
+      "Fast & Furious: Complete Collection":
+      - "Fast & Furious"
+      - "Fast & Furious: Complete"
+      - "The Fast & Furious"
+      - "The Fast & the Furious"
+      - "The Fast and the Furious"
+      "The Fast and the Furious Collection":
+      - "Fast and the Furious"
+      - "Fast and the Furious Collection"
+      - "The Fast and the Furious"
+      "Hobbs & Shaw Collection":
+      - "Hobbs & Shaw"
+    movies:
+      "The Fast and the Furious (2001)": 9799
+      "2 Fast 2 Furious (2003)": 584
+      "The Fast and the Furious: Tokyo Drift (2006)": 9615
+      "Fast & Furious (2009)": 13804
+      "Los Bandoleros (2009)": 253835
+      "Fast Five (2011)": 51497
+      "Fast & Furious 6 (2013)": 82992
+      "Furious 7 (2015)": 168259
+      "The Fate of the Furious (2017)": 337339
+      "Fast & Furious Presents: Hobbs & Shaw (2019)": 384018
+      "F9 (2021)": 385128
+      "Fast X (2023)": 385687
+  godfather:
+    title: The Godfather Set
+    builders:
+      tmdb_collection: 230
+    styles:
+      default: eternal
+      eternal:
+    collections:
+      "The Godfather Collection":
+      - "Godfather"
+      - "Godfather Collection"
+      - "The Godfather"
+    movies:
+      "The Godfather (1972)": 238
+      "The Godfather Part II (1974)": 240
+      "The Godfather Part III (1990) (Coda)":
+        mapping_id: 242
+        edition_contains: Coda
+      "The Godfather Part III (1990)":
+        mapping_id: 242
+        blank_edition: true
   godzilla_heisei:
     title: Godzilla Heisei Set
     builders:
@@ -776,61 +831,6 @@ sections:
       "The Making of The Empire Strikes Back": 485213
 
 
-  fast_furious:
-    title: The Fast and the Furious Set
-    builders:
-      tmdb_collection: 9485, 688042
-      tmdb_movie: 253835
-    styles:
-      default: mikenobbs
-      mikenobbs:
-    collections:
-      "Fast & Furious: Complete Collection":
-      - "Fast & Furious"
-      - "Fast & Furious: Complete"
-      - "The Fast & Furious"
-      - "The Fast & the Furious"
-      - "The Fast and the Furious"
-      "The Fast and the Furious Collection":
-      - "Fast and the Furious"
-      - "Fast and the Furious Collection"
-      - "The Fast and the Furious"
-      "Hobbs & Shaw Collection":
-      - "Hobbs & Shaw"
-    movies:
-      "The Fast and the Furious (2001)": 9799
-      "2 Fast 2 Furious (2003)": 584
-      "The Fast and the Furious: Tokyo Drift (2006)": 9615
-      "Fast & Furious (2009)": 13804
-      "Los Bandoleros (2009)": 253835
-      "Fast Five (2011)": 51497
-      "Fast & Furious 6 (2013)": 82992
-      "Furious 7 (2015)": 168259
-      "The Fate of the Furious (2017)": 337339
-      "Fast & Furious Presents: Hobbs & Shaw (2019)": 384018
-      "F9 (2021)": 385128
-      "Fast X (2023)": 385687
-  godfather:
-    title: The Godfather Set
-    builders:
-      tmdb_collection: 230
-    styles:
-      default: eternal
-      eternal:
-    collections:
-      "The Godfather Collection":
-      - "Godfather"
-      - "Godfather Collection"
-      - "The Godfather"
-    movies:
-      "The Godfather (1972)": 238
-      "The Godfather Part II (1974)": 240
-      "The Godfather Part III (1990) (Coda)":
-        mapping_id: 242
-        edition_contains: Coda
-      "The Godfather Part III (1990)":
-        mapping_id: 242
-        blank_edition: true
   wizard:
     title: Wizarding World (of Harry Potter) Set
     builders:
