@@ -72,9 +72,9 @@ try:
             def heading(heading_str, level):
                 return f'<h{level}>{heading_str}<a class="headerlink" href="#{str(heading_str).lower().replace(" ", "-")}" title="Permalink to this heading">¶</a></h{level}>\n'
 
-            readme = ""
+            readme = heading("Sections", "2")
             index_table = f'{heading(set_info["title"], "1")}{set_info["description"]}\n\n'
-            index_table += f'<table class="image-index-table">\n\t<tr>\n\t\t<th>Section</th>\n\t\t<th>Key</th>\n\t</tr>\n'
+            index_table += f'<table class="align-default table">\n\t<tr>\n\t\t<th>Section</th>\n\t\t<th>Key</th>\n\t</tr>\n'
             logger.separator(set_info["title"])
             yaml_data = YAML(path=metadata_path, preserve_quotes=True)
             missing_yaml = YAML(path=missing_path, create=True, preserve_quotes=True)
@@ -395,7 +395,7 @@ try:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    index_table += f'\t<tr>\n\t\t<td>{new_data["title"]}</td>\n\t\t<td><code>{section_key}</code></td>\n\t</tr>\n'
+                    index_table += f'\t<tr>\n\t\t<td><a href="#{new_data["title"].lower().replace(" ", "-")}">{new_data["title"]}</a></td>\n\t\t<td><code>{section_key}</code></td>\n\t</tr>\n'.replace(" ", "-")
                     readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n'
                     readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
                     readme += f'\t<table class="image-table">\n\t\t<tr>\n'
@@ -677,7 +677,7 @@ try:
                 except Failed as e:
                     logger.error(e)
                     sections[section_key] = section_data
-            
+
             index_table += "</table>\n\n"
             with open(readme_path, "w") as f:
                 f.write(index_table + readme)
