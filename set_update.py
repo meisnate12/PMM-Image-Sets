@@ -69,9 +69,19 @@ try:
             continue
 
         try:
+
+            def create_local_link(input_text):
+                return f'#{str(input_text).lower().replace(" ", "-")}'
+
             def heading(heading_str, level):
-                heading_link = str(heading_str).lower().replace(" ", "-")
-                return f'<h{level} id="{heading_link}">{heading_str}<a class="headerlink" href="#{heading_link}" title="Permalink to this heading">¶</a></h{level}>\n'
+                heading_link = create_local_link(heading_str)
+                return f'<h{level} id="{heading_link[1:]}">{heading_str}<a class="headerlink" href="{heading_link}" title="Permalink to this heading">¶</a></h{level}>\n'
+
+            def a_link(input_url, input_text=None, local_link=False):
+                if input_text is None:
+                    input_text = input_url
+                extra_a = '' if local_link else ' target="_blank" rel="noopener noreferrer"'
+                return f'<a href="{create_local_link(input_url) if local_link else input_url}"{extra_a}>{input_text}</a>'
 
             readme = heading("Sections", "2")
             index_table = f'{heading(set_info["title"], "1")}{set_info["description"]}\n\n'
@@ -142,6 +152,7 @@ try:
                                     checked_list.append(int(match.group(1)))
                                 else:
                                     raise Failed(f"Regex Error: Failed to parse ID from {_id}")
+                            extra_html = []
                             for _id in checked_list:
                                 try:
                                     tmdb_items = []
@@ -192,8 +203,8 @@ try:
                                     else:
                                         raise TMDbException
 
-                                    extra_html = f' (<a href="{_tmdb}">TMDb</a>)' if _tmdb else ""
-                                    builder_html += f'  <li><code>{k}</code>: <a href="{_url}">{_id}</a>{extra_html}</li>\n'
+                                    _tmdb_html = f' ({a_link(_tmdb, "TMDb")})' if _tmdb else ""
+                                    extra_html.append(f"{a_link(_url, _id)}{_tmdb_html}")
                                     for i in tmdb_items:
                                         if is_movie and isinstance(i, Movie) and i.id not in items:
                                             items[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
@@ -201,6 +212,9 @@ try:
                                             items[i.tvdb_id] = {"title": i.name, "year": i.first_air_date.year if i.first_air_date else ""}
                                 except TMDbException as e:
                                     raise Failed(f"TMDb Error: No {k[5:].capitalize()} found for TMDb ID {_id}: {e}")
+                            if extra_html:
+                                builder_html += f'  <li><code>{k}</code>: {", ".join(extra_html)}</li>\n'
+
                         elif k == "imdb_list":
                             imdb_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
                             for imdb_url in imdb_urls:
@@ -263,7 +277,7 @@ try:
                                 if not imdb_ids:
                                     raise Failed(f"IMDb Error: No IMDb IDs Found at {imdb_url}")
 
-                                builder_html += f'  <li><code>{k}</code>: <a href="{imdb_url}">{imdb_url}</a></li>\n'
+                                builder_html += f'  <li><code>{k}</code>: {a_link(imdb_url)}</li>\n'
                                 for imdb_id in imdb_ids:
                                     try:
                                         find_results = tmdbapi.find_by_id(imdb_id=imdb_id)
@@ -315,7 +329,7 @@ try:
                                 if len(output_json) == 0:
                                     raise Failed(f"Trakt Error: List {trakt_url} is empty")
 
-                                builder_html += f'  <li><code>{k}</code>: <a href="{trakt_url}">{trakt_url}</a></li>\n'
+                                builder_html += f'  <li><code>{k}</code>: {a_link(trakt_url)}</li>\n'
 
                                 id_translation = {"movie": "movie", "show": "show", "season": "show", "episode": "show"}
                                 id_types = {
@@ -362,13 +376,13 @@ try:
                                 except JSONDecodeError:
                                     raise Failed(f"Mdblist Error: Invalid Response")
 
-                                builder_html += f'  <li><code>{k}</code>: <a href="{mdblist_url}">{mdblist_url}</a></li>\n'
+                                builder_html += f'  <li><code>{k}</code>: {a_link(mdblist_url)}</li>\n'
                                 for json_data in response:
                                     if is_movie and json_data["mediatype"] == "movie" and json_data["id"] not in items:
                                         items[json_data["id"]] = {"title": json_data["title"], "year": json_data["release_year"]}
                                     elif not is_movie and json_data["mediatype"] == "show" and json_data["tvdbid"] not in items:
                                         items[json_data["tvdbid"]] = {"title": json_data["title"], "year": json_data["release_year"]}
-
+                    builder_html += "</ul>\n"
                     if new_collections:
                         new_cols = {}
                         for k, v in new_collections.items():
@@ -418,13 +432,9 @@ try:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    index_table += f'  <tr>\n    <td><a href="#{new_data["title"].lower().replace(" ", "-")}">{new_data["title"]}</a></td>\n'
+                    index_table += f'  <tr>\n    <td>{a_link(new_data["title"], local_link=True)}</td>\n'
                     index_table += f'    <td><code>{section_key}</code></td>\n  </tr>\n'
-                    readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n'
-                    readme += f'<strong>Builders:</strong>\n{builder_html}'
-
-
-
+                    readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n{builder_html}'
                     readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
                     readme += f'  <table class="image-table">\n    <tr>\n'
                     for style, style_data in section_data["styles"].items():
@@ -693,9 +703,10 @@ try:
                                                 handler.write(img_res.content)
                                             style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{section_key}/{style}{ext}"
 
-                        readme += f'      <td>\n        <img src="{style_image}" height="200"/><br>\n'
+                        img_link = a_link(style_yaml["info"]["style_link"], f'<img src="{style_image}" height="200"/>')
+                        readme += f'      <td>\n        {img_link}<br>\n'
                         readme += f'        <strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
-                        readme += f'        <strong>Credit:</strong> <a href="{style_yaml["info"]["style_link"]}">{style_yaml["info"]["style_author"]}</a><br>\n      </td>\n'
+                        readme += f'        <strong>Credit:</strong> {a_link(style_yaml["info"]["style_link"], style_yaml["info"]["style_author"])}<br>\n      </td>\n'
 
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
                     readme += "    </tr>\n  </table>\n</div>\n\n"
