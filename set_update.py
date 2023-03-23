@@ -395,7 +395,7 @@ try:
 
                     new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
 
-                    index_table += f'\t<tr>\n\t\t<td><a href="#{new_data["title"].lower().replace(" ", "-")}">{new_data["title"]}</a></td>\n\t\t<td><code>{section_key}</code></td>\n\t</tr>\n'.replace(" ", "-")
+                    index_table += f'\t<tr>\n\t\t<td><a href="#{new_data["title"].lower().replace(" ", "-")}">{new_data["title"]}</a></td>\n\t\t<td><code>{section_key}</code></td>\n\t</tr>\n'
                     readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n'
                     readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
                     readme += f'\t<table class="image-table">\n\t\t<tr>\n'
