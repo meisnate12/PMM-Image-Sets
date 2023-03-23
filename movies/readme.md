@@ -30,8 +30,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="alien-set">Alien Set<a class="headerlink" href="#alien-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>alien</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/8091" target="_blank" rel="noopener noreferrer">8091</a>, <a href="https://www.themoviedb.org/collection/115762" target="_blank" rel="noopener noreferrer">115762</a>, <a href="https://www.themoviedb.org/collection/135416" target="_blank" rel="noopener noreferrer">135416</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/8091" target="_blank" rel="noopener noreferrer">8091</a>, <a href="https://www.themoviedb.org/collection/115762" target="_blank" rel="noopener noreferrer">115762</a>, <a href="https://www.themoviedb.org/collection/135416" target="_blank" rel="noopener noreferrer">135416</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -49,8 +49,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="avatar-set">Avatar Set<a class="headerlink" href="#avatar-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>avatar</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/87096" target="_blank" rel="noopener noreferrer">87096</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/87096" target="_blank" rel="noopener noreferrer">87096</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -68,9 +68,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="the-fast-and-the-furious-set">The Fast and the Furious Set<a class="headerlink" href="#the-fast-and-the-furious-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>fast_furious</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/9485" target="_blank" rel="noopener noreferrer">9485</a>, <a href="https://www.themoviedb.org/collection/688042" target="_blank" rel="noopener noreferrer">688042</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/253835" target="_blank" rel="noopener noreferrer">253835</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/9485" target="_blank" rel="noopener noreferrer">9485</a>, <a href="https://www.themoviedb.org/collection/688042" target="_blank" rel="noopener noreferrer">688042</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/253835" target="_blank" rel="noopener noreferrer">253835</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -88,8 +88,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="the-godfather-set">The Godfather Set<a class="headerlink" href="#the-godfather-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godfather</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/230" target="_blank" rel="noopener noreferrer">230</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/230" target="_blank" rel="noopener noreferrer">230</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -107,9 +107,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="godzilla-heisei-set">Godzilla Heisei Set<a class="headerlink" href="#godzilla-heisei-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godzilla_heisei</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/374511" target="_blank" rel="noopener noreferrer">374511</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/39256" target="_blank" rel="noopener noreferrer">39256</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/374511" target="_blank" rel="noopener noreferrer">374511</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/39256" target="_blank" rel="noopener noreferrer">39256</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -132,9 +132,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="godzilla-monsterverse-set">Godzilla Monsterverse Set<a class="headerlink" href="#godzilla-monsterverse-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godzilla_monsterverse</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/535313" target="_blank" rel="noopener noreferrer">535313</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/293167" target="_blank" rel="noopener noreferrer">293167</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/535313" target="_blank" rel="noopener noreferrer">535313</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/293167" target="_blank" rel="noopener noreferrer">293167</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -152,9 +152,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="godzilla-showa-set">Godzilla Showa Set<a class="headerlink" href="#godzilla-showa-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godzilla_showa</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/374509" target="_blank" rel="noopener noreferrer">374509</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/18983" target="_blank" rel="noopener noreferrer">18983</a>, <a href="https://www.themoviedb.org/movie/329237" target="_blank" rel="noopener noreferrer">329237</a>, <a href="https://www.themoviedb.org/movie/686487" target="_blank" rel="noopener noreferrer">686487</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/374509" target="_blank" rel="noopener noreferrer">374509</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/18983" target="_blank" rel="noopener noreferrer">18983</a>, <a href="https://www.themoviedb.org/movie/329237" target="_blank" rel="noopener noreferrer">329237</a>, <a href="https://www.themoviedb.org/movie/686487" target="_blank" rel="noopener noreferrer">686487</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -177,8 +177,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="hercule-poirot-set">Hercule Poirot Set<a class="headerlink" href="#hercule-poirot-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>poirot</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/735384" target="_blank" rel="noopener noreferrer">735384</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/735384" target="_blank" rel="noopener noreferrer">735384</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -196,8 +196,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="indiana-jones-set">Indiana Jones Set<a class="headerlink" href="#indiana-jones-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>indiana</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/84" target="_blank" rel="noopener noreferrer">84</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/84" target="_blank" rel="noopener noreferrer">84</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -220,9 +220,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="james-bond-set">James Bond Set<a class="headerlink" href="#james-bond-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>bond</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/645" target="_blank" rel="noopener noreferrer">645</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/12208" target="_blank" rel="noopener noreferrer">12208</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/645" target="_blank" rel="noopener noreferrer">645</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/12208" target="_blank" rel="noopener noreferrer">12208</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -240,8 +240,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="john-wick-set">John Wick Set<a class="headerlink" href="#john-wick-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>john_wick</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/404609" target="_blank" rel="noopener noreferrer">404609</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/404609" target="_blank" rel="noopener noreferrer">404609</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -264,9 +264,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="jurassic-park-set">Jurassic Park Set<a class="headerlink" href="#jurassic-park-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>jurassic</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/328" target="_blank" rel="noopener noreferrer">328</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/630322" target="_blank" rel="noopener noreferrer">630322</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/328" target="_blank" rel="noopener noreferrer">328</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/630322" target="_blank" rel="noopener noreferrer">630322</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -289,9 +289,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="men-in-black-set">Men in Black Set<a class="headerlink" href="#men-in-black-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>mib</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/86055" target="_blank" rel="noopener noreferrer">86055</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/479455" target="_blank" rel="noopener noreferrer">479455</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/86055" target="_blank" rel="noopener noreferrer">86055</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/479455" target="_blank" rel="noopener noreferrer">479455</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -309,8 +309,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="middle-earth-set">Middle-Earth Set<a class="headerlink" href="#middle-earth-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>middle</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/121938" target="_blank" rel="noopener noreferrer">121938</a>, <a href="https://www.themoviedb.org/collection/119" target="_blank" rel="noopener noreferrer">119</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/121938" target="_blank" rel="noopener noreferrer">121938</a>, <a href="https://www.themoviedb.org/collection/119" target="_blank" rel="noopener noreferrer">119</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -333,8 +333,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="mission-impossible-set">Mission Impossible Set<a class="headerlink" href="#mission-impossible-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>mission</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/87359" target="_blank" rel="noopener noreferrer">87359</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/87359" target="_blank" rel="noopener noreferrer">87359</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -357,8 +357,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="now-you-see-me-set">Now You See Me Set<a class="headerlink" href="#now-you-see-me-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>nowyouseeme</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/382685" target="_blank" rel="noopener noreferrer">382685</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/382685" target="_blank" rel="noopener noreferrer">382685</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -376,9 +376,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="ocean's-set">Ocean's Set<a class="headerlink" href="#ocean's-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ocean</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/304" target="_blank" rel="noopener noreferrer">304</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/402900" target="_blank" rel="noopener noreferrer">402900</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/304" target="_blank" rel="noopener noreferrer">304</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/402900" target="_blank" rel="noopener noreferrer">402900</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -396,8 +396,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="pirates-of-the-caribbean-set">Pirates of the Caribbean Set<a class="headerlink" href="#pirates-of-the-caribbean-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>pirates</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/295" target="_blank" rel="noopener noreferrer">295</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/295" target="_blank" rel="noopener noreferrer">295</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -420,8 +420,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="predator-set">Predator Set<a class="headerlink" href="#predator-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>predator</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/399" target="_blank" rel="noopener noreferrer">399</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/399" target="_blank" rel="noopener noreferrer">399</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -439,8 +439,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="rocky-creed">Rocky Creed<a class="headerlink" href="#rocky-creed" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>rocky_creed</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/1575" target="_blank" rel="noopener noreferrer">1575</a>, <a href="https://www.themoviedb.org/collection/553717" target="_blank" rel="noopener noreferrer">553717</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/1575" target="_blank" rel="noopener noreferrer">1575</a>, <a href="https://www.themoviedb.org/collection/553717" target="_blank" rel="noopener noreferrer">553717</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -458,9 +458,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="saw-set">Saw Set<a class="headerlink" href="#saw-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>saw</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/656" target="_blank" rel="noopener noreferrer">656</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/602734" target="_blank" rel="noopener noreferrer">602734</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/656" target="_blank" rel="noopener noreferrer">656</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/602734" target="_blank" rel="noopener noreferrer">602734</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -478,9 +478,9 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <h3 id="wizarding-world-(of-harry-potter)-set">Wizarding World (of Harry Potter) Set<a class="headerlink" href="#wizarding-world-(of-harry-potter)-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>wizard</code>
 <br><strong>Builders:</strong>
-<ul>
-  <li><code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/435259" target="_blank" rel="noopener noreferrer">435259</a>, <a href="https://www.themoviedb.org/collection/1241" target="_blank" rel="noopener noreferrer">1241</a></li>
-  <li><code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/899082" target="_blank" rel="noopener noreferrer">899082</a></li>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/435259" target="_blank" rel="noopener noreferrer">435259</a>, <a href="https://www.themoviedb.org/collection/1241" target="_blank" rel="noopener noreferrer">1241</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/899082" target="_blank" rel="noopener noreferrer">899082</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
