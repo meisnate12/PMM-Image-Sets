@@ -7,6 +7,17 @@ avatar:
   rhj:
     collections:
       "Avatar Collection": {tpdb_poster: null, url_poster: null}
+fast_furious:
+  mikenobbs:
+    collections:
+      "The Fast and the Furious Collection": {tpdb_poster: null, url_poster: null}
+      "Hobbs & Shaw Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Fast X (2023)": {tpdb_poster: null, url_poster: null}
+godfather:
+  eternal:
+    movies:
+      "The Godfather Part III (1990) (Coda)": {tpdb_poster: null, url_poster: null}
 godzilla_monsterverse:
   rhj:
     collections:
@@ -63,17 +74,6 @@ rocky_creed:
   dannybeaton:
     movies:
       "Creed III (2023)": {tpdb_poster: null, url_poster: null}
-fast_furious:
-  mikenobbs:
-    collections:
-      "The Fast and the Furious Collection": {tpdb_poster: null, url_poster: null}
-      "Hobbs & Shaw Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Fast X (2023)": {tpdb_poster: null, url_poster: null}
-godfather:
-  eternal:
-    movies:
-      "The Godfather Part III (1990) (Coda)": {tpdb_poster: null, url_poster: null}
 wizard:
   rhj:
     collections:
