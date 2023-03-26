@@ -1,8 +1,9 @@
 info:
   style_author: mikenobbs
-  style_image: https://theposterdb.com/api/assets/191455
+  style_image: 191455
   style_key: mikenobbs
-  style_link: https://theposterdb.com/set/115877
+  style_link: 115877
+  complete: true
 collections:
   "Middle-Earth Collection": {tpdb_poster: 191451}
   "Hobbit Collection": {tpdb_poster: 191452}

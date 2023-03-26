@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/1214
+  style_image: 1214
   style_key: rhj
-  style_link: https://theposterdb.com/set/357
+  style_link: 357
+  complete: true
 collections:
   "Alien Collection": {tpdb_poster: 1213}
 movies:

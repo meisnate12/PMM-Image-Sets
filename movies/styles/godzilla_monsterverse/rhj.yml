@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/135068
+  style_image: 135068
   style_key: rhj
-  style_link: https://theposterdb.com/set/84136
+  style_link: 84136
+  complete: true
 collections:
   "Monsterverse Collection": {tpdb_poster: 135068}
 movies:

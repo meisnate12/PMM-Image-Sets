@@ -1,8 +1,9 @@
 info:
   style_author: Eternal
-  style_image: https://theposterdb.com/api/assets/312509
+  style_image: 312509
   style_key: eternal
-  style_link: https://theposterdb.com/set/183508
+  style_link: 183508
+  complete: true
 collections:
   "The Godfather Collection": {tpdb_poster: 312507}
 movies:

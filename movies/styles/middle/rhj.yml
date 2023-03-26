@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/33511
+  style_image: 33511
   style_key: rhj
-  style_link: https://theposterdb.com/set/20379
+  style_link: 20379
+  complete: true
 collections:
   "Middle-Earth Collection": {tpdb_poster: 1716}
   "Hobbit Collection": {tpdb_poster: 36974}

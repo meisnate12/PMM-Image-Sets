@@ -1,8 +1,9 @@
 info:
   style_author: DoctorBat
-  style_image: https://theposterdb.com/api/assets/309088
+  style_image: 309088
   style_key: doctorbat2
-  style_link: https://theposterdb.com/set/181738
+  style_link: 181738
+  complete: true
 collections:
   "Godzilla (Showa) Collection": {tpdb_poster: 309070}
 movies:
