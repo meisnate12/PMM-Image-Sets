@@ -51,21 +51,35 @@ try:
         raise Failed(e)
     if not pmmargs["trakt_id"] or not pmmargs["trakt_token"]:
         raise Failed("trakt_id and trakt_token are required")
-
+    raise Failed("NOT RUNNING ")
     tvdb_lookup = {}
     sets_yaml = YAML(path=os.path.join(base_dir, "sets.yml"), preserve_quotes=True)
+    new_sets = {}
     for file_key, set_info in sets_yaml["sets"].items():
-        metadata_dir = os.path.join(base_dir, file_key)
+        set_title = set_info["title"] if "title" in set_info else ""
+        set_description = set_info["description"] if "description" in set_info else ""
+        file_dir = os.path.join(base_dir, file_key)
+        if "set_key" in set_info and set_info["set_key"]:
+            if str(set_info["set_key"]) in sets_yaml["sets"]:
+                logger.error(f"Set Key Error: Set Key: {set_info['set_key']} already exists")
+                new_sets[file_key] = set_info
+                continue
+            set_key = str(set_info["set_key"])
+            metadata_dir = os.path.join(base_dir, set_key)
+            if not os.path.exists(metadata_dir) and os.path.exists(file_dir):
+                os.rename(file_dir, metadata_dir)
+        else:
+            set_key = file_key
+            metadata_dir = os.path.join(base_dir, set_key)
+        new_sets[str(set_key)] = {"title": set_title, "description": set_description}
         style_dir = os.path.join(metadata_dir, "styles")
-        os.makedirs(style_dir, exist_ok=True)
         metadata_path = os.path.join(metadata_dir, "set.yml")
         missing_path = os.path.join(metadata_dir, "missing.yml")
-        styles_path = os.path.join(metadata_dir, "styles")
         readme_path = os.path.join(metadata_dir, "readme.md")
         if not os.path.exists(metadata_path):
             logger.error(f"File not Found: {metadata_path}")
             with open(metadata_path, "w") as f:
-                f.write("sets:\n")
+                f.write("sections:\n")
             continue
 
         try:
@@ -103,10 +117,12 @@ try:
             sections = {}
             for section_key, section_data in yaml_data["sections"].items():
                 section_key = str(section_key).lower()
+                if not section_data:
+                    sections[section_key] = {"title": str(section_key).replace("_", " ").title(), "builders": None, "styles": {"default": None}}
+                    continue
                 try:
                     logger.separator(section_key, border=False, space=False)
                     new_data = {}
-                    titles = [k for k in section_data if k not in ["builders", "styles", "collections"]]
                     if "styles" not in section_data:
                         raise Failed(f"Set: {section_key} has no styles attribute")
                     if not section_data["styles"]:
@@ -127,20 +143,33 @@ try:
                         raise Failed("No Builders Found ignoring Set")
                     new_data["styles"] = {"default": section_data["styles"]["default"]}
                     new_collections = section_data["collections"] if "collections" in section_data and section_data["collections"] else {}
-                    existing = section_data[attr] if section_data[attr] and isinstance(section_data[attr], dict) else {}
-                    dict_items = {}
-                    number_items = {}
-                    final = {}
-                    for k, v in existing.items():
+
+                    existing_movies = section_data["movies"] if section_data["movies"] and isinstance(section_data["movies"], dict) else {}
+                    existing_shows = section_data["shows"] if section_data["shows"] and isinstance(section_data["shows"], dict) else {}
+
+                    movie_editions = {}
+                    existing_movie_lookup = {}
+                    for k, v in existing_movies.items():
                         if isinstance(v, dict) and "mapping_id" in v and v["mapping_id"]:
-                            if v["mapping_id"] not in dict_items:
-                                dict_items[v["mapping_id"]] = []
-                            dict_items[v["mapping_id"]].append((k, v))
+                            if v["mapping_id"] not in movie_editions:
+                                movie_editions[v["mapping_id"]] = []
+                            movie_editions[v["mapping_id"]].append((k, v))
                         else:
-                            number_items[v] = k
+                            existing_movie_lookup[v] = k
+
+                    show_editions = {}
+                    existing_show_lookup = {}
+                    for k, v in existing_shows.items():
+                        if isinstance(v, dict) and "mapping_id" in v and v["mapping_id"]:
+                            if v["mapping_id"] not in show_editions:
+                                show_editions[v["mapping_id"]] = []
+                            show_editions[v["mapping_id"]].append((k, v))
+                        else:
+                            existing_show_lookup[v] = k
 
                     builder_html = "<br><strong>Builders:</strong>\n<br>\n"
-                    items = {}
+                    builder_movies = {}
+                    builder_shows = {}
                     for k, v in new_data["builders"].items():
                         if k in ["tmdb_collection", "tmdb_movie", "tmdb_show", "tvdb_show", "imdb_id", "tmdb_list"]:
                             _id_list = []
@@ -212,10 +241,10 @@ try:
                                     _tmdb_html = f' ({a_link(_tmdb, "TMDb")})' if _tmdb else ""
                                     extra_html.append(f"{a_link(_url, _id)}{_tmdb_html}")
                                     for i in tmdb_items:
-                                        if is_movie and isinstance(i, Movie) and i.id not in items:
-                                            items[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
-                                        elif not is_movie and isinstance(i, TVShow) and i.tvdb_id and i.tvdb_id not in items:
-                                            items[i.tvdb_id] = {"title": i.name, "year": i.first_air_date.year if i.first_air_date else ""}
+                                        if is_movie and isinstance(i, Movie) and i.id not in builder_movies:
+                                            builder_movies[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
+                                        elif not is_movie and isinstance(i, TVShow) and i.tvdb_id and i.tvdb_id not in builder_shows:
+                                            builder_shows[i.tvdb_id] = {"title": i.name, "year": i.first_air_date.year if i.first_air_date else ""}
                                 except TMDbException as e:
                                     raise Failed(f"TMDb Error: No {k[5:].capitalize()} found for TMDb ID {_id}: {e}")
                             if extra_html:
@@ -289,14 +318,14 @@ try:
                                         find_results = tmdbapi.find_by_id(imdb_id=imdb_id)
                                         if is_movie and find_results.movie_results:
                                             i = find_results.movie_results[0]
-                                            if i.id not in items:
-                                                items[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
+                                            if i.id not in builder_movies:
+                                                builder_movies[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
                                         elif not is_movie and find_results.tv_results:
                                             i = find_results.tv_results[0]
                                             if i.tvdb_id not in tvdb_lookup:
                                                 tvdb_lookup[i.tvdb_id] = i
-                                            if i.tvdb_id not in items:
-                                                items[i.tvdb_id] = {"title": i.name, "year": i.first_air_date.year if i.first_air_date else ""}
+                                            if i.tvdb_id not in builder_shows:
+                                                builder_shows[i.tvdb_id] = {"title": i.name, "year": i.first_air_date.year if i.first_air_date else ""}
                                         else:
                                             raise TMDbException
                                     except TMDbException:
@@ -351,9 +380,13 @@ try:
                                     else:
                                         continue
                                     id_type, id_display = id_types[_type]
-                                    _id = int(json_data["ids"][id_type]) if id_type in json_data["ids"] and json_data["ids"][id_type] else json_data["title"]
-                                    if (is_movie and id_type == "tmdb") or (not is_movie and id_type == "tvdb") and _id not in items:
-                                        items[_id] = {"title": json_data["title"], "year": json_data["year"]}
+                                    if id_type not in json_data["ids"] or not json_data["ids"][id_type]:
+                                        continue
+                                    _id = int(json_data["ids"][id_type])
+                                    if id_type == "tmdb" and _id not in builder_movies:
+                                        builder_movies[_id] = {"title": json_data["title"], "year": json_data["year"]}
+                                    elif id_type == "tvdb" and _id not in builder_shows:
+                                        builder_shows[_id] = {"title": json_data["title"], "year": json_data["year"]}
                         elif k == "mdblist_list":
                             mdblist_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
                             for mdblist_url in mdblist_urls:
@@ -384,10 +417,10 @@ try:
 
                                 builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(mdblist_url)}<br>\n'
                                 for json_data in response:
-                                    if is_movie and json_data["mediatype"] == "movie" and json_data["id"] not in items:
-                                        items[json_data["id"]] = {"title": json_data["title"], "year": json_data["release_year"]}
-                                    elif not is_movie and json_data["mediatype"] == "show" and json_data["tvdbid"] not in items:
-                                        items[json_data["tvdbid"]] = {"title": json_data["title"], "year": json_data["release_year"]}
+                                    if is_movie and json_data["mediatype"] == "movie" and json_data["id"] not in builder_movies:
+                                        builder_movies[json_data["id"]] = {"title": json_data["title"], "year": json_data["release_year"]}
+                                    elif not is_movie and json_data["mediatype"] == "show" and json_data["tvdbid"] not in builder_shows:
+                                        builder_shows[json_data["tvdbid"]] = {"title": json_data["title"], "year": json_data["release_year"]}
                     builder_html += "</ul>\n"
                     if new_collections:
                         new_cols = {}
@@ -404,40 +437,49 @@ try:
                             new_cols[YAML.quote(k)] = [YAML.quote(i) for i in alts]
                         new_collections = new_cols
                     style_translation = {}
-                    for k, v in items.items():
-                        title = f"{v['title']} ({v['year']})" if v["year"] else v["title"]
-                        if not v["year"] or int(v["year"]) > six_months.year:
-                            continue
-                        if k in dict_items:
-                            used_editions = []
-                            for old_title, old_data in dict_items[k]:
-                                def _read_old_data(ed_attr):
-                                    if ed_attr in old_data and old_data[ed_attr]:
-                                        if old_data[ed_attr] in used_editions:
-                                            raise Failed(f"Edition Error: Edition {old_data[ed_attr]} already used")
-                                        ed_title = f"{title} ({old_data[ed_attr]})"
-                                        final[ed_title] = (v["year"], {"mapping_id": k, ed_attr: old_data[ed_attr]}) # noqa
-                                        if old_title != ed_title:
-                                            style_translation[old_title] = ed_title
-                                        used_editions.append(old_data[ed_attr])
-                                        return True
-                                    return False
-                                if not _read_old_data("edition_filter"):
-                                    if not _read_old_data("edition_contains"):
-                                        if old_title != title:
-                                            style_translation[old_title] = title
-                            final[title] = (v["year"], {"mapping_id": k, "blank_edition": True})
-                        else:
-                            if k in number_items:
-                                if number_items[k] != title:
-                                    style_translation[number_items[k]] = title
-                            final[title] = (v["year"], k)
+
+                    def read_items(_items, _editions, _non_editions):
+                        _final = {}
+                        for _item_id, _data in _items.items():
+                            _year = int(_data['year']) if _data["year"] is not None else None
+                            title = f"{_data['title']} ({_year})" if _year else _data["title"]
+                            if not _year or _year > six_months.year:
+                                continue
+                            if _item_id in _editions:
+                                used_editions = []
+                                for old_title, old_data in _editions[_item_id]:
+                                    def _read_old_data(ed_attr):
+                                        if ed_attr in old_data and old_data[ed_attr]:
+                                            if old_data[ed_attr] in used_editions:
+                                                raise Failed(f"Edition Error: Edition {old_data[ed_attr]} already used")
+                                            ed_title = f"{title} ({old_data[ed_attr]})"
+                                            _final[ed_title] = (v["year"], {"mapping_id": _item_id, ed_attr: old_data[ed_attr]}) # noqa
+                                            if old_title != ed_title:
+                                                style_translation[old_title] = ed_title
+                                            used_editions.append(old_data[ed_attr])
+                                            return True
+                                        return False
+                                    if not _read_old_data("edition_filter"):
+                                        if not _read_old_data("edition_contains"):
+                                            if old_title != title:
+                                                style_translation[old_title] = title
+                                _final[title] = (_year, {"mapping_id": _item_id, "blank_edition": True})
+                            else:
+                                if _item_id in _non_editions:
+                                    if _non_editions[_item_id] != title:
+                                        style_translation[_non_editions[_item_id]] = title
+                                _final[title] = (_year, _item_id)
+                        return {YAML.quote(_k): _final[k][1] for _k in sorted(_final.keys(), key=lambda x: _final[x][0])} if _final else {}
 
                     if new_collections:
                         new_data["collections"] = new_collections
 
-                    new_data[attr] = {YAML.quote(k): final[k][1] for k in sorted(final.keys(), key=lambda x: final[x][0])}
+                    if final_movies := read_items(existing_movies, movie_editions, existing_movie_lookup):
+                        new_data["movies"] = final_movies
+                    if final_shows := read_items(existing_shows, show_editions, existing_show_lookup):
+                        new_data["shows"] = final_shows
 
+                    os.makedirs(style_dir, exist_ok=True)
                     index_line = f'<div class="images-inline-link">{new_data["title"]}<br><code>{section_key}</code></div>'
                     index_table += f'  <li>{a_link(index_line, local_link=new_data["title"])}</li>\n'
                     readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n{builder_html}'
@@ -453,12 +495,12 @@ try:
                             style_data = style_data[0]
                         if "pmm" not in style_data or not style_data["pmm"]:
                             continue
-                        style_path_key = styles_path
+                        style_path_key = style_dir
                         for p in style_data["pmm"].split("/"):
                             style_path_key = os.path.join(style_path_key, p)
                         style_path_key.removesuffix(".yml")
                         style_path = f"{style_path_key}.yml"
-                        os.makedirs(os.path.basename(style_path), exist_ok=True)
+                        os.makedirs(os.path.dirname(style_path), exist_ok=True)
                         style_yaml = YAML(path=style_path, create=True, preserve_quotes=True)
                         new_style = {"info": {"style_author": None, "style_image": None, "style_key": style, "style_link": None}}
 
@@ -741,6 +783,8 @@ try:
             logger.error(e)
         logger.info()
 
+    sets_yaml.data = {"sets": new_sets}
+    sets_yaml.save()
 except Failed as e:
     logger.separator()
     logger.critical(e)
