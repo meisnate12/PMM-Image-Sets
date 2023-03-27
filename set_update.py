@@ -36,7 +36,7 @@ headers = {"Accept-Language": "en-US,en;q=0.5", "User-Agent": "Mozilla/5.0 Firef
 base_url = "https://api.trakt.tv"
 script_name = "PMM Image Set Update"
 base_dir = os.path.dirname(os.path.abspath(__file__))
-pmmargs = PMMArgs("meisnate12/PMM-Image-Sets", os.path.dirname(os.path.abspath(__file__)), options, use_nightly=False)
+pmmargs = PMMArgs("meisnate12/PMM-Image-Sets", os.path.dirname(os.path.abspath(__file__)), options, config_folder=None, use_nightly=False)
 logger = logging.PMMLogger(script_name, "set_update", os.path.join(base_dir, "logs"), is_trace=pmmargs["trace"], log_requests=pmmargs["log-requests"])
 logger.secret([pmmargs["tmdbapi"], pmmargs["trakt_id"], pmmargs["trakt_token"]])
 requests.Session.send = util.update_send(requests.Session.send, pmmargs["timeout"])
