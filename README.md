@@ -413,9 +413,12 @@ At a minimum. we recommend you to complete `style_author`, `style_image`, `style
 | `track_backgrounds` | Will Track Backgrounds in this Image Style and add them to the Missing File. Must be either `true` or `false`                 |
 | `track_editions`    | Will Track Editions from the Image Set in this Image Style and add them to the Missing File. Must be either `true` or `false` |
 
+
+
+
 **Then either push your changes or run `set_update.py` locally.**
 
-These attributes should now disappear from the Missing file and will be added to teh Image Style File
+These attributes should now disappear from the Missing file and will be added to the Image Style File
 
 If you need to edit the attribute or add any other attribute, you should edit the Image Style File and add it there.
 
