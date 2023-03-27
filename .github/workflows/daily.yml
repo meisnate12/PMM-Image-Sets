@@ -2,11 +2,12 @@ name: Image-Set-Update
 
 on:
   workflow_dispatch:
-  push:
-  pull_request:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   Image-Set-Update:
+    if: github.repository_owner == 'meisnate12'
     runs-on: ubuntu-latest
     steps:
 
