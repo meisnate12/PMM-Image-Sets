@@ -4,7 +4,6 @@ sections:
     builders:
       tmdb_collection: 8091, 115762, 135416
     styles:
-      default: rhj
       rhj:
     collections:
       "Alien Collection":
@@ -27,7 +26,6 @@ sections:
     builders:
       tmdb_collection: 87096
     styles:
-      default: rhj
       rhj:
     collections:
       "Avatar Collection":
@@ -151,7 +149,6 @@ sections:
       tmdb_collection: 9485, 688042
       tmdb_movie: 253835
     styles:
-      default: mikenobbs
       mikenobbs:
     collections:
       "Fast & Furious: Complete Collection":
@@ -184,7 +181,6 @@ sections:
     builders:
       tmdb_collection: 230
     styles:
-      default: eternal
       eternal:
     collections:
       "The Godfather Collection":
@@ -206,7 +202,6 @@ sections:
       tmdb_collection: 374511
       tmdb_movie: 39256
     styles:
-      default: doctorbat
       doctorbat:
       doctorbat2:
     collections:
@@ -227,7 +222,6 @@ sections:
       tmdb_collection: 535313
       tmdb_movie: 293167
     styles:
-      default: rhj
       rhj:
     collections:
       "Monsterverse Collection":
@@ -248,7 +242,6 @@ sections:
       tmdb_collection: 374509
       tmdb_movie: 18983, 329237, 686487
     styles:
-      default: doctorbat
       doctorbat:
       doctorbat2:
     collections:
@@ -278,7 +271,6 @@ sections:
     builders:
       tmdb_collection: 735384
     styles:
-      default: diiivoy_neon
       diiivoy_neon:
     collections:
       "Hercule Poirot Collection":
@@ -293,7 +285,6 @@ sections:
     builders:
       tmdb_collection: 84
     styles:
-      default: rhj
       rhj:
       olivier:
     collections:
@@ -311,7 +302,6 @@ sections:
       tmdb_collection: 645
       tmdb_movie: 12208
     styles:
-      default: rhj
       rhj:
     collections:
       "James Bond Collection":
@@ -368,7 +358,6 @@ sections:
     builders:
       tmdb_collection: 404609
     styles:
-      default: rhj
       rhj:
       morkoz:
     collections:
@@ -385,7 +374,6 @@ sections:
       tmdb_collection: 328
       tmdb_movie: 630322
     styles:
-      default: diiivoy_neon
       diiivoy_neon:
       rhj:
     collections:
@@ -609,7 +597,6 @@ sections:
       tmdb_collection: 86055
       tmdb_movie: 479455
     styles:
-      default: rhj
       rhj:
     collections:
       "Men in Black Collection":
@@ -629,7 +616,6 @@ sections:
     builders:
       tmdb_collection: 121938, 119
     styles:
-      default: mikenobbs
       mikenobbs:
       rhj:
     collections:
@@ -665,7 +651,6 @@ sections:
     builders:
       tmdb_collection: 87359
     styles:
-      default: rhj
       rhj:
       rhj2:
     collections:
@@ -685,7 +670,6 @@ sections:
     builders:
       tmdb_collection: 382685
     styles:
-      default: rhj
       rhj:
     collections:
       "Now You See Me Collection":
@@ -699,7 +683,6 @@ sections:
       tmdb_collection: 304
       tmdb_movie: 402900
     styles:
-      default: rhj
       rhj:
     collections:
       "Ocean's Collection":
@@ -714,7 +697,6 @@ sections:
     builders:
       tmdb_collection: 295
     styles:
-      default: rhj
       rhj:
       diiivoy:
     collections:
@@ -731,7 +713,6 @@ sections:
     builders:
       tmdb_collection: 399
     styles:
-      default: rhj
       rhj:
     collections:
       "Predator Collection":
@@ -747,7 +728,6 @@ sections:
     builders:
       tmdb_collection: 1575, 553717
     styles:
-      default: dannybeaton
       dannybeaton:
     collections:
       "Rocky Collection":
@@ -772,7 +752,6 @@ sections:
       tmdb_collection: 656
       tmdb_movie: 602734
     styles:
-      default: rhj
       rhj:
     collections:
       "Saw Collection":
@@ -855,7 +834,6 @@ sections:
       tmdb_collection: 435259, 1241
       tmdb_movie: 899082
     styles:
-      default: diiivoy_neon
       diiivoy_neon:
       rhj:
       rhj2:
