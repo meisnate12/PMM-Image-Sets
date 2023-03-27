@@ -63,9 +63,21 @@ We recommend using Environment Variables as these are stored in a file rather th
 
 If you prefer using the run arguments, an example run command would be `python set_update.py --tmdbapi 123456 --trakt_id 1a2bc3 --trakt_token 9z8y7x`
 
-# Image Sets
+# Terminology
 
-Image Sets are generally broken up into library type (such as movies, kids movies, shows, kids shows, etc). The main exception to this is universes such as Marvel Cinematic Universe which can contain a multitude of mini-collections within it. 
+There is a process/workflow that you should have a high-level understanding of in order to understand where each piece of the puzzle fits together.
+
+The [Set Index File](#set-index-file) is used to define and create each of the Image Sets that exist. The Set Index File is normally split into library type (movies, shows, kids movies, kids shows, etc), with an exception being made for movie/show universes such as Marvel Cinematic Universe which can contain a multitude of mini-collections within it.
+
+The [Image Set File](#image-sets) is used to list each of the movies/shows that are part of the Image Set, utilizing [Builders](#supported-builders) to populate the movies/shows list.
+
+An [Image Style](#image-style) is a way of applying different poster sets to the same Image Set. We normally use the poster author's name (and a meaningful description if they have more than one style), commonly found Image Styles are `diiivoy_neon` and `redheadjedi`
+
+The [Image Style File](#image-style-files) lists all of the movies/shows that are part of the Image Style, and maps each movie/show to a poster URL (normally by theposterdatabase ID, or any other direct URL link)
+
+# Set Index File
+
+The Set Index File is used to define and create each of the Image Sets that exist. The Set Index File is normally split by library type (movies, shows, kids movies, kids shows, etc), with the exception of universes such as Marvel Cinematic Universe which can contain a multitude of mini-collections within it.
 
 **You should only create a new Image Set if your images does not fall into an already existing Image Set.**
 
@@ -84,8 +96,6 @@ sets:
 ```
 
 **Then either push your changes or run `set_update.py` locally to initialize the set and create the initial Image Set file at `mcu/set.yml` which to start will just have `sections:`.**
-
-
 
 ## Step 2 - Editing the Image Set (Optional)
 
@@ -106,34 +116,34 @@ sets:
 
 **Then either push your changes or run `set_update.py` locally to edit the set sections.**
 
-# Image Set Sections
+# Image Sets
 
-An Image Set Section is a way of logically creating or splitting Image Sets into smaller parts. For example, the Marvel Cinematic Universe can be split in different ways:
-- Iron Man, Thor, Captain America, etc
-- Phase 1, Phase 2, Phase 3, etc
-- Infinity Saga, Multiverse Saga
+The Image Set File is used to list each of the movies/shows that are part of the Image Set.
 
-Each section then lists all the movies/shows that belong in that section and their TMDb ID (For Movies) or TVDb ID (For Shows).
+Most Image Set Files will utilize Sections to split the file into smaller pieces, allowing each section to have its own properties. For example, an Image Set File for the Marvel Cinematic Universe can be split into sections in different ways:
+- Sections for Iron Man, Thor, Captain America, etc.
+- Sections for Phase 1, Phase 2, Phase 3, etc.
+- Sections for Infinity Saga, Multiverse Saga, etc.
+
+Regardless of how you split the Image Set File, each Section will utilize builders to specify all the movies/shows that belong in that section, and their TMDb ID (For Movies) or TVDb ID (For Shows).
 
 This allows Plex Meta Manager to compare your library against the movies/shows in the Image Set to see what items you have.
 
 ## Step 1 - Creating an Image Set Section
 
-Following the creation of our new `marvel` Set, we are going to split Marvel Cinematic Universe into character-based sections. Open `marvel/set.yml`
+Following the creation of our new `marvel` Image Set File, we are going to split Marvel Cinematic Universe into character-based sections. Open `marvel/set.yml`
 
-To add a new section to an Image Set edit the `set.yml` and add the `section_key` you want.
-
-`section_key` can be named anything, but should logically explain what section
+To add a new section to the Image Set File, edit the `set.yml` and add the Section Key. The Section Key can be named anything, but should logically explain what the section is. We will use `ironman` and `thor` for this example.
 
 ```yaml
 sections:
-  ironman:    # adding the ironman section
+  ironman:    # adding the ironman section key
   thor:       # adding the thor section
 ```
 
 **Then either push your changes or run `set_update.py` locally to initialize the sections.**
 
-Now each section will have an auto generated `title` (We will change this later), a blank `builders` attribute, and the `styles` attribute:
+Now each Section will have an auto generated `title`, a blank `builders` attribute, and a blank `styles` attribute:
 
 ```yaml
 sections:
@@ -146,11 +156,9 @@ sections:
     builders:
     styles:
 ```
-
-
 ### Step 2 - Adding Builders
 
-Now that you have an `ironman` and `thor` section, it's time to start filling in the attributes, starting with `builders`.
+Now that we have an `ironman` and `thor` section, it's time to start filling in the attributes, starting with `builders`.
 
 In simple terms, Builders define how Plex Meta Manager is going to know what movies/shows are part of the Section. This is most commonly done using TMDb Collections, Trakt Lists or any other builder from the below table:
 
@@ -279,15 +287,35 @@ sections:
       "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)": 76535   # This has now been added
 ```
 
+## Step 4 - Editing the Image Set Sections
+
+Now if you want to edit the Image Set File open the file in question and change the value you wish to change. Then either push your changes or run `set_update.py` locally to update the associated files.
+
+You can change the `title`, add/remove `builders`, add/remove `styles`, add/remove `collections`, add/remove collection alternative names, and add/remove editions.
+
+The `title` attribute should always be legible in Plain English, as it is the title that will appear in the documentation, so shouldn't be "code":
+
+```yaml
+sections:
+  ironman:
+    title: Iron Man       # changed the title from Ironman to Iron Man
+    builders:
+    styles:
+  thor:
+    title: Thor
+    builders:
+    styles:
+```
+
 # Image Styles
 
 An Image Style is used to define a style of posters which should apply to movies within the Section. 
 
 We usually name the styles after the image author/creator, and append a meaningful description when the author has more than one style which can apply to the items.
 
-For example, one of the commonly used poster syles for Kids Movies is [diiivoy_neon](https://theposterdb.com/set/92964)
+For example, one of the commonly used poster styles for Kids Movies is [diiivoy_neon](https://theposterdb.com/set/92964)
 
-Each Section can have any number of different Styles and these files are what defines them.
+Each Section within an Image Set File can have any number of different Styles, these files are what defines them.
 
 ## Step 1 - Adding Image Styles
 
@@ -298,7 +326,7 @@ For this example we will use `my_style_key` as the key.
 ```yaml
 sections:
   ironman:
-    title: Ironman
+    title: Iron Man
     builders:
       tmdb_collection: 131292
     styles:
@@ -336,26 +364,6 @@ The Image Set file won't change, but you'll now have three new files at `marvel/
 * `marvel/styles/thor/my_style_key.yml`: The Image Style File for the `my_style_key` Style Key in the `thor` Section of the Image Set File `marvel`.
 
 See more on these Files at [Edit Image Style Files](#edit-image-style-files)
-
-## Step 2 - Editing the Image Set Sections
-
-Now if you want to edit the Image Set File open the file in question and change the value you wish to change. Then either push your changes or run `set_update.py` locally to update the associated files.
-
-You can change the `title`, add/remove `builders`, add/remove `styles`, add/remove `collections`, add/remove collection alternative names, and add/remove editions.
-
-The `title` attribute should always be legible in Plain English, as it is the title that will appear in the documentation, so shouldn't be "code":
-
-```yaml
-sections:
-  ironman:
-    title: Iron Man       # changed the title from Ironman to Iron Man
-    builders:
-    styles:
-  thor:
-    title: Thor
-    builders:
-    styles:
-```
 
 ## Image Style Files
 
