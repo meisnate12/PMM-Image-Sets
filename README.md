@@ -59,7 +59,9 @@ The automation is only required if you want an "active" fork that has automation
 
 If you want to run `set_update.py` locally, you need to either set up the Environment Variables `TMDBAPI`, `TRAKT_ID`, and `TRAKT_TOKEN` or use the run arguments `--tmdbapi`, `--trakt_id`, and `trakt_token`.
 
-an example run argument would be `python set_update.py --tmdbapi 123456 --trakt_id 1a2bc3 --trakt_token 9z8y7x`
+We recommend using Environment Variables as these are stored in a file rather than having to be typed in a command on each run. To do this, open up `.env.example` and enter your TMDB/Trakt keys, then rename the file to .env
+
+If you prefer using the run arguments, an example run command would be `python set_update.py --tmdbapi 123456 --trakt_id 1a2bc3 --trakt_token 9z8y7x`
 
 # Image Sets
 
