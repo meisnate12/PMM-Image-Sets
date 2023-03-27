@@ -1,8 +1,9 @@
 info:
   style_author: DIIIVOY
-  style_image: https://theposterdb.com/api/assets/157013
+  style_image: 157013
   style_key: diiivoy_neon
-  style_link: https://theposterdb.com/set/96588
+  style_link: 96588
+  complete: true
 collections:
   "Wizarding World (of Harry Potter) Collection": {tpdb_poster: 157757}
   "Fantastic Beasts Collection": {tpdb_poster: 157754}

@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/158973
+  style_image: 158973
   style_key: rhj
-  style_link: https://theposterdb.com/set/97241
+  style_link: 97241
+  complete: true
 collections:
   "Jurassic Park Collection": {tpdb_poster: 158968}
 movies:

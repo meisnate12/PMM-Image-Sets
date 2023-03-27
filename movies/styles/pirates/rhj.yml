@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/49933
+  style_image: 49933
   style_key: rhj
-  style_link: https://theposterdb.com/set/31826
+  style_link: 31826
+  complete: true
 movies:
   "Pirates of the Caribbean: The Curse of the Black Pearl (2003)": {tpdb_poster: 49934}
   "Pirates of the Caribbean: Dead Man's Chest (2006)": {tpdb_poster: 49935}

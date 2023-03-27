@@ -1,8 +1,9 @@
 info:
   style_author: MorkOz
-  style_image: https://theposterdb.com/api/assets/243407
+  style_image: 243407
   style_key: morkoz
-  style_link: https://theposterdb.com/set/146057
+  style_link: 146057
+  complete: true
 collections:
   "John Wick Collection": {tpdb_poster: 243405}
 movies:

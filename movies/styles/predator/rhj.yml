@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/243
+  style_image: 243
   style_key: rhj
-  style_link: https://theposterdb.com/set/76
+  style_link: 76
+  complete: true
 collections:
   "Predator Collection": {tpdb_poster: 243}
 movies:

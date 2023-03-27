@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/176911
+  style_image: 176911
   style_key: rhj
-  style_link: https://theposterdb.com/set/107797
+  style_link: 107797
+  complete: true
 collections:
   "James Bond Collection": {tpdb_poster: 176906}
 movies:

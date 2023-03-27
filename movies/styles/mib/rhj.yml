@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/16550
+  style_image: 16550
   style_key: rhj
-  style_link: https://theposterdb.com/set/9203
+  style_link: 9203
+  complete: true
 collections:
   "Men in Black Collection": {tpdb_poster: 16550}
 movies:

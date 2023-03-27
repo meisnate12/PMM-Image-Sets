@@ -1,8 +1,8 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/2705
+  style_image: 2705
   style_key: rhj2
-  style_link: https://theposterdb.com/set/1001
+  style_link: 1001
 collections:
   "Mission: Impossible Collection": {tpdb_poster: 2705}
 movies:

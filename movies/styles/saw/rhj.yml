@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/155368
+  style_image: 155368
   style_key: rhj
-  style_link: https://theposterdb.com/set/95260
+  style_link: 95260
+  complete: true
 collections:
   "Saw Collection": {tpdb_poster: 155363}
 movies:
