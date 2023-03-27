@@ -3,6 +3,8 @@ info:
   style_image: 303873
   style_key: rhj
   style_link: 179016
+collections:
+  "Avatar Collection": {tpdb_poster: 303873}
 movies:
   "Avatar (2009) (Extended)": {tpdb_poster: 303876}
   "Avatar (2009)": {tpdb_poster: 303874}

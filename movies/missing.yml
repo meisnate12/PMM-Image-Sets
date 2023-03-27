@@ -3,10 +3,6 @@ alien:
     collections:
       "AVP Collection": {tpdb_poster: null, url_poster: null}
       "Prometheus Collection": {tpdb_poster: null, url_poster: null}
-avatar:
-  rhj:
-    collections:
-      "Avatar Collection": {tpdb_poster: null, url_poster: null}
 fast_furious:
   mikenobbs:
     collections:
