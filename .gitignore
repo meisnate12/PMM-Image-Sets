@@ -136,17 +136,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-image-venv/bin/activate
-image-venv/bin/activate.csh
-image-venv/bin/activate.fish
-image-venv/bin/Activate.ps1
-image-venv/bin/dotenv
-image-venv/bin/normalizer
-image-venv/bin/pip
-image-venv/bin/pip3
-image-venv/bin/pip3.11
-image-venv/bin/python
-image-venv/bin/python3
-image-venv/bin/python3.11
-image-venv/bin/tqdm
-image-venv/pyvenv.cfg
