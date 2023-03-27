@@ -279,11 +279,19 @@ sections:
 
 # Image Styles
 
-An Image Style is used to define a style of posters which should apply to movies within the Section. Each Section can have any number of different Styles and these files are what defines them.
+An Image Style is used to define a style of posters which should apply to movies within the Section. 
+
+We usually name the styles after the image author/creator, and append a meaningful description when the author has more than one style which can apply to the items.
+
+For example, one of the commonly used poster syles for Kids Movies is [diiivoy_neon](https://theposterdb.com/set/92964)
+
+Each Section can have any number of different Styles and these files are what defines them.
 
 ## Step 1 - Adding Image Styles
 
-First we need to initialize the style file by adding a Style Key under `styles`. The style key can be whatever you want, normally we reference the image creator as the key. For this example we will use `my_style_key` as the key.
+First we need to initialize the style file by adding a Style Key under `styles`. 
+
+For this example we will use `my_style_key` as the key.
 
 ```yaml
 sections:
