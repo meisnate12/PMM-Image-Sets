@@ -129,7 +129,7 @@ try:
                     new_data = {
                         "title": section_data["title"] if "title" in section_data and section_data["title"] else str(section_key).replace("_", " ").title(),
                         "builders": section_data["builders"] if "builders" in section_data and section_data["builders"] else {},
-                        "styles": section_data["styles"] if "styles" in section_data and section_data["styles"] else {}
+                        "styles": {k: v for k, v in section_data["styles"].items() if k != "default"} if "styles" in section_data and section_data["styles"] else {}
                     }
                     if not new_data["builders"]:
                         raise Failed(f"No Builders Found ignoring section: {section_key}")
@@ -491,6 +491,10 @@ try:
                         if style == "default":
                             continue
                         default_style_path = f"{section_key}/{style}"
+                        style_link = None
+                        if style_data and isinstance(style_data, str):
+                            style_link = style_data
+                            style_data = None
                         if not style_data:
                             style_data = {"pmm": default_style_path}
                         if isinstance(style_data, list):
@@ -560,15 +564,12 @@ try:
                         track_backgrounds = True if "track_backgrounds" in new_style["info"] and new_style["info"]["track_backgrounds"] else False
                         track_editions = True if "track_editions" in new_style["info"] and new_style["info"]["track_editions"] else False
 
+                        if style_link and not new_style["info"]["style_link"]:
+                            new_style["info"]["style_link"] = style_link
+
                         if new_style["info"]["style_link"]:
                             try:
                                 new_style["info"]["style_link"] = f'https://theposterdb.com/set/{int(new_style["info"]["style_link"])}'
-                            except ValueError:
-                                pass
-
-                        if new_style["info"]["style_image"]:
-                            try:
-                                new_style["info"]["style_image"] = f'https://theposterdb.com/api/assets/{int(new_style["info"]["style_image"])}'
                             except ValueError:
                                 pass
 
