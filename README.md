@@ -279,7 +279,7 @@ sections:
 
 # Image Styles
 
-An Image Style File is a file that directly has links to the actual image that will be used for each movie or show. Each Section can have any number of different Styles and these files are what defines them.
+An Image Style is used to define a style of posters which should apply to movies within the Section. Each Section can have any number of different Styles and these files are what defines them.
 
 ## Step 1 - Adding Image Styles
 
@@ -347,6 +347,104 @@ sections:
     styles:
 ```
 
+## Image Style Files
+
+Image Style Files are used to map images to each of the movies/shows within the Style.
+
+You can edit Image Style Files by either editing that Style in the Section's Missing File (`marvel/missing.yml`) or by editing the Image Style File directly.
+
+If you are adding new items, we recommend updating the Missing file for the Image Set (i.e. `marvel/missing.yml`). If you are editing existing items, you must use the Style file (i.e. `marvel/styles/thor/my_style_key.yml`)
+
+If you've followed the steps above up till this point your Section's Missing File should look like this.
+
+```yaml
+ironman:
+  my_style_key:
+    info:
+      style_author:
+      style_image:
+      style_link:
+    collections:
+      "Iron Man Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Iron Man (2008)": {tpdb_poster: null, url_poster: null}
+      "Iron Man 2 (2010)": {tpdb_poster: null, url_poster: null}
+      "Iron Man 3 (2013)": {tpdb_poster: null, url_poster: null}
+thor:
+  my_style_key:
+    info:
+      style_author:
+      style_image:
+      style_link:
+    collections:
+      "Thor Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Thor (2011)": {tpdb_poster: null, url_poster: null}
+      "Thor: The Dark World (2013)": {tpdb_poster: null, url_poster: null}
+      "Thor: Ragnarok (2017)": {tpdb_poster: null, url_poster: null}
+      "Thor: Love and Thunder (2022)": {tpdb_poster: null, url_poster: null}
+      "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)": {tpdb_poster: null, url_poster: null}
+```
+
+### Step 1 - Completing the Style Info
+
+Open the Missing file (`marvel/missing.yml`) and fill in the Style Info attributes.
+
+At a minimum. we recommend you to complete `style_author`, `style_image`, `style_link`
+
+| Info Attribute      | Description                                                                                                                   |
+|:--------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| `style_author`      | Image Style Author's Name. This will show on the Read Me page for this Image Set.                                             |
+| `style_image`       | Direct link to an example image of what will be applied. This will show on the Read Me page for this Image Set.               |
+| `style_link`        | Link to Image Style Page (such as the TPDB Set page). This will be linked on the Read Me page for this Image Set.             |
+| `complete`          | Auto Generated attribute that means the set has all its Images. Must be either `true` or `false`                              |
+| `track_seasons`     | Will Track Seasons in this Image Style and add them to the Missing File. Must be either `true` or `false`                     |
+| `track_episodes`    | Will Track Episode Title Cards in this Image Style and add them to the Missing File. Must be either `true` or `false`         |
+| `track_backgrounds` | Will Track Backgrounds in this Image Style and add them to the Missing File. Must be either `true` or `false`                 |
+| `track_editions`    | Will Track Editions from the Image Set in this Image Style and add them to the Missing File. Must be either `true` or `false` |
+
+**Then either push your changes or run `set_update.py` locally.**
+
+These attributes should now disappear from the Missing file and will be added to teh Image Style File
+
+If you need to edit the attribute or add any other attribute, you should edit the Image Style File and add it there.
+
+### Step 2 - Editing Style Collections, Movies, and Shows
+
+Open the Missing file (`marvel/missing.yml`)
+
+To add a poster simply change the `null` after either `tpdb_poster` (with ThePosterDB Poster ID as its value) or `url_poster` (with a specific url directly to the image as its value).
+
+```yaml
+      "Thor (2011)": {tpdb_poster: 9777, url_poster: null}      # points to https://theposterdb.com/api/assets/9777
+      "Thor: Love and Thunder (2022)": {tpdb_poster: null, url_poster: "https://alternativemovieposters.com/wp-content/uploads/2022/07/SamDunn_Thor.jpg"}
+```
+
+Optionally, you can remove any null attributes. This has no effect on the end-result but can be visually easier to understand:
+
+```yaml
+      "Thor (2011)": {tpdb_poster: 9777}
+      "Thor: Love and Thunder (2022)": {url_poster: "https://alternativemovieposters.com/wp-content/uploads/2022/07/SamDunn_Thor.jpg"}
+```
+
+You can also add backgrounds by adding the attribute to the item. These will only be tracked if `track_backgrounds: true` is under `info`.
+
+```yaml
+      "Thor: Love and Thunder (2022)": {tpdb_poster: null, url_poster: "https://alternativemovieposters.com/wp-content/uploads/2022/07/SamDunn_Thor.jpg", url_background: "https://www.themoviedb.org/t/p/original/htAwfLn5kmrWeedoNregdIB9BKX.jpg"}
+```
+
+The above example YAML code can also be written in the following format. Either way is valid and will result in the same output, this is purely a visual change:
+
+```yaml
+      "Thor: Love and Thunder (2022)": 
+        url_poster: "https://www.themoviedb.org/t/p/original/38S1zYsObBIlGZR31RNUxJ1sAaj.jpg"
+        url_background: "https://www.themoviedb.org/t/p/original/htAwfLn5kmrWeedoNregdIB9BKX.jpg"
+```
+
+**Then either push your changes or run `set_update.py` locally.**
+
+These attributes will disappear from the Missing File and be added to the Image Style File.
+
 # Editions (Optional)
 
 Quite often, users will have multiple editions of the same movie/show within their library, such as Extended Edition or Director's Cut. Image Sets allow you to set different posters depending on the edition of the movie/show.
@@ -412,101 +510,3 @@ The script will auto generate the name it wants to use for the edition as well a
         mapping_id: 616037
         blank_edition: true
    ```
-
-# Image Style Files
-
-Image Style Files are used to map images to each of the movies/shows within the Style.
-
-You can edit Image Style Files by either editing that Style in the Section's Missing File (`marvel/missing.yml`) or by editing the Image Style File directly.
-
-If you are adding new items, we recommend updating the Missing file for the Image Set (i.e. `marvel/missing.yml`). If you are editing existing items, you must use the Style file (i.e. `marvel/styles/thor/my_style_key.yml`)
-
-If you've followed the steps above up till this point your Section's Missing File should look like this.
-
-```yaml
-ironman:
-  my_style_key:
-    info:
-      style_author:
-      style_image:
-      style_link:
-    collections:
-      "Iron Man Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Iron Man (2008)": {tpdb_poster: null, url_poster: null}
-      "Iron Man 2 (2010)": {tpdb_poster: null, url_poster: null}
-      "Iron Man 3 (2013)": {tpdb_poster: null, url_poster: null}
-thor:
-  my_style_key:
-    info:
-      style_author:
-      style_image:
-      style_link:
-    collections:
-      "Thor Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Thor (2011)": {tpdb_poster: null, url_poster: null}
-      "Thor: The Dark World (2013)": {tpdb_poster: null, url_poster: null}
-      "Thor: Ragnarok (2017)": {tpdb_poster: null, url_poster: null}
-      "Thor: Love and Thunder (2022)": {tpdb_poster: null, url_poster: null}
-      "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)": {tpdb_poster: null, url_poster: null}
-```
-
-## Step 1 - Completing the Style Info
-
-Open the Missing file (`marvel/missing.yml`) and fill in the Style Info attributes.
-
-At a minimum. we recommend you to complete `style_author`, `style_image`, `style_link`
-
-| Info Attribute      | Description                                                                                                                   |
-|:--------------------|:------------------------------------------------------------------------------------------------------------------------------|
-| `style_author`      | Image Style Author's Name. This will show on the Read Me page for this Image Set.                                             |
-| `style_image`       | Direct link to an example image of what will be applied. This will show on the Read Me page for this Image Set.               |
-| `style_link`        | Link to Image Style Page (such as the TPDB Set page). This will be linked on the Read Me page for this Image Set.             |
-| `complete`          | Auto Generated attribute that means the set has all its Images. Must be either `true` or `false`                              |
-| `track_seasons`     | Will Track Seasons in this Image Style and add them to the Missing File. Must be either `true` or `false`                     |
-| `track_episodes`    | Will Track Episode Title Cards in this Image Style and add them to the Missing File. Must be either `true` or `false`         |
-| `track_backgrounds` | Will Track Backgrounds in this Image Style and add them to the Missing File. Must be either `true` or `false`                 |
-| `track_editions`    | Will Track Editions from the Image Set in this Image Style and add them to the Missing File. Must be either `true` or `false` |
-
-**Then either push your changes or run `set_update.py` locally.**
-
-These attributes should now disappear from the Missing file and will be added to teh Image Style File
-
-If you need to edit the attribute or add any other attribute, you should edit the Image Style File and add it there.
-
-## Step 2 - Editing Style Collections, Movies, and Shows
-
-Open the Missing file (`marvel/missing.yml`)
-
-To add a poster simply change the `null` after either `tpdb_poster` (with ThePosterDB Poster ID as its value) or `url_poster` (with a specific url directly to the image as its value).
-
-```yaml
-      "Thor (2011)": {tpdb_poster: 9777, url_poster: null}      # points to https://theposterdb.com/api/assets/9777
-      "Thor: Love and Thunder (2022)": {tpdb_poster: null, url_poster: "https://alternativemovieposters.com/wp-content/uploads/2022/07/SamDunn_Thor.jpg"}
-```
-
-Optionally, you can remove any null attributes. This has no effect on the end-result but can be visually easier to understand:
-
-```yaml
-      "Thor (2011)": {tpdb_poster: 9777}
-      "Thor: Love and Thunder (2022)": {url_poster: "https://alternativemovieposters.com/wp-content/uploads/2022/07/SamDunn_Thor.jpg"}
-```
-
-You can also add backgrounds by adding the attribute to the item. These will only be tracked if `track_backgrounds: true` is under `info`.
-
-```yaml
-      "Thor: Love and Thunder (2022)": {tpdb_poster: null, url_poster: "https://alternativemovieposters.com/wp-content/uploads/2022/07/SamDunn_Thor.jpg", url_background: "https://www.themoviedb.org/t/p/original/htAwfLn5kmrWeedoNregdIB9BKX.jpg"}
-```
-
-The above example YAML code can also be written in the following format. Either way is valid and will result in the same output, this is purely a visual change:
-
-```yaml
-      "Thor: Love and Thunder (2022)": 
-        url_poster: "https://www.themoviedb.org/t/p/original/38S1zYsObBIlGZR31RNUxJ1sAaj.jpg"
-        url_background: "https://www.themoviedb.org/t/p/original/htAwfLn5kmrWeedoNregdIB9BKX.jpg"
-```
-
-**Then either push your changes or run `set_update.py` locally.**
-
-These attributes will disappear from the Missing File and be added to the Image Style File.
