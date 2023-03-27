@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/228
+  style_image: 228
   style_key: rhj
-  style_link: https://theposterdb.com/set/70
+  style_link: 70
+  complete: true
 collections:
   "Ocean's Collection": {tpdb_poster: 228}
 movies:

@@ -1,8 +1,8 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/303873
+  style_image: 303873
   style_key: rhj
-  style_link: https://theposterdb.com/set/179016
+  style_link: 179016
 movies:
   "Avatar (2009) (Extended)": {tpdb_poster: 303876}
   "Avatar (2009)": {tpdb_poster: 303874}

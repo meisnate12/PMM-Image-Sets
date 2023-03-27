@@ -30,6 +30,8 @@ options = [
     {"arg": "tr", "key": "trace",        "env": "TRACE",        "type": "bool", "default": False, "help": "Run with extra trace logs."},
     {"arg": "lr", "key": "log-requests", "env": "LOG_REQUESTS", "type": "bool", "default": False, "help": "Run with every request logged."}
 ]
+
+old_styles = {"style_author": "set_author", "style_image": "asset_image", "style_link": "set_link"}
 headers = {"Accept-Language": "en-US,en;q=0.5", "User-Agent": "Mozilla/5.0 Firefox/102.0"}
 base_url = "https://api.trakt.tv"
 script_name = "PMM Image Set Update"
@@ -51,10 +53,10 @@ try:
         raise Failed(e)
     if not pmmargs["trakt_id"] or not pmmargs["trakt_token"]:
         raise Failed("trakt_id and trakt_token are required")
-    raise Failed("NOT RUNNING ")
     tvdb_lookup = {}
     sets_yaml = YAML(path=os.path.join(base_dir, "sets.yml"), preserve_quotes=True)
     new_sets = {}
+    set_lookup = {}
     for file_key, set_info in sets_yaml["sets"].items():
         set_title = set_info["title"] if "title" in set_info else ""
         set_description = set_info["description"] if "description" in set_info else ""
@@ -77,7 +79,8 @@ try:
         missing_path = os.path.join(metadata_dir, "missing.yml")
         readme_path = os.path.join(metadata_dir, "readme.md")
         if not os.path.exists(metadata_path):
-            logger.error(f"File not Found: {metadata_path}")
+            logger.warning(f"Initializing Image Set File: {metadata_path}")
+            os.makedirs(os.path.dirname(metadata_path))
             with open(metadata_path, "w") as f:
                 f.write("sections:\n")
             continue
@@ -116,36 +119,24 @@ try:
                 raise Failed('File base attribute "sections" is empty')
             sections = {}
             for section_key, section_data in yaml_data["sections"].items():
-                section_key = str(section_key).lower()
+                section_key = str(section_key).lower().replace(" ", "_")
+                logger.separator(section_key, border=False, space=False)
                 if not section_data:
-                    sections[section_key] = {"title": str(section_key).replace("_", " ").title(), "builders": None, "styles": {"default": None}}
+                    sections[section_key] = {"title": str(section_key).replace("_", " ").title(), "builders": None, "styles": None}
+                    logger.warning(f"Initializing Section: {section_key}")
                     continue
                 try:
-                    logger.separator(section_key, border=False, space=False)
-                    new_data = {}
-                    if "styles" not in section_data:
-                        raise Failed(f"Set: {section_key} has no styles attribute")
-                    if not section_data["styles"]:
-                        raise Failed(f"Set: {section_key} styles attribute is blank")
-
-                    if "movies" in section_data and section_data["movies"] and isinstance(section_data["movies"], dict):
-                        is_movie = True
-                        attr = "movies"
-                    elif "shows" in section_data and section_data["shows"] and isinstance(section_data["shows"], dict):
-                        is_movie = False
-                        attr = "shows"
-                    else:
-                        raise Failed(f"Set: {section_key} must have either the movies or shows attribute")
-
-                    new_data["title"] = section_data["title"] if "title" in section_data and section_data["title"] else str(section_key).replace("_", " ").title()
-                    new_data["builders"] = section_data["builders"] if "builders" in section_data and section_data["builders"] else {}
+                    new_data = {
+                        "title": section_data["title"] if "title" in section_data and section_data["title"] else str(section_key).replace("_", " ").title(),
+                        "builders": section_data["builders"] if "builders" in section_data and section_data["builders"] else {},
+                        "styles": section_data["styles"] if "styles" in section_data and section_data["styles"] else {}
+                    }
                     if not new_data["builders"]:
-                        raise Failed("No Builders Found ignoring Set")
-                    new_data["styles"] = {"default": section_data["styles"]["default"]}
+                        raise Failed(f"No Builders Found ignoring section: {section_key}")
                     new_collections = section_data["collections"] if "collections" in section_data and section_data["collections"] else {}
 
-                    existing_movies = section_data["movies"] if section_data["movies"] and isinstance(section_data["movies"], dict) else {}
-                    existing_shows = section_data["shows"] if section_data["shows"] and isinstance(section_data["shows"], dict) else {}
+                    existing_movies = section_data["movies"] if "movies" in section_data and section_data["movies"] and isinstance(section_data["movies"], dict) else {}
+                    existing_shows = section_data["shows"] if "shows" in section_data and section_data["shows"] and isinstance(section_data["shows"], dict) else {}
 
                     movie_editions = {}
                     existing_movie_lookup = {}
@@ -171,6 +162,8 @@ try:
                     builder_movies = {}
                     builder_shows = {}
                     for k, v in new_data["builders"].items():
+                        if not v:
+                            raise Failed(f"Builder Error: {k} cannot be blank")
                         if k in ["tmdb_collection", "tmdb_movie", "tmdb_show", "tvdb_show", "imdb_id", "tmdb_list"]:
                             _id_list = []
                             if isinstance(v, list):
@@ -209,47 +202,55 @@ try:
                                         tmdb_items.append(tmdbapi.tv_show(_id))
                                         _url = f"https://www.themoviedb.org/tv/{_id}"
                                     elif k == "tvdb_show":
-                                        if int(_id) in tvdb_lookup:
-                                            tmdb_item = tvdb_lookup[int(_id)]
-                                        else:
-                                            results = tmdbapi.find_by_id(tvdb_id=str(_id))
-                                            if not results.tv_results:
-                                                raise Failed(f"TVDb Error: No Results were found for tvdb_id: {_id}")
-                                            if results.tv_results[0].tvdb_id not in tvdb_lookup:
-                                                tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
-                                            tmdb_item = results.tv_results[0]
+                                        try:
+                                            if int(_id) in tvdb_lookup:
+                                                tmdb_item = tvdb_lookup[int(_id)]
+                                                if tmdb_item is None:
+                                                    raise TMDbException
+                                            else:
+                                                results = tmdbapi.find_by_id(tvdb_id=str(_id))
+                                                if not results.tv_results:
+                                                    raise TMDbException
+                                                if results.tv_results[0].tvdb_id not in tvdb_lookup:
+                                                    tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
+                                                tmdb_item = results.tv_results[0]
+                                        except TMDbException:
+                                            tvdb_lookup[int(_id)] = None
+                                            raise Failed(f"TVDb Error: No Results were found for tvdb_id: {_id}")
                                         tmdb_items.append(tmdb_item)
                                         _url = f"https://www.thetvdb.com/dereferrer/series/{_id}"
                                         _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
                                     elif k == "imdb_id":
-                                        results = tmdbapi.find_by_id(imdb_id=str(_id))
-                                        if is_movie and results.movie_results:
-                                            tmdb_item = results.movie_results[0]
-                                            _tmdb = f"https://www.themoviedb.org/movie/{tmdb_item.id}"
-                                        elif not is_movie and results.tv_results:
-                                            tmdb_item = results.tv_results[0]
-                                            if tmdb_item.tvdb_id not in tvdb_lookup:
-                                                tvdb_lookup[tmdb_item.tvdb_id] = tmdb_item
-                                            _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
-                                        else:
+                                        try:
+                                            results = tmdbapi.find_by_id(imdb_id=str(_id))
+                                            if results.movie_results:
+                                                tmdb_item = results.movie_results[0]
+                                                _tmdb = f"https://www.themoviedb.org/movie/{tmdb_item.id}"
+                                            elif results.tv_results:
+                                                tmdb_item = results.tv_results[0]
+                                                if tmdb_item.tvdb_id not in tvdb_lookup:
+                                                    tvdb_lookup[tmdb_item.tvdb_id] = tmdb_item
+                                                _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
+                                            else:
+                                                raise TMDbException
+                                            tmdb_items.append(tmdb_item)
+                                            _url = f"https://www.imdb.com/title/{_id}"
+                                        except TMDbException:
                                             raise Failed(f"IMDb Error: No Results were found for imdb_id: {_id}")
-                                        tmdb_items.append(tmdb_item)
-                                        _url = f"https://www.imdb.com/title/{_id}"
                                     else:
                                         raise TMDbException
 
                                     _tmdb_html = f' ({a_link(_tmdb, "TMDb")})' if _tmdb else ""
                                     extra_html.append(f"{a_link(_url, _id)}{_tmdb_html}")
                                     for i in tmdb_items:
-                                        if is_movie and isinstance(i, Movie) and i.id not in builder_movies:
+                                        if isinstance(i, Movie) and i.id not in builder_movies:
                                             builder_movies[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
-                                        elif not is_movie and isinstance(i, TVShow) and i.tvdb_id and i.tvdb_id not in builder_shows:
+                                        elif isinstance(i, TVShow) and i.tvdb_id and i.tvdb_id not in builder_shows:
                                             builder_shows[i.tvdb_id] = {"title": i.name, "year": i.first_air_date.year if i.first_air_date else ""}
                                 except TMDbException as e:
                                     raise Failed(f"TMDb Error: No {k[5:].capitalize()} found for TMDb ID {_id}: {e}")
                             if extra_html:
                                 builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {", ".join(extra_html)}<br>\n'
-
                         elif k == "imdb_list":
                             imdb_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
                             for imdb_url in imdb_urls:
@@ -316,11 +317,11 @@ try:
                                 for imdb_id in imdb_ids:
                                     try:
                                         find_results = tmdbapi.find_by_id(imdb_id=imdb_id)
-                                        if is_movie and find_results.movie_results:
+                                        if find_results.movie_results:
                                             i = find_results.movie_results[0]
                                             if i.id not in builder_movies:
                                                 builder_movies[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
-                                        elif not is_movie and find_results.tv_results:
+                                        elif find_results.tv_results:
                                             i = find_results.tv_results[0]
                                             if i.tvdb_id not in tvdb_lookup:
                                                 tvdb_lookup[i.tvdb_id] = i
@@ -358,7 +359,6 @@ try:
                                         json_data = response.json()
                                         output_json.extend(json_data)
                                         current += 1
-                                    logger.info(output_json)
                                 except Failed:
                                     raise Failed(f"Trakt Error: List {trakt_url} not found")
                                 if len(output_json) == 0:
@@ -373,10 +373,10 @@ try:
                                     "season": ("tvdb", "TVDb ID"),
                                     "episode": ("tvdb", "TVDb ID")
                                 }
-                                for item in output_json:
-                                    if "type" in item and item["type"] in id_translation:
-                                        json_data = item[id_translation[item["type"]]]
-                                        _type = item["type"]
+                                for output_json_item in output_json:
+                                    if "type" in output_json_item and output_json_item["type"] in id_translation:
+                                        json_data = output_json_item[id_translation[output_json_item["type"]]]
+                                        _type = output_json_item["type"]
                                     else:
                                         continue
                                     id_type, id_display = id_types[_type]
@@ -417,11 +417,12 @@ try:
 
                                 builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(mdblist_url)}<br>\n'
                                 for json_data in response:
-                                    if is_movie and json_data["mediatype"] == "movie" and json_data["id"] not in builder_movies:
+                                    if json_data["mediatype"] == "movie" and json_data["id"] not in builder_movies:
                                         builder_movies[json_data["id"]] = {"title": json_data["title"], "year": json_data["release_year"]}
-                                    elif not is_movie and json_data["mediatype"] == "show" and json_data["tvdbid"] not in builder_shows:
+                                    elif json_data["mediatype"] == "show" and json_data["tvdbid"] not in builder_shows:
                                         builder_shows[json_data["tvdbid"]] = {"title": json_data["title"], "year": json_data["release_year"]}
                     builder_html += "</ul>\n"
+
                     if new_collections:
                         new_cols = {}
                         for k, v in new_collections.items():
@@ -436,15 +437,23 @@ try:
 
                             new_cols[YAML.quote(k)] = [YAML.quote(i) for i in alts]
                         new_collections = new_cols
-                    style_translation = {}
 
-                    def read_items(_items, _editions, _non_editions):
+                    if new_collections:
+                        new_data["collections"] = new_collections
+
+                    builder_items = []
+                    style_translation = {}
+                    for attr in ["movies", "shows"]:
+                        _items = builder_movies if attr == "movies" else builder_shows
+                        _editions = movie_editions if attr == "movies" else show_editions
+                        _non_editions = existing_movie_lookup if attr == "movies" else existing_show_lookup
                         _final = {}
                         for _item_id, _data in _items.items():
-                            _year = int(_data['year']) if _data["year"] is not None else None
-                            title = f"{_data['title']} ({_year})" if _year else _data["title"]
+                            _year = int(_data['year']) if _data["year"] else None
                             if not _year or _year > six_months.year:
                                 continue
+                            title = f"{_data['title']} ({_year})" if _year else _data["title"]
+                            builder_items.append(title)
                             if _item_id in _editions:
                                 used_editions = []
                                 for old_title, old_data in _editions[_item_id]:
@@ -453,7 +462,7 @@ try:
                                             if old_data[ed_attr] in used_editions:
                                                 raise Failed(f"Edition Error: Edition {old_data[ed_attr]} already used")
                                             ed_title = f"{title} ({old_data[ed_attr]})"
-                                            _final[ed_title] = (v["year"], {"mapping_id": _item_id, ed_attr: old_data[ed_attr]}) # noqa
+                                            _final[ed_title] = (_year, {"mapping_id": _item_id, ed_attr: old_data[ed_attr]}) # noqa
                                             if old_title != ed_title:
                                                 style_translation[old_title] = ed_title
                                             used_editions.append(old_data[ed_attr])
@@ -469,15 +478,8 @@ try:
                                     if _non_editions[_item_id] != title:
                                         style_translation[_non_editions[_item_id]] = title
                                 _final[title] = (_year, _item_id)
-                        return {YAML.quote(_k): _final[k][1] for _k in sorted(_final.keys(), key=lambda x: _final[x][0])} if _final else {}
-
-                    if new_collections:
-                        new_data["collections"] = new_collections
-
-                    if final_movies := read_items(existing_movies, movie_editions, existing_movie_lookup):
-                        new_data["movies"] = final_movies
-                    if final_shows := read_items(existing_shows, show_editions, existing_show_lookup):
-                        new_data["shows"] = final_shows
+                        if _final:
+                            new_data[attr] = {YAML.quote(_k): _final[_k][1] for _k in sorted(_final.keys(), key=lambda x: _final[x][0])}
 
                     os.makedirs(style_dir, exist_ok=True)
                     index_line = f'<div class="images-inline-link">{new_data["title"]}<br><code>{section_key}</code></div>'
@@ -485,7 +487,7 @@ try:
                     readme += f'{heading(new_data["title"], "3")}<strong>Section Key:</strong> <code>{section_key}</code>\n{builder_html}'
                     readme += f'<button class="image-accordion">Styles</button>\n<div class="image-panel">\n'
                     readme += f'  <table class="image-table">\n    <tr>\n'
-                    for style, style_data in section_data["styles"].items():
+                    for style, style_data in new_data["styles"].items():
                         if style == "default":
                             continue
                         default_style_path = f"{section_key}/{style}"
@@ -540,21 +542,35 @@ try:
                             missing_info = missing_yaml[section_key][style]["info"]
 
                         reset_image = False
-                        for style_attr, old_style_attr in [("style_author", "set_author"), ("style_image", "asset_image"), ("style_link", "set_link"),
-                                                           ("track_seasons", ""), ("track_episodes", ""), ("track_backgrounds", "")]:
+                        for style_attr in ["style_author", "style_image", "style_link", "complete", "track_seasons", "track_episodes", "track_backgrounds", "track_editions"]:
                             if missing_info and style_attr in missing_info and missing_info[style_attr] is not None:
                                 new_style["info"][style_attr] = missing_info[style_attr]
                                 if style_attr == "style_image":
                                     reset_image = True
                             elif "info" in style_yaml and style_attr in style_yaml["info"] and style_yaml["info"][style_attr] is not None:
                                 new_style["info"][style_attr] = style_yaml["info"][style_attr]
-                            elif "info" in style_yaml and old_style_attr in style_yaml["info"] and style_yaml["info"][old_style_attr] is not None:
-                                new_style["info"][style_attr] = style_yaml["info"][old_style_attr]
-                            elif style_attr not in ["track_seasons", "track_episodes", "track_backgrounds"]:
-                                init_missing("info", style_attr)
+                            elif style_attr in old_styles:
+                                if "info" in style_yaml and old_styles[style_attr] in style_yaml["info"] and style_yaml["info"][old_styles[style_attr]] is not None:
+                                    new_style["info"][style_attr] = style_yaml["info"][old_styles[style_attr]]
+                                else:
+                                    init_missing("info", style_attr)
+                        is_complete = True if "complete" in new_style["info"] and new_style["info"]["complete"] else False
                         track_seasons = True if "track_seasons" in new_style["info"] and new_style["info"]["track_seasons"] else False
                         track_episodes = True if "track_episodes" in new_style["info"] and new_style["info"]["track_episodes"] else False
                         track_backgrounds = True if "track_backgrounds" in new_style["info"] and new_style["info"]["track_backgrounds"] else False
+                        track_editions = True if "track_editions" in new_style["info"] and new_style["info"]["track_editions"] else False
+
+                        if new_style["info"]["style_link"]:
+                            try:
+                                new_style["info"]["style_link"] = f'https://theposterdb.com/set/{int(new_style["info"]["style_link"])}'
+                            except ValueError:
+                                pass
+
+                        if new_style["info"]["style_image"]:
+                            try:
+                                new_style["info"]["style_image"] = f'https://theposterdb.com/api/assets/{int(new_style["info"]["style_image"])}'
+                            except ValueError:
+                                pass
 
                         missing_collections = None
                         if section_key in missing_yaml and style in missing_yaml[section_key] and "collections" in missing_yaml[section_key][style]:
@@ -582,144 +598,213 @@ try:
                                 output_images["url_background"] = input_images["url_background"]
                             return output_images
 
-                        for item in new_collections:
-                            original_images = style_yaml["collections"][item] if "collections" in style_yaml and item in style_yaml["collections"] else {}
-                            new_images = {}
+                        old_movies = {}
+                        if "movies" in style_yaml and style_yaml["movies"]:
+                            old_movies = {style_translation[k] if k in style_translation else k: v for k, v in style_yaml["movies"].items()}
 
-                            if missing_collections and item in missing_collections and missing_collections[item]:
-                                new_images = check_images(missing_collections[item], new_images)
+                        old_shows = {}
+                        if "shows" in style_yaml and style_yaml["shows"]:
+                            old_shows = {style_translation[k] if k in style_translation else k: v for k, v in style_yaml["shows"].items()}
 
-                            new_images = check_images(original_images, new_images)
+                        if "set" in style_yaml and style_yaml["set"]:
+                            _old = {style_translation[k] if k in style_translation else k: v for k, v in style_yaml["set"].items()}
+                            if "show" in set_key:
+                                old_shows = _old
+                            elif "movie" in set_key:
+                                old_movies = _old
 
-                            no_p = True if "tpdb_poster" not in new_images and "url_poster" not in new_images else False
-                            no_b = True if "tpdb_background" not in new_images and "url_background" not in new_images else False
+                        missing_movies = None
+                        if section_key in missing_yaml and style in missing_yaml[section_key] and "movies" in missing_yaml[section_key][style]:
+                            missing_movies = missing_yaml[section_key][style]["movies"]
+
+                        missing_shows = None
+                        if section_key in missing_yaml and style in missing_yaml[section_key] and "shows" in missing_yaml[section_key][style]:
+                            missing_shows = missing_yaml[section_key][style]["shows"]
+
+                        def lookup():
+                            if new_style["info"]["style_link"] in set_lookup:
+                                return set_lookup[new_style["info"]["style_link"]]
+                            l_out = {}
+                            l_res = html.fromstring(requests.get(new_style["info"]["style_link"], headers=headers).content)
+                            l_items = l_res.xpath("//div[@class = 'overlay rounded-poster']")
+                            for li in l_items:
+                                l_out[li.xpath("div/div/p[contains(@class, 'text-break')]/text()")[0]] = int(li.xpath('@data-poster-id')[0])
+                            time.sleep(5)
+                            set_lookup[new_style["info"]["style_link"]] = l_out
+                            return l_out
+
+                        current_item_count = len(builder_items)
+                        old_count = len([m for m in old_movies if m in builder_items]) + len([m for m in old_shows if m in builder_items])
+
+                        tp_link = new_style["info"]["style_link"] if new_style["info"]["style_link"] and new_style["info"]["style_link"].startswith("https://theposterdb.com/set/") else None
+
+                        posters = None
+                        if tp_link and (old_count == 0 or (is_complete and current_item_count != old_count)):
+                            posters = lookup()
+
+                        for col in new_collections:
+                            original_images = style_yaml["collections"][col] if "collections" in style_yaml and col in style_yaml["collections"] else {}
+                            new_col = {}
+
+                            if posters and col in posters:
+                                new_col["tpdb_poster"] = posters[col]
+
+                            if missing_collections and col in missing_collections and missing_collections[col]:
+                                new_col = check_images(missing_collections[col], new_col)
+
+                            new_col = check_images(original_images, new_col)
+
+                            no_p = True if "tpdb_poster" not in new_col and "url_poster" not in new_col else False
+                            no_b = True if "tpdb_background" not in new_col and "url_background" not in new_col else False
                             if no_p or (track_backgrounds and no_b):
-                                init_missing("collections", item, pos=no_p, bkg=no_b if track_backgrounds else None)
+                                init_missing("collections", col, pos=no_p, bkg=no_b if track_backgrounds else None)
 
-                            if new_images:
+                            if new_col:
                                 if "collections" not in new_style:
                                     new_style["collections"] = {}
-                                new_style["collections"][item] = YAML.inline(new_images)
+                                new_style["collections"][col] = YAML.inline(new_col)
 
-                        old_items = {}
-                        if attr in style_yaml and style_yaml[attr]:
-                            old_items = {style_translation[k] if k in style_translation else k: v for k, v in style_yaml[attr].items()}
-                        elif "set" in style_yaml and style_yaml["set"]:
-                            old_items = {style_translation[k] if k in style_translation else k: v for k, v in style_yaml["set"].items()}
+                        for attr, old_items, missing_items in [("movies", old_movies, missing_movies), ("shows", old_shows, missing_shows)]:
+                            if attr not in new_data:
+                                continue
+                            for item, item_data in new_data[attr].items():
+                                item_id = item_data["mapping_id"] if isinstance(item_data, dict) else item_data
+                                _original = old_items[item] if item in old_items else {}
+                                new_images = {}
+                                if posters and item in posters:
+                                    new_images["tpdb_poster"] = posters[item]
 
-                        missing_items = None
-                        if section_key in missing_yaml and style in missing_yaml[section_key] and attr in missing_yaml[section_key][style]:
-                            missing_items = missing_yaml[section_key][style][attr]
+                                missing_item = {}
+                                if missing_items and item in missing_items and missing_items[item]:
+                                    missing_item = missing_items[item]
+                                    new_images = check_images(missing_item, new_images)
 
-                        for item, item_data in new_data[attr].items():
-                            item_id = item_data["mapping_id"] if isinstance(item_data, dict) else item_data
-                            original_images = old_items[item] if item in old_items else {}
-                            new_images = {}
+                                new_images = check_images(_original, new_images)
 
-                            missing_item = {}
-                            if missing_items and item in missing_items and missing_items[item]:
-                                missing_item = missing_items[item]
-                                new_images = check_images(missing_item, new_images)
+                                _no_p = True if "tpdb_poster" not in new_images and "url_poster" not in new_images else False
+                                _no_b = True if "tpdb_background" not in new_images and "url_background" not in new_images else False
+                                if _no_p or (track_backgrounds and _no_b):
+                                    if track_editions or item in builder_items:
+                                        init_missing(attr, item, pos=_no_p, bkg=_no_b if track_backgrounds else None)
 
-                            new_images = check_images(original_images, new_images)
-
-                            no_p = True if "tpdb_poster" not in new_images and "url_poster" not in new_images else False
-                            no_b = True if "tpdb_background" not in new_images and "url_background" not in new_images else False
-                            if no_p or (track_backgrounds and no_b):
-                                init_missing(attr, item, pos=no_p, bkg=no_b if track_backgrounds else None)
-
-                            if not is_movie:
-                                og_seasons = original_images["seasons"] if "seasons" in original_images and original_images["seasons"] else {}
-                                if int(item_id) in tvdb_lookup:
-                                    tmdb_obj = tvdb_lookup[int(item_id)]
-                                else:
-                                    results = tmdbapi.find_by_id(tvdb_id=str(item_id))
-                                    if not results.tv_results:
-                                        raise Failed(f"TVDb Error: No Results were found for tvdb_id: {item_id}")
-                                    if results.tv_results[0].tvdb_id not in tvdb_lookup:
-                                        tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
-                                    tmdb_obj = results.tv_results[0]
-
-                                missing_seasons = {}
-                                if "seasons" in missing_item and missing_item["seasons"]:
-                                    missing_seasons = missing_item["seasons"]
-
-                                if track_seasons or track_episodes or og_seasons:
-                                    seasons = {0: None}
-                                    for s in tmdb_obj.seasons:
-                                        seasons[s.season_number] = s
-                                    for s_num, season in seasons.items():
-                                        if s_num in og_seasons and og_seasons[s_num]:
-                                            original_season_images = og_seasons[s_num]
-                                        elif str(s_num) in og_seasons and og_seasons[str(s_num)]:
-                                            original_season_images = og_seasons[str(s_num)]
+                                if attr == "shows":
+                                    og_seasons = _original["seasons"] if "seasons" in _original and _original["seasons"] else {}
+                                    try:
+                                        if int(item_id) in tvdb_lookup:
+                                            tmdb_obj = tvdb_lookup[int(item_id)]
+                                            if tmdb_obj is None:
+                                                continue
                                         else:
-                                            original_season_images = {}
-                                        new_season_images = {}
-                                        if s_num in missing_seasons and missing_seasons[s_num]:
-                                            new_season_images = check_images(missing_seasons[s_num], new_season_images)
-                                        elif str(s_num) in missing_seasons and missing_seasons[str(s_num)]:
-                                            new_season_images = check_images(missing_seasons[str(s_num)], new_season_images)
+                                            _results = tmdbapi.find_by_id(tvdb_id=str(item_id))
+                                            if not _results.tv_results:
+                                                tvdb_lookup[int(item_id)] = None
+                                                raise Failed(f"TVDb Error: No Results were found for tvdb_id: {item_id}")
+                                            if _results.tv_results[0].tvdb_id not in tvdb_lookup:
+                                                tvdb_lookup[_results.tv_results[0].tvdb_id] = _results.tv_results[0]
+                                            tmdb_obj = _results.tv_results[0]
+                                    except TMDbException:
+                                        tvdb_lookup[int(item_id)] = None
+                                        logger.error(f"TVDb Error: No Results were found for tvdb_id: {item_id}")
+                                        continue
+                                    missing_seasons = {}
+                                    if "seasons" in missing_item and missing_item["seasons"]:
+                                        missing_seasons = missing_item["seasons"]
 
-                                        new_season_images = check_images(original_season_images, new_season_images)
+                                    if track_seasons or track_episodes or og_seasons:
+                                        seasons = {0: None}
+                                        for s in tmdb_obj.seasons:
+                                            seasons[s.season_number] = s
 
-                                        if s_num > 0:
-                                            no_p = True if "tpdb_poster" not in new_season_images and "url_poster" not in new_season_images else False
-                                            no_b = True if "tpdb_background" not in new_season_images and "url_background" not in new_season_images else False
-                                            if no_p or (track_backgrounds and no_b):
-                                                init_missing(attr, item, pos=no_p, bkg=no_b if track_backgrounds else None, init_s=s_num)
+                                        if tp_link and posters is not None and len(seasons) - 1 != len([True for og in og_seasons if int(og) > 0]):
+                                            posters = lookup()
 
-                                        missing_episodes = {}
-                                        if "episodes" in missing_seasons and missing_seasons["episodes"]:
-                                            missing_episodes = missing_seasons["episodes"]
+                                        for s_num, season in seasons.items():
+                                            if s_num in og_seasons and og_seasons[s_num]:
+                                                original_season_images = og_seasons[s_num]
+                                            elif str(s_num) in og_seasons and og_seasons[str(s_num)]:
+                                                original_season_images = og_seasons[str(s_num)]
+                                            else:
+                                                original_season_images = {}
+                                            new_season_images = {}
+                                            if posters:
+                                                if s_num > 0 and f"{item} - Season {s_num}" in posters:
+                                                    new_images["tpdb_poster"] = posters[f"{item} - Season {s_num}"]
+                                                elif s_num == 0 and f"{item} - Specials" in posters:
+                                                    new_images["tpdb_poster"] = posters[f"{item} - Specials"]
 
-                                        og_episodes = original_season_images["episodes"] if "episodes" in original_season_images and original_season_images["episodes"] else {}
-                                        if track_episodes or og_episodes:
+                                            if s_num in missing_seasons and missing_seasons[s_num]:
+                                                new_season_images = check_images(missing_seasons[s_num], new_season_images)
+                                            elif str(s_num) in missing_seasons and missing_seasons[str(s_num)]:
+                                                new_season_images = check_images(missing_seasons[str(s_num)], new_season_images)
+
+                                            new_season_images = check_images(original_season_images, new_season_images)
+
                                             if s_num > 0:
-                                                for episode in season.episodes:
-                                                    e_num = episode.episode_number
-                                                    if e_num in og_episodes and og_episodes[e_num]:
-                                                        original_episode_images = og_episodes[e_num]
-                                                    elif str(e_num) in og_episodes and og_episodes[str(e_num)]:
-                                                        original_episode_images = og_episodes[str(e_num)]
-                                                    else:
-                                                        original_episode_images = {}
-                                                    new_episode_images = {}
-                                                    if e_num in missing_episodes and missing_episodes[e_num]:
-                                                        new_episode_images = check_images(missing_episodes[e_num], new_episode_images)
-                                                    elif str(e_num) in missing_episodes and missing_episodes[str(e_num)]:
-                                                        new_episode_images = check_images(missing_episodes[str(e_num)], new_episode_images)
+                                                _no_p = True if "tpdb_poster" not in new_season_images and "url_poster" not in new_season_images else False
+                                                _no_b = True if "tpdb_background" not in new_season_images and "url_background" not in new_season_images else False
+                                                if _no_p or (track_backgrounds and _no_b):
+                                                    init_missing(attr, item, pos=_no_p, bkg=_no_b if track_backgrounds else None, init_s=s_num)
 
-                                                    new_episode_images = check_images(original_episode_images, new_episode_images)
+                                            missing_episodes = {}
+                                            if "episodes" in missing_seasons and missing_seasons["episodes"]:
+                                                missing_episodes = missing_seasons["episodes"]
+                                            og_episodes = {}
+                                            if "episodes" in original_season_images and original_season_images["episodes"]:
+                                                og_episodes = original_season_images["episodes"]
 
-                                                    no_p = True if "tpdb_poster" not in new_episode_images and "url_poster" not in new_episode_images else False
-                                                    no_b = True if "tpdb_background" not in new_episode_images and "url_background" not in new_episode_images else False
-                                                    if no_p or (track_backgrounds and no_b):
-                                                        init_missing(attr, item, pos=no_p, bkg=no_b if track_backgrounds else None, init_s=s_num, init_e=e_num)
+                                            if track_episodes or og_episodes:
+                                                if s_num > 0:
+                                                    for episode in season.episodes:
+                                                        e_num = episode.episode_number
+                                                        if e_num in og_episodes and og_episodes[e_num]:
+                                                            original_episode_images = og_episodes[e_num]
+                                                        elif str(e_num) in og_episodes and og_episodes[str(e_num)]:
+                                                            original_episode_images = og_episodes[str(e_num)]
+                                                        else:
+                                                            original_episode_images = {}
 
-                                                    if new_episode_images:
-                                                        if "episodes" not in new_season_images:
-                                                            new_season_images["episodes"] = {}
-                                                        new_season_images["episodes"][e_num] = YAML.inline(new_episode_images)
-                                            elif og_episodes:
-                                                for e_num, ep_data in og_episodes.items():
-                                                    if new_episode_images := check_images(ep_data, {}):
-                                                        if "episodes" not in new_season_images:
-                                                            new_season_images["episodes"] = {}
-                                                        new_season_images["episodes"][int(e_num)] = YAML.inline(new_episode_images)
+                                                        new_episode_images = {}
+                                                        if e_num in missing_episodes and missing_episodes[e_num]:
+                                                            new_episode_images = check_images(missing_episodes[e_num], new_episode_images)
+                                                        elif str(e_num) in missing_episodes and missing_episodes[str(e_num)]:
+                                                            new_episode_images = check_images(missing_episodes[str(e_num)], new_episode_images)
 
-                                        if new_season_images:
-                                            if "seasons" not in new_images:
-                                                new_images["seasons"] = {}
-                                            new_images["seasons"][s_num] = new_season_images if "episodes" in new_season_images else YAML.inline(new_season_images)
+                                                        new_episode_images = check_images(original_episode_images, new_episode_images)
 
-                            if new_images:
-                                if attr not in new_style:
-                                    new_style[attr] = {}
-                                new_style[attr][item] = new_images if "seasons" in new_images else YAML.inline(new_images)
+                                                        _no_p = True if "tpdb_poster" not in new_episode_images and "url_poster" not in new_episode_images else False
+                                                        _no_b = True if "tpdb_background" not in new_episode_images and "url_background" not in new_episode_images else False
+                                                        if _no_p or (track_backgrounds and _no_b):
+                                                            init_missing(attr, item, pos=_no_p, bkg=_no_b if track_backgrounds else None, init_s=s_num, init_e=e_num)
 
-                        style_yaml.data = new_style
-                        style_yaml.save()
+                                                        if new_episode_images:
+                                                            if "episodes" not in new_season_images:
+                                                                new_season_images["episodes"] = {}
+                                                            new_season_images["episodes"][e_num] = YAML.inline(new_episode_images)
+                                                elif og_episodes:
+                                                    for e_num, ep_data in og_episodes.items():
+                                                        if new_episode_images := check_images(ep_data, {}):
+                                                            if "episodes" not in new_season_images:
+                                                                new_season_images["episodes"] = {}
+                                                            new_season_images["episodes"][int(e_num)] = YAML.inline(new_episode_images)
+
+                                            if new_season_images:
+                                                if "seasons" not in new_images:
+                                                    new_images["seasons"] = {}
+                                                new_images["seasons"][s_num] = new_season_images if "episodes" in new_season_images else YAML.inline(new_season_images)
+
+                                if new_images:
+                                    if attr not in new_style:
+                                        new_style[attr] = {}
+                                    new_style[attr][item] = new_images if "seasons" in new_images else YAML.inline(new_images)
+
+                        new_item_count = 0
+                        if "movies" in new_style:
+                            new_item_count += len(new_style["movies"])
+                        if "shows" in new_style:
+                            new_item_count += len(new_style["shows"])
+
+                        if new_item_count == current_item_count:
+                            new_style["info"]["complete"] = True
 
                         style_image = None
                         for ext in [".png", ".jpg", ".webp"]:
@@ -730,8 +815,8 @@ try:
                                 else:
                                     style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{section_key}/{style}{ext}"
                                 break
-                        if not style_image:
-                            style_image = style_yaml["info"]["style_image"]
+                        if not style_image and new_style["info"]["style_image"]:
+                            style_image = new_style["info"]["style_image"]
                             if style_image.startswith("https://theposterdb.com/api/assets/"):
                                 if match := re.search(r"(\d+)", str(style_image)):
                                     if response := html.fromstring(requests.get(f"https://theposterdb.com/poster/{int(match.group(1))}", headers=headers).content).xpath("//meta[@property='og:image']/@content"):
@@ -751,13 +836,32 @@ try:
                                                 handler.write(img_res.content)
                                             style_image = f"https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/{file_key}/styles/{section_key}/{style}{ext}"
 
-                        img_link = a_link(style_yaml["info"]["style_link"], f'<img src="{style_image}" height="200"/>')
+                        img_link = a_link(new_style["info"]["style_link"], f'<img src="{style_image}" height="200"/>')
                         readme += f'      <td>\n        <div>\n          {img_link}<br>\n'
-                        readme += f'          <strong>Style Key:</strong> <code>{style_yaml["info"]["style_key"]}</code><br>\n'
-                        readme += f'          <strong>Credit:</strong> {a_link(style_yaml["info"]["style_link"], style_yaml["info"]["style_author"])}<br>\n        </div>\n      </td>\n'
+                        readme += f'          <strong>Style Key:</strong> <code>{new_style["info"]["style_key"]}</code><br>\n'
+                        readme += f'          <strong>Credit:</strong> {a_link(new_style["info"]["style_link"], new_style["info"]["style_author"])}<br>\n        </div>\n      </td>\n'
+
+                        if new_style["info"]["style_image"] and str(new_style["info"]["style_image"]).startswith("https://theposterdb.com/api/assets/"):
+                            try:
+                                new_style["info"]["style_image"] = int(str(new_style["info"]["style_image"]).removeprefix("https://theposterdb.com/api/assets/"))
+                            except ValueError:
+                                pass
+
+                        if new_style["info"]["style_link"] and str(new_style["info"]["style_link"]).startswith("https://theposterdb.com/set/"):
+                            try:
+                                new_style["info"]["style_link"] = int(str(new_style["info"]["style_link"]).removeprefix("https://theposterdb.com/set/"))
+                            except ValueError:
+                                pass
+
+                        style_yaml.data = new_style
+                        style_yaml.save()
 
                         new_data["styles"][style] = None if style_data["pmm"] == default_style_path else style_data
                     readme += "    </tr>\n  </table>\n</div>\n\n"
+
+                    if not new_data["styles"]:
+                        new_data["styles"] = None
+
                     sections[section_key] = new_data
 
                 except Failed as e:

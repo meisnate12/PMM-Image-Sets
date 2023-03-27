@@ -1,8 +1,8 @@
 info:
   style_author: Danny Beaton
-  style_image: https://theposterdb.com/api/assets/5901
+  style_image: 5901
   style_key: dannybeaton
-  style_link: https://theposterdb.com/set/2402
+  style_link: 2402
 collections:
   "Rocky Collection": {tpdb_poster: 5901}
   "Creed Collection": {tpdb_poster: 5903}

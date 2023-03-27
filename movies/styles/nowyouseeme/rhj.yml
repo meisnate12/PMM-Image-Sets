@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/2628
+  style_image: 2628
   style_key: rhj
-  style_link: https://theposterdb.com/set/20379
+  style_link: 20379
+  complete: true
 collections:
   "Now You See Me Collection": {tpdb_poster: 2628}
 movies:

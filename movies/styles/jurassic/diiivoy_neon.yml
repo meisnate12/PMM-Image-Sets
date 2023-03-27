@@ -1,8 +1,9 @@
 info:
   style_author: DIIIVOY
-  style_image: https://theposterdb.com/api/assets/168738
+  style_image: 168738
   style_key: diiivoy_neon
-  style_link: https://theposterdb.com/set/103129
+  style_link: 103129
+  complete: true
 collections:
   "Jurassic Park Collection": {tpdb_poster: 168732}
 movies:

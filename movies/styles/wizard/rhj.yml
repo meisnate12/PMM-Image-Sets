@@ -1,8 +1,9 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/166282
+  style_image: 166282
   style_key: rhj
-  style_link: https://theposterdb.com/set/101665
+  style_link: 101665
+  complete: true
 collections:
   "Wizarding World (of Harry Potter) Collection": {tpdb_poster: 166278}
 movies:

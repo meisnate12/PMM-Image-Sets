@@ -1,8 +1,8 @@
 info:
   style_author: RedHeadJedi
-  style_image: https://theposterdb.com/api/assets/12031
+  style_image: 12031
   style_key: rhj
-  style_link: https://theposterdb.com/set/6002
+  style_link: 6002
 collections:
   "John Wick Collection": {tpdb_poster: 12029}
 movies:

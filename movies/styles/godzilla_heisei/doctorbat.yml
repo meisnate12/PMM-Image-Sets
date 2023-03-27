@@ -1,8 +1,9 @@
 info:
   style_author: DoctorBat
-  style_image: https://theposterdb.com/api/assets/311350
+  style_image: 311350
   style_key: doctorbat
-  style_link: https://theposterdb.com/set/182956
+  style_link: 182956
+  complete: true
 collections:
   "Godzilla (Heisei) Collection": {tpdb_poster: 311343}
 movies:
