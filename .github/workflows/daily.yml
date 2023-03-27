@@ -6,7 +6,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  Image-Set-Update:
+  Image-Set-Update-Daily:
     if: github.repository_owner == 'meisnate12'
     runs-on: ubuntu-latest
     steps:
