@@ -492,7 +492,7 @@ try:
                             continue
                         default_style_path = f"{section_key}/{style}"
                         style_link = None
-                        if style_data and isinstance(style_data, str):
+                        if style_data and isinstance(style_data, (str, int)):
                             style_link = style_data
                             style_data = None
                         if not style_data:
@@ -570,6 +570,12 @@ try:
                         if new_style["info"]["style_link"]:
                             try:
                                 new_style["info"]["style_link"] = f'https://theposterdb.com/set/{int(new_style["info"]["style_link"])}'
+                            except ValueError:
+                                pass
+
+                        if new_style["info"]["style_image"]:
+                            try:
+                                new_style["info"]["style_image"] = f'https://theposterdb.com/api/assets/{int(new_style["info"]["style_image"])}'
                             except ValueError:
                                 pass
 
