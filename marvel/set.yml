@@ -21,3 +21,686 @@ sections:
       "Ant-Man and the Wasp (2018)": 363088
       "Ant-Man and the Wasp: Quantumania (2023)": 640146
 
+  avengers:
+    title: The Avengers
+    builders:
+      tmdb_collection: 86311
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: avengers/diiivoy_neon
+      diiivoy:
+        pmm: avengers/diiivoy
+      rhj:
+        pmm: avengers/rhj
+      rhj2:
+        pmm: avengers/rhj2
+    collections:
+      "The Avengers Collection":
+      - "The Avengers"
+      - "Avengers Collection"
+      - "Avengers"
+    movies:
+      "The Avengers (2012)": 24428
+      "Avengers: Age of Ultron (2015)": 99861
+      "Avengers: Infinity War (2018)": 299536
+      "Avengers: Endgame (2019)": 299534
+
+  blackpanther:
+    title: Black Panther
+    builders:
+      tmdb_collection: 529892
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: blackpanther/diiivoy_neon
+      diiivoy:
+        pmm: blackpanther/diiivoy
+      rhj:
+        pmm: blackpanther/rhj
+      rhj2:
+        pmm: blackpanther/rhj2
+    collections:
+      "Black Panther Collection":
+      - "Black Panther"
+    movies:
+      "Black Panther (2018)": 284054
+      "Black Panther: Wakanda Forever (2022)": 505642
+
+  blackwidow:
+    title: Black Widow
+    builders:
+      tmdb_movie: 497698 
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: blackwidow/diiivoy_neon
+      diiivoy:
+        pmm: blackwidow/diiivoy
+      rhj:
+        pmm: blackwidow/rhj
+      rhj2:
+        pmm: blackwidow/rhj2
+    movies:
+      "Black Widow (2021)": 497698
+
+  blade:
+    title: Blade
+    builders:
+      tmdb_collection: 735
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: blade/diiivoy_neon
+      diiivoy:
+        pmm: blade/diiivoy
+      rhj:
+        pmm: blade/rhj
+      rhj2:
+        pmm: blade/rhj2
+    collections:
+      "Blade Collection":
+      - "Blade"
+    movies:
+      "Blade (1998)": 36647
+      "Blade II (2002)": 36586
+      "Blade: Trinity (2004)": 36648
+      "Blade (2024)": 617127
+
+  captainamerica:
+    title: Captain America
+    builders:
+      tmdb_collection: 131295
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: captainamerica/diiivoy_neon
+      diiivoy:
+        pmm: captainamerica/diiivoy
+      rhj:
+        pmm: captainamerica/rhj
+      rhj2:
+        pmm: captainamerica/rhj2
+    collections:
+      "Captain America Collection":
+      - "Captain America"
+    movies:
+      "Captain America: The First Avenger (2011)": 1771
+      "Captain America: The Winter Soldier (2014)": 100402
+      "Captain America: Civil War (2016)": 271110
+      "Captain America: New World Order (2024)": 822119
+
+  captainmarvel:
+    title:
+    builders:
+      tmdb_collection: 623911
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: captainmarvel/diiivoy_neon
+      diiivoy:
+        pmm: captainmarvel/diiivoy
+      rhj:
+        pmm: captainmarvel/rhj
+      rhj2:
+        pmm: captainmarvel/rhj2
+    collections:
+      "Captain Marvel Collection":
+      - "Captain Marvel"
+    movies:
+      "Captain Marvel (2019)": 299537
+      "The Marvels (2023)": 609681
+
+  daredevil:
+    title: Daredevil
+    builders:
+      tmdb_movie: 9480 
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: daredevil/diiivoy_neon
+      diiivoy:
+        pmm: daredevil/diiivoy
+      rhj:
+        pmm: daredevil/rhj
+      rhj2:
+        pmm: daredevil/rhj2
+    collections:
+      "Daredevil Collection":
+      - "Daredevil"
+    movies:
+      "Daredevil (2003)": 9480
+
+  deadpool:
+    title: Deadpool
+    builders:
+      tmdb_collection: 448150
+      tmdb_movie: 558144, 567604
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: deadpool/diiivoy_neon
+      diiivoy:
+        pmm: deadpool/diiivoy
+      rhj:
+        pmm: deadpool/rhj
+      rhj2:
+        pmm: deadpool/rhj2
+    collections:
+      "Deadpool Collection":
+      - "Deadpool"
+    movies:
+      "Deadpool (2016)": 293660
+      "Deadpool: No Good Deed": 558144
+      "Deadpool 2 (Super Duper Cut)":
+        mapping_id: 383498
+        edition_contains: Duper
+      "Deadpool 2 (2018)":
+        mapping_id: 383498
+        blank_edition: true
+      "Once Upon a Deadpool (2018)": 567604
+      "Deadpool 3 (2024)": 533535
+
+  doctorstrange:
+    title: Doctor Strange
+    builders:
+      tmdb_collection: 
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: doctorstrange/diiivoy_neon
+      diiivoy:
+        pmm: doctorstrange/diiivoy
+      rhj:
+        pmm: doctorstrange/rhj
+      rhj2:
+        pmm: doctorstrange/rhj2
+    collections:
+      "Doctor Strange Collection":
+      - "Doctor Strange"
+    movies:
+      "Doctor Strange (2016)": 284052
+      "Doctor Strange in the Multiverse of Madness (2022)": 453395
+
+  eternals:
+    title:
+    builders:
+      tmdb_movie: 524434 
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: eternals/diiivoy_neon
+      diiivoy:
+        pmm: eternals/diiivoy
+      rhj:
+        pmm: eternals/rhj
+      rhj2:
+        pmm: eternals/rhj2
+    movies:
+      "Eternals (2021)": 524434
+
+  fantasticfour:
+    title: Fantastic Four
+    builders:
+      tmdb_collection: 9744
+      tmdb_movie: 166424, 22059, 617126
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: fantasticfour/diiivoy_neon
+      diiivoy:
+        pmm: fantasticfour/diiivoy
+      rhj:
+        pmm: fantasticfour/rhj
+      rhj2:
+        pmm: fantasticfour/rhj2
+    collections:
+      "Fantastic Four Collection":
+      - "Fantastic Four"
+    movies:
+      "Fantastic Four (2015)": 166424
+      "Fantastic Four (2005)": 9738
+      "Fantastic Four: Rise of the Silver Surfer (2007)": 1979
+      "The Fantastic Four (1994)": 22059
+      "Fantastic Four (2025)": 617126
+
+  ghostrider:
+    title: Ghost Rider
+    builders:
+      tmdb_collection: 90306
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: ghostrider/diiivoy_neon
+      diiivoy:
+        pmm: ghostrider/diiivoy
+      rhj:
+        pmm: ghostrider/rhj
+      rhj2:
+        pmm: ghostrider/rhj2
+    collections:
+      "Ghost Rider Collection":
+      - "Ghost Rider"
+    movies:
+      "Ghost Rider (2007)": 1250
+      "Ghost Rider: Spirit of Vengeance (2011)": 71676
+
+  guardiansofthegalaxy:
+    title: Guardians of the Galaxy
+    builders:
+      tmdb_collection: 284433
+      tmdb_movie: 774752
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: guardiansofthegalaxy/diiivoy_neon
+      diiivoy:
+        pmm: guardiansofthegalaxy/diiivoy
+      rhj:
+        pmm: guardiansofthegalaxy/rhj
+      rhj2:
+        pmm: guardiansofthegalaxy/rhj2
+    collections:
+      "Guardians of the Galaxy Collection":
+      - "Guardians of the Galaxy"
+    movies:
+      "Guardians of the Galaxy (2014)": 118340
+      "Guardians of the Galaxy Vol. 2 (2017)": 283995
+      "The Guardians of the Galaxy Holiday Special (2022)": 774752
+      "Guardians of the Galaxy Volume 3 (2023)": 447365
+
+  hulk:
+    title: The Hulk
+    builders:
+      tmdb_movie: 1927, 1724
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: hulk/diiivoy_neon
+      diiivoy:
+        pmm: hulk/diiivoy
+      rhj:
+        pmm: hulk/rhj
+      rhj2:
+        pmm: hulk/rhj2
+    movies:
+      "Hulk (2003)": 1927
+      "The Incredible Hulk (2008)": 1724
+
+  ironman:
+    title: Iron Man
+    builders:
+      tmdb_collection: 131292
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: ironman/diiivoy_neon
+      diiivoy:
+        pmm: ironman/diiivoy
+      rhj:
+        pmm: ironman/rhj
+      rhj2:
+        pmm: ironman/rhj2
+    collections:
+      "Iron Man Collection":
+      - "Iron Man"
+    movies:
+      "Iron Man (2008)": 1726
+      "Iron Man 2 (2010)": 10138
+      "Iron Man 3 (2013)": 68721
+  oneshot:
+    title: Marvel One-Shots
+    builders:
+      tmdb_movie: 211387, 76535, 76122, 119569, 253980, 758025, 505945, 413279, 441829
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: oneshot/diiivoy_neon
+      diiivoy:
+        pmm: oneshot/diiivoy
+      rhj:
+        pmm: oneshot/rhj
+      rhj2:
+        pmm: oneshot/rhj2
+    collections:
+      "Marvel One-Shots Collection":
+      - "Marvel One-Shots"
+    movies:
+      "Marvel One-Shot: Agent Carter (2013)": 211387
+      "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)": 76535
+      "Marvel One-Shot: The Consultant (2011)": 76122
+      "Marvel One-Shot: Item 47 (2012)": 119569
+      "Marvel One-Shot: All Hail the King (2014)": 253980
+      "One Shot: Peter's To-Do List": 758025
+      "One Shot: Team Darryl": 505945
+      "One Shot: Team Thor": 413279
+      "One Shot: Team Thor Part 2": 441829
+
+  punisher:
+    title: The Punisher
+    builders:
+      tmdb_collection: 635362
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: punisher/diiivoy_neon
+      diiivoy:
+        pmm: punisher/diiivoy
+      rhj:
+        pmm: punisher/rhj
+      rhj2:
+        pmm: punisher/rhj2
+    collections:
+      "The Punisher Collection":
+      - "The Punisher"
+      - "Punisher"
+    movies:
+      "The Punisher (2004)": 7220
+      "Punisher: War Zone (2008)": 13056
+
+  shangchi:
+    title: Shang-Chi
+    builders:
+      tmdb_movie: 566525
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: shangchi/diiivoy_neon
+      diiivoy:
+        pmm: shangchi/diiivoy
+      rhj:
+        pmm: shangchi/rhj
+      rhj2:
+        pmm: shangchi/rhj2
+    movies:
+      "Shang-Chi and the Legend of the Ten Rings (2021)": 566525
+
+  spiderman:
+    title: Spider-Man
+    builders:
+      tmdb_collection: 556
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: spiderman/diiivoy_neon
+      diiivoy:
+        pmm: spiderman/diiivoy
+      rhj:
+        pmm: spiderman/rhj
+      rhj2:
+        pmm: spiderman/rhj2
+    collections:
+      "Spider-Man Collection":
+      - "Spider-Man"
+    movies:
+      "Spider-Man (2002)": 557
+      "Spider-Man 2 (2004)": 558
+      "Spider-Man 3 (2007)": 559
+
+  spiderman_amazing:
+    title: The Amazing Spider-Man
+    builders:
+      tmdb_collection: 125574
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: spiderman_amazing/diiivoy_neon
+      diiivoy:
+        pmm: spiderman_amazing/diiivoy
+      rhj:
+        pmm: spiderman_amazing/rhj
+      rhj2:
+        pmm: spiderman_amazing/rhj2
+    collections:
+      "The Amazing Spider-Man Collection":
+      - "The Amazing Spider-Man"
+    movies:
+      "The Amazing Spider-Man (2012)": 1930
+      "The Amazing Spider-Man 2 (2014)": 102382
+
+  spiderman_avengers:
+    title: Spider-Man (Avengers)
+    builders:
+      tmdb_collection: 531241
+      tmdb_movie: 961651
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: spiderman_avengers/diiivoy_neon
+      diiivoy:
+        pmm: spiderman_avengers/diiivoy
+      rhj:
+        pmm: spiderman_avengers/rhj
+      rhj2:
+        pmm: spiderman_avengers/rhj2
+    collections:
+      "Spider-Man (Avengers) Collection":
+      - "Spider-Man (Avengers)"
+    movies:
+      "Spider-Man: Homecoming (2017)": 315635
+      "Spider-Man: Far From Home (2019)": 429617
+      "Spider-Man: No Way Home (2021)":
+        mapping_id: 634649
+        blank_edition: true
+      "Spider-Man: No Way Home (The More Fun Stuff Version) (2021)":
+        mapping_id: 634649
+        edition_contains: Fun Stuff
+      "Spider-Man: All Roads Lead to No Way Home": 961651
+
+  spiderman_spiderverse:
+    title: Spider-Man (Spider-Verse)
+    builders:
+      tmdb_collection: 573436
+      tmdb_movie: 583055
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: spiderman_spiderverse/diiivoy_neon
+      diiivoy:
+        pmm: spiderman_spiderverse/diiivoy
+      rhj:
+        pmm: spiderman_spiderverse/rhj
+      rhj2:
+        pmm: spiderman_spiderverse/rhj2
+    collections:
+      "Spider-Man: Spider-Verse Collection":
+      - "Spider-Man: Spider-Verse"
+      - "Spider-Verse Collection"
+      - "Spider-Verse"
+    movies:
+      "Spider-Man: Into the Spider-Verse (2018)": 324857
+      "Spider-Man: Across the Spider-Verse (2023)": 569094
+      "Spider-Ham: Caught in a Ham (2019)": 583055
+      "Spider-Man: Beyond the Spider-Verse (2024)": 911916
+
+  spiderman_universe:
+    title: Spider-Man Universe
+    builders:
+      tmdb_collection: 556, 125574, 531241, 573436
+      tmdb_movie: 961651, 583055
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: spiderman_universe/diiivoy_neon
+      diiivoy:
+        pmm: spiderman_universe/diiivoy
+      rhj:
+        pmm: spiderman_universe/rhj
+      rhj2:
+        pmm: spiderman_universe/rhj2
+    collections:
+      "Spider-Man Universe":
+      - "Spider-Man Universe"
+    movies:
+      "Spider-Man (2002)": 557
+      "Spider-Man 2 (2004)": 558
+      "Spider-Man 3 (2007)": 559
+      "The Amazing Spider-Man (2012)": 1930
+      "The Amazing Spider-Man 2 (2014)": 102382
+      "Spider-Man: Homecoming (2017)": 315635
+      "Spider-Man: Far From Home (2019)": 429617
+      "Spider-Man: No Way Home (2021)":
+        mapping_id: 634649
+        blank_edition: true
+      "Spider-Man: No Way Home (The More Fun Stuff Version) (2021)":
+        mapping_id: 634649
+        edition_contains: Fun Stuff
+      "Spider-Man: All Roads Lead to No Way Home": 961651
+      "Spider-Man: Into the Spider-Verse (2018)": 324857
+      "Spider-Man: Across the Spider-Verse (2023)": 569094
+      "Spider-Ham: Caught in a Ham (2019)": 583055
+      "Spider-Man: Beyond the Spider-Verse (2024)": 911916
+
+  thor:
+    title: Thor
+    builders:
+      tmdb_collection: 131296
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: /diiivoy_neon
+      diiivoy:
+        pmm: /diiivoy
+      rhj:
+        pmm: /rhj
+      rhj2:
+        pmm: /rhj2
+    collections:
+      "Thor Collection":
+      - "Thor"
+    movies:
+      "Thor (2011)": 10195
+      "Thor: The Dark World (2013)": 76338
+      "Thor: Ragnarok (2017)": 284053
+      "Thor: Love and Thunder (2022)": 616037
+
+  venom:
+    title: Venom
+    builders:
+      tmdb_collection: 558216
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: thor/diiivoy_neon
+      diiivoy:
+        pmm: thor/diiivoy
+      rhj:
+        pmm: thor/rhj
+      rhj2:
+        pmm: thor/rhj2
+    collections:
+      "Venom Collection":
+      - "Venom"
+    movies:
+      "Venom (2018)": 335983
+      "Venom: Let There Be Carnage (2021)": 580489
+
+  werewolf:
+    title: Werewolf by Night
+    builders:
+      tmdb_movie:  894205, 1036996
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: werewolf/diiivoy_neon
+      diiivoy:
+        pmm: werewolf/diiivoy
+      rhj:
+        pmm: werewolf/rhj
+      rhj2:
+        pmm: werewolf/rhj2
+    movies:
+      "Werewolf by Night (2022)": 894205
+      "Director by Night": 1036996
+
+  wolverine:
+    title: The Wolverine
+    builders:
+      tmdb_collection: 453993
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: wolverine/diiivoy_neon
+      diiivoy:
+        pmm: wolverine/diiivoy
+      rhj:
+        pmm: wolverine/rhj
+      rhj2:
+        pmm: wolverine/rhj2
+    collections:
+      "The Wolverine Collection":
+      - "Wolverine Collection"
+      - "The Wolverine"
+      - "Wolverine"
+    movies:
+      "X-Men Origins: Wolverine (2009)": 2080
+      "The Wolverine (2013)": 76170
+      "Logan (2017)":
+        mapping_id: 263115
+        blank_edition: true
+      "Logan (Noir)":
+        mapping_id: 263115
+        edition_contains: Noir
+
+  xmen:
+    title: X-Men
+    builders:
+      tmdb_collection: 748
+      tmdb_movie: 26623, 340102
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: xmen/diiivoy_neon
+      diiivoy:
+        pmm: xmen/diiivoy
+      rhj:
+        pmm: xmen/rhj
+      rhj2:
+        pmm: xmen/rhj2
+    collections:
+      "X-Men Collection":
+      - "X-Men"
+      - "X-Men Universe"
+    movies:
+      "Generation X (1996)": 26623
+      "X-Men (2000)": 36657
+      "X2 (2003)": 36658
+      "X-Men: The Last Stand (2006)": 36668
+      "X-Men: First Class (2011)": 49538
+      "X-Men: Days of Future Past (2014)":
+        mapping_id: 127585
+        blank_edition: true
+      "X-Men: Days of Future Past (The Rogue Cut)":
+        mapping_id: 127585
+        edition_contains: Rogue
+      "X-Men: Apocalypse (2016)": 246655
+      "Dark Phoenix (2019)": 320288
+      "The New Mutants (2020)": 340102
+
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie: 177572,  526896, 9947, 27460, 299969, 647375
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+        pmm: ungrouped/diiivoy_neon
+      diiivoy:
+        pmm: ungrouped/diiivoy
+      rhj:
+        pmm: ungrouped/rhj
+      rhj2:
+        pmm: ungrouped/rhj2
+    collections:
+      "In Association with Marvel":
+      - "Marvel"
+      - "In Association With Marvel"
+      "Marvel Cinematic Universe":
+      - "MCU"
+    movies:
+      "Big Hero 6 (2014)": 177572
+      "Morbius (2022)": 526896
+      "Elektra (2005)": 9947
+      "Nick Fury: Agent of S.H.I.E.L.D. (1998)": 27460
+      "Marvel: 75 Years, From Pulp to Pop! (2014)": 299969
+      "Marvel Studios: Expanding the Universe (2019)": 647375
