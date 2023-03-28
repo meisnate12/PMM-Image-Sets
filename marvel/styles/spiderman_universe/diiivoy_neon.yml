@@ -1,22 +1,13 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/114077
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/71510
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 114077
+  style_key: diiivoy_neon
+  style_link: 71510
 collections:
   "Spider-Man Universe": {tpdb_poster: 132627}
-set:
-  "Spider-Man: Far From Home (2019)": {tpdb_poster: 114078}
-  "Spider-Man: Homecoming (2017)": {tpdb_poster: 114071}
-  "Spider-Man: No Way Home (2021)": {tpdb_poster: 188298}
-  "Spider-Man: No Way Home (The More Fun Stuff Version) (2021)": {tpdb_poster: 287942}
-  "Spider-Man: All Roads Lead to No Way Home": {tpdb_poster: 287943}
-  "Spider-Man: Into the Spider-Verse (2018)": {tpdb_poster: 132636}
-  "Spider-Man: Across the Spider-Verse (2023)": {tpdb_poster: null}
-  "Spider-Ham: Caught in a Ham (2019)": {tpdb_poster: 132639}
-  "The Amazing Spider-Man (2012)": {tpdb_poster: 132633}
-  "The Amazing Spider-Man 2 (2014)": {tpdb_poster: 132634}
-  "Spider-Man (2002)": {tpdb_poster: 132629}
-  "Spider-Man 2 (2004)": {tpdb_poster: 132630}
-  "Spider-Man 3 (2007)": {tpdb_poster: 132631}
+  "Spider-Man (Avengers) Collection": {tpdb_poster: 287939}
+movies:
+  "Spider-Man: Homecoming (2017)": {tpdb_poster: 287940}
+  "Spider-Man: Far From Home (2019)": {tpdb_poster: 287941}
+  "Spider-Man: No Way Home (2021)": {tpdb_poster: 287942}
+  "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: 287943}

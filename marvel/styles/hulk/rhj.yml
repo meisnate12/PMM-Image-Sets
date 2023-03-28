@@ -1,8 +1,7 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/9775
-  set_key: rhj
-  set_link: https://theposterdb.com/set/4475
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image: 9775
+  style_key: rhj
+  style_link: 4475
+movies:
   "The Incredible Hulk (2008)": {tpdb_poster: 9775}

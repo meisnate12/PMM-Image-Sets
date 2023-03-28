@@ -1,24 +1,10 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/206017
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/80057
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 206017
+  style_key: diiivoy_neon
+  style_link: 80057
 collections:
   "Batman Collection": {tpdb_poster: 177518}
   "The Dark Knight Collection": {tpdb_poster: 141711}
-
-set:
-  "Batman & Robin": {tpdb_poster: 142583}
-  "Batman (1966)": {tpdb_poster: 177507}
-  "Batman Begins": {tpdb_poster: 141712}
-  "Batman Forever": {tpdb_poster: 142582}
-  "Batman Returns": {tpdb_poster: 142581}
-  "Batman v Superman: Dawn of Justice (Ultimate Edition)": {tpdb_poster: 141589}
-  "Batman v Superman: Dawn of Justice": {tpdb_poster: 128648}
-  "Batman vs. Two-Face": {tpdb_poster: 177510}
-  "Batman": {tpdb_poster: 142580}
-  "Batman: Return of the Caped Crusaders": {tpdb_poster: 177509}
-  "The Batman": {tpdb_poster: 206017}
-  "The Dark Knight Rises": {tpdb_poster: 141714}
-  "The Dark Knight": {tpdb_poster: 141713}
+movies:
+  "Batman v Superman: Dawn of Justice (2016)": {tpdb_poster: 141589}

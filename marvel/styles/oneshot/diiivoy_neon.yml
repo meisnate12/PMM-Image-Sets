@@ -1,18 +1,14 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/139060
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/71510
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 139060
+  style_key: diiivoy_neon
+  style_link: 71510
 collections:
   "Marvel One-Shots Collection": {tpdb_poster: 139056}
-set:
-  "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)": {tpdb_poster: 139058}
+movies:
+  "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)": {
+    tpdb_poster: 139058}
+  "Marvel One-Shot: The Consultant (2011)": {tpdb_poster: 139057}
+  "Marvel One-Shot: Item 47 (2012)": {tpdb_poster: 139059}
   "Marvel One-Shot: Agent Carter (2013)": {tpdb_poster: 139060}
   "Marvel One-Shot: All Hail the King (2014)": {tpdb_poster: 139061}
-  "Marvel One-Shot: Item 47 (2012)": {tpdb_poster: 139059}
-  "Marvel One-Shot: The Consultant (2011)": {tpdb_poster: 139057}
-  "One Shot: Peter's To-Do List": {tpdb_poster: 139486}
-  "One Shot: Team Darryl": {tpdb_poster: 139485}
-  "One Shot: Team Thor Part 2": {tpdb_poster: 139484}
-  "One Shot: Team Thor": {tpdb_poster: 139483}

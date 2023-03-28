@@ -1,13 +1,13 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/250576
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/41596
-  set_author: DIIIVOY
-
+  style_author:
+  style_image:
+  style_key: diiivoy
+  style_link: 41596
+  complete: true
 collections:
   "Thor Collection": {tpdb_poster: 65916}
-set:
+movies:
   "Thor (2011)": {tpdb_poster: 65913}
-  "Thor: Love and Thunder (2022)": {tpdb_poster: 250576}
-  "Thor: Ragnarok (2017)": {tpdb_poster: 65915}
   "Thor: The Dark World (2013)": {tpdb_poster: 65914}
+  "Thor: Ragnarok (2017)": {tpdb_poster: 65915}
+  "Thor: Love and Thunder (2022)": {tpdb_poster: 250576}

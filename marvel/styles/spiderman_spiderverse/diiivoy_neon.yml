@@ -1,13 +1,10 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/132636
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/78444
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 132636
+  style_key: diiivoy_neon
+  style_link: 78444
 collections:
   "Spider-Man: Spider-Verse Collection": {tpdb_poster: 132635}
-
-set:
+movies:
   "Spider-Man: Into the Spider-Verse (2018)": {tpdb_poster: 132636}
-  "Spider-Man: Across the Spider-Verse (2023)": {tpdb_poster: null}
   "Spider-Ham: Caught in a Ham (2019)": {tpdb_poster: 132639}

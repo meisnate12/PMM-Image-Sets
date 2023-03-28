@@ -1,8 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/153778
-  set_key: rhj2
-  set_link: https://theposterdb.com/set/87080
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image: 153778
+  style_key: rhj2
+  style_link: 87080
+  complete: true
+movies:
   "Shang-Chi and the Legend of the Ten Rings (2021)": {tpdb_poster: 153778}

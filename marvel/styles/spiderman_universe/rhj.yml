@@ -1,47 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/9797
-  set_key: rhj
-  set_link: https://theposterdb.com/set/4475
-  set_author: RedHeadJedi
-
-collections:
-  "Marvel Cinematic Universe": {tpdb_poster: 9772}
-set:
-  "Ant-Man (2015)": {tpdb_poster: 9786}
-  "Ant-Man and the Wasp (2018)": {tpdb_poster: 9795}
-  "Ant-Man and the Wasp: Quantumania (2023)": {tpdb_poster: 320500}
-  "Avengers: Age of Ultron (2015)": {tpdb_poster: 9785}
-  "Avengers: Endgame (2019)": {tpdb_poster: 9797}
-  "Avengers: Infinity War (2018)": {tpdb_poster: 9794}
-  "Black Panther (2018)": {tpdb_poster: 9792}
-  "Black Panther: Wakanda Forever (2022)": {tpdb_poster: 286152}
-  "Black Widow (2021)": {tpdb_poster: 54982}
-  "Captain America: Civil War (2016)": {tpdb_poster: 9787}
-  "Captain America: The First Avenger (2011)": {tpdb_poster: 9778}
-  "Captain America: The Winter Soldier (2014)": {tpdb_poster: 9783}
-  "Captain Marvel (2019)": {tpdb_poster: 796}
-  "Doctor Strange (2016)": {tpdb_poster: 9788}
-  "Doctor Strange in the Multiverse of Madness (2022)": {tpdb_poster: 234599}
-  "Eternals (2021)": {tpdb_poster: 153775}
-  "Guardians of the Galaxy (2014)": {tpdb_poster: 9784}
-  "Guardians of the Galaxy Vol. 2 (2017)": {tpdb_poster: 9789}
-  "Iron Man (2008)": {tpdb_poster: 9773}
-  "Iron Man 2 (2010)": {tpdb_poster: 9776}
-  "Iron Man 3 (2013)": {tpdb_poster: 9780}
-  "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)": {tpdb_poster: 208135}
-  "Marvel One-Shot: Agent Carter (2013)": {tpdb_poster: 157171}
-  "Marvel One-Shot: All Hail the King (2014)": {tpdb_poster: 208136}
-  "Marvel One-Shot: Item 47 (2012)": {tpdb_poster: 157170}
-  "Marvel One-Shot: The Consultant (2011)": {tpdb_poster: 157169}
-  "Shang-Chi and the Legend of the Ten Rings (2021)": {tpdb_poster: 170437}
-  "Spider-Man: Far From Home (2019)": {tpdb_poster: 9798}
+  style_author: RedHeadJedi
+  style_image: 9797
+  style_key: rhj
+  style_link: 4475
+movies:
   "Spider-Man: Homecoming (2017)": {tpdb_poster: 9790}
-  "Spider-Man: No Way Home (2021)": {tpdb_poster: 188475}
-  "The Avengers (2012)": {tpdb_poster: 9779}
-  "The Guardians of the Galaxy Holiday Special (2022)": {tpdb_poster: 286156}
-  "The Incredible Hulk (2008)": {tpdb_poster: 9775}
-  "Thor (2011)": {tpdb_poster: 9777}
-  "Thor: Love and Thunder (2022)": {tpdb_poster: 248629}
-  "Thor: Ragnarok (2017)": {tpdb_poster: 9791}
-  "Thor: The Dark World (2013)": {tpdb_poster: 9781}
-  "Werewolf by Night (2022)": {tpdb_poster: 273729}
+  "Spider-Man: Far From Home (2019)": {tpdb_poster: 9798}
+  "Spider-Man: No Way Home (2021)": {tpdb_poster: 198816}
