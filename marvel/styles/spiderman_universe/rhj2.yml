@@ -1,0 +1,53 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/139875
+  set_key: rhj2
+  set_link: https://theposterdb.com/set/87080
+  set_author: RedHeadJedi
+
+collections:
+  "Marvel Cinematic Universe": {tpdb_poster: 139853}
+set:
+  "Ant-Man (2015)": {tpdb_poster: 139865}
+  "Ant-Man and the Wasp (2018)": {tpdb_poster: 139873}
+  "Ant-Man and the Wasp: Quantumania (2023)": {tpdb_poster: 320501}
+  "Avengers: Age of Ultron (2015)": {tpdb_poster: 139864}
+  "Avengers: Endgame (2019)": {tpdb_poster: 139875}
+  "Avengers: Infinity War (2018)": {tpdb_poster: 139872}
+  "Black Panther (2018)": {tpdb_poster: 139871}
+  "Black Panther: Wakanda Forever (2022)": {tpdb_poster: 286155}
+  "Black Widow (2021)": {tpdb_poster: 139877}
+  "Blade (2024)": {tpdb_poster: null}
+  "Captain America: Civil War (2016)": {tpdb_poster: 139866}
+  "Captain America: New World Order (2024)": {tpdb_poster: null}
+  "Captain America: The First Avenger (2011)": {tpdb_poster: 139858}
+  "Captain America: The Winter Soldier (2014)": {tpdb_poster: 139862}
+  "Captain Marvel (2019)": {tpdb_poster: 139874}
+  "Deadpool 3 (2024)": {tpdb_poster: null}
+  "Doctor Strange (2016)": {tpdb_poster: 139867}
+  "Doctor Strange in the Multiverse of Madness (2022)": {tpdb_poster: 234618}
+  "Eternals (2021)": {tpdb_poster: 153779}
+  "Fantastic Four (2025)": {tpdb_poster: null}
+  "Guardians of the Galaxy (2014)": {tpdb_poster: 139863}
+  "Guardians of the Galaxy Vol. 2 (2017)": {tpdb_poster: 139868}
+  "Guardians of the Galaxy Volume 3 (2023)": {tpdb_poster: null}
+  "Iron Man (2008)": {tpdb_poster: 139854}
+  "Iron Man 2 (2010)": {tpdb_poster: 139856}
+  "Iron Man 3 (2013)": {tpdb_poster: 139860}
+  "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)": {tpdb_poster: 208135}
+  "Marvel One-Shot: Agent Carter (2013)": {tpdb_poster: 157171}
+  "Marvel One-Shot: All Hail the King (2014)": {tpdb_poster: 208136}
+  "Marvel One-Shot: Item 47 (2012)": {tpdb_poster: 157170}
+  "Marvel One-Shot: The Consultant (2011)": {tpdb_poster: 157169}
+  "Shang-Chi and the Legend of the Ten Rings (2021)": {tpdb_poster: 153778}
+  "Spider-Man: Far From Home (2019)": {tpdb_poster: 139876}
+  "Spider-Man: Homecoming (2017)": {tpdb_poster: 139869}
+  "Spider-Man: No Way Home (2021)": {tpdb_poster: 188478}
+  "The Avengers (2012)": {tpdb_poster: 139859}
+  "The Guardians of the Galaxy Holiday Special (2022)": {tpdb_poster: 286156}
+  "The Incredible Hulk (2008)": {tpdb_poster: 139855}
+  "Thor (2011)": {tpdb_poster: 139857}
+  "Thor: Love and Thunder (2022)": {tpdb_poster: 248646}
+  "Thor: Ragnarok (2017)": {tpdb_poster: 139870}
+  "Thor: The Dark World (2013)": {tpdb_poster: 139861}
+  "Werewolf by Night": {tpdb_poster: 273727}
+

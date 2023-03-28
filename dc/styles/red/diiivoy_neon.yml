@@ -1,0 +1,12 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/145612
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/80057
+  set_author: DIIIVOY
+
+collections:
+  "RED Collection": {tpdb_poster: 145610}
+
+set:
+  "RED 2": {tpdb_poster: 145612}
+  "RED": {tpdb_poster: 145611}

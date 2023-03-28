@@ -1,0 +1,10 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/68788
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/41596
+  set_author: DIIIVOY
+
+collections:
+  "Captain Marvel Collection": {tpdb_poster: 68789}
+set:
+  "Captain Marvel (2019)": {tpdb_poster: 68788}

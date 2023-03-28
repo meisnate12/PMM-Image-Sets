@@ -1,0 +1,12 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/114075
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/71510
+  set_author: DIIIVOY
+
+collections:
+  "Ant-Man Collection": {tpdb_poster: 295036}
+set:
+  "Ant-Man (2015)": {tpdb_poster: 114067}
+  "Ant-Man and the Wasp (2018)": {tpdb_poster: 114075}
+  "Ant-Man and the Wasp: Quantumania (2023)": {tpdb_poster: 295039}

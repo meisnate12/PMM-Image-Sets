@@ -1,0 +1,12 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/114062
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/71510
+  set_author: DIIIVOY
+
+collections:
+  "Iron Man Collection": {tpdb_poster: 114052}
+set:
+  "Iron Man (2008)": {tpdb_poster: 114056}
+  "Iron Man 2 (2010)": {tpdb_poster: 114058}
+  "Iron Man 3 (2013)": {tpdb_poster: 114062}

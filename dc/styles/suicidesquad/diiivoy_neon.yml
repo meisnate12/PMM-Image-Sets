@@ -1,0 +1,12 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/128656
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/80057
+  set_author: DIIIVOY
+
+collections:
+  "Suicide Squad Collection": {tpdb_poster: 139024}
+
+set:
+  "Suicide Squad": {tpdb_poster: 128649}
+  "The Suicide Squad": {tpdb_poster: 128656}

@@ -1,0 +1,15 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/135779
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/78444
+  set_author: DIIIVOY
+
+collections:
+  "In Association with Marvel": {tpdb_poster: 125372}
+
+set:
+  "Big Hero 6 (2014)": {tpdb_poster: 171459}
+  "Morbius (2022)": {tpdb_poster: 235304}
+  "Elektra (2005)": {tpdb_poster: 152035}
+  "Hulk (2003)": {tpdb_poster: 139467}
+  "Nick Fury: Agent of S.H.I.E.L.D. (1998)": {tpdb_poster: 220282}

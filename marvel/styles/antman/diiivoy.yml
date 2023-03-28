@@ -1,0 +1,11 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/66568
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/41596
+  set_author: DIIIVOY
+
+collections:
+  "Ant-Man Collection": {tpdb_poster: 66569}
+set:
+  "Ant-Man (2015)": {tpdb_poster: 66567}
+  "Ant-Man and the Wasp (2018)": {tpdb_poster: 66568}

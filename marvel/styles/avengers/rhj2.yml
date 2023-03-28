@@ -1,0 +1,10 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/139872
+  set_key: rhj2
+  set_link: https://theposterdb.com/set/87080
+  set_author: RedHeadJedi
+
+set:
+  "Avengers: Age of Ultron (2015)": {tpdb_poster: 139864}
+  "Avengers: Endgame (2019)": {tpdb_poster: 139875}
+  "Avengers: Infinity War (2018)": {tpdb_poster: 139872}

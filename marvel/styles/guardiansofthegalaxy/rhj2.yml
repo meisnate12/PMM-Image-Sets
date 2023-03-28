@@ -1,0 +1,12 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/139863
+  set_key: rhj2
+  set_link: https://theposterdb.com/set/87080
+  set_author: RedHeadJedi
+
+set:
+  "Guardians of the Galaxy (2014)": {tpdb_poster: 139863}
+  "Guardians of the Galaxy Vol. 2 (2017)": {tpdb_poster: 139868}
+  "Guardians of the Galaxy Volume 3 (2023)": {tpdb_poster: null}
+  "The Guardians of the Galaxy Holiday Special (2022)": {tpdb_poster: 286156}
+

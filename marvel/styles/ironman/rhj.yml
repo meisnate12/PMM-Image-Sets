@@ -1,0 +1,10 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/9780
+  set_key: rhj
+  set_link: https://theposterdb.com/set/4475
+  set_author: RedHeadJedi
+
+set:
+  "Iron Man (2008)": {tpdb_poster: 9773}
+  "Iron Man 2 (2010)": {tpdb_poster: 9776}
+  "Iron Man 3 (2013)": {tpdb_poster: 9780}

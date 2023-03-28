@@ -1,0 +1,14 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/151996
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/78444
+  set_author: DIIIVOY
+
+collections:
+  "Fantastic Four Collection": {tpdb_poster: 151994}
+
+set:
+  "Fantastic Four (2015)": {tpdb_poster: 151997}
+  "Fantastic Four (2005)": {tpdb_poster: 151995}
+  "Fantastic Four: Rise of the Silver Surfer (2007)": {tpdb_poster: 151996}
+  "The Fantastic Four (1994)": {tpdb_poster: 164762}

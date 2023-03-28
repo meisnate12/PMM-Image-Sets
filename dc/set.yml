@@ -1,0 +1,214 @@
+sections:
+  aquaman:
+    title: Aquaman
+    builders:
+      tmdb_collection: 573693
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      diiivoy:
+      rhj:
+      rhj2:
+    collections:
+      "Aquaman Collection":
+      - "Aquaman"
+    movies:
+      "Aquaman": 297802
+      "Aquaman and the Lost Kingdom": 572802
+
+  batman:
+    title: Batman
+    builders:
+      tmdb_collection: 120794, 948485, 263
+      tmdb_movie: 209112, 2661, 411736, 464882
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      diiivoy:
+      rhj:
+      rhj2:
+    collections:
+      "Batman Collection":
+      - "Batman"
+      "The Dark Knight Collection":
+      - "The Dark Knight"
+    movies:
+      "Batman v Superman: Dawn of Justice":
+        mapping_id: 209112
+        blank_edition: true
+      "Batman v Superman: Dawn of Justice (Ultimate Edition)":
+        mapping_id: 209112
+        edition_contains: Ultimate
+      "Batman Begins": 272
+      "The Dark Knight": 155
+      "The Dark Knight Rises": 49026
+      "Batman": 268
+      "Batman Returns": 364
+      "Batman Forever": 414
+      "Batman & Robin": 415
+      "Batman (1966)": 2661
+      "Batman: Return of the Caped Crusaders": 411736
+      "Batman vs. Two-Face": 464882
+      "The Batman": 414906
+
+  harleyquinn:
+    title: Harley Quinn
+    builders:
+      tmdb_movie: 495764
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      diiivoy:
+      rhj:
+      rhj2:
+    collections:
+      "Harley Quinn Collection":
+      - "Harley Quinn"
+    movies:
+      "Birds of Prey": 495764
+
+  red:
+    title: RED
+    builders:
+      tmdb_collection: 163902
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      diiivoy:
+      rhj:
+      rhj2:
+    collections:
+      "RED Collection":
+      - "RED"
+    movies:
+      "RED": 39514
+      "RED 2": 146216
+
+  shazam:
+    title: Shazam!
+    builders:
+      tmdb_collection: 724848
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      diiivoy:
+      rhj:
+      rhj2:
+    collections:
+      "Shazam! Collection":
+      - "Shazam!"
+    movies:
+      "Shazam!": 287947
+      "Shazam! Fury of the Gods": 594767
+
+  suicidesquad:
+    title: Suicide Squad
+    builders:
+      tmdb_collection: 531242
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      diiivoy:
+      rhj:
+      rhj2:
+    collections:
+      "Suicide Squad Collection":
+      - "The Suicide Squad"
+      - "Suicide Squad"
+    movies:
+      "Suicide Squad": 297761
+      "The Suicide Squad": 436969
+
+  superman:
+    title: Superman
+    builders:
+      tmdb_collection: 8537
+      tmdb_movie: 49521, 209112
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      diiivoy:
+      rhj:
+      rhj2:
+    collections:
+      "Superman Collection":
+      - "Superman"
+    movies:
+      "Man of Steel": 49521
+      "Batman v Superman: Dawn of Justice":
+        mapping_id: 209112
+        blank_edition: true
+      "Batman v Superman: Dawn of Justice (Ultimate Edition)":
+        mapping_id: 209112
+        edition_contains: Ultimate
+      "Superman": 1924
+      "Superman II":
+        mapping_id: 8536
+        blank_edition: true
+      "Superman II (The Richard Donner Cut)":
+        mapping_id: 8536
+        edition_contains: Donner
+      "Superman III": 9531
+      "Superman IV: The Quest for Peace": 11411
+      "Superman Returns": 1452
+
+  wonderwoman:
+    title: Wonder Woman
+    builders:
+      tmdb_collection: 468552
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      diiivoy:
+      rhj:
+      rhj2:
+    collections:
+      "Wonder Woman Collection":
+      - "Wonder Woman"
+    movies:
+      "Wonder Woman": 297762
+      "Wonder Woman 1984": 464052
+
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie:  20776, 141052. 791373, 436270, 13183, 1071191, 41207, 475557, 44912, 314, 561, 831405, 20533, 752, 539681
+    styles:
+      default: diiivoy_neon
+      diiivoy_neon:
+      diiivoy:
+      rhj:
+      rhj2:
+    collections:
+      "Worlds of DC (DCEU)":
+      - "Worlds of DC"
+      - "DC Extended Universe"
+    movies:
+      "Return to the Batcave - The Misadventures of Adam and Burt": 20776
+      "Justice League": 141052
+      "Zack Snyder's Justice League":
+        mapping_id: 791373
+        blank_edition: true
+      "Zack Snyder's Justice League (Justice is Gray Edition)":
+        mapping_id: 791373
+        edition_contains: Gray
+      "Black Adam": 436270
+      "Watchmen":
+        mapping_id: 13183
+        blank_edition: true
+      "Watchmen (Director's Cut)":
+        mapping_id: 13183
+        edition_contains: Director
+      "Watchmen (Midnight)":
+        mapping_id: 13183
+        edition_contains: Midnight
+      "Watchmen (Ultimate Cut)": 1071191
+      "Watchmen: Under the Hood": 41207
+      "Joker": 475557
+      "Green Lantern": 44912
+      "Catwoman": 314
+      "Constantine": 561
+      "Injustice": 831405
+      "Jonah Hex": 20533
+      "V for Vendetta": 752
+      "DC League of Super-Pets": 539681

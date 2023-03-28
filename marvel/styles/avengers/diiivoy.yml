@@ -1,0 +1,12 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/70446
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/41596
+  set_author: DIIIVOY
+
+collections:
+  "The Avengers Collection": {tpdb_poster: 70448}
+set:
+  "Avengers: Age of Ultron (2015)": {tpdb_poster: 70445}
+  "Avengers: Endgame (2019)": {tpdb_poster: 70447}
+  "Avengers: Infinity War (2018)": {tpdb_poster: 70446}

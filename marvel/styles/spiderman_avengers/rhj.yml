@@ -1,0 +1,10 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/9798
+  set_key: rhj
+  set_link: https://theposterdb.com/set/4475
+  set_author: RedHeadJedi
+
+set:
+  "Spider-Man: Far From Home (2019)": {tpdb_poster: 9798}
+  "Spider-Man: Homecoming (2017)": {tpdb_poster: 9790}
+  "Spider-Man: No Way Home (2021)": {tpdb_poster: 188475}

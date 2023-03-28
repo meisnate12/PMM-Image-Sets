@@ -1,0 +1,15 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/135781
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/78444
+  set_author: DIIIVOY
+
+collections:
+  "Deadpool Collection": {tpdb_poster: 135778}
+
+set:
+  "Deadpool (2016)": {tpdb_poster: 135779}
+  "Deadpool: No Good Deed": {tpdb_poster: 135784}
+  "Deadpool 2 (2018)": {tpdb_poster: 135780}
+  "Deadpool 2 (Super Duper Cut)": {tpdb_poster: 135783}
+  "Once Upon a Deadpool (2018)": {tpdb_poster: 135781}

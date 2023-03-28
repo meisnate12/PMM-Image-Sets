@@ -1,0 +1,12 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/250575
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/41596
+  set_author: DIIIVOY
+
+collections:
+  "Doctor Strange Collection": {tpdb_poster: 67076}
+
+set:
+  "Doctor Strange (2016)": {tpdb_poster: 67075}
+  "Doctor Strange in the Multiverse of Madness (2022)": {tpdb_poster: 250575}

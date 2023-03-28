@@ -1,0 +1,19 @@
+info:
+  asset_image: https://theposterdb.com/api/assets/128648
+  set_key: diiivoy
+  set_link: https://theposterdb.com/set/80057
+  set_author: DIIIVOY
+
+collections:
+  "Superman Collection": {tpdb_poster: 131540}
+
+set:
+  "Batman v Superman: Dawn of Justice (Ultimate Edition)": {tpdb_poster: 141589}
+  "Batman v Superman: Dawn of Justice": {tpdb_poster: 128648}
+  "Man of Steel": {tpdb_poster: 128647}
+  "Superman II (The Richard Donner Cut)": {tpdb_poster: 147065}
+  "Superman II": {tpdb_poster: 147061}
+  "Superman III": {tpdb_poster: 147062}
+  "Superman IV: The Quest for Peace": {tpdb_poster: 147063}
+  "Superman Returns": {tpdb_poster: 147064}
+  "Superman": {tpdb_poster: 147060}
