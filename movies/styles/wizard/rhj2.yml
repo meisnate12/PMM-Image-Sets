@@ -3,6 +3,7 @@ info:
   style_image: 85948
   style_key: rhj2
   style_link: 11706
+  complete: true
 collections:
   "Wizarding World (of Harry Potter) Collection": {tpdb_poster: 85944}
 movies:
@@ -16,4 +17,5 @@ movies:
   "Harry Potter and the Deathly Hallows: Part 2 (2011)": {tpdb_poster: 85952}
   "Fantastic Beasts and Where to Find Them (2016)": {tpdb_poster: 85953}
   "Fantastic Beasts: The Crimes of Grindelwald (2018)": {tpdb_poster: 85954}
+  "Fantastic Beasts: The Secrets of Dumbledore (2022)": {tpdb_poster: 239160}
   "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": {tpdb_poster: 201115}

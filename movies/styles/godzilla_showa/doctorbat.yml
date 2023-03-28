@@ -3,9 +3,11 @@ info:
   style_image: 309124
   style_key: doctorbat
   style_link: 181742
+  complete: true
 collections:
   "Godzilla (Showa) Collection": {tpdb_poster: 309070}
 movies:
+  "Godzilla (1954)": {tpdb_poster: 309071}
   "Godzilla Raids Again (1955)": {tpdb_poster: 309108}
   "Godzilla, King of the Monsters! (1956)": {tpdb_poster: 309109}
   "Gigantis: The Fire Monster (1959)": {tpdb_poster: 309110}

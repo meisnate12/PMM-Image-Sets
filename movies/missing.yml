@@ -14,10 +14,6 @@ godzilla_monsterverse:
   rhj:
     collections:
       "Godzilla Collection": {tpdb_poster: null, url_poster: null}
-godzilla_showa:
-  doctorbat:
-    movies:
-      "Godzilla (1954)": {tpdb_poster: null, url_poster: null}
 poirot:
   diiivoy_neon:
     movies:
@@ -75,8 +71,6 @@ wizard:
     collections:
       "Fantastic Beasts Collection": {tpdb_poster: null, url_poster: null}
       "Harry Potter Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Fantastic Beasts: The Secrets of Dumbledore (2022)": {tpdb_poster: null, url_poster: null}
   dsman:
     collections:
       "Fantastic Beasts Collection": {tpdb_poster: null, url_poster: null}
