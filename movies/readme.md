@@ -18,6 +18,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <li><a href="#men-in-black-set"><div class="images-inline-link">Men in Black Set<br><code>mib</code></div></a></li>
   <li><a href="#middle-earth-set"><div class="images-inline-link">Middle-Earth Set<br><code>middle</code></div></a></li>
   <li><a href="#mission-impossible-set"><div class="images-inline-link">Mission Impossible Set<br><code>mission</code></div></a></li>
+  <li><a href="#narnia"><div class="images-inline-link">Narnia<br><code>narnia</code></div></a></li>
   <li><a href="#now-you-see-me-set"><div class="images-inline-link">Now You See Me Set<br><code>nowyouseeme</code></div></a></li>
   <li><a href="#ocean's-set"><div class="images-inline-link">Ocean's Set<br><code>ocean</code></div></a></li>
   <li><a href="#pirates-of-the-caribbean-set"><div class="images-inline-link">Pirates of the Caribbean Set<br><code>pirates</code></div></a></li>
@@ -414,6 +415,34 @@ Below is a table of the available sets that can be used on Movie libraries, you 
           <a href="https://theposterdb.com/set/1001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/mission/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/1001" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="narnia">Narnia<a class="headerlink" href="#narnia" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>narnia</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/420" target="_blank" rel="noopener noreferrer">420</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/55298" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/narnia/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/55298" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/55239" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/narnia/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/55239" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
     </tr>

@@ -680,6 +680,22 @@ sections:
       "Mission: Impossible - Rogue Nation (2015)": 177677
       "Mission: Impossible - Fallout (2018)": 353081
       "Mission: Impossible - Dead Reckoning Part One (2023)": 575264
+  narnia:
+    title: Narnia
+    builders:
+      tmdb_collection: 420
+    styles:
+      diiivoy:
+      rhj:
+    collections:
+      "The Chronicles of Narnia Collection":
+      - "Chronicles of Narnia"
+      - "Chronicles of Narnia Collection"
+      - "The Chronicles of Narnia"
+    movies:
+      "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)": 411
+      "The Chronicles of Narnia: Prince Caspian (2008)": 2454
+      "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)": 10140
   nowyouseeme:
     title: Now You See Me Set
     builders:

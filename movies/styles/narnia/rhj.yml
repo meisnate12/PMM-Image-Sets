@@ -1,0 +1,12 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 86944
+  style_key: rhj
+  style_link: 55239
+  complete: true
+collections:
+  "The Chronicles of Narnia Collection": {tpdb_poster: 86941}
+movies:
+  "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)": {tpdb_poster: 86942}
+  "The Chronicles of Narnia: Prince Caspian (2008)": {tpdb_poster: 86943}
+  "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)": {tpdb_poster: 86944}
