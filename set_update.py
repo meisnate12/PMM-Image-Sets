@@ -42,8 +42,7 @@ logger.secret([pmmargs["tmdbapi"], pmmargs["trakt_id"], pmmargs["trakt_token"]])
 requests.Session.send = util.update_send(requests.Session.send, pmmargs["timeout"])
 logger.header(pmmargs, sub=True)
 logger.separator("Validating Options", space=False, border=False)
-now = datetime.now()
-six_months = now + timedelta(days=183)
+today = datetime.now()
 
 try:
     # Connect to TMDb
@@ -159,8 +158,7 @@ try:
                             existing_show_lookup[v] = k
 
                     builder_html = "<br><strong>Builders:</strong>\n<br>\n"
-                    builder_movies = {}
-                    builder_shows = {}
+                    tmdb_objects = []
                     for k, v in new_data["builders"].items():
                         if not v:
                             raise Failed(f"Builder Error: {k} cannot be blank")
@@ -187,19 +185,19 @@ try:
                                     _tmdb = None
                                     if k == "tmdb_list":
                                         results = tmdbapi.list(_id)
-                                        tmdb_items.extend(results.get_results(results.total_results))
+                                        tmdb_objects.extend(results.get_results(results.total_results))
                                         _url = f"https://www.themoviedb.org/list/{_id}"
                                     elif k == "tmdb_collection":
                                         col = tmdbapi.collection(_id)
                                         if col.name not in new_collections:
                                             new_collections[col.name] = []
-                                        tmdb_items.extend(col.movies)
+                                        tmdb_objects.extend(col.movies)
                                         _url = f"https://www.themoviedb.org/collection/{_id}"
                                     elif k == "tmdb_movie":
-                                        tmdb_items.append(tmdbapi.movie(_id))
+                                        tmdb_objects.append(tmdbapi.movie(_id))
                                         _url = f"https://www.themoviedb.org/movie/{_id}"
                                     elif k == "tmdb_show":
-                                        tmdb_items.append(tmdbapi.tv_show(_id))
+                                        tmdb_objects.append(tmdbapi.tv_show(_id))
                                         _url = f"https://www.themoviedb.org/tv/{_id}"
                                     elif k == "tvdb_show":
                                         try:
@@ -217,7 +215,7 @@ try:
                                         except TMDbException:
                                             tvdb_lookup[int(_id)] = None
                                             raise Failed(f"TVDb Error: No Results were found for tvdb_id: {_id}")
-                                        tmdb_items.append(tmdb_item)
+                                        tmdb_objects.append(tmdb_item)
                                         _url = f"https://www.thetvdb.com/dereferrer/series/{_id}"
                                         _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
                                     elif k == "imdb_id":
@@ -233,7 +231,7 @@ try:
                                                 _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
                                             else:
                                                 raise TMDbException
-                                            tmdb_items.append(tmdb_item)
+                                            tmdb_objects.append(tmdb_item)
                                             _url = f"https://www.imdb.com/title/{_id}"
                                         except TMDbException:
                                             raise Failed(f"IMDb Error: No Results were found for imdb_id: {_id}")
@@ -242,11 +240,6 @@ try:
 
                                     _tmdb_html = f' ({a_link(_tmdb, "TMDb")})' if _tmdb else ""
                                     extra_html.append(f"{a_link(_url, _id)}{_tmdb_html}")
-                                    for i in tmdb_items:
-                                        if isinstance(i, Movie) and i.id not in builder_movies:
-                                            builder_movies[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
-                                        elif isinstance(i, TVShow) and i.tvdb_id and i.tvdb_id not in builder_shows:
-                                            builder_shows[i.tvdb_id] = {"title": i.name, "year": i.first_air_date.year if i.first_air_date else ""}
                                 except TMDbException as e:
                                     raise Failed(f"TMDb Error: No {k[5:].capitalize()} found for TMDb ID {_id}: {e}")
                             if extra_html:
@@ -314,23 +307,7 @@ try:
                                     raise Failed(f"IMDb Error: No IMDb IDs Found at {imdb_url}")
 
                                 builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(imdb_url)}<br>\n'
-                                for imdb_id in imdb_ids:
-                                    try:
-                                        find_results = tmdbapi.find_by_id(imdb_id=imdb_id)
-                                        if find_results.movie_results:
-                                            i = find_results.movie_results[0]
-                                            if i.id not in builder_movies:
-                                                builder_movies[i.id] = {"title": i.name, "year": i.release_date.year if i.release_date else ""}
-                                        elif find_results.tv_results:
-                                            i = find_results.tv_results[0]
-                                            if i.tvdb_id not in tvdb_lookup:
-                                                tvdb_lookup[i.tvdb_id] = i
-                                            if i.tvdb_id not in builder_shows:
-                                                builder_shows[i.tvdb_id] = {"title": i.name, "year": i.first_air_date.year if i.first_air_date else ""}
-                                        else:
-                                            raise TMDbException
-                                    except TMDbException:
-                                        logger.error(f"TMDb Error: No TMDb ID found for IMDb ID {imdb_id}")
+                                tmdb_objects.extend([("IMDb", i) for i in imdb_ids])
                         elif k == "trakt_list":
                             trakt_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
                             for trakt_url in trakt_urls:
@@ -382,11 +359,7 @@ try:
                                     id_type, id_display = id_types[_type]
                                     if id_type not in json_data["ids"] or not json_data["ids"][id_type]:
                                         continue
-                                    _id = int(json_data["ids"][id_type])
-                                    if id_type == "tmdb" and _id not in builder_movies:
-                                        builder_movies[_id] = {"title": json_data["title"], "year": json_data["year"]}
-                                    elif id_type == "tvdb" and _id not in builder_shows:
-                                        builder_shows[_id] = {"title": json_data["title"], "year": json_data["year"]}
+                                    tmdb_objects.append((id_type, int(json_data["ids"][id_type])))
                         elif k == "mdblist_list":
                             mdblist_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
                             for mdblist_url in mdblist_urls:
@@ -417,11 +390,51 @@ try:
 
                                 builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(mdblist_url)}<br>\n'
                                 for json_data in response:
-                                    if json_data["mediatype"] == "movie" and json_data["id"] not in builder_movies:
-                                        builder_movies[json_data["id"]] = {"title": json_data["title"], "year": json_data["release_year"]}
-                                    elif json_data["mediatype"] == "show" and json_data["tvdbid"] not in builder_shows:
-                                        builder_shows[json_data["tvdbid"]] = {"title": json_data["title"], "year": json_data["release_year"]}
+                                    if json_data["mediatype"] == "movie":
+                                        tmdb_objects.append(("tmdb", json_data["id"]))
+                                    elif json_data["mediatype"] == "show":
+                                        tmdb_objects.append(("tvdb", json_data["tvdbid"]))
                     builder_html += "</ul>\n"
+
+                    builder_movies = {}
+                    builder_shows = {}
+                    for tmdb_object in tmdb_objects:
+                        if isinstance(tmdb_object, tuple):
+                            _id_type, _id = tmdb_object
+                            try:
+                                if _id_type == "imdb":
+                                    find_results = tmdbapi.find_by_id(imdb_id=_id)
+                                    if find_results.movie_results:
+                                        tmdb_object = find_results.movie_results[0]
+                                    elif find_results.tv_results:
+                                        tmdb_object = find_results.tv_results[0]
+                                    else:
+                                        raise TMDbException
+                                elif _id_type == "tvdb":
+                                    if int(_id) in tvdb_lookup:
+                                        tmdb_object = tvdb_lookup[int(_id)]
+                                        if tmdb_object is None:
+                                            raise TMDbException
+                                    else:
+                                        results = tmdbapi.find_by_id(tvdb_id=str(_id))
+                                        if not results.tv_results:
+                                            raise TMDbException
+                                        if results.tv_results[0].tvdb_id not in tvdb_lookup:
+                                            tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
+                                        tmdb_object = results.tv_results[0]
+                                elif _id_type == "tmdb":
+                                    tmdb_object = tmdbapi.movie(_id)
+                            except TMDbException:
+                                if _id_type == "tvdb":
+                                    tvdb_lookup[int(_id)] = None
+                                logger.error(f"TMDb Error: No TMDb Item found for {_id_type.upper()[:-1]}b ID {_id}")
+                                continue
+                        if isinstance(tmdb_object, Movie):
+                            if tmdb_object.id not in builder_movies and tmdb_object.release_date:
+                                builder_movies[tmdb_object.id] = (tmdb_object.name, tmdb_object.release_date)
+                        elif isinstance(tmdb_object, TVShow):
+                            if tmdb_object.tvdb_id not in builder_shows and tmdb_object.first_air_date:
+                                builder_shows[tmdb_object.tvdb_id] = (tmdb_object.name, tmdb_object.first_air_date)
 
                     if new_collections:
                         new_cols = {}
@@ -448,11 +461,11 @@ try:
                         _editions = movie_editions if attr == "movies" else show_editions
                         _non_editions = existing_movie_lookup if attr == "movies" else existing_show_lookup
                         _final = {}
-                        for _item_id, _data in _items.items():
-                            _year = int(_data['year']) if _data["year"] else None
-                            if not _year or _year > six_months.year:
+                        for _item_id, (title, release) in _items.items():
+                            if release > today:
                                 continue
-                            title = f"{_data['title']} ({_year})" if _year else _data["title"]
+                            _year = release.year
+                            title = f"{title} ({_year})"
                             builder_items.append(title)
                             if _item_id in _editions:
                                 used_editions = []
@@ -634,11 +647,14 @@ try:
                             l_out = {}
                             l_res = html.fromstring(requests.get(new_style["info"]["style_link"], headers=headers).content)
                             l_items = l_res.xpath("//div[@class = 'overlay rounded-poster']")
+                            l_author = l_res.xpath("//p[@id='set-title']/span/a/text()")[0]
                             for li in l_items:
-                                l_out[li.xpath("div/div/p[contains(@class, 'text-break')]/text()")[0]] = int(li.xpath('@data-poster-id')[0])
+                                l_title = li.xpath("div/div/p[contains(@class, 'text-break')]/text()")[0]
+                                if l_title not in l_out:
+                                    l_out[l_title] = int(li.xpath('@data-poster-id')[0])
                             time.sleep(5)
-                            set_lookup[new_style["info"]["style_link"]] = l_out
-                            return l_out
+                            set_lookup[new_style["info"]["style_link"]] = (l_author, l_out)
+                            return l_author, l_out
 
                         current_item_count = len(builder_items)
                         old_count = len([m for m in old_movies if m in builder_items]) + len([m for m in old_shows if m in builder_items])
@@ -647,7 +663,9 @@ try:
 
                         posters = None
                         if tp_link and (old_count == 0 or (is_complete and current_item_count != old_count)):
-                            posters = lookup()
+                            author, posters = lookup()
+                            if not new_style["info"]["style_author"]:
+                                new_style["info"]["style_author"] = author
 
                         for col in new_collections:
                             original_images = style_yaml["collections"][col] if "collections" in style_yaml and col in style_yaml["collections"] else {}
@@ -723,7 +741,7 @@ try:
                                             seasons[s.season_number] = s
 
                                         if tp_link and posters is not None and len(seasons) - 1 != len([True for og in og_seasons if int(og) > 0]):
-                                            posters = lookup()
+                                            _, posters = lookup()
 
                                         for s_num, season in seasons.items():
                                             if s_num in og_seasons and og_seasons[s_num]:
