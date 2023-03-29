@@ -44,6 +44,294 @@ logger.header(pmmargs, sub=True)
 logger.separator("Validating Options", space=False, border=False)
 today = datetime.now()
 
+def scan_builders(builder_dict):
+    output_html = "<br><strong>Builders:</strong>\n<br>\n"
+    output_objects = []
+    output_cols = []
+    output_builders = []
+    for k, v in builder_dict.items():
+        if not v:
+            raise Failed(f"Builder Error: {k} cannot be blank")
+        if k in ["tmdb_collection", "tmdb_movie", "tmdb_show", "tvdb_show", "imdb_id", "tmdb_list"]:
+            _id_list = []
+            if isinstance(v, list):
+                _id_list = v
+            elif k == "tmdb_list":
+                _id_list = [v]
+            else:
+                _id_list = [i.strip() for i in str(v).split(",")]
+            checked_list = []
+            for _id in _id_list:
+                if k == "imdb_id" and (match := re.search(r"(tt\d+)", str(_id))):
+                    checked_list.append(match.group(1))
+                elif k != "imdb_id" and (match := re.search(r"(\d+)", str(_id))):
+                    checked_list.append(int(match.group(1)))
+                else:
+                    raise Failed(f"Regex Error: Failed to parse ID from {_id}")
+            extra_html = []
+            for _id in checked_list:
+                try:
+                    _tmdb = None
+                    if k == "tmdb_list":
+                        results = tmdbapi.list(_id)
+                        output_objects.extend(results.get_results(results.total_results))
+                        _url = f"https://www.themoviedb.org/list/{_id}"
+                    elif k == "tmdb_collection":
+                        _col = tmdbapi.collection(_id)
+                        if _col.name not in output_cols:
+                            output_cols[_col.name] = []
+                        output_objects.extend(col.movies)
+                        _url = f"https://www.themoviedb.org/collection/{_id}"
+                    elif k == "tmdb_movie":
+                        output_objects.append(tmdbapi.movie(_id))
+                        _url = f"https://www.themoviedb.org/movie/{_id}"
+                    elif k == "tmdb_show":
+                        output_objects.append(tmdbapi.tv_show(_id))
+                        _url = f"https://www.themoviedb.org/tv/{_id}"
+                    elif k == "tvdb_show":
+                        try:
+                            if int(_id) in tvdb_lookup:
+                                tmdb_item = tvdb_lookup[int(_id)]
+                                if tmdb_item is None:
+                                    raise TMDbException
+                            else:
+                                results = tmdbapi.find_by_id(tvdb_id=str(_id))
+                                if not results.tv_results:
+                                    raise TMDbException
+                                if results.tv_results[0].tvdb_id not in tvdb_lookup:
+                                    tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
+                                tmdb_item = results.tv_results[0]
+                        except TMDbException:
+                            tvdb_lookup[int(_id)] = None
+                            raise Failed(f"TVDb Error: No Results were found for tvdb_id: {_id}")
+                        output_objects.append(tmdb_item)
+                        _url = f"https://www.thetvdb.com/dereferrer/series/{_id}"
+                        _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
+                    elif k == "imdb_id":
+                        try:
+                            results = tmdbapi.find_by_id(imdb_id=str(_id))
+                            if results.movie_results:
+                                tmdb_item = results.movie_results[0]
+                                _tmdb = f"https://www.themoviedb.org/movie/{tmdb_item.id}"
+                            elif results.tv_results:
+                                tmdb_item = results.tv_results[0]
+                                if tmdb_item.tvdb_id not in tvdb_lookup:
+                                    tvdb_lookup[tmdb_item.tvdb_id] = tmdb_item
+                                _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
+                            else:
+                                raise TMDbException
+                            output_objects.append(tmdb_item)
+                            _url = f"https://www.imdb.com/title/{_id}"
+                        except TMDbException:
+                            raise Failed(f"IMDb Error: No Results were found for imdb_id: {_id}")
+                    else:
+                        raise TMDbException
+
+                    _tmdb_html = f' ({a_link(_tmdb, "TMDb")})' if _tmdb else ""
+                    extra_html.append(f"{a_link(_url, _id)}{_tmdb_html}")
+                except TMDbException as e:
+                    raise Failed(f"TMDb Error: No {k[5:].capitalize()} found for TMDb ID {_id}: {e}")
+                output_builders.append((k, _id))
+            if extra_html:
+                output_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {", ".join(extra_html)}<br>\n'
+        elif k == "imdb_list":
+            imdb_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
+            for imdb_url in imdb_urls:
+                is_search = False
+                is_title_text = False
+                if not imdb_url.startswith("https://www.imdb.com/"):
+                    raise Failed("IMDb Error: url must begin with https://www.imdb.com/")
+                if imdb_url.startswith("https://www.imdb.com/list/ls"):
+                    xpath_total = "//div[@class='desc lister-total-num-results']/text()"
+                    item_count = 100
+                elif imdb_url.startswith("https://www.imdb.com/search/title/"):
+                    xpath_total = "//div[@class='desc']/span/text()"
+                    is_search = True
+                    item_count = 250
+                elif imdb_url.startswith("https://www.imdb.com/search/title-text/"):
+                    xpath_total = "//div[@class='desc']/span/text()"
+                    is_title_text = True
+                    item_count = 50
+                else:
+                    xpath_total = "//div[@class='desc']/text()"
+                    item_count = 50
+                results = html.fromstring(requests.get(imdb_url, headers=headers).content).xpath(xpath_total)
+                total = 0
+                for result in results:
+                    if "title" in result:
+                        try:
+                            total = int(re.findall("(\\d+) title", result.replace(",", ""))[0])
+                            break
+                        except IndexError:
+                            pass
+                if total < 1:
+                    raise Failed(f"IMDb Error: Failed to parse URL: {imdb_url}")
+
+                imdb_ids = []
+                parsed_url = urlparse(imdb_url)
+                params = parse_qs(parsed_url.query)
+                imdb_base = parsed_url._replace(query=None).geturl()  # noqa
+                params.pop("start", None)  # noqa
+                params.pop("count", None)  # noqa
+                params.pop("page", None)  # noqa
+                remainder = total % item_count
+                if remainder == 0:
+                    remainder = item_count
+                num_of_pages = math.ceil(int(total) / item_count)
+                for i in tqdm(range(1, num_of_pages + 1), unit=" parsed", desc="| Parsing IMDb Page "):
+                    start_num = (i - 1) * item_count + 1
+                    if is_search:
+                        params["count"] = remainder if i == num_of_pages else item_count  # noqa
+                        params["start"] = start_num  # noqa
+                    elif is_title_text:
+                        params["start"] = start_num  # noqa
+                    else:
+                        params["page"] = i  # noqa
+                    response = html.fromstring(requests.get(imdb_url, headers=headers, params=params).content)
+                    ids_found = response.xpath("//div[contains(@class, 'lister-item-image')]//a/img//@data-tconst")
+                    if not is_search and i == num_of_pages:
+                        ids_found = ids_found[:remainder]
+                    imdb_ids.extend(ids_found)
+                    time.sleep(2)
+                if not imdb_ids:
+                    raise Failed(f"IMDb Error: No IMDb IDs Found at {imdb_url}")
+
+                output_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(imdb_url)}<br>\n'
+                output_objects.extend([("IMDb", i) for i in imdb_ids])
+                output_builders.append((k, imdb_url))
+        elif k == "trakt_list":
+            trakt_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
+            for trakt_url in trakt_urls:
+                if not trakt_url.startswith("https://trakt.tv/"):
+                    raise Failed("Trakt Error: url must begin with https://trakt.tv/")
+                url = requests.utils.urlparse(trakt_url).path.replace("/official/", "/")  # noqa
+                try:
+                    trakt_headers = {
+                        "Content-Type": "application/json",
+                        "Authorization": f"Bearer {pmmargs['trakt_token']}",
+                        "trakt-api-version": "2",
+                        "trakt-api-key": pmmargs["trakt_id"]
+                    }
+                    output_json = []
+                    params = {}
+                    pages = 1
+                    current = 1
+                    while current <= pages:
+                        if pages > 1:
+                            params["page"] = current
+                        response = requests.get(f"{base_url}{url}/items", headers=trakt_headers, params=params)
+                        if pages == 1 and "X-Pagination-Page-Count" in response.headers and not params:
+                            pages = int(response.headers["X-Pagination-Page-Count"])
+                        if response.status_code >= 400:
+                            raise Failed(f"({response.status_code}) {response.reason}")
+                        json_data = response.json()
+                        output_json.extend(json_data)
+                        current += 1
+                except Failed:
+                    raise Failed(f"Trakt Error: List {trakt_url} not found")
+                if len(output_json) == 0:
+                    raise Failed(f"Trakt Error: List {trakt_url} is empty")
+
+                output_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(trakt_url)}<br>\n'
+
+                id_translation = {"movie": "movie", "show": "show", "season": "show", "episode": "show"}
+                id_types = {
+                    "movie": ("tmdb", "TMDb ID"),
+                    "show": ("tvdb", "TVDb ID"),
+                    "season": ("tvdb", "TVDb ID"),
+                    "episode": ("tvdb", "TVDb ID")
+                }
+                for output_json_item in output_json:
+                    if "type" in output_json_item and output_json_item["type"] in id_translation:
+                        json_data = output_json_item[id_translation[output_json_item["type"]]]
+                        _type = output_json_item["type"]
+                    else:
+                        continue
+                    id_type, id_display = id_types[_type]
+                    if id_type not in json_data["ids"] or not json_data["ids"][id_type]:
+                        continue
+                    output_objects.append((id_type, int(json_data["ids"][id_type])))
+                output_builders.append((k, trakt_url))
+        elif k == "mdblist_list":
+            mdblist_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
+            for mdblist_url in mdblist_urls:
+                if not mdblist_url.startswith("https://mdblist.com/lists/"):
+                    raise Failed("MDblist Error: url must begin with https://mdblist.com/lists/")
+                params = {}
+                parsed_url = urlparse(mdblist_url)
+                query = parse_qs(parsed_url.query)
+                if "sort" in query:
+                    params["sort"] = query["sort"][0]  # noqa
+                if "sortorder" in query:
+                    params["sortorder"] = query["sortorder"][0]  # noqa
+                url_base = str(parsed_url._replace(query=None).geturl())
+                url_base = url_base if url_base.endswith("/") else f"{url_base}/"
+                url_base = url_base if url_base.endswith("json/") else f"{url_base}json/"
+                try:
+                    response = requests.get(url_base, headers={"User-Agent": "Plex-Meta-Manager"},
+                                            params=params).json()
+                    if (isinstance(response, dict) and "error" in response) or (
+                            isinstance(response, list) and response and "error" in response[0]):
+                        err = response["error"] if isinstance(response, dict) else response[0]["error"]
+                        if err in ["empty", "empty or private list"]:
+                            raise Failed(
+                                f"Mdblist Error: No Items Returned. Lists can take 24 hours to update so try again later.")
+                        raise Failed(f"Mdblist Error: Invalid Response {response}")
+                except JSONDecodeError:
+                    raise Failed(f"Mdblist Error: Invalid Response")
+
+                output_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(mdblist_url)}<br>\n'
+                for json_data in response:
+                    if json_data["mediatype"] == "movie":
+                        output_objects.append(("tmdb", json_data["id"]))
+                    elif json_data["mediatype"] == "show":
+                        output_objects.append(("tvdb", json_data["tvdbid"]))
+                output_builders.append((k, mdblist_url))
+
+    output_html += "</ul>\n"
+
+    _movies = {}
+    _shows = {}
+    for tmdb_object in output_objects:
+        if isinstance(tmdb_object, tuple):
+            _id_type, _id = tmdb_object
+            try:
+                if _id_type == "imdb":
+                    find_results = tmdbapi.find_by_id(imdb_id=_id)
+                    if find_results.movie_results:
+                        tmdb_object = find_results.movie_results[0]
+                    elif find_results.tv_results:
+                        tmdb_object = find_results.tv_results[0]
+                    else:
+                        raise TMDbException
+                elif _id_type == "tvdb":
+                    if int(_id) in tvdb_lookup:
+                        tmdb_object = tvdb_lookup[int(_id)]
+                        if tmdb_object is None:
+                            raise TMDbException
+                    else:
+                        results = tmdbapi.find_by_id(tvdb_id=str(_id))
+                        if not results.tv_results:
+                            raise TMDbException
+                        if results.tv_results[0].tvdb_id not in tvdb_lookup:
+                            tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
+                        tmdb_object = results.tv_results[0]
+                elif _id_type == "tmdb":
+                    tmdb_object = tmdbapi.movie(_id)
+            except TMDbException:
+                if _id_type == "tvdb":
+                    tvdb_lookup[int(_id)] = None
+                logger.error(f"TMDb Error: No TMDb Item found for {_id_type.upper()[:-1]}b ID {_id}")
+                continue
+        if isinstance(tmdb_object, Movie):
+            if tmdb_object.id not in _movies and tmdb_object.release_date:
+                _movies[tmdb_object.id] = (tmdb_object.name, tmdb_object.release_date)
+        elif isinstance(tmdb_object, TVShow):
+            if tmdb_object.tvdb_id not in _shows and tmdb_object.first_air_date:
+                _shows[tmdb_object.tvdb_id] = (tmdb_object.name, tmdb_object.first_air_date)
+
+    return _movies, _shows, output_cols, output_html, output_builders
+
 try:
     # Connect to TMDb
     try:
@@ -80,8 +368,28 @@ try:
         if not os.path.exists(metadata_path):
             logger.warning(f"Initializing Image Set File: {metadata_path}")
             os.makedirs(os.path.dirname(metadata_path))
-            with open(metadata_path, "w") as f:
-                f.write("sections:\n")
+            set_yaml = YAML(metadata_path, create=True, preserve_quotes=True)
+            set_yaml["sections"] = None
+
+            if "builders" in set_info and set_info["builders"]:
+                builder_movies, builder_shows, _, _, builder_list = scan_builders(set_info["builders"])
+                new_section = {}
+                collection_id_list = []
+                for builder_type, builder_data in builder_list:
+                    if builder_type == "tmdb_collection":
+                        if builder_data not in collection_id_list:
+                            collection_id_list.append(builder_data)
+                    #elif builder_type == "tmdb_movie":
+
+                    #elif builder_type == "tmdb_show":
+                    #elif builder_type == "tvdb_show":
+                    #elif builder_type == "imdb_id":
+                    #elif builder_type == "tmdb_list":
+                    #elif builder_type == "imdb_list":
+                    #elif builder_type == "trakt_list":
+                    #elif builder_type == "mdblist_list":
+
+            set_yaml.save()
             continue
 
         try:
@@ -157,284 +465,7 @@ try:
                         else:
                             existing_show_lookup[v] = k
 
-                    builder_html = "<br><strong>Builders:</strong>\n<br>\n"
-                    tmdb_objects = []
-                    for k, v in new_data["builders"].items():
-                        if not v:
-                            raise Failed(f"Builder Error: {k} cannot be blank")
-                        if k in ["tmdb_collection", "tmdb_movie", "tmdb_show", "tvdb_show", "imdb_id", "tmdb_list"]:
-                            _id_list = []
-                            if isinstance(v, list):
-                                _id_list = v
-                            elif k == "tmdb_list":
-                                _id_list = [v]
-                            else:
-                                _id_list = [i.strip() for i in str(v).split(",")]
-                            checked_list = []
-                            for _id in _id_list:
-                                if k == "imdb_id" and (match := re.search(r"(tt\d+)", str(_id))):
-                                    checked_list.append(match.group(1))
-                                elif k != "imdb_id" and (match := re.search(r"(\d+)", str(_id))):
-                                    checked_list.append(int(match.group(1)))
-                                else:
-                                    raise Failed(f"Regex Error: Failed to parse ID from {_id}")
-                            extra_html = []
-                            for _id in checked_list:
-                                try:
-                                    tmdb_items = []
-                                    _tmdb = None
-                                    if k == "tmdb_list":
-                                        results = tmdbapi.list(_id)
-                                        tmdb_objects.extend(results.get_results(results.total_results))
-                                        _url = f"https://www.themoviedb.org/list/{_id}"
-                                    elif k == "tmdb_collection":
-                                        col = tmdbapi.collection(_id)
-                                        if col.name not in new_collections:
-                                            new_collections[col.name] = []
-                                        tmdb_objects.extend(col.movies)
-                                        _url = f"https://www.themoviedb.org/collection/{_id}"
-                                    elif k == "tmdb_movie":
-                                        tmdb_objects.append(tmdbapi.movie(_id))
-                                        _url = f"https://www.themoviedb.org/movie/{_id}"
-                                    elif k == "tmdb_show":
-                                        tmdb_objects.append(tmdbapi.tv_show(_id))
-                                        _url = f"https://www.themoviedb.org/tv/{_id}"
-                                    elif k == "tvdb_show":
-                                        try:
-                                            if int(_id) in tvdb_lookup:
-                                                tmdb_item = tvdb_lookup[int(_id)]
-                                                if tmdb_item is None:
-                                                    raise TMDbException
-                                            else:
-                                                results = tmdbapi.find_by_id(tvdb_id=str(_id))
-                                                if not results.tv_results:
-                                                    raise TMDbException
-                                                if results.tv_results[0].tvdb_id not in tvdb_lookup:
-                                                    tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
-                                                tmdb_item = results.tv_results[0]
-                                        except TMDbException:
-                                            tvdb_lookup[int(_id)] = None
-                                            raise Failed(f"TVDb Error: No Results were found for tvdb_id: {_id}")
-                                        tmdb_objects.append(tmdb_item)
-                                        _url = f"https://www.thetvdb.com/dereferrer/series/{_id}"
-                                        _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
-                                    elif k == "imdb_id":
-                                        try:
-                                            results = tmdbapi.find_by_id(imdb_id=str(_id))
-                                            if results.movie_results:
-                                                tmdb_item = results.movie_results[0]
-                                                _tmdb = f"https://www.themoviedb.org/movie/{tmdb_item.id}"
-                                            elif results.tv_results:
-                                                tmdb_item = results.tv_results[0]
-                                                if tmdb_item.tvdb_id not in tvdb_lookup:
-                                                    tvdb_lookup[tmdb_item.tvdb_id] = tmdb_item
-                                                _tmdb = f"https://www.themoviedb.org/tv/{tmdb_item.id}"
-                                            else:
-                                                raise TMDbException
-                                            tmdb_objects.append(tmdb_item)
-                                            _url = f"https://www.imdb.com/title/{_id}"
-                                        except TMDbException:
-                                            raise Failed(f"IMDb Error: No Results were found for imdb_id: {_id}")
-                                    else:
-                                        raise TMDbException
-
-                                    _tmdb_html = f' ({a_link(_tmdb, "TMDb")})' if _tmdb else ""
-                                    extra_html.append(f"{a_link(_url, _id)}{_tmdb_html}")
-                                except TMDbException as e:
-                                    raise Failed(f"TMDb Error: No {k[5:].capitalize()} found for TMDb ID {_id}: {e}")
-                            if extra_html:
-                                builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {", ".join(extra_html)}<br>\n'
-                        elif k == "imdb_list":
-                            imdb_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
-                            for imdb_url in imdb_urls:
-                                is_search = False
-                                is_title_text = False
-                                if not imdb_url.startswith("https://www.imdb.com/"):
-                                    raise Failed("IMDb Error: url must begin with https://www.imdb.com/")
-                                if imdb_url.startswith("https://www.imdb.com/list/ls"):
-                                    xpath_total = "//div[@class='desc lister-total-num-results']/text()"
-                                    item_count = 100
-                                elif imdb_url.startswith("https://www.imdb.com/search/title/"):
-                                    xpath_total = "//div[@class='desc']/span/text()"
-                                    is_search = True
-                                    item_count = 250
-                                elif imdb_url.startswith("https://www.imdb.com/search/title-text/"):
-                                    xpath_total = "//div[@class='desc']/span/text()"
-                                    is_title_text = True
-                                    item_count = 50
-                                else:
-                                    xpath_total = "//div[@class='desc']/text()"
-                                    item_count = 50
-                                results = html.fromstring(requests.get(imdb_url, headers=headers).content).xpath(xpath_total)
-                                total = 0
-                                for result in results:
-                                    if "title" in result:
-                                        try:
-                                            total = int(re.findall("(\\d+) title", result.replace(",", ""))[0])
-                                            break
-                                        except IndexError:
-                                            pass
-                                if total < 1:
-                                    raise Failed(f"IMDb Error: Failed to parse URL: {imdb_url}")
-
-                                imdb_ids = []
-                                parsed_url = urlparse(imdb_url)
-                                params = parse_qs(parsed_url.query)
-                                imdb_base = parsed_url._replace(query=None).geturl()  # noqa
-                                params.pop("start", None)  # noqa
-                                params.pop("count", None)  # noqa
-                                params.pop("page", None)  # noqa
-                                remainder = total % item_count
-                                if remainder == 0:
-                                    remainder = item_count
-                                num_of_pages = math.ceil(int(total) / item_count)
-                                for i in tqdm(range(1, num_of_pages + 1), unit=" parsed", desc="| Parsing IMDb Page "):
-                                    start_num = (i - 1) * item_count + 1
-                                    if is_search:
-                                        params["count"] = remainder if i == num_of_pages else item_count  # noqa
-                                        params["start"] = start_num  # noqa
-                                    elif is_title_text:
-                                        params["start"] = start_num  # noqa
-                                    else:
-                                        params["page"] = i  # noqa
-                                    response = html.fromstring(requests.get(imdb_url, headers=headers, params=params).content)
-                                    ids_found = response.xpath("//div[contains(@class, 'lister-item-image')]//a/img//@data-tconst")
-                                    if not is_search and i == num_of_pages:
-                                        ids_found = ids_found[:remainder]
-                                    imdb_ids.extend(ids_found)
-                                    time.sleep(2)
-                                if not imdb_ids:
-                                    raise Failed(f"IMDb Error: No IMDb IDs Found at {imdb_url}")
-
-                                builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(imdb_url)}<br>\n'
-                                tmdb_objects.extend([("IMDb", i) for i in imdb_ids])
-                        elif k == "trakt_list":
-                            trakt_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
-                            for trakt_url in trakt_urls:
-                                if not trakt_url.startswith("https://trakt.tv/"):
-                                    raise Failed("Trakt Error: url must begin with https://trakt.tv/")
-                                url = requests.utils.urlparse(trakt_url).path.replace("/official/", "/") # noqa
-                                try:
-                                    trakt_headers = {
-                                        "Content-Type": "application/json",
-                                        "Authorization": f"Bearer {pmmargs['trakt_token']}",
-                                        "trakt-api-version": "2",
-                                        "trakt-api-key": pmmargs["trakt_id"]
-                                    }
-                                    output_json = []
-                                    params = {}
-                                    pages = 1
-                                    current = 1
-                                    while current <= pages:
-                                        if pages > 1:
-                                            params["page"] = current
-                                        response = requests.get(f"{base_url}{url}/items", headers=trakt_headers, params=params)
-                                        if pages == 1 and "X-Pagination-Page-Count" in response.headers and not params:
-                                            pages = int(response.headers["X-Pagination-Page-Count"])
-                                        if response.status_code >= 400:
-                                            raise Failed(f"({response.status_code}) {response.reason}")
-                                        json_data = response.json()
-                                        output_json.extend(json_data)
-                                        current += 1
-                                except Failed:
-                                    raise Failed(f"Trakt Error: List {trakt_url} not found")
-                                if len(output_json) == 0:
-                                    raise Failed(f"Trakt Error: List {trakt_url} is empty")
-
-                                builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(trakt_url)}<br>\n'
-
-                                id_translation = {"movie": "movie", "show": "show", "season": "show", "episode": "show"}
-                                id_types = {
-                                    "movie": ("tmdb", "TMDb ID"),
-                                    "show": ("tvdb", "TVDb ID"),
-                                    "season": ("tvdb", "TVDb ID"),
-                                    "episode": ("tvdb", "TVDb ID")
-                                }
-                                for output_json_item in output_json:
-                                    if "type" in output_json_item and output_json_item["type"] in id_translation:
-                                        json_data = output_json_item[id_translation[output_json_item["type"]]]
-                                        _type = output_json_item["type"]
-                                    else:
-                                        continue
-                                    id_type, id_display = id_types[_type]
-                                    if id_type not in json_data["ids"] or not json_data["ids"][id_type]:
-                                        continue
-                                    tmdb_objects.append((id_type, int(json_data["ids"][id_type])))
-                        elif k == "mdblist_list":
-                            mdblist_urls = [str(i) for i in v] if isinstance(v, list) else [str(v)]
-                            for mdblist_url in mdblist_urls:
-                                if not mdblist_url.startswith("https://mdblist.com/lists/"):
-                                    raise Failed("MDblist Error: url must begin with https://mdblist.com/lists/")
-                                params = {}
-                                parsed_url = urlparse(mdblist_url)
-                                query = parse_qs(parsed_url.query)
-                                if "sort" in query:
-                                    params["sort"] = query["sort"][0]  # noqa
-                                if "sortorder" in query:
-                                    params["sortorder"] = query["sortorder"][0]  # noqa
-                                url_base = str(parsed_url._replace(query=None).geturl())
-                                url_base = url_base if url_base.endswith("/") else f"{url_base}/"
-                                url_base = url_base if url_base.endswith("json/") else f"{url_base}json/"
-                                try:
-                                    response = requests.get(url_base, headers={"User-Agent": "Plex-Meta-Manager"},
-                                                            params=params).json()
-                                    if (isinstance(response, dict) and "error" in response) or (
-                                            isinstance(response, list) and response and "error" in response[0]):
-                                        err = response["error"] if isinstance(response, dict) else response[0]["error"]
-                                        if err in ["empty", "empty or private list"]:
-                                            raise Failed(
-                                                f"Mdblist Error: No Items Returned. Lists can take 24 hours to update so try again later.")
-                                        raise Failed(f"Mdblist Error: Invalid Response {response}")
-                                except JSONDecodeError:
-                                    raise Failed(f"Mdblist Error: Invalid Response")
-
-                                builder_html += f'&nbsp;&nbsp;&nbsp;&nbsp;<code>{k}</code>: {a_link(mdblist_url)}<br>\n'
-                                for json_data in response:
-                                    if json_data["mediatype"] == "movie":
-                                        tmdb_objects.append(("tmdb", json_data["id"]))
-                                    elif json_data["mediatype"] == "show":
-                                        tmdb_objects.append(("tvdb", json_data["tvdbid"]))
-                    builder_html += "</ul>\n"
-
-                    builder_movies = {}
-                    builder_shows = {}
-                    for tmdb_object in tmdb_objects:
-                        if isinstance(tmdb_object, tuple):
-                            _id_type, _id = tmdb_object
-                            try:
-                                if _id_type == "imdb":
-                                    find_results = tmdbapi.find_by_id(imdb_id=_id)
-                                    if find_results.movie_results:
-                                        tmdb_object = find_results.movie_results[0]
-                                    elif find_results.tv_results:
-                                        tmdb_object = find_results.tv_results[0]
-                                    else:
-                                        raise TMDbException
-                                elif _id_type == "tvdb":
-                                    if int(_id) in tvdb_lookup:
-                                        tmdb_object = tvdb_lookup[int(_id)]
-                                        if tmdb_object is None:
-                                            raise TMDbException
-                                    else:
-                                        results = tmdbapi.find_by_id(tvdb_id=str(_id))
-                                        if not results.tv_results:
-                                            raise TMDbException
-                                        if results.tv_results[0].tvdb_id not in tvdb_lookup:
-                                            tvdb_lookup[results.tv_results[0].tvdb_id] = results.tv_results[0]
-                                        tmdb_object = results.tv_results[0]
-                                elif _id_type == "tmdb":
-                                    tmdb_object = tmdbapi.movie(_id)
-                            except TMDbException:
-                                if _id_type == "tvdb":
-                                    tvdb_lookup[int(_id)] = None
-                                logger.error(f"TMDb Error: No TMDb Item found for {_id_type.upper()[:-1]}b ID {_id}")
-                                continue
-                        if isinstance(tmdb_object, Movie):
-                            if tmdb_object.id not in builder_movies and tmdb_object.release_date:
-                                builder_movies[tmdb_object.id] = (tmdb_object.name, tmdb_object.release_date)
-                        elif isinstance(tmdb_object, TVShow):
-                            if tmdb_object.tvdb_id not in builder_shows and tmdb_object.first_air_date:
-                                builder_shows[tmdb_object.tvdb_id] = (tmdb_object.name, tmdb_object.first_air_date)
+                    builder_movies, builder_shows, new_collections, builder_html, _ = scan_builders(new_data["builders"])
 
                     if new_collections:
                         new_cols = {}
@@ -665,7 +696,7 @@ try:
                         if tp_link and (old_count == 0 or (is_complete and current_item_count != old_count)):
                             author, posters = lookup()
                             if not new_style["info"]["style_author"]:
-                                new_style["info"]["style_author"] = author
+                                new_style["info"]["style_author"] = str(author)
 
                         for col in new_collections:
                             original_images = style_yaml["collections"][col] if "collections" in style_yaml and col in style_yaml["collections"] else {}
