@@ -3,6 +3,7 @@ info:
   style_image: 1070
   style_key: mikenobbs
   style_link: 297
+  complete: true
 collections:
   "Fast & Furious: Complete Collection": {tpdb_poster: 1070}
 movies:

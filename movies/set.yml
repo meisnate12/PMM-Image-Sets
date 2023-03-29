@@ -178,7 +178,6 @@ sections:
       "The Fate of the Furious (2017)": 337339
       "Fast & Furious Presents: Hobbs & Shaw (2019)": 384018
       "F9 (2021)": 385128
-      "Fast X (2023)": 385687
   godfather:
     title: The Godfather Set
     builders:
@@ -287,7 +286,6 @@ sections:
     movies:
       "Murder on the Orient Express (2017)": 392044
       "Death on the Nile (2022)": 505026
-      "A Haunting in Venice (2023)": 945729
   indiana:
     title: Indiana Jones Set
     builders:
@@ -304,7 +302,6 @@ sections:
       "Indiana Jones and the Temple of Doom (1984)": 87
       "Indiana Jones and the Last Crusade (1989)": 89
       "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
-      "Indiana Jones and the Dial of Destiny (2023)": 335977
   bond:
     title: James Bond Set
     builders:
@@ -679,7 +676,6 @@ sections:
       "Mission: Impossible - Ghost Protocol (2011)": 56292
       "Mission: Impossible - Rogue Nation (2015)": 177677
       "Mission: Impossible - Fallout (2018)": 353081
-      "Mission: Impossible - Dead Reckoning Part One (2023)": 575264
   narnia:
     title: Narnia
     builders:

@@ -8,23 +8,10 @@ fast_furious:
     collections:
       "The Fast and the Furious Collection": {tpdb_poster: null, url_poster: null}
       "Hobbs & Shaw Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Fast X (2023)": {tpdb_poster: null, url_poster: null}
 godzilla_monsterverse:
   rhj:
     collections:
       "Godzilla Collection": {tpdb_poster: null, url_poster: null}
-poirot:
-  diiivoy_neon:
-    movies:
-      "A Haunting in Venice (2023)": {tpdb_poster: null, url_poster: null}
-indiana:
-  rhj:
-    movies:
-      "Indiana Jones and the Dial of Destiny (2023)": {tpdb_poster: null, url_poster: null}
-  olivier:
-    movies:
-      "Indiana Jones and the Dial of Destiny (2023)": {tpdb_poster: null, url_poster: null}
 john_wick:
   rhj:
     movies:
@@ -42,15 +29,6 @@ middle:
     collections:
       "The Hobbit Collection": {tpdb_poster: null, url_poster: null}
       "The Lord of the Rings Collection": {tpdb_poster: null, url_poster: null}
-mission:
-  rhj:
-    movies:
-      "Mission: Impossible - Dead Reckoning Part One (2023)": {tpdb_poster: null,
-        url_poster: null}
-  rhj2:
-    movies:
-      "Mission: Impossible - Dead Reckoning Part One (2023)": {tpdb_poster: null,
-        url_poster: null}
 pirates:
   rhj:
     collections:

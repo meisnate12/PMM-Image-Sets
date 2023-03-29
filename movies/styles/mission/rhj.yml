@@ -3,6 +3,7 @@ info:
   style_image: 65202
   style_key: rhj
   style_link: 20379
+  complete: true
 collections:
   "Mission: Impossible Collection": {tpdb_poster: 65202}
 movies:
