@@ -1,10 +1,10 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/139873
-  set_key: rhj2
-  set_link: https://theposterdb.com/set/87080
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image: 139873
+  style_key: rhj2
+  style_link: 87080
+  complete: true
+movies:
   "Ant-Man (2015)": {tpdb_poster: 139865}
   "Ant-Man and the Wasp (2018)": {tpdb_poster: 139873}
   "Ant-Man and the Wasp: Quantumania (2023)": {tpdb_poster: 320501}

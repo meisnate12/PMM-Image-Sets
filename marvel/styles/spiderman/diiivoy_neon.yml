@@ -1,13 +1,12 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/132630
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/78444
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 132630
+  style_key: diiivoy_neon
+  style_link: 78444
+  complete: true
 collections:
   "Spider-Man Collection": {tpdb_poster: 132628}
-
-set:
+movies:
   "Spider-Man (2002)": {tpdb_poster: 132629}
   "Spider-Man 2 (2004)": {tpdb_poster: 132630}
   "Spider-Man 3 (2007)": {tpdb_poster: 132631}

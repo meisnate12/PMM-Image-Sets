@@ -1,8 +1,7 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/139874
-  set_key: rhj2
-  set_link: https://theposterdb.com/set/87080
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image: 139874
+  style_key: rhj2
+  style_link: 87080
+movies:
   "Captain Marvel (2019)": {tpdb_poster: 139874}

@@ -1,9 +1,7 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/79229
-  set_key: rhj
-  set_link: https://theposterdb.com/set/50563
-  set_author: RedHeadJedi
-
-set:
-  "Aquaman": {tpdb_poster: 79229}
-  "Aquaman and the Lost Kingdom": {tpdb_poster: null}
+  style_author: RedHeadJedi
+  style_image: 79229
+  style_key: rhj
+  style_link: 50563
+movies:
+  "Aquaman (2018)": {tpdb_poster: 79229}

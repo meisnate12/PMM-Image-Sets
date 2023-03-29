@@ -1,11 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/128652
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/80057
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 128652
+  style_key: diiivoy_neon
+  style_link: 80057
 collections:
   "Aquaman Collection": {tpdb_poster: 131549}
-set:
-  "Aquaman": {tpdb_poster: 128652}
-  "Aquaman and the Lost Kingdom": {tpdb_poster: null}
+movies:
+  "Aquaman (2018)": {tpdb_poster: 128652}

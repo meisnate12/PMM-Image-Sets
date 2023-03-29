@@ -1,9 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/79231
-  set_key: rhj
-  set_link: https://theposterdb.com/set/50563
-  set_author: RedHeadJedi
-
-set:
-  "Birds of Prey": {tpdb_poster: 79231}
-
+  style_author: RedHeadJedi
+  style_image: 79231
+  style_key: rhj
+  style_link: 50563
+  complete: true
+movies:
+  "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)": {
+    tpdb_poster: 79231}

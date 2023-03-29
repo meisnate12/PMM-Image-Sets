@@ -1,11 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/315079
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/41596
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 315079
+  style_key: diiivoy
+  style_link: 41596
+  complete: true
 collections:
   "Black Panther Collection": {tpdb_poster: 67904}
-set:
+movies:
   "Black Panther (2018)": {tpdb_poster: 67903}
   "Black Panther: Wakanda Forever (2022)": {tpdb_poster: 315079}

@@ -1,8 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/153775
-  set_key: rhj
-  set_link: https://theposterdb.com/set/4475
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image: 153775
+  style_key: rhj
+  style_link: 4475
+  complete: true
+movies:
   "Eternals (2021)": {tpdb_poster: 153775}

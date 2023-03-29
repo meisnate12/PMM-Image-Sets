@@ -1,9 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/286152
-  set_key: rhj
-  set_link: https://theposterdb.com/set/4475
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image: 286152
+  style_key: rhj
+  style_link: 4475
+  complete: true
+movies:
   "Black Panther (2018)": {tpdb_poster: 9792}
   "Black Panther: Wakanda Forever (2022)": {tpdb_poster: 286152}
