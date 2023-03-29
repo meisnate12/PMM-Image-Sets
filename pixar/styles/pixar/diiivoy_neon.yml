@@ -1,0 +1,34 @@
+info:
+  style_author: DIIIVOY
+  style_image: 150805
+  style_key: diiivoy_neon
+  style_link: 91216
+  complete: true
+movies:
+  "Toy Story (1995)": {tpdb_poster: 148078}
+  "A Bug's Life (1998)": {tpdb_poster: 148426}
+  "Toy Story 2 (1999)": {tpdb_poster: 148079}
+  "Monsters, Inc. (2001)": {tpdb_poster: 148789}
+  "Finding Nemo (2003)": {tpdb_poster: 149221}
+  "The Incredibles (2004)": {tpdb_poster: 149227}
+  "Cars (2006)": {tpdb_poster: 149945}
+  "Ratatouille (2007)": {tpdb_poster: 149233}
+  "WALL·E (2008)": {tpdb_poster: 149953}
+  "Up (2009)": {tpdb_poster: 149949}
+  "Toy Story 3 (2010)": {tpdb_poster: 148080}
+  "Cars 2 (2011)": {tpdb_poster: 149946}
+  "Brave (2012)": {tpdb_poster: 149959}
+  "Monsters University (2013)": {tpdb_poster: 148791}
+  "Inside Out (2015)": {tpdb_poster: 149956}
+  "The Good Dinosaur (2015)": {tpdb_poster: 148427}
+  "Finding Dory (2016)": {tpdb_poster: 149223}
+  "Cars 3 (2017)": {tpdb_poster: 149947}
+  "Coco (2017)": {tpdb_poster: 149963}
+  "Incredibles 2 (2018)": {tpdb_poster: 149230}
+  "Toy Story 4 (2019)": {tpdb_poster: 148081}
+  "Onward (2020)": {tpdb_poster: 148428}
+  "Soul (2020)": {tpdb_poster: 148423}
+  "Luca (2021)": {tpdb_poster: 150805}
+  "Lightyear (2022)": {tpdb_poster: 242086}
+  "Turning Red (2022)": {tpdb_poster: 220134}
+  "Elemental (2023)": {tpdb_poster: 290684}

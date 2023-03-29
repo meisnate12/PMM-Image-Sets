@@ -1,0 +1,38 @@
+sections:
+  pixar:
+    title: Pixar Animation Studios
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/chloe131997/lists/pixar?sort=released,desc
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    movies:
+      "Toy Story (1995)": 862
+      "A Bug's Life (1998)": 9487
+      "Toy Story 2 (1999)": 863
+      "Monsters, Inc. (2001)": 585
+      "Finding Nemo (2003)": 12
+      "The Incredibles (2004)": 9806
+      "Cars (2006)": 920
+      "Ratatouille (2007)": 2062
+      "WALL·E (2008)": 10681
+      "Up (2009)": 14160
+      "Toy Story 3 (2010)": 10193
+      "Cars 2 (2011)": 49013
+      "Brave (2012)": 62177
+      "Monsters University (2013)": 62211
+      "Inside Out (2015)": 150540
+      "The Good Dinosaur (2015)": 105864
+      "Finding Dory (2016)": 127380
+      "Cars 3 (2017)": 260514
+      "Coco (2017)": 354912
+      "Incredibles 2 (2018)": 260513
+      "Toy Story 4 (2019)": 301528
+      "Onward (2020)": 508439
+      "Soul (2020)": 508442
+      "Luca (2021)": 508943
+      "Lightyear (2022)": 718789
+      "Turning Red (2022)": 508947
+      "Elemental (2023)": 976573

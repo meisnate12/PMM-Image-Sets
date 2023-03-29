@@ -1,4 +1,4 @@
-<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">Â¶</a></h1>
+<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">¶</a></h1>
 Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
 
 <ul class="images-index-table">
@@ -27,8 +27,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <li><a href="#wizarding-world-(of-harry-potter)-set"><div class="images-inline-link">Wizarding World (of Harry Potter) Set<br><code>wizard</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
-<h3 id="alien-set">Alien Set<a class="headerlink" href="#alien-set" title="Permalink to this heading">Â¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
+<h3 id="alien-set">Alien Set<a class="headerlink" href="#alien-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>alien</code>
 <br><strong>Builders:</strong>
 <br>
@@ -49,7 +49,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="avatar-set">Avatar Set<a class="headerlink" href="#avatar-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="avatar-set">Avatar Set<a class="headerlink" href="#avatar-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>avatar</code>
 <br><strong>Builders:</strong>
 <br>
@@ -70,7 +70,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="the-fast-and-the-furious-set">The Fast and the Furious Set<a class="headerlink" href="#the-fast-and-the-furious-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="the-fast-and-the-furious-set">The Fast and the Furious Set<a class="headerlink" href="#the-fast-and-the-furious-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>fast_furious</code>
 <br><strong>Builders:</strong>
 <br>
@@ -92,7 +92,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="the-godfather-set">The Godfather Set<a class="headerlink" href="#the-godfather-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="the-godfather-set">The Godfather Set<a class="headerlink" href="#the-godfather-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godfather</code>
 <br><strong>Builders:</strong>
 <br>
@@ -113,7 +113,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="godzilla-heisei-set">Godzilla Heisei Set<a class="headerlink" href="#godzilla-heisei-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="godzilla-heisei-set">Godzilla Heisei Set<a class="headerlink" href="#godzilla-heisei-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godzilla_heisei</code>
 <br><strong>Builders:</strong>
 <br>
@@ -142,7 +142,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="godzilla-monsterverse-set">Godzilla Monsterverse Set<a class="headerlink" href="#godzilla-monsterverse-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="godzilla-monsterverse-set">Godzilla Monsterverse Set<a class="headerlink" href="#godzilla-monsterverse-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godzilla_monsterverse</code>
 <br><strong>Builders:</strong>
 <br>
@@ -164,7 +164,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="godzilla-showa-set">Godzilla Showa Set<a class="headerlink" href="#godzilla-showa-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="godzilla-showa-set">Godzilla Showa Set<a class="headerlink" href="#godzilla-showa-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godzilla_showa</code>
 <br><strong>Builders:</strong>
 <br>
@@ -193,7 +193,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="hercule-poirot-set">Hercule Poirot Set<a class="headerlink" href="#hercule-poirot-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="hercule-poirot-set">Hercule Poirot Set<a class="headerlink" href="#hercule-poirot-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>poirot</code>
 <br><strong>Builders:</strong>
 <br>
@@ -214,7 +214,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="indiana-jones-set">Indiana Jones Set<a class="headerlink" href="#indiana-jones-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="indiana-jones-set">Indiana Jones Set<a class="headerlink" href="#indiana-jones-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>indiana</code>
 <br><strong>Builders:</strong>
 <br>
@@ -242,7 +242,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="james-bond-set">James Bond Set<a class="headerlink" href="#james-bond-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="james-bond-set">James Bond Set<a class="headerlink" href="#james-bond-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>bond</code>
 <br><strong>Builders:</strong>
 <br>
@@ -264,7 +264,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="jason-bourne-set">Jason Bourne Set<a class="headerlink" href="#jason-bourne-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="jason-bourne-set">Jason Bourne Set<a class="headerlink" href="#jason-bourne-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>bourne</code>
 <br><strong>Builders:</strong>
 <br>
@@ -285,7 +285,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="john-wick-set">John Wick Set<a class="headerlink" href="#john-wick-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="john-wick-set">John Wick Set<a class="headerlink" href="#john-wick-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>john_wick</code>
 <br><strong>Builders:</strong>
 <br>
@@ -313,7 +313,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="jurassic-park-set">Jurassic Park Set<a class="headerlink" href="#jurassic-park-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="jurassic-park-set">Jurassic Park Set<a class="headerlink" href="#jurassic-park-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>jurassic</code>
 <br><strong>Builders:</strong>
 <br>
@@ -342,7 +342,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="men-in-black-set">Men in Black Set<a class="headerlink" href="#men-in-black-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="men-in-black-set">Men in Black Set<a class="headerlink" href="#men-in-black-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>mib</code>
 <br><strong>Builders:</strong>
 <br>
@@ -364,7 +364,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="middle-earth-set">Middle-Earth Set<a class="headerlink" href="#middle-earth-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="middle-earth-set">Middle-Earth Set<a class="headerlink" href="#middle-earth-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>middle</code>
 <br><strong>Builders:</strong>
 <br>
@@ -392,7 +392,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="mission-impossible-set">Mission Impossible Set<a class="headerlink" href="#mission-impossible-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="mission-impossible-set">Mission Impossible Set<a class="headerlink" href="#mission-impossible-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>mission</code>
 <br><strong>Builders:</strong>
 <br>
@@ -420,7 +420,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="now-you-see-me-set">Now You See Me Set<a class="headerlink" href="#now-you-see-me-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="now-you-see-me-set">Now You See Me Set<a class="headerlink" href="#now-you-see-me-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>nowyouseeme</code>
 <br><strong>Builders:</strong>
 <br>
@@ -441,7 +441,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="ocean's-set">Ocean's Set<a class="headerlink" href="#ocean's-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="ocean's-set">Ocean's Set<a class="headerlink" href="#ocean's-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ocean</code>
 <br><strong>Builders:</strong>
 <br>
@@ -463,7 +463,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="pirates-of-the-caribbean-set">Pirates of the Caribbean Set<a class="headerlink" href="#pirates-of-the-caribbean-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="pirates-of-the-caribbean-set">Pirates of the Caribbean Set<a class="headerlink" href="#pirates-of-the-caribbean-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>pirates</code>
 <br><strong>Builders:</strong>
 <br>
@@ -491,7 +491,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="predator-set">Predator Set<a class="headerlink" href="#predator-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="predator-set">Predator Set<a class="headerlink" href="#predator-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>predator</code>
 <br><strong>Builders:</strong>
 <br>
@@ -512,7 +512,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="rocky-creed">Rocky Creed<a class="headerlink" href="#rocky-creed" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="rocky-creed">Rocky Creed<a class="headerlink" href="#rocky-creed" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>rocky_creed</code>
 <br><strong>Builders:</strong>
 <br>
@@ -533,7 +533,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="saw-set">Saw Set<a class="headerlink" href="#saw-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="saw-set">Saw Set<a class="headerlink" href="#saw-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>saw</code>
 <br><strong>Builders:</strong>
 <br>
@@ -555,7 +555,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="wizarding-world-(of-harry-potter)-set">Wizarding World (of Harry Potter) Set<a class="headerlink" href="#wizarding-world-(of-harry-potter)-set" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="wizarding-world-(of-harry-potter)-set">Wizarding World (of Harry Potter) Set<a class="headerlink" href="#wizarding-world-(of-harry-potter)-set" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>wizard</code>
 <br><strong>Builders:</strong>
 <br>

@@ -1,0 +1,98 @@
+sections:
+  disneyanimation:
+    title: Disney Animation Studios
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/pullsa/lists/classics-walt-disney-animation-studios-feature-films-collection
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    movies:
+      "Snow White and the Seven Dwarfs (1937)": 408
+      "Pinocchio (1940)": 10895
+      "Fantasia (1940)": 756
+      "Dumbo (1941)": 11360
+      "Bambi (1942)": 3170
+      "Saludos Amigos (1942)": 14906
+      "The Three Caballeros (1944)": 15947
+      "Make Mine Music (1946)": 20343
+      "Fun and Fancy Free (1947)": 46929
+      "Melody Time (1948)": 13757
+      "The Adventures of Ichabod and Mr. Toad (1949)": 13465
+      "Cinderella (1950)": 11224
+      "Alice in Wonderland (1951)": 12092
+      "Peter Pan (1953)": 10693
+      "Lady and the Tramp (1955)": 10340
+      "Sleeping Beauty (1959)": 10882
+      "One Hundred and One Dalmatians (1961)": 12230
+      "The Sword in the Stone (1963)": 9078
+      "The Jungle Book (1967)": 9325
+      "The Aristocats (1970)": 10112
+      "Robin Hood (1973)": 11886
+      "The Many Adventures of Winnie the Pooh (1977)": 250480
+      "The Rescuers (1977)": 11319
+      "The Fox and the Hound (1981)": 10948
+      "The Black Cauldron (1985)": 10957
+      "The Great Mouse Detective (1986)": 9994
+      "Oliver & Company (1988)": 12233
+      "The Little Mermaid (1989)": 10144
+      "The Rescuers Down Under (1990)": 11135
+      "Beauty and the Beast (1991)": 10020
+      "Aladdin (1992)": 812
+      "The Lion King (1994)": 8587
+      "Pocahontas (1995)": 10530
+      "The Hunchback of Notre Dame (1996)": 10545
+      "Hercules (1997)": 11970
+      "Mulan (1998)": 10674
+      "Tarzan (1999)": 37135
+      "Fantasia 2000 (1999)": 49948
+      "The Emperor's New Groove (2000)": 11688
+      "Atlantis: The Lost Empire (2001)": 10865
+      "Lilo & Stitch (2002)": 11544
+      "Treasure Planet (2002)": 9016
+      "Brother Bear (2003)": 10009
+      "Home on the Range (2004)": 13700
+      "Chicken Little (2005)": 9982
+      "The Wild (2006)": 9904
+      "Meet the Robinsons (2007)": 1267
+      "Bolt (2008)": 13053
+      "The Princess and the Frog (2009)": 10198
+      "Tangled (2010)": 38757
+      "Wreck-It Ralph (2012)": 82690
+      "Frozen (2013)": 109445
+      "Big Hero 6 (2014)": 177572
+      "Zootopia (2016)": 269149
+      "Moana (2016)": 277834
+      "Ralph Breaks the Internet (2018)": 404368
+      "Frozen II (2019)": 330457
+      "Encanto (2021)": 568124
+      "Raya and the Last Dragon (2021)": 527774
+      "Strange World (2022)": 877269
+      "Wish (2023)": 1022796
+  disneyliveaction:
+    title: Disney Live-Action Remakes
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/ifigenia1986/lists/disney-remakes
+      tmdb_movie: 532639
+    styles:
+      diiivoy_neon:
+    movies:
+      "101 Dalmatians (1996)": 11674
+      "102 Dalmatians (2000)": 10481
+      "Alice in Wonderland (2010)": 12155
+      "Maleficent (2014)": 102651
+      "Cinderella (2015)": 150689
+      "Alice Through the Looking Glass (2016)": 241259
+      "The Jungle Book (2016)": 278927
+      "Beauty and the Beast (2017)": 321612
+      "Christopher Robin (2018)": 420814
+      "Maleficent: Mistress of Evil (2019)": 420809
+      "Dumbo (2019)": 329996
+      "Aladdin (2019)": 420817
+      "The Lion King (2019)": 420818
+      "Lady and the Tramp (2019)": 512895
+      "Mulan (2020)": 337401
+      "Cruella (2021)": 337404
+      "Pinocchio (2022)": 532639
