@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/128655
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/80057
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 128655
+  style_key: diiivoy_neon
+  style_link: 80057
+  complete: true
 collections:
   "Wonder Woman Collection": {tpdb_poster: 128646}
-
-set:
-  "Wonder Woman 1984": {tpdb_poster: 128655}
-  "Wonder Woman": {tpdb_poster: 128650}
+movies:
+  "Wonder Woman (2017)": {tpdb_poster: 128650}
+  "Wonder Woman 1984 (2020)": {tpdb_poster: 128655}

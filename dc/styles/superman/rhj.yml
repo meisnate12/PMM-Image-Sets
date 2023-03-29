@@ -1,9 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/79225
-  set_key: rhj
-  set_link: https://theposterdb.com/set/50563
-  set_author: RedHeadJedi
-
-set:
-  "Batman v Superman: Dawn of Justice": {tpdb_poster: 79225}
-  "Man of Steel": {tpdb_poster: 79224}
+  style_author: RedHeadJedi
+  style_image: 79224
+  style_key: rhj
+  style_link: 50563
+movies:
+  "Man of Steel (2013)": {tpdb_poster: 79224}
+  "Batman v Superman: Dawn of Justice (2016)": {tpdb_poster: 79225}

@@ -1,15 +1,14 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/114078
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/71510
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 287940
+  style_key: diiivoy_neon
+  style_link: 71510
+  complete: true
+  track_editions: true
 collections:
-  "Thor Collection": {tpdb_poster: 249712}
   "Spider-Man (Avengers) Collection": {tpdb_poster: 287939}
-set:
-  "Spider-Man: Far From Home (2019)": {tpdb_poster: 114078}
-  "Spider-Man: Homecoming (2017)": {tpdb_poster: 114071}
-  "Spider-Man: No Way Home (2021)": {tpdb_poster: 188298}
-  "Spider-Man: No Way Home (The More Fun Stuff Version) (2021)": {tpdb_poster: 287942}
-  "Spider-Man: All Roads Lead to No Way Home": {tpdb_poster: 287943}
+movies:
+  "Spider-Man: Homecoming (2017)": {tpdb_poster: 287940}
+  "Spider-Man: Far From Home (2019)": {tpdb_poster: 287941}
+  "Spider-Man: No Way Home (2021)": {tpdb_poster: 287942}
+  "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: 287943}

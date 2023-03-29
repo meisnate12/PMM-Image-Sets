@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/152106
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/78444
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 152107
+  style_key: diiivoy_neon
+  style_link: 78444
+  complete: true
 collections:
   "Ghost Rider Collection": {tpdb_poster: 152105}
-
-set:
+movies:
   "Ghost Rider (2007)": {tpdb_poster: 152106}
   "Ghost Rider: Spirit of Vengeance (2011)": {tpdb_poster: 152107}

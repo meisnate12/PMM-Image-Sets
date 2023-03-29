@@ -1,8 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/114079
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/71510
-  set_author: DIIIVOY
-
-set:
-  "Black Widow (2021)": {tpdb_poster: 114079}
+  style_author: DIIIVOY
+  style_image:
+  style_key: diiivoy_neon
+  style_link: 71510
+  complete: true
+movies:
+  "Black Widow (2021)": {tpdb_poster: 114080}

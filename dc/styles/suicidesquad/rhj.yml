@@ -1,11 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/167287
-  set_key: rhj
-  set_link: https://theposterdb.com/set/50563
-  set_author: RedHeadJedi
-
-set:
-  "Suicide Squad": {tpdb_poster: 79226}
-  "The Suicide Squad": {tpdb_poster: 167287}
-
-
+  style_author: RedHeadJedi
+  style_image: 167287
+  style_key: rhj
+  style_link: 50563
+  complete: true
+movies:
+  "Suicide Squad (2016)": {tpdb_poster: 79226}
+  "The Suicide Squad (2021)": {tpdb_poster: 167287}

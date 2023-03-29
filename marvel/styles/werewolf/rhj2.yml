@@ -1,9 +1,7 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/273727
-  set_key: rhj2
-  set_link: https://theposterdb.com/set/87080
-  set_author: RedHeadJedi
-
-set:
-  "Werewolf by Night": {tpdb_poster: 273727}
-
+  style_author: RedHeadJedi
+  style_image: 273729
+  style_key: rhj2
+  style_link: 87080
+movies:
+  "Werewolf by Night (2022)": {tpdb_poster: 273729}

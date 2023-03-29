@@ -1,8 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/54982
-  set_key: rhj
-  set_link: https://theposterdb.com/set/4475
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image:
+  style_key: rhj
+  style_link: 4475
+  complete: true
+movies:
   "Black Widow (2021)": {tpdb_poster: 54982}

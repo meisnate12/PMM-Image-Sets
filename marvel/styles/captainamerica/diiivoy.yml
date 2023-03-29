@@ -1,14 +1,12 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/66447
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/41596
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 66448
+  style_key: diiivoy
+  style_link: 41596
+  complete: true
 collections:
   "Captain America Collection": {tpdb_poster: 66450}
-
-set:
-  "Captain America: Civil War (2016)": {tpdb_poster: 66449}
+movies:
   "Captain America: The First Avenger (2011)": {tpdb_poster: 66447}
   "Captain America: The Winter Soldier (2014)": {tpdb_poster: 66448}
-  "Captain America: New World Order (2024)": {tpdb_poster: null}
+  "Captain America: Civil War (2016)": {tpdb_poster: 66449}

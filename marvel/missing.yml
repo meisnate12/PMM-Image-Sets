@@ -1,0 +1,192 @@
+antman:
+  diiivoy:
+    movies:
+      "Ant-Man and the Wasp: Quantumania (2023)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "Ant-Man Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Ant-Man Collection": {tpdb_poster: null, url_poster: null}
+avengers:
+  rhj:
+    collections:
+      "The Avengers Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "The Avengers Collection": {tpdb_poster: null, url_poster: null}
+blackpanther:
+  rhj:
+    collections:
+      "Black Panther Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Black Panther Collection": {tpdb_poster: null, url_poster: null}
+blackwidow:
+  diiivoy_neon:
+    info:
+      style_image:
+  diiivoy:
+    info:
+      style_image:
+  rhj:
+    info:
+      style_image:
+captainamerica:
+  rhj:
+    collections:
+      "Captain America Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Captain America Collection": {tpdb_poster: null, url_poster: null}
+captainmarvel:
+  diiivoy_neon:
+    movies:
+      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    movies:
+      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "Captain Marvel Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Captain Marvel Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
+deadpool:
+  diiivoy_neon:
+    movies:
+      "Deadpool 2 (2018) (Duper)": {tpdb_poster: null, url_poster: null}
+doctorstrange:
+  rhj:
+    collections:
+      "Doctor Strange Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Doctor Strange Collection": {tpdb_poster: null, url_poster: null}
+guardiansofthegalaxy:
+  diiivoy:
+    movies:
+      "Guardians of the Galaxy Volume 3 (2023)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "Guardians of the Galaxy Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Guardians of the Galaxy Holiday Special (2022)": {tpdb_poster: null, url_poster: null}
+      "Guardians of the Galaxy Volume 3 (2023)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Guardians of the Galaxy Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Guardians of the Galaxy Volume 3 (2023)": {tpdb_poster: null, url_poster: null}
+hulk:
+  diiivoy_neon:
+    movies:
+      "The Incredible Hulk (2008)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    movies:
+      "Hulk (2003)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    movies:
+      "Hulk (2003)": {tpdb_poster: null, url_poster: null}
+ironman:
+  rhj:
+    collections:
+      "Iron Man Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Iron Man Collection": {tpdb_poster: null, url_poster: null}
+oneshot:
+  diiivoy_neon:
+    collections:
+      "Marvel One-Shots Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Marvel One-Shot: The Consultant (2011)": {tpdb_poster: null, url_poster: null}
+      "Team Thor (2016)": {tpdb_poster: null, url_poster: null}
+      "Team Thor: Part 2 (2017)": {tpdb_poster: null, url_poster: null}
+      "Team Darryl (2018)": {tpdb_poster: null, url_poster: null}
+      "Peter's To-Do List (2019)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Marvel One-Shots Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Team Thor (2016)": {tpdb_poster: null, url_poster: null}
+      "Team Thor: Part 2 (2017)": {tpdb_poster: null, url_poster: null}
+      "Team Darryl (2018)": {tpdb_poster: null, url_poster: null}
+      "Peter's To-Do List (2019)": {tpdb_poster: null, url_poster: null}
+spiderman_avengers:
+  diiivoy_neon:
+    movies:
+      "Spider-Man: No Way Home (2021) (Fun Stuff)": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    movies:
+      "Spider-Man: No Way Home (2021) (Fun Stuff)": {tpdb_poster: null, url_poster: null}
+      "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "Spider-Man (Avengers) Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Spider-Man: No Way Home (2021) (Fun Stuff)": {tpdb_poster: null, url_poster: null}
+      "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Spider-Man (Avengers) Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Spider-Man: No Way Home (2021) (Fun Stuff)": {tpdb_poster: null, url_poster: null}
+      "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: null, url_poster: null}
+spiderman_spiderverse:
+  diiivoy_neon:
+    movies:
+      "Spider-Man: Across the Spider-Verse (2023)": {tpdb_poster: null, url_poster: null}
+spiderman_universe:
+  diiivoy_neon:
+    collections:
+      "Spider-Man Collection": {tpdb_poster: null, url_poster: null}
+      "The Amazing Spider-Man Collection": {tpdb_poster: null, url_poster: null}
+      "Spider-Man (Avengers) Collection": {tpdb_poster: null, url_poster: null}
+      "Spider-Man: Spider-Verse Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Spider-Man: No Way Home (2021) (Fun Stuff)": {tpdb_poster: null, url_poster: null}
+      "Spider-Man: Across the Spider-Verse (2023)": {tpdb_poster: null, url_poster: null}
+thor:
+  rhj:
+    collections:
+      "Thor Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Thor Collection": {tpdb_poster: null, url_poster: null}
+ungrouped:
+  diiivoy_neon:
+    collections:
+      "In Association with Marvel": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Marvel: 75 Years, From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
+venom:
+  diiivoy_neon:
+    collections:
+      "Venom Collection": {tpdb_poster: null, url_poster: null}
+werewolf:
+  rhj:
+    movies:
+      "Director by Night (2022)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    movies:
+      "Director by Night (2022)": {tpdb_poster: null, url_poster: null}
+wolverine:
+  diiivoy_neon:
+    movies:
+      "Logan (2017) (Noir)": {tpdb_poster: null, url_poster: null}
+xmen:
+  diiivoy_neon:
+    collections:
+      "X-Men Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Generation X (1996)": {tpdb_poster: null, url_poster: null}
+      "X-Men: The Last Stand (2006)": {tpdb_poster: null, url_poster: null}
+      "X-Men: Days of Future Past (2014) (Rogue)": {tpdb_poster: null, url_poster: null}
+      "Dark Phoenix (2019)": {tpdb_poster: null, url_poster: null}
+      "The New Mutants (2020)": {tpdb_poster: null, url_poster: null}

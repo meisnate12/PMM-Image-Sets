@@ -3,3 +3,11 @@ sets:
     title: Sets - Movies
     description: Below is a table of the available sets that can be used on Movie
       libraries, you can click the Image Set link to go to the poster source
+  marvel:
+    title: Sets - Marvel
+    description: Below is a table of the available Marvel sets that can be used on
+      Movie libraries, you can click the Image Set link to go to the poster source
+  dc:
+    title: Sets - DC
+    description: Below is a table of the available DC sets that can be used on Movie
+      libraries, you can click the Image Set link to go to the poster source

@@ -1,10 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/9794
-  set_key: rhj
-  set_link: https://theposterdb.com/set/4475
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image: 9794
+  style_key: rhj
+  style_link: 4475
+  complete: true
+movies:
+  "The Avengers (2012)": {tpdb_poster: 9779}
   "Avengers: Age of Ultron (2015)": {tpdb_poster: 9785}
-  "Avengers: Endgame (2019)": {tpdb_poster: 9797}
   "Avengers: Infinity War (2018)": {tpdb_poster: 9794}
+  "Avengers: Endgame (2019)": {tpdb_poster: 9797}

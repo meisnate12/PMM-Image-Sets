@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/151895
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/78444
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 151894
+  style_key: diiivoy_neon
+  style_link: 78444
+  complete: true
 collections:
   "The Punisher Collection": {tpdb_poster: 151892}
-
-set:
+movies:
   "The Punisher (2004)": {tpdb_poster: 151894}
   "Punisher: War Zone (2008)": {tpdb_poster: 151895}

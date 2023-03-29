@@ -1,10 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/228589
-  set_key: rhj
-  set_link: https://theposterdb.com/set/50563
-  set_author: RedHeadJedi
-
-set:
-  "Batman v Superman: Dawn of Justice": {tpdb_poster: 79225}
-  "The Batman": {tpdb_poster: 228589}
-
+  style_author: RedHeadJedi
+  style_image: 228589
+  style_key: rhj
+  style_link: 50563
+movies:
+  "Batman v Superman: Dawn of Justice (2016)": {tpdb_poster: 79225}
+  "The Batman (2022)": {tpdb_poster: 228589}

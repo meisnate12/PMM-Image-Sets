@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/248646
-  set_key: rhj2
-  set_link: https://theposterdb.com/set/87080
-  set_author: RedHeadJedi
-
-set:
-  "Thor (2011)": {tpdb_poster: 139857}
-  "Thor: Love and Thunder (2022)": {tpdb_poster: 248646}
-  "Thor: Ragnarok (2017)": {tpdb_poster: 139870}
+  style_author: RedHeadJedi
+  style_image: 248646
+  style_key: rhj2
+  style_link: 87080
+  complete: true
+movies:
+  "Thor (2011)": {tpdb_poster: 139888}
   "Thor: The Dark World (2013)": {tpdb_poster: 139861}
-
+  "Thor: Ragnarok (2017)": {tpdb_poster: 139870}
+  "Thor: Love and Thunder (2022)": {tpdb_poster: 248646}

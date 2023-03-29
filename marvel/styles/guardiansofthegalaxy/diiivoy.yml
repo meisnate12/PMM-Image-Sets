@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/65634
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/41596
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 65634
+  style_key: diiivoy
+  style_link: 41596
 collections:
   "Guardians of the Galaxy Collection": {tpdb_poster: 65640}
-set:
+movies:
   "Guardians of the Galaxy (2014)": {tpdb_poster: 65634}
   "Guardians of the Galaxy Vol. 2 (2017)": {tpdb_poster: 65635}
   "The Guardians of the Galaxy Holiday Special (2022)": {tpdb_poster: 315080}

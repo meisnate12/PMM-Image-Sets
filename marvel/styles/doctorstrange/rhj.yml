@@ -1,9 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/234599
-  set_key: rhj
-  set_link: https://theposterdb.com/set/4475
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image: 234599
+  style_key: rhj
+  style_link: 4475
+  complete: true
+movies:
   "Doctor Strange (2016)": {tpdb_poster: 9788}
   "Doctor Strange in the Multiverse of Madness (2022)": {tpdb_poster: 234599}

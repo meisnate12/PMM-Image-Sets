@@ -1,13 +1,10 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/79228
-  set_key: rhj
-  set_link: https://theposterdb.com/set/50563
-  set_author: RedHeadJedi
-
+  style_author: RedHeadJedi
+  style_image: 286151
+  style_key: rhj
+  style_link: 50563
 collections:
   "Worlds of DC (DCEU)": {tpdb_poster: 79223}
-
-set:
-  "Black Adam": {tpdb_poster: null}
-  "Justice League": {tpdb_poster: 79228}
-
+movies:
+  "Justice League (2017)": {tpdb_poster: 79228}
+  "Black Adam (2022)": {tpdb_poster: 286151}
