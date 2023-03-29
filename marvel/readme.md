@@ -173,21 +173,21 @@ Below is a table of the available Marvel sets that can be used on Movie librarie
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/71510" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/71510" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/marvel/styles/blackwidow/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/71510" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/41596" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/41596" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/marvel/styles/blackwidow/diiivoy.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/41596" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/4475" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/4475" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/marvel/styles/blackwidow/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/4475" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>

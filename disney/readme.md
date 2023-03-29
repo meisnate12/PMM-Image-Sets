@@ -19,9 +19,23 @@ Below is a table of the available Disney sets that can be used on Movie librarie
     <tr>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/disneyanimation/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/disneyanimation/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/disneyanimation/faufan.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>faufan</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
