@@ -3,6 +3,7 @@ info:
   style_image: 10362
   style_key: olivier
   style_link: 4874
+  complete: true
 collections:
   "Indiana Jones Collection": {tpdb_poster: 10361}
 movies:

@@ -30,22 +30,12 @@ captainamerica:
     collections:
       "Captain America Collection": {tpdb_poster: null, url_poster: null}
 captainmarvel:
-  diiivoy_neon:
-    movies:
-      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
-  diiivoy:
-    movies:
-      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Captain Marvel Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Captain Marvel Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
 deadpool:
   diiivoy_neon:
     movies:
@@ -58,20 +48,14 @@ doctorstrange:
     collections:
       "Doctor Strange Collection": {tpdb_poster: null, url_poster: null}
 guardiansofthegalaxy:
-  diiivoy:
-    movies:
-      "Guardians of the Galaxy Volume 3 (2023)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Guardians of the Galaxy Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "The Guardians of the Galaxy Holiday Special (2022)": {tpdb_poster: null, url_poster: null}
-      "Guardians of the Galaxy Volume 3 (2023)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Guardians of the Galaxy Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Guardians of the Galaxy Volume 3 (2023)": {tpdb_poster: null, url_poster: null}
 hulk:
   diiivoy_neon:
     movies:
@@ -127,10 +111,6 @@ spiderman_avengers:
     movies:
       "Spider-Man: No Way Home (2021) (Fun Stuff)": {tpdb_poster: null, url_poster: null}
       "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: null, url_poster: null}
-spiderman_spiderverse:
-  diiivoy_neon:
-    movies:
-      "Spider-Man: Across the Spider-Verse (2023)": {tpdb_poster: null, url_poster: null}
 spiderman_universe:
   diiivoy_neon:
     collections:
@@ -140,7 +120,6 @@ spiderman_universe:
       "Spider-Man: Spider-Verse Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Spider-Man: No Way Home (2021) (Fun Stuff)": {tpdb_poster: null, url_poster: null}
-      "Spider-Man: Across the Spider-Verse (2023)": {tpdb_poster: null, url_poster: null}
 thor:
   rhj:
     collections:

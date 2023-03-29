@@ -3,5 +3,6 @@ info:
   style_image: 9796
   style_key: rhj
   style_link: 4475
+  complete: true
 movies:
   "Captain Marvel (2019)": {tpdb_poster: 9796}

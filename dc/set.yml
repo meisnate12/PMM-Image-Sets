@@ -11,7 +11,6 @@ sections:
       - "Aquaman"
     movies:
       "Aquaman (2018)": 297802
-      "Aquaman and the Lost Kingdom (2023)": 572802
   batman:
     title: Batman
     builders:

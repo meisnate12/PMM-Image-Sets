@@ -3,5 +3,6 @@ info:
   style_image: 79229
   style_key: rhj
   style_link: 50563
+  complete: true
 movies:
   "Aquaman (2018)": {tpdb_poster: 79229}

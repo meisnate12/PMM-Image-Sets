@@ -3,6 +3,7 @@ info:
   style_image: 152826
   style_key: diiivoy_neon
   style_link: 93857
+  complete: true
 movies:
   "Snow White and the Seven Dwarfs (1937)": {tpdb_poster: 156173}
   "Pinocchio (1940)": {tpdb_poster: 265425}

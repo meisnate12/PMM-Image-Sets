@@ -3,6 +3,7 @@ info:
   style_image: 53304
   style_key: rhj
   style_link: 34045
+  complete: true
 collections:
   "Indiana Jones Collection": {tpdb_poster: 53303}
 movies:

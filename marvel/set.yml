@@ -103,7 +103,6 @@ sections:
       - "Captain Marvel"
     movies:
       "Captain Marvel (2019)": 299537
-      "The Marvels (2023)": 609681
   daredevil:
     title: Daredevil
     builders:
@@ -205,7 +204,6 @@ sections:
       "Guardians of the Galaxy (2014)": 118340
       "Guardians of the Galaxy Vol. 2 (2017)": 283995
       "The Guardians of the Galaxy Holiday Special (2022)": 774752
-      "Guardians of the Galaxy Volume 3 (2023)": 447365
   hulk:
     title: The Hulk
     builders:
@@ -330,7 +328,6 @@ sections:
     movies:
       "Spider-Man: Into the Spider-Verse (2018)": 324857
       "Spider-Ham: Caught in a Ham (2019)": 583055
-      "Spider-Man: Across the Spider-Verse (2023)": 569094
   spiderman_amazing:
     title: Spider-Man (The Amazing)
     builders:
@@ -382,7 +379,6 @@ sections:
         mapping_id: 634649
         blank_edition: true
       "Spider-Man: All Roads Lead to No Way Home (2022)": 961651
-      "Spider-Man: Across the Spider-Verse (2023)": 569094
   thor:
     title: Thor
     builders:

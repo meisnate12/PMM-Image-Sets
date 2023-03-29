@@ -3,6 +3,7 @@ info:
   style_image: 148334
   style_key: rhj
   style_link: 97
+  complete: true
 movies:
   "Toy Story (1995)": {tpdb_poster: 457}
   "A Bug's Life (1998)": {tpdb_poster: 458}
