@@ -25,6 +25,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/pixar/diivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/pixar/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
