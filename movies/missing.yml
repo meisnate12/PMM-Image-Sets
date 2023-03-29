@@ -70,6 +70,35 @@ rocky_creed:
   dannybeaton:
     movies:
       "Creed III (2023)": {tpdb_poster: null, url_poster: null}
+starwars_lego_seasonal:
+  agon024:
+    collections:
+      "LEGO Star Wars (Seasonal) Collection": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "LEGO Star Wars (Seasonal) Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "LEGO Star Wars Summer Vacation (2022)": {tpdb_poster: null, url_poster: null}
+starwars:
+  agon024:
+    collections:
+      "Star Wars Collection": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "Star Wars Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Star Wars Collection": {tpdb_poster: null, url_poster: null}
+  rhj3:
+    collections:
+      "Star Wars Collection": {tpdb_poster: null, url_poster: null}
+starwars_ewok:
+  agon024:
+    collections:
+      "Star Wars: The Ewok Adventures Collection": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "Star Wars: The Ewok Adventures Collection": {tpdb_poster: null, url_poster: null}
 wizard:
   rhj:
     collections:

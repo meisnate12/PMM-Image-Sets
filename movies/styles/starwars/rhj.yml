@@ -1,21 +1,16 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/152803
-  set_key: rhj
-  set_link: https://theposterdb.com/set/93852
-  set_author: RedHeadJedi
-
-collections:
-  "Star Wars: The Complete Collection": {tpdb_poster: 152792}
-set:
-  "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 152796}
-  "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 152797}
-  "Star Wars: Episode III - Revenge of the Sith (2005)": {tpdb_poster: 152798}
+  style_author: RedHeadJedi
+  style_image: 152803
+  style_key: rhj
+  style_link: 93852
+  complete: true
+movies:
   "Star Wars (1977)": {tpdb_poster: 152793}
   "The Empire Strikes Back (1980)": {tpdb_poster: 152794}
   "Return of the Jedi (1983)": {tpdb_poster: 152795}
+  "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 152796}
+  "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 152797}
+  "Star Wars: Episode III - Revenge of the Sith (2005)": {tpdb_poster: 152798}
   "Star Wars: The Force Awakens (2015)": {tpdb_poster: 152799}
-  "Rogue One: A Star Wars Story (2016)": {tpdb_poster: 152800}
   "Star Wars: The Last Jedi (2017)": {tpdb_poster: 152801}
   "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 152803}
-  "Solo: A Star Wars Story (2018)": {tpdb_poster: 152802}
-  "Star Wars: The Clone Wars (2008)": {tpdb_poster: 152992}

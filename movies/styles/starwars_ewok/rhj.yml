@@ -1,0 +1,9 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 124627
+  style_key: rhj
+  style_link: 78057
+  complete: true
+movies:
+  "Ewoks: The Battle for Endor (1985)": {tpdb_poster: 124627}
+  "The Ewok Adventure (1985)": {tpdb_poster: 124626}

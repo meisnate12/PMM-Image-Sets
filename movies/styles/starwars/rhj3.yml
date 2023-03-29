@@ -1,24 +1,16 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/124621
-  set_key: rhj3
-  set_link: https://theposterdb.com/set/78057
-  set_author: RedHeadJedi
-
-collections:
-  "Star Wars: The Complete Collection": {tpdb_poster: 124621}
-set:
-  "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 124628}
-  "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 124629}
-  "Star Wars: Episode III - Revenge of the Sith (2005)": {tpdb_poster: 124630}
+  style_author: RedHeadJedi
+  style_image: 124636
+  style_key: rhj3
+  style_link: 78057
+  complete: true
+movies:
   "Star Wars (1977)": {tpdb_poster: 124622}
   "The Empire Strikes Back (1980)": {tpdb_poster: 124624}
   "Return of the Jedi (1983)": {tpdb_poster: 124625}
+  "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 124628}
+  "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 124629}
+  "Star Wars: Episode III - Revenge of the Sith (2005)": {tpdb_poster: 124630}
   "Star Wars: The Force Awakens (2015)": {tpdb_poster: 124632}
-  "Rogue One: A Star Wars Story (2016)": {tpdb_poster: 124633}
   "Star Wars: The Last Jedi (2017)": {tpdb_poster: 124634}
   "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 124636}
-  "Solo: A Star Wars Story (2018)": {tpdb_poster: 124635}
-  "Star Wars: The Clone Wars (2008)": {tpdb_poster: 124631}
-  "The Ewok Adventure (1985)": {tpdb_poster: 124626}
-  "Ewoks: The Battle For Endor (1985)": {tpdb_poster: 124627}
-  "Star Wars: The Holiday Special (1978)": {tpdb_poster: 124623}

@@ -24,6 +24,11 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <li><a href="#predator-set"><div class="images-inline-link">Predator Set<br><code>predator</code></div></a></li>
   <li><a href="#rocky-creed"><div class="images-inline-link">Rocky Creed<br><code>rocky_creed</code></div></a></li>
   <li><a href="#saw-set"><div class="images-inline-link">Saw Set<br><code>saw</code></div></a></li>
+  <li><a href="#star-wars---lego"><div class="images-inline-link">Star Wars - LEGO<br><code>starwars_lego</code></div></a></li>
+  <li><a href="#star-wars---lego-(seasonal)"><div class="images-inline-link">Star Wars - LEGO (Seasonal)<br><code>starwars_lego_seasonal</code></div></a></li>
+  <li><a href="#star-wars---robot-chicken"><div class="images-inline-link">Star Wars - Robot Chicken<br><code>starwars_robotchicken</code></div></a></li>
+  <li><a href="#star-wars---skywalker-saga"><div class="images-inline-link">Star Wars - Skywalker Saga<br><code>starwars</code></div></a></li>
+  <li><a href="#star-wars---the-ewok-adventures"><div class="images-inline-link">Star Wars - The Ewok Adventures<br><code>starwars_ewok</code></div></a></li>
   <li><a href="#wizarding-world-(of-harry-potter)-set"><div class="images-inline-link">Wizarding World (of Harry Potter) Set<br><code>wizard</code></div></a></li>
 </ul>
 
@@ -549,6 +554,146 @@ Below is a table of the available sets that can be used on Movie libraries, you 
           <a href="https://theposterdb.com/set/95260" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/saw/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/95260" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="star-wars---lego">Star Wars - LEGO<a class="headerlink" href="#star-wars---lego" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>starwars_lego</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/302331" target="_blank" rel="noopener noreferrer">302331</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars_lego/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="star-wars---lego-(seasonal)">Star Wars - LEGO (Seasonal)<a class="headerlink" href="#star-wars---lego-(seasonal)" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>starwars_lego_seasonal</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/1004630" target="_blank" rel="noopener noreferrer">1004630</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars_lego_seasonal/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/78057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars_lego_seasonal/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/78057" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="star-wars---robot-chicken">Star Wars - Robot Chicken<a class="headerlink" href="#star-wars---robot-chicken" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>starwars_robotchicken</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/141748" target="_blank" rel="noopener noreferrer">141748</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars_robotchicken/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="star-wars---skywalker-saga">Star Wars - Skywalker Saga<a class="headerlink" href="#star-wars---skywalker-saga" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>starwars</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/10" target="_blank" rel="noopener noreferrer">10</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/93852" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/93852" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/89606" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars/rhj2.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj2</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/89606" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/78057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars/rhj3.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj3</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/78057" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="star-wars---the-ewok-adventures">Star Wars - The Ewok Adventures<a class="headerlink" href="#star-wars---the-ewok-adventures" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>starwars_ewok</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/133830" target="_blank" rel="noopener noreferrer">133830</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars_ewok/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/78057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/movies/styles/starwars_ewok/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/78057" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
     </tr>
