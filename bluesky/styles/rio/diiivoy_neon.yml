@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 300365
+  style_key: diiivoy_neon
+  style_link: 177313
+  complete: true
+collections:
+  "Rio Collection": {tpdb_poster: 300362}
+movies:
+  "Rio (2011)": {tpdb_poster: 300365}
+  "Rio 2 (2014)": {tpdb_poster: 300367}
