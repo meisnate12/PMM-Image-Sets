@@ -1,13 +1,12 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/139557
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/78444
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 139557
+  style_key: diiivoy_neon
+  style_link: 78444
+  complete: true
 collections:
   "Blade Collection": {tpdb_poster: 139554}
-
-set:
+movies:
   "Blade (1998)": {tpdb_poster: 139555}
   "Blade II (2002)": {tpdb_poster: 139556}
   "Blade: Trinity (2004)": {tpdb_poster: 139557}

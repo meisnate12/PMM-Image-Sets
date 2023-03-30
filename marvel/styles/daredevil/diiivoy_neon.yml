@@ -1,11 +1,10 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/152034
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/78444
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 152034
+  style_key: diiivoy_neon
+  style_link: 78444
+  complete: true
 collections:
   "Daredevil Collection": {tpdb_poster: 152033}
-
-set:
+movies:
   "Daredevil (2003)": {tpdb_poster: 152034}

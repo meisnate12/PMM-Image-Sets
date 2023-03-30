@@ -1,8 +1,7 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/114057
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/71510
-  set_author: DIIIVOY
-
-set:
+  style_author: DIIIVOY
+  style_image: 114057
+  style_key: diiivoy_neon
+  style_link: 71510
+movies:
   "The Incredible Hulk (2008)": {tpdb_poster: 114057}

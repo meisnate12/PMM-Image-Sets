@@ -1,13 +1,12 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/114065
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/71510
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 114065
+  style_key: diiivoy_neon
+  style_link: 71510
+  complete: true
 collections:
   "Guardians of the Galaxy Collection": {tpdb_poster: 291146}
-set:
-  "Guardians of the Galaxy (2014)": {tpdb_poster: 114065}
-  "Guardians of the Galaxy Vol. 2 (2017)": {tpdb_poster: 114070}
-  "Guardians of the Galaxy Volume 3 (2023)": {tpdb_poster: 320089}
+movies:
+  "Guardians of the Galaxy (2014)": {tpdb_poster: 291147}
+  "Guardians of the Galaxy Vol. 2 (2017)": {tpdb_poster: 291148}
   "The Guardians of the Galaxy Holiday Special (2022)": {tpdb_poster: 291149}
