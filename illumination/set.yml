@@ -1,0 +1,69 @@
+sections:
+  despicableme:
+    title: Despicable Me
+    builders:
+      tmdb_collection: 86066
+    styles:
+      diiivoy_neon:
+    collections:
+      "Despicable Me Collection":
+      - "Despicable Me"
+    movies:
+      "Despicable Me (2010)": 20352
+      "Despicable Me 2 (2013)": 93456
+      "Despicable Me 3 (2017)": 324852
+  minions:
+    title: Minions
+    builders:
+      tmdb_collection: 544669
+    styles:
+      diiivoy_neon:
+    collections:
+      "Minions Collection":
+      - "Minions"
+    movies:
+      "Minions (2015)": 211672
+      "Minions: The Rise of Gru (2022)": 438148
+  lifeofpets:
+    title: The Secret Life of Pets
+    builders:
+      tmdb_collection: 427084
+      tmdb_movie: 624993, 424889
+    styles:
+      diiivoy_neon:
+    collections:
+      "The Secret Life of Pets Collection":
+      - "Secret Life of Pets"
+      - "Secret Life of Pets Collection"
+      - "The Secret Life of Pets"
+    movies:
+      "The Secret Life of Pets (2016)": 328111
+      "Norman Television (2016)": 424889
+      "The Secret Life of Pets 2 (2019)": 412117
+      "Super Gidget (2019)": 624993
+  sing:
+    title: Sing
+    builders:
+      tmdb_collection: 544670
+    styles:
+      diiivoy_neon:
+    collections:
+      "Sing Collection":
+      - "Sing"
+    movies:
+      "Sing (2016)": 335797
+      "Sing 2 (2021)": 438695
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie: 50359, 73723, 360920, 502356
+    styles:
+      diiivoy_neon:
+    collections:
+      "Illumination Entertainment Collection":
+      - "Illumination Entertainment"
+    movies:
+      "Hop (2011)": 50359
+      "The Lorax (2012)": 73723
+      "The Grinch (2018)": 360920
+      "The Super Mario Bros. Movie (2023)": 502356
