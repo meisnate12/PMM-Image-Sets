@@ -1,0 +1,119 @@
+sections:
+  angrybirds:
+    title: Angry Birds
+    builders:
+      tmdb_collection: 531315
+    styles:
+      diiivoy_neon:
+    collections:
+      "The Angry Birds Collection":
+      - "Angry Birds"
+      - "Angry Birds Collection"
+      - "The Angry Birds"
+    movies:
+      "The Angry Birds Movie (2016)": 153518
+      "The Angry Birds Movie 2 (2019)": 454640
+  cloudy:
+    title: Cloudy with a Chance of Meatballs
+    builders:
+      tmdb_collection: 177467
+    styles:
+      diiivoy_neon:
+    collections:
+      "Cloudy with a Chance of Meatballs Collection":
+      - "Cloudy with a Chance of Meatballs"
+    movies:
+      "Cloudy with a Chance of Meatballs (2009)": 22794
+      "Cloudy with a Chance of Meatballs 2 (2013)": 109451
+  transylvania:
+    title: Hotel Transylvania
+    builders:
+      tmdb_collection: 185103
+      tmdb_movie: 813258, 459159
+    styles:
+      diiivoy_neon:
+    collections:
+      "Hotel Transylvania Collection":
+      - "Hotel Transylvania"
+    movies:
+      "Hotel Transylvania (2012)": 76492
+      "Hotel Transylvania 2 (2015)": 159824
+      "Hotel Transylvania: Puppy! (2017)": 459159
+      "Hotel Transylvania 3: Summer Vacation (2018)": 400155
+      "Monster Pets: A Hotel Transylvania Short (2021)": 813258
+      "Hotel Transylvania: Transformania (2022)": 585083
+  openseason:
+    title: Open Season
+    builders:
+      tmdb_collection: 66761
+    styles:
+      diiivoy_neon:
+    collections:
+      "Open Season Collection":
+      - "Open Season"
+    movies:
+      "Open Season (2006)": 7484
+      "Open Season 2 (2008)": 13690
+      "Open Season 3 (2010)": 51170
+      "Open Season: Scared Silly (2015)": 382517
+  peterrabbit:
+    title: Peter Rabbit
+    builders:
+      tmdb_collection: 595693
+    styles:
+      diiivoy_neon:
+    collections:
+      "Peter Rabbit Collection":
+      - "Peter Rabbit"
+    movies:
+      "Peter Rabbit (2018)": 381719
+      "Peter Rabbit 2: The Runaway (2021)": 522478
+  smurfs:
+    title: The Smurfs
+    builders:
+      tmdb_collection: 134897
+      tmdb_movie: 174188
+    styles:
+      diiivoy_neon:
+    collections:
+      "The Smurfs (Theatrical) Collection":
+      - "Smurfs (Theatrical)"
+      - "Smurfs (Theatrical) Collection"
+      - "The Smurfs (Theatrical)"
+      "The Smurfs Collection":
+      - "Smurfs"
+      - "Smurfs Collection"
+      - "The Smurfs"
+    movies:
+      "The Smurfs (2011)": 41513
+      "The Smurfs 2 (2013)": 77931
+      "Rapture-Palooza (2013)": 174188
+  surfsup:
+    title: Surf's Up
+    builders:
+      tmdb_collection: 436295
+    styles:
+      diiivoy_neon:
+    collections:
+      "Surf's Up Collection":
+      - "Surf's Up"
+    movies:
+      "Surf's Up (2007)": 9408
+      "Surf's Up 2: WaveMania (2017)": 411840
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie: 51052, 72197, 378236, 355547, 550205, 501929, 449406
+    styles:
+      diiivoy_neon:
+    collections:
+      "Sony Pictures Animation Collection":
+      - "Sony Pictures Animation"
+    movies:
+      "Arthur Christmas (2011)": 51052
+      "The Pirates! In an Adventure with Scientists! (2012)": 72197
+      "The Emoji Movie (2017)": 378236
+      "The Star (2017)": 355547
+      "Wish Dragon (2021)": 550205
+      "The Mitchells vs. the Machines (2021)": 501929
+      "Vivo (2021)": 449406
