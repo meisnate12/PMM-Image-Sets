@@ -1,0 +1,9 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 111173
+  style_key: rhj
+  style_link: 97
+  complete: true
+movies:
+  "Soul (2020)": {tpdb_poster: 111173}
+  "22 vs. Earth (2021)": {tpdb_poster: 148330}

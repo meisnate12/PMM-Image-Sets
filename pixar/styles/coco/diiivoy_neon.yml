@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 149963
+  style_key: diiivoy_neon
+  style_link: 91216
+  complete: true
+collections:
+  "Coco Collection": {tpdb_poster: 149963}
+movies:
+  "Coco (2017)": {tpdb_poster: 149963}
+  "Dante's Lunch (2017)": {tpdb_poster: 149962}

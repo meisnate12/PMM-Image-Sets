@@ -1,0 +1,10 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 18897
+  style_key: rhj2
+  style_link: 10759
+movies:
+  "Toy Story (1995)": {tpdb_poster: 18895}
+  "Toy Story 2 (1999)": {tpdb_poster: 18897}
+  "Toy Story 3 (2010)": {tpdb_poster: 18905}
+  "Toy Story 4 (2019)": {tpdb_poster: 18914}

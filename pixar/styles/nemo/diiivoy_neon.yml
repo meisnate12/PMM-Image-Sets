@@ -1,0 +1,13 @@
+info:
+  style_author: DIIIVOY
+  style_image: 149223
+  style_key: diiivoy_neon
+  style_link: 91216
+  complete: true
+collections:
+  "Finding Nemo Collection": {tpdb_poster: 149220}
+movies:
+  "Finding Nemo (2003)": {tpdb_poster: 149221}
+  "Finding Dory (2016)": {tpdb_poster: 149223}
+  "Marine Life Interviews (2017)": {tpdb_poster: 149224}
+  "Dory's Reef Cam (2020)": {tpdb_poster: 149225}
