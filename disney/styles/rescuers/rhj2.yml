@@ -1,0 +1,9 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 6037
+  style_key: rhj2
+  style_link: 2454
+  complete: true
+movies:
+  "The Rescuers (1977)": {tpdb_poster: 6037}
+  "The Rescuers Down Under (1990)": {tpdb_poster: 6043}

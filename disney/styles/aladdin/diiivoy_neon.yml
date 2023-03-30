@@ -1,0 +1,10 @@
+info:
+  style_author: DIIIVOY
+  style_image: 156204
+  style_key: diiivoy_neon
+  style_link: 93857
+  complete: true
+movies:
+  "Aladdin (1992)": {tpdb_poster: 156204}
+  "The Return of Jafar (1994)": {tpdb_poster: 156511}
+  "Aladdin and the King of Thieves (1996)": {tpdb_poster: 156513}

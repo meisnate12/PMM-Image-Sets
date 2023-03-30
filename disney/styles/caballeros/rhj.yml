@@ -1,0 +1,9 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 98910
+  style_key: rhj
+  style_link: 62522
+  complete: true
+movies:
+  "Saludos Amigos (1942)": {tpdb_poster: 98909}
+  "The Three Caballeros (1944)": {tpdb_poster: 98910}
