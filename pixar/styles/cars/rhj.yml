@@ -1,0 +1,9 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 474
+  style_key: rhj
+  style_link: 97
+movies:
+  "Cars (2006)": {tpdb_poster: 463}
+  "Cars 2 (2011)": {tpdb_poster: 468}
+  "Cars 3 (2017)": {tpdb_poster: 474}

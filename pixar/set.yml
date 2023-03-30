@@ -1,0 +1,276 @@
+sections:
+  brave:
+    title: Brave
+    builders:
+      tmdb_movie: 62177, 141423
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Brave Collection":
+      - "Brave"
+    movies:
+      "Brave (2012)": 62177
+      "The Legend of Mor'du (2012)": 141423
+  cars:
+    title: Cars
+    builders:
+      tmdb_collection: 87118
+      tmdb_movie: 114502
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Cars Collection":
+      - "Cars"
+    movies:
+      "Albert Schweitzer (1957)": 114502
+      "Cars (2006)": 920
+      "Cars 2 (2011)": 49013
+      "Cars 3 (2017)": 260514
+  coco:
+    title: Coco
+    builders:
+      tmdb_movie: 354912, 449621
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Coco Collection":
+      - "Coco"
+    movies:
+      "Coco (2017)": 354912
+      "Dante's Lunch (2017)": 449621
+  nemo:
+    title: Finding Nemo
+    builders:
+      tmdb_collection: 137697
+      tmdb_movie: 777350, 427004
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Finding Nemo Collection":
+      - "Finding Nemo"
+    movies:
+      "Finding Nemo (2003)": 12
+      "Finding Dory (2016)": 127380
+      "Marine Life Interviews (2017)": 427004
+      "Dory's Reef Cam (2020)": 777350
+  forky:
+    title: Forky
+    builders:
+      tmdb_movie: 660851, 660856, 662666, 660867, 660858, 660859, 660855, 660866,
+        660861, 660862
+    styles:
+      diiivoy_neon:
+    collections:
+      "Forky Asks a Question Collection":
+      - "Forky Asks a Question"
+    movies:
+      "Forky Asks a Question: What Is Money? (2019)": 660851
+      "Forky Asks a Question: What Is Art? (2019)": 660856
+      "Forky Asks a Question: What Is Time? (2019)": 660858
+      "Forky Asks a Question: What Is Love? (2019)": 660859
+      "Forky Asks a Question: What Is a Friend? (2019)": 660855
+      "Forky Asks a Question: What Is a Pet? (2019)": 660866
+      "Forky Asks a Question: What Is a Computer? (2019)": 660861
+      "Forky Asks a Question: What Is a Leader? (2019)": 660862
+      "Forky Asks a Question: What Is Reading? (2020)": 662666
+      "Forky Asks a Question: What Is Cheese? (2020)": 660867
+  incredibles:
+    title: The Incredibles
+    builders:
+      tmdb_collection: 468222
+      tmdb_movie: 13932, 546728
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "The Incredibles Collection":
+      - "Incredibles"
+      - "Incredibles Collection"
+      - "The Incredibles"
+    movies:
+      "The Incredibles (2004)": 9806
+      "Jack-Jack Attack (2005)": 13932
+      "Incredibles 2 (2018)": 260513
+      "Auntie Edna (2018)": 546728
+  insideout:
+    title: Inside Out
+    builders:
+      tmdb_movie: 150540, 355338
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Inside Out Collection":
+      - "Inside Out"
+    movies:
+      "Inside Out (2015)": 150540
+      "Riley's First Date? (2015)": 355338
+  luca:
+    title: Luca
+    builders:
+      tmdb_movie: 508943, 876716
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Luca Collection":
+      - "Luca"
+    movies:
+      "Luca (2021)": 508943
+      "Ciao Alberto (2021)": 876716
+  monstersinc:
+    title: Monsters Inc
+    builders:
+      tmdb_collection: 137696
+      tmdb_movie: 13931, 258152
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Monsters, Inc. Collection":
+      - "Monsters, Inc."
+    movies:
+      "Monsters, Inc. (2001)": 585
+      "Mike's New Car (2002)": 13931
+      "Monsters University (2013)": 62211
+      "Party Central (2014)": 258152
+  ratatouille:
+    title: Ratatouille
+    builders:
+      tmdb_movie: 2062, 13061
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Ratatouille Collection":
+      - "Ratatouille"
+    movies:
+      "Ratatouille (2007)": 2062
+      "Your Friend the Rat (2007)": 13061
+  shorts:
+    title: Shorts
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/deccoskyrider/lists/pixar-shorts?sort=released,desc
+    styles:
+      diiivoy_neon:
+    collections:
+      "Pixar Shorts": []
+    movies:
+      "The Adventures of André and Wally B. (1984)": 13924
+      "Luxo Jr. (1986)": 13925
+      "Red's Dream (1987)": 13926
+      "Tin Toy (1988)": 13927
+      "Knick Knack (1989)": 13928
+      "Geri's Game (1997)": 13929
+      "For the Birds (2000)": 13930
+      "Boundin' (2003)": 13062
+      "One Man Band (2005)": 13933
+      "Lifted (2006)": 13060
+      "Presto (2008)": 13042
+      "Partly Cloudy (2009)": 24480
+      "Day & Night (2010)": 40619
+      "La luna (2012)": 83564
+      "The Blue Umbrella (2013)": 200481
+      "Lava (2014)": 286192
+      "Sanjay's Super Team (2015)": 345637
+      "Piper (2016)": 399106
+      "Lou (2017)": 433471
+      "Bao (2018)": 514754
+  soul:
+    title: Soul
+    builders:
+      tmdb_movie: 508442, 811367
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Soul Collection":
+      - "Soul"
+    movies:
+      "Soul (2020)": 508442
+      "22 vs. Earth (2021)": 811367
+  toystory:
+    title: Toy Story
+    builders:
+      tmdb_collection: 10194
+      tmdb_movie: 256835, 213121, 130925, 82424, 77887, 594530
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Toy Story Collection":
+      - "Toy Story"
+      "Toy Story Shorts": []
+    movies:
+      "Toy Story (1995)": 862
+      "Toy Story 2 (1999)": 863
+      "Toy Story 3 (2010)": 10193
+      "Small Fry (2011)": 82424
+      "Hawaiian Vacation (2011)": 77887
+      "Partysaurus Rex (2012)": 130925
+      "Toy Story of Terror! (2013)": 213121
+      "Toy Story That Time Forgot (2014)": 256835
+      "Toy Story 4 (2019)": 301528
+      "Lamp Life (2020)": 594530
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie: 9487, 105864, 508439, 718789, 508947, 979163, 976573
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Pixar Animation Studios": []
+    movies:
+      "A Bug's Life (1998)": 9487
+      "The Good Dinosaur (2015)": 105864
+      "Onward (2020)": 508439
+      "Lightyear (2022)": 718789
+      "Turning Red (2022)": 508947
+      "Beyond Infinity: Buzz and the Journey to Lightyear (2022)": 979163
+  up:
+    title: Up
+    builders:
+      tmdb_movie: 14160, 72962, 24589
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "Up Collection":
+      - "Up"
+    movies:
+      "Up (2009)": 14160
+      "George and A.J. (2009)": 72962
+      "Dug's Special Mission (2009)": 24589
+  walle:
+    title: WALL·E
+    builders:
+      tmdb_movie: 10681, 13413
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+    collections:
+      "WALL·E Collection":
+      - "WALL·E"
+    movies:
+      "WALL·E (2008)": 10681
+      "BURN·E (2008)": 13413

@@ -1,0 +1,13 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 211368
+  style_key: rhj
+  style_link: 97
+collections:
+  "Pixar Animation Studios": {tpdb_poster: 456}
+movies:
+  "A Bug's Life (1998)": {tpdb_poster: 458}
+  "The Good Dinosaur (2015)": {tpdb_poster: 472}
+  "Onward (2020)": {tpdb_poster: 25248}
+  "Lightyear (2022)": {tpdb_poster: 211369}
+  "Turning Red (2022)": {tpdb_poster: 211368}
