@@ -1,0 +1,118 @@
+sections:
+  seuss:
+    title: Dr. Seuss
+    builders:
+      tmdb_movie: 8871, 13377, 10588, 73723, 360920, 12222
+    styles:
+      diiivoy_neon:
+    collections:
+      "Dr. Seuss Collection":
+      - "Dr. Seuss"
+      "Dr. Seuss (Writing) Collection":
+      - "Dr. Seuss (Writing)"
+    movies:
+      "How the Grinch Stole Christmas! (1966)": 13377
+      "How the Grinch Stole Christmas (2000)": 8871
+      "The Cat in the Hat (2003)": 10588
+      "Horton Hears a Who! (2008)": 12222
+      "The Lorax (2012)": 73723
+      "The Grinch (2018)": 360920
+  juliadonaldson:
+    title: Julia Donaldson
+    builders:
+      tmdb_collection: 917277, 129748
+      tmdb_movie: 374251, 152581, 655424, 494603, 912802
+    styles:
+      diiivoy_neon:
+    collections:
+      "Julia Donaldson (Writing) Collection":
+      - "Julia Donaldson (Writing)"
+      "Julia Donaldson Collection":
+      - "Julia Donaldson"
+      "Zog Collection":
+      - "Zog"
+      "The Gruffalo Collection":
+      - "Gruffalo"
+      - "Gruffalo Collection"
+      - "The Gruffalo"
+    movies:
+      "The Gruffalo (2009)": 28118
+      "The Gruffalo's Child (2011)": 81684
+      "Room on the Broom (2012)": 152581
+      "Stick Man (2015)": 374251
+      "Zog (2018)": 570701
+      "The Highway Rat (2018)": 494603
+      "The Snail and the Whale (2020)": 655424
+      "Zog and the Flying Doctors (2021)": 779611
+      "Superworm (2021)": 912802
+  mgm:
+    title: Metro-Goldwyn-Mayer Animation
+    builders:
+      tmdb_collection: 750822
+    styles:
+      diiivoy_neon:
+    collections:
+      "Addams Family (Animated) Collection":
+      - "Addams Family (Animated)"
+      "The Addams Family (Animated) Collection":
+      - "Addams Family (Animated)"
+      - "Addams Family (Animated) Collection"
+      - "The Addams Family (Animated)"
+    movies:
+      "The Addams Family (2019)": 481084
+      "The Addams Family 2 (2021)": 639721
+  rocket:
+    title: Rocket Pictures
+    builders:
+      tmdb_collection: 493668
+    styles:
+      diiivoy_neon:
+    collections:
+      "Gnomeo & Juliet Collection":
+      - "Gnomeo & Juliet"
+    movies:
+      "Gnomeo & Juliet (2011)": 45772
+      "Sherlock Gnomes (2018)": 370567
+  sega:
+    title: SEGA
+    builders:
+      tmdb_collection: 720879
+      tmdb_movie: 16355
+    styles:
+      diiivoy_neon:
+    collections:
+      "Sonic the Hedgehog Complete Collection":
+      - "Sonic the Hedgehog Complete"
+      "Sonic the Hedgehog Collection":
+      - "Sonic the Hedgehog"
+    movies:
+      "Sonic the Hedgehog: The Movie (1996)": 16355
+      "Sonic the Hedgehog (2020)": 454626
+      "Sonic the Hedgehog 2 (2022)": 675353
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie: 539681, 482321, 400157, 830784, 366672, 676710
+    styles:
+      diiivoy_neon:
+    movies:
+      "Wonder Park (2019)": 400157
+      "Ron's Gone Wrong (2021)": 482321
+      "DC League of Super-Pets (2022)": 539681
+      "Lyle, Lyle, Crocodile (2022)": 830784
+      "Paws of Fury: The Legend of Hank (2022)": 366672
+      "The Amazing Maurice (2022)": 676710
+  warner:
+    title: Warner Animation Group
+    builders:
+      tmdb_movie: 385103, 446894, 332210, 587807
+    styles:
+      diiivoy_neon:
+    collections:
+      "Warner Animation Group Collection":
+      - "Warner Animation Group"
+    movies:
+      "Storks (2016)": 332210
+      "Smallfoot (2018)": 446894
+      "Scoob! (2020)": 385103
+      "Tom & Jerry (2021)": 587807

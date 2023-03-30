@@ -1,0 +1,20 @@
+info:
+  style_author: DIIIVOY
+  style_image: 285911
+  style_key: diiivoy_neon
+  style_link: 92964
+  complete: true
+collections:
+  "Julia Donaldson Collection": {tpdb_poster: 285905}
+  "Zog Collection": {tpdb_poster: 285906}
+  "The Gruffalo Collection": {tpdb_poster: 285910}
+movies:
+  "The Gruffalo (2009)": {tpdb_poster: 285911}
+  "The Gruffalo's Child (2011)": {tpdb_poster: 285912}
+  "Room on the Broom (2012)": {tpdb_poster: 285913}
+  "Stick Man (2015)": {tpdb_poster: 285909}
+  "Zog (2018)": {tpdb_poster: 285907}
+  "The Highway Rat (2018)": {tpdb_poster: 285915}
+  "The Snail and the Whale (2020)": {tpdb_poster: 285914}
+  "Zog and the Flying Doctors (2021)": {tpdb_poster: 285908}
+  "Superworm (2021)": {tpdb_poster: 285916}
