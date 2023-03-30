@@ -1,10 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/128651
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/80057
-  set_author: DIIIVOY
-
-collections:
-  "Harley Quinn Collection": {tpdb_poster: 131541}
-set:
-  "Birds of Prey": {tpdb_poster: 128654}
+  style_author: DIIIVOY
+  style_image: 128654
+  style_key: diiivoy_neon
+  style_link: 80057
+  complete: true
+movies:
+  "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)": {
+    tpdb_poster: 128654}

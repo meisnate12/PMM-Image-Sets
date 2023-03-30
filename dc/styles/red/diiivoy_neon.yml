@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/145612
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/80057
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 145612
+  style_key: diiivoy_neon
+  style_link: 89851
+  complete: true
 collections:
   "RED Collection": {tpdb_poster: 145610}
-
-set:
-  "RED 2": {tpdb_poster: 145612}
-  "RED": {tpdb_poster: 145611}
+movies:
+  "RED (2010)": {tpdb_poster: 145611}
+  "RED 2 (2013)": {tpdb_poster: 145612}
