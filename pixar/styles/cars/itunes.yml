@@ -1,0 +1,9 @@
+info:
+  style_author: iTunes
+  style_image: 73675
+  style_key: itunes
+  style_link: 46938
+movies:
+  "Cars (2006)": {tpdb_poster: 73664}
+  "Cars 2 (2011)": {tpdb_poster: 73669}
+  "Cars 3 (2017)": {tpdb_poster: 73675}

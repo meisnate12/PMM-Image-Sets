@@ -5,8 +5,10 @@ sections:
       tmdb_movie: 62177, 141423
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Brave Collection":
       - "Brave"
@@ -20,8 +22,10 @@ sections:
       tmdb_movie: 114502
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Cars Collection":
       - "Cars"
@@ -36,8 +40,10 @@ sections:
       tmdb_movie: 354912, 449621
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Coco Collection":
       - "Coco"
@@ -51,8 +57,10 @@ sections:
       tmdb_movie: 777350, 427004
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Finding Nemo Collection":
       - "Finding Nemo"
@@ -89,8 +97,10 @@ sections:
       tmdb_movie: 13932, 546728
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "The Incredibles Collection":
       - "Incredibles"
@@ -107,8 +117,10 @@ sections:
       tmdb_movie: 150540, 355338
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Inside Out Collection":
       - "Inside Out"
@@ -121,8 +133,10 @@ sections:
       tmdb_movie: 508943, 876716
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Luca Collection":
       - "Luca"
@@ -136,8 +150,10 @@ sections:
       tmdb_movie: 13931, 258152
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Monsters, Inc. Collection":
       - "Monsters, Inc."
@@ -152,8 +168,10 @@ sections:
       tmdb_movie: 2062, 13061
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Ratatouille Collection":
       - "Ratatouille"
@@ -196,8 +214,10 @@ sections:
       tmdb_movie: 508442, 811367
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Soul Collection":
       - "Soul"
@@ -211,8 +231,10 @@ sections:
       tmdb_movie: 256835, 213121, 130925, 82424, 77887, 594530
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Toy Story Collection":
       - "Toy Story"
@@ -234,8 +256,10 @@ sections:
       tmdb_movie: 9487, 105864, 508439, 718789, 508947, 979163, 976573
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Pixar Animation Studios": []
     movies:
@@ -251,8 +275,10 @@ sections:
       tmdb_movie: 14160, 72962, 24589
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "Up Collection":
       - "Up"
@@ -266,8 +292,10 @@ sections:
       tmdb_movie: 10681, 13413
     styles:
       diiivoy_neon:
+      diiivoy:
       rhj:
       rhj2:
+      itunes:
     collections:
       "WALL·E Collection":
       - "WALL·E"

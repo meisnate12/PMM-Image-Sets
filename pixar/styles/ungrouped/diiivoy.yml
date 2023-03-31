@@ -1,0 +1,15 @@
+info:
+  style_author: DIIIVOY
+  style_image: 160326
+  style_key: diiivoy
+  style_link: 65004
+  complete: true
+collections:
+  "Pixar Animation Studios": {tpdb_poster: 103273}
+movies:
+  "A Bug's Life (1998)": {tpdb_poster: 29366}
+  "The Good Dinosaur (2015)": {tpdb_poster: 29376}
+  "Onward (2020)": {tpdb_poster: 54995}
+  "Lightyear (2022)": {tpdb_poster: 242084}
+  "Turning Red (2022)": {tpdb_poster: 160326}
+  "Beyond Infinity: Buzz and the Journey to Lightyear (2022)": {tpdb_poster: 242085}

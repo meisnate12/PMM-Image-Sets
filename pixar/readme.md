@@ -1,5 +1,5 @@
-<h1 id="sets---pixar">Sets - Pixar<a class="headerlink" href="#sets---pixar" title="Permalink to this heading">¶</a></h1>
-Below is a table of the available Pixar sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
+<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">¶</a></h1>
+Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
 
 <ul class="images-index-table">
   <li><a href="#brave"><div class="images-inline-link">Brave<br><code>brave</code></div></a></li>
@@ -40,6 +40,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/brave/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/brave/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -50,6 +57,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/brave/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/brave/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -76,6 +90,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/cars/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/cars/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -86,6 +107,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/cars/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/cars/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -111,6 +139,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/coco/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/coco/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -121,6 +156,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/coco/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/coco/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -147,6 +189,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/nemo/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/nemo/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -157,6 +206,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/nemo/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/nemo/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -204,6 +260,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/incredibles/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/incredibles/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -214,6 +277,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/incredibles/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/incredibles/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -239,6 +309,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/insideout/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/insideout/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -249,6 +326,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/insideout/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/insideout/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -274,6 +358,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/luca/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/luca/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -284,6 +375,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/luca/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/luca/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -310,6 +408,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/monstersinc/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/monstersinc/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -320,6 +425,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/monstersinc/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/monstersinc/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -345,6 +457,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/ratatouille/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/ratatouille/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -355,6 +474,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/ratatouille/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/ratatouille/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -401,6 +527,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/soul/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/soul/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -411,6 +544,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/soul/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/soul/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -437,6 +577,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/toystory/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/toystory/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -447,6 +594,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/toystory/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/toystory/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -472,6 +626,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/ungrouped/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/ungrouped/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -482,6 +643,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/ungrouped/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/ungrouped/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -507,6 +675,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/up/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/up/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -517,6 +692,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/up/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/up/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>
@@ -542,6 +724,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/walle/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65004" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/walle/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/97" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
@@ -552,6 +741,13 @@ Below is a table of the available Pixar sets that can be used on Movie libraries
           <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/walle/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/10759" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/walle/itunes.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>itunes</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
         </div>
       </td>
     </tr>

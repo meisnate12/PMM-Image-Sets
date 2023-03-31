@@ -1,0 +1,9 @@
+info:
+  style_author: DIIIVOY
+  style_image: 53462
+  style_key: diiivoy
+  style_link: 65004
+  complete: true
+movies:
+  "Brave (2012)": {tpdb_poster: 53462}
+  "The Legend of Mor'du (2012)": {tpdb_poster: 53461}

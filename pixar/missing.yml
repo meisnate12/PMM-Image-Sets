@@ -1,10 +1,21 @@
 brave:
+  diiivoy_neon:
+    collections:
+      "Brave Collection": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    collections:
+      "Brave Collection": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Brave Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "The Legend of Mor'du (2012)": {tpdb_poster: null, url_poster: null}
   rhj2:
+    collections:
+      "Brave Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Legend of Mor'du (2012)": {tpdb_poster: null, url_poster: null}
+  itunes:
     collections:
       "Brave Collection": {tpdb_poster: null, url_poster: null}
     movies:
@@ -13,12 +24,20 @@ cars:
   diiivoy_neon:
     movies:
       "Albert Schweitzer (1957)": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    movies:
+      "Albert Schweitzer (1957)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Cars Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Albert Schweitzer (1957)": {tpdb_poster: null, url_poster: null}
   rhj2:
+    collections:
+      "Cars Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Albert Schweitzer (1957)": {tpdb_poster: null, url_poster: null}
+  itunes:
     collections:
       "Cars Collection": {tpdb_poster: null, url_poster: null}
     movies:
@@ -34,7 +53,15 @@ coco:
       "Coco Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Dante's Lunch (2017)": {tpdb_poster: null, url_poster: null}
+  itunes:
+    collections:
+      "Coco Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Dante's Lunch (2017)": {tpdb_poster: null, url_poster: null}
 nemo:
+  diiivoy:
+    movies:
+      "Dory's Reef Cam (2020)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Finding Nemo Collection": {tpdb_poster: null, url_poster: null}
@@ -42,6 +69,12 @@ nemo:
       "Marine Life Interviews (2017)": {tpdb_poster: null, url_poster: null}
       "Dory's Reef Cam (2020)": {tpdb_poster: null, url_poster: null}
   rhj2:
+    collections:
+      "Finding Nemo Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Marine Life Interviews (2017)": {tpdb_poster: null, url_poster: null}
+      "Dory's Reef Cam (2020)": {tpdb_poster: null, url_poster: null}
+  itunes:
     collections:
       "Finding Nemo Collection": {tpdb_poster: null, url_poster: null}
     movies:
@@ -69,6 +102,12 @@ incredibles:
     movies:
       "Jack-Jack Attack (2005)": {tpdb_poster: null, url_poster: null}
       "Auntie Edna (2018)": {tpdb_poster: null, url_poster: null}
+  itunes:
+    collections:
+      "The Incredibles Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Jack-Jack Attack (2005)": {tpdb_poster: null, url_poster: null}
+      "Auntie Edna (2018)": {tpdb_poster: null, url_poster: null}
 insideout:
   rhj:
     collections:
@@ -76,6 +115,11 @@ insideout:
     movies:
       "Riley's First Date? (2015)": {tpdb_poster: null, url_poster: null}
   rhj2:
+    collections:
+      "Inside Out Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Riley's First Date? (2015)": {tpdb_poster: null, url_poster: null}
+  itunes:
     collections:
       "Inside Out Collection": {tpdb_poster: null, url_poster: null}
     movies:
@@ -91,12 +135,23 @@ luca:
       "Luca Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Ciao Alberto (2021)": {tpdb_poster: null, url_poster: null}
+  itunes:
+    collections:
+      "Luca Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Ciao Alberto (2021)": {tpdb_poster: null, url_poster: null}
 monstersinc:
   rhj:
     movies:
       "Mike's New Car (2002)": {tpdb_poster: null, url_poster: null}
       "Party Central (2014)": {tpdb_poster: null, url_poster: null}
   rhj2:
+    collections:
+      "Monsters, Inc. Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Mike's New Car (2002)": {tpdb_poster: null, url_poster: null}
+      "Party Central (2014)": {tpdb_poster: null, url_poster: null}
+  itunes:
     collections:
       "Monsters, Inc. Collection": {tpdb_poster: null, url_poster: null}
     movies:
@@ -113,6 +168,11 @@ ratatouille:
       "Ratatouille Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Your Friend the Rat (2007)": {tpdb_poster: null, url_poster: null}
+  itunes:
+    collections:
+      "Ratatouille Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Your Friend the Rat (2007)": {tpdb_poster: null, url_poster: null}
 soul:
   rhj:
     collections:
@@ -122,10 +182,25 @@ soul:
       "Soul Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "22 vs. Earth (2021)": {tpdb_poster: null, url_poster: null}
+  itunes:
+    collections:
+      "Soul Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "22 vs. Earth (2021)": {tpdb_poster: null, url_poster: null}
 toystory:
   diiivoy_neon:
     collections:
       "Toy Story Shorts": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    collections:
+      "Toy Story Shorts": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Small Fry (2011)": {tpdb_poster: null, url_poster: null}
+      "Hawaiian Vacation (2011)": {tpdb_poster: null, url_poster: null}
+      "Partysaurus Rex (2012)": {tpdb_poster: null, url_poster: null}
+      "Toy Story of Terror! (2013)": {tpdb_poster: null, url_poster: null}
+      "Toy Story That Time Forgot (2014)": {tpdb_poster: null, url_poster: null}
+      "Lamp Life (2020)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Toy Story Collection": {tpdb_poster: null, url_poster: null}
@@ -138,6 +213,17 @@ toystory:
       "Toy Story That Time Forgot (2014)": {tpdb_poster: null, url_poster: null}
       "Lamp Life (2020)": {tpdb_poster: null, url_poster: null}
   rhj2:
+    collections:
+      "Toy Story Collection": {tpdb_poster: null, url_poster: null}
+      "Toy Story Shorts": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Small Fry (2011)": {tpdb_poster: null, url_poster: null}
+      "Hawaiian Vacation (2011)": {tpdb_poster: null, url_poster: null}
+      "Partysaurus Rex (2012)": {tpdb_poster: null, url_poster: null}
+      "Toy Story of Terror! (2013)": {tpdb_poster: null, url_poster: null}
+      "Toy Story That Time Forgot (2014)": {tpdb_poster: null, url_poster: null}
+      "Lamp Life (2020)": {tpdb_poster: null, url_poster: null}
+  itunes:
     collections:
       "Toy Story Collection": {tpdb_poster: null, url_poster: null}
       "Toy Story Shorts": {tpdb_poster: null, url_poster: null}
@@ -157,6 +243,10 @@ ungrouped:
     movies:
       "Beyond Infinity: Buzz and the Journey to Lightyear (2022)": {tpdb_poster: null,
         url_poster: null}
+  itunes:
+    movies:
+      "Beyond Infinity: Buzz and the Journey to Lightyear (2022)": {tpdb_poster: null,
+        url_poster: null}
 up:
   rhj:
     collections:
@@ -170,6 +260,12 @@ up:
     movies:
       "George and A.J. (2009)": {tpdb_poster: null, url_poster: null}
       "Dug's Special Mission (2009)": {tpdb_poster: null, url_poster: null}
+  itunes:
+    collections:
+      "Up Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "George and A.J. (2009)": {tpdb_poster: null, url_poster: null}
+      "Dug's Special Mission (2009)": {tpdb_poster: null, url_poster: null}
 walle:
   rhj:
     collections:
@@ -177,6 +273,11 @@ walle:
     movies:
       "BURN·E (2008)": {tpdb_poster: null, url_poster: null}
   rhj2:
+    collections:
+      "WALL·E Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "BURN·E (2008)": {tpdb_poster: null, url_poster: null}
+  itunes:
     collections:
       "WALL·E Collection": {tpdb_poster: null, url_poster: null}
     movies:

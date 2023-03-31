@@ -1,0 +1,10 @@
+info:
+  style_author: iTunes
+  style_image: 73660
+  style_key: itunes
+  style_link: 46938
+movies:
+  "Toy Story (1995)": {tpdb_poster: 73658}
+  "Toy Story 2 (1999)": {tpdb_poster: 73660}
+  "Toy Story 3 (2010)": {tpdb_poster: 73668}
+  "Toy Story 4 (2019)": {tpdb_poster: 73678}

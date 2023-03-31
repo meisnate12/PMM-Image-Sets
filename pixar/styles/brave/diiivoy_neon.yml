@@ -4,8 +4,6 @@ info:
   style_key: diiivoy_neon
   style_link: 91216
   complete: true
-collections:
-  "Brave Collection": {tpdb_poster: 149958}
 movies:
   "Brave (2012)": {tpdb_poster: 149959}
   "The Legend of Mor'du (2012)": {tpdb_poster: 149960}
