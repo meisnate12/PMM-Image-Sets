@@ -1,0 +1,12 @@
+info:
+  style_author: DIIIVOY
+  style_image: 202591
+  style_key: diiivoy_neon
+  style_link: 122213
+  complete: true
+collections:
+  "Despicable Me Collection": {tpdb_poster: 202603}
+movies:
+  "Despicable Me (2010)": {tpdb_poster: 202591}
+  "Despicable Me 2 (2013)": {tpdb_poster: 202594}
+  "Despicable Me 3 (2017)": {tpdb_poster: 202598}
