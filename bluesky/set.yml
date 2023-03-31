@@ -1,0 +1,56 @@
+sections:
+  iceage:
+    title: Ice Age
+    builders:
+      tmdb_collection: 8354
+      tmdb_movie: 387893, 79218
+    styles:
+      agon024:
+      dsman124:
+      diiivoy_neon:
+      ishalioh:
+    collections:
+      "Ice Age Collection":
+      - "Ice Age"
+    movies:
+      "Ice Age (2002)": 425
+      "Ice Age: The Meltdown (2006)": 950
+      "Ice Age: Dawn of the Dinosaurs (2009)": 8355
+      "Ice Age: A Mammoth Christmas (2011)": 79218
+      "Ice Age: Continental Drift (2012)": 57800
+      "Ice Age: Collision Course (2016)": 278154
+      "Ice Age: The Great Egg-Scapade (2016)": 387893
+      "The Ice Age Adventures of Buck Wild (2022)": 774825
+  rio:
+    title: Rio
+    builders:
+      tmdb_collection: 229932
+    styles:
+      agon024:
+      dsman124:
+      diiivoy_neon:
+      ishalioh:
+    collections:
+      "Rio Collection":
+      - "Rio"
+    movies:
+      "Rio (2011)": 46195
+      "Rio 2 (2014)": 172385
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie: 9928, 12222, 116711, 227973. 431693, 961323, 364689
+    styles:
+      agon024:
+      dsman124:
+      diiivoy_neon:
+      ishalioh:
+    collections:
+      "Blue Sky Studios Collection":
+      - "Blue Sky Studios"
+    movies:
+      "Robots (2005)": 9928
+      "Horton Hears a Who! (2008)": 12222
+      "Epic (2013)": 116711
+      "The Peanuts Movie (2015)": 227973
+      "Ferdinand (2017)": 364689

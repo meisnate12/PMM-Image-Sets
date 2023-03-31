@@ -1,0 +1,12 @@
+info:
+  style_author: ishalioh
+  style_image: 38162
+  style_key: ishalioh
+  style_link: 23445
+  complete: true
+movies:
+  "Robots (2005)": {tpdb_poster: 38154}
+  "Horton Hears a Who! (2008)": {tpdb_poster: 38156}
+  "Epic (2013)": {tpdb_poster: 38160}
+  "The Peanuts Movie (2015)": {tpdb_poster: 38162}
+  "Ferdinand (2017)": {tpdb_poster: 38164}

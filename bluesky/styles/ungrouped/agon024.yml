@@ -1,0 +1,12 @@
+info:
+  style_author: agon024
+  style_image: 293612
+  style_key: agon024
+  style_link: 173561
+  complete: true
+movies:
+  "Robots (2005)": {tpdb_poster: 293604}
+  "Horton Hears a Who! (2008)": {tpdb_poster: 293606}
+  "Epic (2013)": {tpdb_poster: 293610}
+  "The Peanuts Movie (2015)": {tpdb_poster: 293612}
+  "Ferdinand (2017)": {tpdb_poster: 293614}
