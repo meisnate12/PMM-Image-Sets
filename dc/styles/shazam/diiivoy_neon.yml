@@ -1,12 +1,11 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/313306
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/80057
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 313306
+  style_key: diiivoy_neon
+  style_link: 80057
+  complete: true
 collections:
   "Shazam! Collection": {tpdb_poster: 313308}
-
-set:
-  "Shazam! Fury of the Gods": {tpdb_poster: 313307}
-  "Shazam!": {tpdb_poster: 313306}
+movies:
+  "Shazam! (2019)": {tpdb_poster: 313306}
+  "Shazam! Fury of the Gods (2023)": {tpdb_poster: 313307}

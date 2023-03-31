@@ -1,8 +1,7 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/79230
-  set_key: rhj
-  set_link: https://theposterdb.com/set/50563
-  set_author: RedHeadJedi
-
-set:
-  "Shazam!": {tpdb_poster: 79230}
+  style_author: RedHeadJedi
+  style_image: 79230
+  style_key: rhj
+  style_link: 50563
+movies:
+  "Shazam! (2019)": {tpdb_poster: 79230}
