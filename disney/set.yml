@@ -510,8 +510,8 @@ sections:
       faufan:
       rhj:
       rhj2:
-      - "Disney Animation Studios"
-      - "Disney Animation"
+    collections:
+      "Disney Animation Studios": []
     movies:
       "Snow White and the Seven Dwarfs (1937)": 408
       "Fantasia (1940)": 756

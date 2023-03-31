@@ -1479,6 +1479,13 @@ Below is a table of the available sets that can be used on Movie libraries, you 
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ungrouped/rhj2.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj2</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
