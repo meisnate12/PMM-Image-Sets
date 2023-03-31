@@ -9,8 +9,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "101 Dalmatians (Animated) Collection"
     collections:
       "101 Dalmatians (Animated) Collection":
       - "101 Dalmatians (Animated)"
@@ -27,8 +25,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Aladdin Collection"
     collections:
       "Aladdin Collection":
       - "Aladdin"
@@ -46,8 +42,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Atlantis Collection"
     collections:
       "Atlantis Collection":
       - "Atlantis"
@@ -64,8 +58,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Bambi Collection"
     collections:
       "Bambi Collection":
       - "Bambi"
@@ -82,8 +74,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Beauty and the Beast Collection"
     collections:
       "Beauty and the Beast Collection":
       - "Beauty and the Beast"
@@ -101,8 +91,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Big Hero 6 Collection"
     movies:
       "Big Hero 6 (2014)": 177572
   bolt:
@@ -115,8 +103,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Big Hero 6 Collection"
     movies:
       "Bolt (2008)": 13053
       "Super Rhino (2009)": 16604
@@ -130,8 +116,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Brother Bear Collection"
     collections:
       "Brother Bear Collection":
       - "Brother Bear"
@@ -148,8 +132,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Caballeros Collection"
     collections:
       "Caballeros Collection":
       - "Caballeros"
@@ -166,8 +148,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Cinderella Collection"
     collections:
       "Cinderella Collection":
       - "Cinderella"
@@ -185,8 +165,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Disney's Hercules Collection"
     collections:
       "Hercules (Disney) Collection":
       - "Hercules (Disney)"
@@ -202,8 +180,6 @@ sections:
       diiivoy_neon:
       rhj:
       rhj2:
-      collections:
-      - "The Emperor's New Groove Collection"
     collections:
       "The Emperor's New Groove Collection":
       - "Emperor's New Groove"
@@ -222,8 +198,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Fantasia Collection"
     collections:
       "Fantasia Collection":
       - "Fantasia"
@@ -240,8 +214,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "The Fox and the Hound Collection"
     collections:
       "The Fox and the Hound Collection":
       - "Fox and the Hound"
@@ -261,8 +233,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Frozen Collection"
     collections:
       "Frozen Collection":
       - "Frozen"
@@ -279,8 +249,6 @@ sections:
       tmdb_collection: 410261
     styles:
       diiivoy_neon:
-      collections:
-      - "A Goofy Movie Collection"
     collections:
       "A Goofy Movie Collection":
       - "A Goofy Movie"
@@ -297,8 +265,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "The Hunchback of Notre Dame Collection"
     collections:
       "The Hunchback of Notre Dame Collection":
       - "Hunchback of Notre Dame"
@@ -317,8 +283,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "The Jungle Book Collection"
     collections:
       "The Jungle Book Collection":
       - "Jungle Book"
@@ -337,8 +301,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Lady and the Tramp Collection"
     collections:
       "Lady and the Tramp Collection":
       - "Lady and the Tramp"
@@ -355,8 +317,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Lilo & Stitch Collection"
     collections:
       "Lilo & Stitch Collection":
       - "Lilo & Stitch"
@@ -375,8 +335,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "The Lion King Collection"
     collections:
       "The Lion King Collection":
       - "Lion King"
@@ -396,8 +354,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "The Little Mermaid Collection"
     collections:
       "The Little Mermaid Collection":
       - "Little Mermaid"
@@ -417,8 +373,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Moana Collection"
     movies:
       "Moana (2016)": 277834
   mulan:
@@ -431,8 +385,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Mulan Collection"
     collections:
       "Mulan Collection":
       - "Mulan"
@@ -449,8 +401,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Peter Pan Collection"
     collections:
       "Peter Pan Collection":
       - "Peter Pan"
@@ -463,8 +413,6 @@ sections:
       tmdb_collection: 270252
     styles:
       diiivoy_neon:
-      collections:
-      - "Planes Collection"
     collections:
       "Planes Collection":
       - "Planes"
@@ -477,8 +425,6 @@ sections:
       tmdb_collection: 136214
     styles:
       diiivoy_neon:
-      collections:
-      - "Pocahontas Collection"
     collections:
       "Pocahontas Collection":
       - "Pocahontas"
@@ -495,9 +441,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "The Rescuers Collection"
-
     collections:
       "The Rescuers Collection":
       - "Rescuers"
@@ -516,8 +459,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Tangled Collection"
     movies:
       "Tangled (2010)": 38757
       "Tangled Ever After (2012)": 82881
@@ -532,8 +473,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Tarzan (Animation) Collection"
     collections:
       "Tarzan (Animation) Collection":
       - "Tarzan (Animation)"
@@ -547,8 +486,6 @@ sections:
       tmdb_collection: 315595
     styles:
       diiivoy_neon:
-      collections:
-      - "Tinker Bell Collection"
     collections:
       "Tinker Bell Collection":
       - "Tinker Bell"
@@ -573,8 +510,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Walt Disney Animation Studios"
       - "Disney Animation Studios"
       - "Disney Animation"
     movies:
@@ -613,8 +548,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Winnie the Pooh Collection"
     movies:
       "The Many Adventures of Winnie the Pooh (1977)": 250480
       "Pooh's Grand Adventure: The Search for Christopher Robin (1997)": 14903
@@ -633,8 +566,6 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Wreck-It Ralph Collection"
     collections:
       "Wreck-It Ralph Collection":
       - "Wreck-It Ralph"
@@ -651,7 +582,5 @@ sections:
       faufan:
       rhj:
       rhj2:
-      collections:
-      - "Zootopia Collection"
     movies:
       "Zootopia (2016)": 269149
