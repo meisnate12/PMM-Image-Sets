@@ -44,11 +44,11 @@ logger.header(pmmargs, sub=True)
 logger.separator("Validating Options", space=False, border=False)
 today = datetime.now()
 
-def scan_builders(builder_dict):
+def scan_builders(builder_dict, collections=None):
     output_html = "<br><strong>Builders:</strong>\n<br>\n"
     output_objects = []
-    output_cols = []
     output_builders = []
+    output_cols = {} if collections is None else collections
     for k, v in builder_dict.items():
         if not v:
             raise Failed(f"Builder Error: {k} cannot be blank")
@@ -80,7 +80,7 @@ def scan_builders(builder_dict):
                         _col = tmdbapi.collection(_id)
                         if _col.name not in output_cols:
                             output_cols[_col.name] = []
-                        output_objects.extend(col.movies)
+                        output_objects.extend(_col.movies)
                         _url = f"https://www.themoviedb.org/collection/{_id}"
                     elif k == "tmdb_movie":
                         output_objects.append(tmdbapi.movie(_id))
@@ -441,7 +441,9 @@ try:
                     if not new_data["builders"]:
                         raise Failed(f"No Builders Found ignoring section: {section_key}")
                     new_collections = section_data["collections"] if "collections" in section_data and section_data["collections"] else {}
-
+                    default_image_title = section_data["default_image"] if "default_image" in section_data and section_data["default_image"] else None
+                    if default_image_title:
+                        new_data["default_image"] = default_image_title
                     existing_movies = section_data["movies"] if "movies" in section_data and section_data["movies"] and isinstance(section_data["movies"], dict) else {}
                     existing_shows = section_data["shows"] if "shows" in section_data and section_data["shows"] and isinstance(section_data["shows"], dict) else {}
 
@@ -465,20 +467,29 @@ try:
                         else:
                             existing_show_lookup[v] = k
 
-                    builder_movies, builder_shows, new_collections, builder_html, _ = scan_builders(new_data["builders"])
+                    builder_movies, builder_shows, new_collections, builder_html, _ = scan_builders(new_data["builders"], collections=new_collections)
 
                     if new_collections:
                         new_cols = {}
+                        used_cols = []
                         for k, v in new_collections.items():
+                            if k in used_cols:
+                                continue
                             alts = v if v else []
-                            if (new_k := str(k).removesuffix(" Collection")) not in alts and new_k != k:
+                            for a in alts:
+                                if a not in used_cols:
+                                    used_cols.append(a)
+                            used_cols.append(k)
+                            if (new_k := str(k).removesuffix(" Collection")) not in used_cols and new_k != k:
                                 alts.append(YAML.quote(new_k))
-                            if (new_k := str(k).removeprefix("The ")) not in alts and new_k != k:
+                                used_cols.append(new_k)
+                            if (new_k := str(k).removeprefix("The ")) not in used_cols and new_k != k:
                                 alts.append(YAML.quote(new_k))
-                            if (new_k := str(k).removeprefix("The ").removesuffix(" Collection")) not in alts and new_k != k:
+                                used_cols.append(new_k)
+                            if (new_k := str(k).removeprefix("The ").removesuffix(" Collection")) not in used_cols and new_k != k:
                                 alts.append(YAML.quote(new_k))
+                                used_cols.append(new_k)
                             alts.sort()
-
                             new_cols[YAML.quote(k)] = [YAML.quote(i) for i in alts]
                         new_collections = new_cols
 
@@ -770,8 +781,8 @@ try:
                                         seasons = {0: None}
                                         for s in tmdb_obj.seasons:
                                             seasons[s.season_number] = s
-
-                                        if tp_link and posters is not None and len(seasons) - 1 != len([True for og in og_seasons if int(og) > 0]):
+                                        og_season_len = len([True for og in og_seasons if int(og) > 0])
+                                        if tp_link and posters is None and (len(seasons) - 1 != og_season_len or (og_season_len == 0 and track_seasons)):
                                             _, posters = lookup()
 
                                         for s_num, season in seasons.items():
@@ -784,9 +795,9 @@ try:
                                             new_season_images = {}
                                             if posters:
                                                 if s_num > 0 and f"{item} - Season {s_num}" in posters:
-                                                    new_images["tpdb_poster"] = posters[f"{item} - Season {s_num}"]
+                                                    new_season_images["tpdb_poster"] = posters[f"{item} - Season {s_num}"]
                                                 elif s_num == 0 and f"{item} - Specials" in posters:
-                                                    new_images["tpdb_poster"] = posters[f"{item} - Specials"]
+                                                    new_season_images["tpdb_poster"] = posters[f"{item} - Specials"]
 
                                             if s_num in missing_seasons and missing_seasons[s_num]:
                                                 new_season_images = check_images(missing_seasons[s_num], new_season_images)
@@ -849,6 +860,11 @@ try:
                                                 new_images["seasons"][s_num] = new_season_images if "episodes" in new_season_images else YAML.inline(new_season_images)
 
                                 if new_images:
+                                    if item == default_image_title and not new_style["info"]["style_image"]:
+                                        if "tpdb_poster" in new_images:
+                                            new_style["info"]["style_image"] = f"https://theposterdb.com/api/assets/{new_images['tpdb_poster']}"
+                                        elif "url_poster" in new_images:
+                                            new_style["info"]["style_image"] = new_images["url_poster"]
                                     if attr not in new_style:
                                         new_style[attr] = {}
                                     new_style[attr][item] = new_images if "seasons" in new_images else YAML.inline(new_images)

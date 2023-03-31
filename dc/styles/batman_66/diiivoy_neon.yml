@@ -1,0 +1,20 @@
+info:
+  style_author: DIIIVOY
+  style_image: 177507
+  style_key: diiivoy_neon
+  style_link: 108123
+  complete: true
+  track_seasons: true
+movies:
+  "Batman (1966)": {tpdb_poster: 177507}
+  "Return to the Batcave - The Misadventures of Adam and Burt (2003)": {tpdb_poster: 177508}
+  "Batman: Return of the Caped Crusaders (2016)": {tpdb_poster: 177509}
+  "Batman vs. Two-Face (2017)": {tpdb_poster: 177510}
+shows:
+  "Batman (1966)":
+    tpdb_poster: 177515
+    seasons:
+      0: {tpdb_poster: 177512}
+      1: {tpdb_poster: 177513}
+      2: {tpdb_poster: 177514}
+      3: {tpdb_poster: 177515}

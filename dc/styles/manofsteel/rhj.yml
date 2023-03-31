@@ -3,6 +3,7 @@ info:
   style_image: 79224
   style_key: rhj
   style_link: 50563
+  complete: true
 movies:
   "Man of Steel (2013)": {tpdb_poster: 79224}
   "Batman v Superman: Dawn of Justice (2016)": {tpdb_poster: 79225}

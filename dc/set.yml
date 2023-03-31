@@ -14,40 +14,67 @@ sections:
   batman:
     title: Batman
     builders:
-      tmdb_collection: 120794, 948485, 263
-      tmdb_movie: 209112, 2661, 411736, 464882
+      tmdb_collection: 120794
+    styles:
+      diiivoy_neon:
+    collections:
+      "Batman Collection":
+      - "Batman"
+    movies:
+      "Batman (1989)": 268
+      "Batman Returns (1992)": 364
+      "Batman Forever (1995)": 414
+      "Batman & Robin (1997)": 415
+  thebatman:
+    title: The Batman
+    builders:
+      tmdb_collection: 948485
     styles:
       diiivoy_neon:
       rhj:
     collections:
-      "Batman Collection":
-      - "Batman"
-      "The Dark Knight Collection":
-      - "Dark Knight"
-      - "Dark Knight Collection"
-      - "The Dark Knight"
       "The Batman Collection":
       - "Batman"
       - "Batman Collection"
       - "The Batman"
     movies:
+      "The Batman (2022)": 414906
+  batman_66:
+    title: Batman '66
+    builders:
+      tmdb_collection: 626517
+      tmdb_movie: 2661, 20776
+      tmdb_show: 2287
+    styles:
+      diiivoy_neon:
+      mikenobbs:
+    default_image: "Batman (1966)"
+    collections:
+      "Batman '66 Collection":
+      - "Batman '66"
+      - "Batman Animation Collection (Adam West)"
+    movies:
       "Batman (1966)": 2661
-      "Batman (1989)": 268
-      "Batman Returns (1992)": 364
-      "Batman Forever (1995)": 414
-      "Batman & Robin (1997)": 415
+      "Return to the Batcave - The Misadventures of Adam and Burt (2003)": 20776
+      "Batman: Return of the Caped Crusaders (2016)": 411736
+      "Batman vs. Two-Face (2017)": 464882
+    shows:
+      "Batman (1966)": 77871
+  darkknight:
+    title: The Dark Knight
+    builders:
+      tmdb_collection: 263
+    styles:
+      diiivoy_neon:
+    collections:
+      "The Dark Knight Collection":
+      - "Dark Knight"
+      - "Dark Knight Collection"
+      - "The Dark Knight"
+    movies:
       "Batman Begins (2005)": 272
       "The Dark Knight (2008)": 155
       "The Dark Knight Rises (2012)": 49026
-      "Batman v Superman: Dawn of Justice (2016) (Ultimate)":
-        mapping_id: 209112
-        edition_contains: Ultimate
-      "Batman v Superman: Dawn of Justice (2016)":
-        mapping_id: 209112
-        blank_edition: true
-      "Batman: Return of the Caped Crusaders (2016)": 411736
-      "Batman vs. Two-Face (2017)": 464882
-      "The Batman (2022)": 414906
   harleyquinn:
     title: Harley Quinn
     builders:
@@ -60,6 +87,34 @@ sections:
       - "Harley Quinn"
     movies:
       "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)": 495764
+  justiceleague:
+    title: Justice League
+    builders:
+      tmdb_movie: 141052, 791373
+    styles:
+      diiivoy_neon:
+      rhj:
+    movies:
+      "Justice League (2017)": 141052
+      "Zack Snyder's Justice League (2021)": 791373
+  manofsteel:
+    title: Man of Steel
+    builders:
+      tmdb_collection: 209131
+    styles:
+      diiivoy_neon:
+      rhj:
+    collections:
+      "Man of Steel Collection":
+      - "Man of Steel"
+    movies:
+      "Man of Steel (2013)": 49521
+      "Batman v Superman: Dawn of Justice (2016) (Ultimate)":
+        mapping_id: 209112
+        edition_contains: Ultimate
+      "Batman v Superman: Dawn of Justice (2016)":
+        mapping_id: 209112
+        blank_edition: true
   red:
     title: RED
     builders:
@@ -103,10 +158,8 @@ sections:
     title: Superman
     builders:
       tmdb_collection: 8537
-      tmdb_movie: 49521, 209112
     styles:
       diiivoy_neon:
-      rhj:
     collections:
       "Superman Collection":
       - "Superman"
@@ -121,18 +174,11 @@ sections:
       "Superman III (1983)": 9531
       "Superman IV: The Quest for Peace (1987)": 11411
       "Superman Returns (2006)": 1452
-      "Man of Steel (2013)": 49521
-      "Batman v Superman: Dawn of Justice (2016) (Ultimate)":
-        mapping_id: 209112
-        edition_contains: Ultimate
-      "Batman v Superman: Dawn of Justice (2016)":
-        mapping_id: 209112
-        blank_edition: true
   ungrouped:
     title: Ungrouped
     builders:
-      tmdb_movie: 20776, 141052. 791373, 436270, 13183, 41207, 475557, 44912, 314,
-        561, 831405, 20533, 752, 539681
+      tmdb_movie: 20776, 436270, 13183, 41207, 475557, 44912, 314, 561, 831405, 20533,
+        752, 539681
     styles:
       diiivoy_neon:
       rhj:
@@ -157,7 +203,6 @@ sections:
       "Under the Hood (2009)": 41207
       "Jonah Hex (2010)": 20533
       "Green Lantern (2011)": 44912
-      "Justice League (2017)": 141052
       "Joker (2019)": 475557
       "Injustice (2021)": 831405
       "Black Adam (2022)": 436270

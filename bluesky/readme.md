@@ -1,5 +1,5 @@
-<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">¶</a></h1>
-Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
+<h1 id="blue-sky-studios">Blue Sky Studios<a class="headerlink" href="#blue-sky-studios" title="Permalink to this heading">¶</a></h1>
+This Image Set is for all Movies released by Blue Sky Studios.
 
 <ul class="images-index-table">
   <li><a href="#ice-age"><div class="images-inline-link">Ice Age<br><code>iceage</code></div></a></li>

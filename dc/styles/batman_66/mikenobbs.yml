@@ -1,0 +1,22 @@
+info:
+  style_author: mikenobbs
+  style_image: 40480
+  style_key: mikenobbs
+  style_link: 24804
+  complete: true
+  track_seasons: true
+collections:
+  "Batman '66 Collection": {tpdb_poster: 40479}
+movies:
+  "Batman (1966)": {tpdb_poster: 40480}
+  "Return to the Batcave - The Misadventures of Adam and Burt (2003)": {tpdb_poster: 40481}
+  "Batman: Return of the Caped Crusaders (2016)": {tpdb_poster: 40482}
+  "Batman vs. Two-Face (2017)": {tpdb_poster: 40483}
+shows:
+  "Batman (1966)":
+    tpdb_poster: 40480
+    seasons:
+      0: {tpdb_poster: 40485}
+      1: {tpdb_poster: 40486}
+      2: {tpdb_poster: 40487}
+      3: {tpdb_poster: 40488}

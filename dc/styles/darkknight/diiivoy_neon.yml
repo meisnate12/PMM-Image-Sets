@@ -1,0 +1,12 @@
+info:
+  style_author: DIIIVOY
+  style_image:
+  style_key: diiivoy_neon
+  style_link: 87948
+  complete: true
+collections:
+  "The Dark Knight Collection": {tpdb_poster: 141711}
+movies:
+  "Batman Begins (2005)": {tpdb_poster: 141712}
+  "The Dark Knight (2008)": {tpdb_poster: 141713}
+  "The Dark Knight Rises (2012)": {tpdb_poster: 141714}

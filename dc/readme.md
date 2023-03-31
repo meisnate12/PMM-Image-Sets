@@ -1,10 +1,15 @@
-<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">�</a></h1>
-Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
+<h1 id="dc-properties">DC Properties<a class="headerlink" href="#dc-properties" title="Permalink to this heading">�</a></h1>
+This Image Set is for all Movies and Shows that are a property of DC.
 
 <ul class="images-index-table">
   <li><a href="#aquaman"><div class="images-inline-link">Aquaman<br><code>aquaman</code></div></a></li>
   <li><a href="#batman"><div class="images-inline-link">Batman<br><code>batman</code></div></a></li>
+  <li><a href="#the-batman"><div class="images-inline-link">The Batman<br><code>thebatman</code></div></a></li>
+  <li><a href="#batman-'66"><div class="images-inline-link">Batman '66<br><code>batman_66</code></div></a></li>
+  <li><a href="#the-dark-knight"><div class="images-inline-link">The Dark Knight<br><code>darkknight</code></div></a></li>
   <li><a href="#harley-quinn"><div class="images-inline-link">Harley Quinn<br><code>harleyquinn</code></div></a></li>
+  <li><a href="#justice-league"><div class="images-inline-link">Justice League<br><code>justiceleague</code></div></a></li>
+  <li><a href="#man-of-steel"><div class="images-inline-link">Man of Steel<br><code>manofsteel</code></div></a></li>
   <li><a href="#red"><div class="images-inline-link">RED<br><code>red</code></div></a></li>
   <li><a href="#shazam!"><div class="images-inline-link">Shazam!<br><code>shazam</code></div></a></li>
   <li><a href="#suicide-squad"><div class="images-inline-link">Suicide Squad<br><code>suicidesquad</code></div></a></li>
@@ -46,8 +51,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <strong>Section Key:</strong> <code>batman</code>
 <br><strong>Builders:</strong>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/120794" target="_blank" rel="noopener noreferrer">120794</a>, <a href="https://www.themoviedb.org/collection/948485" target="_blank" rel="noopener noreferrer">948485</a>, <a href="https://www.themoviedb.org/collection/263" target="_blank" rel="noopener noreferrer">263</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/209112" target="_blank" rel="noopener noreferrer">209112</a>, <a href="https://www.themoviedb.org/movie/2661" target="_blank" rel="noopener noreferrer">2661</a>, <a href="https://www.themoviedb.org/movie/411736" target="_blank" rel="noopener noreferrer">411736</a>, <a href="https://www.themoviedb.org/movie/464882" target="_blank" rel="noopener noreferrer">464882</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/120794" target="_blank" rel="noopener noreferrer">120794</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -55,16 +59,88 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/batman/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/88378" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/batman/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/88378" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="the-batman">The Batman<a class="headerlink" href="#the-batman" title="Permalink to this heading">�</a></h3>
+<strong>Section Key:</strong> <code>thebatman</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/948485" target="_blank" rel="noopener noreferrer">948485</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/124504" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/124504" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/batman/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="batman-'66">Batman '66<a class="headerlink" href="#batman-'66" title="Permalink to this heading">�</a></h3>
+<strong>Section Key:</strong> <code>batman_66</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/626517" target="_blank" rel="noopener noreferrer">626517</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/2661" target="_blank" rel="noopener noreferrer">2661</a>, <a href="https://www.themoviedb.org/movie/20776" target="_blank" rel="noopener noreferrer">20776</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_show</code>: <a href="https://www.themoviedb.org/tv/2287" target="_blank" rel="noopener noreferrer">2287</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/108123" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/batman_66/diiivoy_neon.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/108123" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/24804" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/batman_66/mikenobbs.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>mikenobbs</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/24804" target="_blank" rel="noopener noreferrer">mikenobbs</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="the-dark-knight">The Dark Knight<a class="headerlink" href="#the-dark-knight" title="Permalink to this heading">�</a></h3>
+<strong>Section Key:</strong> <code>darkknight</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/263" target="_blank" rel="noopener noreferrer">263</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/87948" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/87948" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
     </tr>
@@ -91,6 +167,62 @@ Below is a table of the available sets that can be used on Movie libraries, you 
       <td>
         <div>
           <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/harleyquinn/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="justice-league">Justice League<a class="headerlink" href="#justice-league" title="Permalink to this heading">�</a></h3>
+<strong>Section Key:</strong> <code>justiceleague</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/141052" target="_blank" rel="noopener noreferrer">141052</a>, <a href="https://www.themoviedb.org/movie/791373" target="_blank" rel="noopener noreferrer">791373</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="man-of-steel">Man of Steel<a class="headerlink" href="#man-of-steel" title="Permalink to this heading">�</a></h3>
+<strong>Section Key:</strong> <code>manofsteel</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/209131" target="_blank" rel="noopener noreferrer">209131</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/manofsteel/diiivoy_neon.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/manofsteel/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -181,7 +313,6 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/8537" target="_blank" rel="noopener noreferrer">8537</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/49521" target="_blank" rel="noopener noreferrer">49521</a>, <a href="https://www.themoviedb.org/movie/209112" target="_blank" rel="noopener noreferrer">209112</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -194,13 +325,6 @@ Below is a table of the available sets that can be used on Movie libraries, you 
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/superman/rhj.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>rhj</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
-        </div>
-      </td>
     </tr>
   </table>
 </div>
@@ -209,7 +333,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/20776" target="_blank" rel="noopener noreferrer">20776</a>, <a href="https://www.themoviedb.org/movie/141052" target="_blank" rel="noopener noreferrer">141052</a>, <a href="https://www.themoviedb.org/movie/436270" target="_blank" rel="noopener noreferrer">436270</a>, <a href="https://www.themoviedb.org/movie/13183" target="_blank" rel="noopener noreferrer">13183</a>, <a href="https://www.themoviedb.org/movie/41207" target="_blank" rel="noopener noreferrer">41207</a>, <a href="https://www.themoviedb.org/movie/475557" target="_blank" rel="noopener noreferrer">475557</a>, <a href="https://www.themoviedb.org/movie/44912" target="_blank" rel="noopener noreferrer">44912</a>, <a href="https://www.themoviedb.org/movie/314" target="_blank" rel="noopener noreferrer">314</a>, <a href="https://www.themoviedb.org/movie/561" target="_blank" rel="noopener noreferrer">561</a>, <a href="https://www.themoviedb.org/movie/831405" target="_blank" rel="noopener noreferrer">831405</a>, <a href="https://www.themoviedb.org/movie/20533" target="_blank" rel="noopener noreferrer">20533</a>, <a href="https://www.themoviedb.org/movie/752" target="_blank" rel="noopener noreferrer">752</a>, <a href="https://www.themoviedb.org/movie/539681" target="_blank" rel="noopener noreferrer">539681</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/20776" target="_blank" rel="noopener noreferrer">20776</a>, <a href="https://www.themoviedb.org/movie/436270" target="_blank" rel="noopener noreferrer">436270</a>, <a href="https://www.themoviedb.org/movie/13183" target="_blank" rel="noopener noreferrer">13183</a>, <a href="https://www.themoviedb.org/movie/41207" target="_blank" rel="noopener noreferrer">41207</a>, <a href="https://www.themoviedb.org/movie/475557" target="_blank" rel="noopener noreferrer">475557</a>, <a href="https://www.themoviedb.org/movie/44912" target="_blank" rel="noopener noreferrer">44912</a>, <a href="https://www.themoviedb.org/movie/314" target="_blank" rel="noopener noreferrer">314</a>, <a href="https://www.themoviedb.org/movie/561" target="_blank" rel="noopener noreferrer">561</a>, <a href="https://www.themoviedb.org/movie/831405" target="_blank" rel="noopener noreferrer">831405</a>, <a href="https://www.themoviedb.org/movie/20533" target="_blank" rel="noopener noreferrer">20533</a>, <a href="https://www.themoviedb.org/movie/752" target="_blank" rel="noopener noreferrer">752</a>, <a href="https://www.themoviedb.org/movie/539681" target="_blank" rel="noopener noreferrer">539681</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">

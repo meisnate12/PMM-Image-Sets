@@ -2,30 +2,25 @@ aquaman:
   rhj:
     collections:
       "Aquaman Collection": {tpdb_poster: null, url_poster: null}
-batman:
+thebatman:
+  diiivoy_neon:
+    info:
+      style_image:
+    collections:
+      "The Batman Collection": {tpdb_poster: null, url_poster: null}
+  rhj:
+    info:
+      style_image:
+    collections:
+      "The Batman Collection": {tpdb_poster: null, url_poster: null}
+batman_66:
   diiivoy_neon:
     collections:
-      "Batman Collection": {tpdb_poster: null, url_poster: null}
-      "The Dark Knight Collection": {tpdb_poster: null, url_poster: null}
-      "The Batman Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Batman (1989)": {tpdb_poster: null, url_poster: null}
-  rhj:
-    collections:
-      "Batman Collection": {tpdb_poster: null, url_poster: null}
-      "The Dark Knight Collection": {tpdb_poster: null, url_poster: null}
-      "The Batman Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Batman (1966)": {tpdb_poster: null, url_poster: null}
-      "Batman (1989)": {tpdb_poster: null, url_poster: null}
-      "Batman Returns (1992)": {tpdb_poster: null, url_poster: null}
-      "Batman Forever (1995)": {tpdb_poster: null, url_poster: null}
-      "Batman & Robin (1997)": {tpdb_poster: null, url_poster: null}
-      "Batman Begins (2005)": {tpdb_poster: null, url_poster: null}
-      "The Dark Knight (2008)": {tpdb_poster: null, url_poster: null}
-      "The Dark Knight Rises (2012)": {tpdb_poster: null, url_poster: null}
-      "Batman: Return of the Caped Crusaders (2016)": {tpdb_poster: null, url_poster: null}
-      "Batman vs. Two-Face (2017)": {tpdb_poster: null, url_poster: null}
+      "Batman '66 Collection": {tpdb_poster: null, url_poster: null}
+darkknight:
+  diiivoy_neon:
+    info:
+      style_image:
 harleyquinn:
   diiivoy_neon:
     collections:
@@ -33,6 +28,20 @@ harleyquinn:
   rhj:
     collections:
       "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
+justiceleague:
+  diiivoy_neon:
+    info:
+      style_image:
+  rhj:
+    info:
+      style_image:
+manofsteel:
+  diiivoy_neon:
+    collections:
+      "Man of Steel Collection": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "Man of Steel Collection": {tpdb_poster: null, url_poster: null}
 shazam:
   rhj:
     collections:
@@ -47,15 +56,6 @@ superman:
   diiivoy_neon:
     collections:
       "Superman Collection": {tpdb_poster: null, url_poster: null}
-  rhj:
-    collections:
-      "Superman Collection": {tpdb_poster: null, url_poster: null}
-    movies:
-      "Superman (1978)": {tpdb_poster: null, url_poster: null}
-      "Superman II (1980)": {tpdb_poster: null, url_poster: null}
-      "Superman III (1983)": {tpdb_poster: null, url_poster: null}
-      "Superman IV: The Quest for Peace (1987)": {tpdb_poster: null, url_poster: null}
-      "Superman Returns (2006)": {tpdb_poster: null, url_poster: null}
 ungrouped:
   diiivoy_neon:
     movies:
