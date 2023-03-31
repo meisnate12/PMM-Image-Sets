@@ -1,4 +1,9 @@
 brave:
+  agon024:
+    collections:
+      "Brave Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Legend of Mor'du (2012)": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     collections:
       "Brave Collection": {tpdb_poster: null, url_poster: null}
@@ -21,6 +26,9 @@ brave:
     movies:
       "The Legend of Mor'du (2012)": {tpdb_poster: null, url_poster: null}
 cars:
+  agon024:
+    movies:
+      "Albert Schweitzer (1957)": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     movies:
       "Albert Schweitzer (1957)": {tpdb_poster: null, url_poster: null}
@@ -43,6 +51,11 @@ cars:
     movies:
       "Albert Schweitzer (1957)": {tpdb_poster: null, url_poster: null}
 coco:
+  agon024:
+    collections:
+      "Coco Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Dante's Lunch (2017)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Coco Collection": {tpdb_poster: null, url_poster: null}
@@ -109,6 +122,11 @@ incredibles:
       "Jack-Jack Attack (2005)": {tpdb_poster: null, url_poster: null}
       "Auntie Edna (2018)": {tpdb_poster: null, url_poster: null}
 insideout:
+  agon024:
+    collections:
+      "Inside Out Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Riley's First Date? (2015)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Inside Out Collection": {tpdb_poster: null, url_poster: null}
@@ -125,6 +143,11 @@ insideout:
     movies:
       "Riley's First Date? (2015)": {tpdb_poster: null, url_poster: null}
 luca:
+  agon024:
+    collections:
+      "Luca Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Ciao Alberto (2021)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Luca Collection": {tpdb_poster: null, url_poster: null}
@@ -158,6 +181,11 @@ monstersinc:
       "Mike's New Car (2002)": {tpdb_poster: null, url_poster: null}
       "Party Central (2014)": {tpdb_poster: null, url_poster: null}
 ratatouille:
+  agon024:
+    collections:
+      "Ratatouille Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Your Friend the Rat (2007)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Ratatouille Collection": {tpdb_poster: null, url_poster: null}
@@ -174,6 +202,11 @@ ratatouille:
     movies:
       "Your Friend the Rat (2007)": {tpdb_poster: null, url_poster: null}
 soul:
+  agon024:
+    collections:
+      "Soul Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "22 vs. Earth (2021)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Soul Collection": {tpdb_poster: null, url_poster: null}
@@ -188,6 +221,14 @@ soul:
     movies:
       "22 vs. Earth (2021)": {tpdb_poster: null, url_poster: null}
 toystory:
+  agon024:
+    collections:
+      "Toy Story Shorts": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Small Fry (2011)": {tpdb_poster: null, url_poster: null}
+      "Hawaiian Vacation (2011)": {tpdb_poster: null, url_poster: null}
+      "Partysaurus Rex (2012)": {tpdb_poster: null, url_poster: null}
+      "Toy Story of Terror! (2013)": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     collections:
       "Toy Story Shorts": {tpdb_poster: null, url_poster: null}
@@ -235,6 +276,10 @@ toystory:
       "Toy Story That Time Forgot (2014)": {tpdb_poster: null, url_poster: null}
       "Lamp Life (2020)": {tpdb_poster: null, url_poster: null}
 ungrouped:
+  agon024:
+    movies:
+      "Beyond Infinity: Buzz and the Journey to Lightyear (2022)": {tpdb_poster: null,
+        url_poster: null}
   rhj:
     movies:
       "Beyond Infinity: Buzz and the Journey to Lightyear (2022)": {tpdb_poster: null,
@@ -248,6 +293,12 @@ ungrouped:
       "Beyond Infinity: Buzz and the Journey to Lightyear (2022)": {tpdb_poster: null,
         url_poster: null}
 up:
+  agon024:
+    collections:
+      "Up Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "George and A.J. (2009)": {tpdb_poster: null, url_poster: null}
+      "Dug's Special Mission (2009)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Up Collection": {tpdb_poster: null, url_poster: null}
@@ -267,6 +318,11 @@ up:
       "George and A.J. (2009)": {tpdb_poster: null, url_poster: null}
       "Dug's Special Mission (2009)": {tpdb_poster: null, url_poster: null}
 walle:
+  agon024:
+    collections:
+      "WALL·E Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "BURN·E (2008)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "WALL·E Collection": {tpdb_poster: null, url_poster: null}

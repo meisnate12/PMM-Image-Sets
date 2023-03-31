@@ -4,6 +4,7 @@ sections:
     builders:
       tmdb_movie: 62177, 141423
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -21,6 +22,7 @@ sections:
       tmdb_collection: 87118
       tmdb_movie: 114502
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -39,6 +41,7 @@ sections:
     builders:
       tmdb_movie: 354912, 449621
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -56,6 +59,7 @@ sections:
       tmdb_collection: 137697
       tmdb_movie: 777350, 427004
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -96,6 +100,7 @@ sections:
       tmdb_collection: 468222
       tmdb_movie: 13932, 546728
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -116,6 +121,7 @@ sections:
     builders:
       tmdb_movie: 150540, 355338
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -132,6 +138,7 @@ sections:
     builders:
       tmdb_movie: 508943, 876716
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -149,6 +156,7 @@ sections:
       tmdb_collection: 137696
       tmdb_movie: 13931, 258152
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -167,6 +175,7 @@ sections:
     builders:
       tmdb_movie: 2062, 13061
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -213,6 +222,7 @@ sections:
     builders:
       tmdb_movie: 508442, 811367
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -230,6 +240,7 @@ sections:
       tmdb_collection: 10194
       tmdb_movie: 256835, 213121, 130925, 82424, 77887, 594530
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -255,6 +266,7 @@ sections:
     builders:
       tmdb_movie: 9487, 105864, 508439, 718789, 508947, 979163, 976573
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -274,6 +286,7 @@ sections:
     builders:
       tmdb_movie: 14160, 72962, 24589
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
@@ -291,6 +304,7 @@ sections:
     builders:
       tmdb_movie: 10681, 13413
     styles:
+      agon024:
       diiivoy_neon:
       diiivoy:
       rhj:
