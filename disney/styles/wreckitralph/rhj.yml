@@ -1,0 +1,9 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 98960
+  style_key: rhj
+  style_link: 62522
+  complete: true
+movies:
+  "Wreck-It Ralph (2012)": {tpdb_poster: 98955}
+  "Ralph Breaks the Internet (2018)": {tpdb_poster: 98960}

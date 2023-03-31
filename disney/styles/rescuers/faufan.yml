@@ -1,0 +1,9 @@
+info:
+  style_author: faufan
+  style_image: 193772
+  style_key: faufan
+  style_link: 112548
+  complete: true
+movies:
+  "The Rescuers (1977)": {tpdb_poster: 193772}
+  "The Rescuers Down Under (1990)": {tpdb_poster: 193776}

@@ -1,0 +1,9 @@
+info:
+  style_author: agon024
+  style_image: 279428
+  style_key: agon024
+  style_link: 166303
+  complete: true
+movies:
+  "The Rescuers (1977)": {tpdb_poster: 279428}
+  "The Rescuers Down Under (1990)": {tpdb_poster: 279434}

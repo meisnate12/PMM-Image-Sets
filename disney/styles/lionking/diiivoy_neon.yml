@@ -1,0 +1,12 @@
+info:
+  style_author: DIIIVOY
+  style_image: 156205
+  style_key: diiivoy_neon
+  style_link: 93857
+  complete: true
+collections:
+  "The Lion King Collection": {tpdb_poster: 156563}
+movies:
+  "The Lion King (1994)": {tpdb_poster: 156205}
+  "The Lion King II: Simba's Pride (1998)": {tpdb_poster: 156564}
+  "The Lion King 1½ (2004)": {tpdb_poster: 156565}
