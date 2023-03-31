@@ -3,6 +3,8 @@ info:
   style_image: 128647
   style_key: diiivoy_neon
   style_link: 80057
+collections:
+  "Superman Collection": {tpdb_poster: 131540}
 movies:
   "Superman (1978)": {tpdb_poster: 147060}
   "Superman II (1980) (Donner)": {tpdb_poster: 147065}

@@ -3,7 +3,19 @@ info:
   style_image: 261466
   style_key: diiivoy_neon
   style_link: 80057
+  complete: true
 collections:
   "Worlds of DC (DCEU)": {tpdb_poster: 177518}
 movies:
+  "Return to the Batcave - The Misadventures of Adam and Burt (2003)": {tpdb_poster: 177508}
+  "Catwoman (2004)": {tpdb_poster: 145619}
+  "Constantine (2005)": {tpdb_poster: 177833}
+  "V for Vendetta (2006)": {tpdb_poster: 257775}
+  "Watchmen (2009)": {tpdb_poster: 196980}
+  "Under the Hood (2009)": {tpdb_poster: 196982}
+  "Jonah Hex (2010)": {tpdb_poster: 195976}
+  "Green Lantern (2011)": {tpdb_poster: 141592}
+  "Joker (2019)": {tpdb_poster: 128658}
+  "Injustice (2021)": {tpdb_poster: 185712}
   "Black Adam (2022)": {tpdb_poster: 261466}
+  "DC League of Super-Pets (2022)": {tpdb_poster: 260667}
