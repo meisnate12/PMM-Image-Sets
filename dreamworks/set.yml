@@ -1,0 +1,206 @@
+sections:
+  biblestories:
+    title: Bible Stories
+    builders:
+      tmdb_collection: 1064555
+    styles:
+      diiivoy_neon:
+    collections:
+      "Dreamworks Bible Stories Collection":
+      - "Dreamworks Bible Stories"
+    movies:
+      "The Prince of Egypt (1998)": 9837
+      "Joseph: King of Dreams (2000)": 16366
+  bossbaby:
+    title: The Boss Baby
+    builders:
+      tmdb_collection: 519457
+      tmdb_movie: 1045944, 735364
+    styles:
+      diiivoy_neon:
+    collections:
+      "The Boss Baby Collection":
+      - "Boss Baby"
+      - "Boss Baby Collection"
+      - "The Boss Baby"
+    movies:
+      "The Boss Baby (2017)": 295693
+      "The Boss Baby: Get That Baby! (2020)": 735364
+      "The Boss Baby: Family Business (2021)": 459151
+      "The Boss Baby: Christmas Bonus (2022)": 1045944
+  chickenrun:
+    title: Chicken Run
+    builders:
+      tmdb_collection: 718551
+    styles:
+      diiivoy_neon:
+    collections:
+      "Chicken Run Collection":
+      - "Chicken Run"
+    movies:
+      "Chicken Run (2000)": 7443
+  croods:
+    title: The Croods
+    builders:
+      tmdb_collection: 464577
+    styles:
+      diiivoy_neon:
+    collections:
+      "The Croods Collection":
+      - "Croods"
+      - "Croods Collection"
+      - "The Croods"
+    movies:
+      "The Croods (2013)": 49519
+      "The Croods: A New Age (2020)": 529203
+  trainyourdragon:
+    title: How to Train Your Dragon
+    builders:
+      tmdb_collection: 89137
+      tmdb_movie: 91417, 79379, 47626, 298115
+    styles:
+      diiivoy_neon:
+    collections:
+      "How to Train Your Dragon Collection":
+      - "How to Train Your Dragon"
+    movies:
+      "How to Train Your Dragon (2010)": 10191
+      "Legend of the BoneKnapper Dragon (2010)": 47626
+      "Dragons: Gift of the Night Fury (2011)": 91417
+      "Book of Dragons (2011)": 79379
+      "How to Train Your Dragon 2 (2014)": 82702
+      "Dragons: Dawn Of The Dragon Racers (2014)": 298115
+      "How to Train Your Dragon: The Hidden World (2019)": 166428
+  kungfupanda:
+    title: Kung Fu Panda
+    builders:
+      tmdb_collection: 77816
+      tmdb_movie: 81003, 381693, 15854
+    styles:
+      diiivoy_neon:
+    collections:
+      "Kung Fu Panda Collection":
+      - "Kung Fu Panda"
+    movies:
+      "Kung Fu Panda (2008)": 9502
+      "Kung Fu Panda: Secrets of the Furious Five (2008)": 15854
+      "Kung Fu Panda 2 (2011)": 49444
+      "Kung Fu Panda: Secrets of the Masters (2011)": 81003
+      "Kung Fu Panda 3 (2016)": 140300
+      "Kung Fu Panda: Secrets of the Scroll (2016)": 381693
+  madagascar:
+    title: Madagascar
+    builders:
+      tmdb_collection: 14740
+      tmdb_movie: 270946, 25472, 161143, 10258
+    styles:
+      diiivoy_neon:
+    collections:
+      "Madagascar Collection":
+      - "Madagascar"
+      "Penguins of Madagascar": []
+    movies:
+      "Madagascar (2005)": 953
+      "The Madagascar Penguins in a Christmas Caper (2005)": 10258
+      "Madagascar: Escape 2 Africa (2008)": 10527
+      "Merry Madagascar (2009)": 25472
+      "Madagascar 3: Europe's Most Wanted (2012)": 80321
+      "Madly Madagascar (2013)": 161143
+      "Penguins of Madagascar (2014)": 270946
+  pussinboots:
+    title: Puss in Boots
+    builders:
+      tmdb_collection: 94602
+      tmdb_movie: 83201
+    styles:
+      diiivoy_neon:
+    collections:
+      "Puss in Boots Collection":
+      - "Puss in Boots"
+    movies:
+      "Puss in Boots (2011)": 417859
+      "Puss in Boots: The Three Diablos (2012)": 83201
+      "Puss in Boots: The Last Wish (2022)": 315162
+  shrek:
+    title: Shrek
+    builders:
+      tmdb_collection: 2150
+      tmdb_movie: 48466, 51256, 13394, 25523, 118249, 128914, 58508
+    styles:
+      diiivoy_neon:
+    collections:
+      "Shrek Collection":
+      - "Shrek"
+    movies:
+      "Shrek (2001)": 808
+      "Shrek 2 (2004)": 809
+      "The Ghost of Lord Farquaad (2004)": 25523
+      "Far Far Away Idol (2004)": 58508
+      "Shrek the Third (2007)": 810
+      "Shrek the Halls (2007)": 13394
+      "Shrek Forever After (2010)": 10192
+      "Scared Shrekless (2010)": 48466
+      "Donkey's Christmas Shrektacular (2010)": 51256
+      "Thriller Night (2011)": 118249
+      "Shrek's Thrilling Tales (2012)": 128914
+  spirit:
+    title: Spirit
+    builders:
+      tmdb_collection: 806483
+      tmdb_movie: 653904, 773935
+    styles:
+      diiivoy_neon:
+    collections:
+      "Spirit Collection":
+      - "Spirit"
+    movies:
+      "Spirit: Stallion of the Cimarron (2002)": 9023
+      "Spirit Riding Free: Spirit of Christmas (2019)": 653904
+      "Spirit Riding Free: Ride Along Adventure (2020)": 773935
+      "Spirit Untamed (2021)": 637693
+  trolls:
+    title: Trolls
+    builders:
+      tmdb_collection: 489724
+      tmdb_movie: 484510
+    styles:
+      diiivoy_neon:
+    collections:
+      "The Trolls Collection":
+      - "The Trolls"
+      - "Trolls"
+      - "Trolls Collection"
+    movies:
+      "Trolls (2016)": 136799
+      "Trolls Holiday (2017)": 484510
+      "Trolls World Tour (2020)": 446893
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie: 8916, 10501, 14411, 10555, 7518, 11619, 5559, 15512, 38055, 81188,
+        77950, 82703, 228161, 268531, 431580, 730840, 53985, 490156, 629542, 981424
+    styles:
+      diiivoy_neon:
+    collections:
+      "DreamWorks Animation": []
+    movies:
+      "Antz (1998)": 8916
+      "The Road to El Dorado (2000)": 10501
+      "Sinbad: Legend of the Seven Seas (2003)": 14411
+      "Shark Tale (2004)": 10555
+      "Over the Hedge (2006)": 7518
+      "Flushed Away (2006)": 11619
+      "Bee Movie (2007)": 5559
+      "Monsters vs Aliens (2009)": 15512
+      "Mutant Pumpkins from Outer Space (2009)": 53985
+      "Megamind (2010)": 38055
+      "Rise of the Guardians (2012)": 81188
+      "Turbo (2013)": 77950
+      "Mr. Peabody & Sherman (2014)": 82703
+      "Home (2015)": 228161
+      "Captain Underpants: The First Epic Movie (2017)": 268531
+      "DreamWorks Home: For the Holidays (2017)": 490156
+      "Abominable (2019)": 431580
+      "Trollhunters: Rise of the Titans (2021)": 730840
+      "The Bad Guys (2022)": 629542
+      "Maraschino Ruby (2022)": 981424

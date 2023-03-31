@@ -1,0 +1,44 @@
+biblestories:
+  diiivoy_neon:
+    collections:
+      "Dreamworks Bible Stories Collection": {tpdb_poster: null, url_poster: null}
+chickenrun:
+  diiivoy_neon:
+    collections:
+      "Chicken Run Collection": {tpdb_poster: null, url_poster: null}
+trainyourdragon:
+  diiivoy_neon:
+    movies:
+      "Legend of the BoneKnapper Dragon (2010)": {tpdb_poster: null, url_poster: null}
+      "Dragons: Gift of the Night Fury (2011)": {tpdb_poster: null, url_poster: null}
+      "Book of Dragons (2011)": {tpdb_poster: null, url_poster: null}
+      "Dragons: Dawn Of The Dragon Racers (2014)": {tpdb_poster: null, url_poster: null}
+madagascar:
+  diiivoy_neon:
+    collections:
+      "Penguins of Madagascar": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Madagascar Penguins in a Christmas Caper (2005)": {tpdb_poster: null, url_poster: null}
+      "Merry Madagascar (2009)": {tpdb_poster: null, url_poster: null}
+      "Madly Madagascar (2013)": {tpdb_poster: null, url_poster: null}
+shrek:
+  diiivoy_neon:
+    movies:
+      "The Ghost of Lord Farquaad (2004)": {tpdb_poster: null, url_poster: null}
+      "Far Far Away Idol (2004)": {tpdb_poster: null, url_poster: null}
+      "Shrek the Halls (2007)": {tpdb_poster: null, url_poster: null}
+      "Scared Shrekless (2010)": {tpdb_poster: null, url_poster: null}
+      "Donkey's Christmas Shrektacular (2010)": {tpdb_poster: null, url_poster: null}
+      "Thriller Night (2011)": {tpdb_poster: null, url_poster: null}
+      "Shrek's Thrilling Tales (2012)": {tpdb_poster: null, url_poster: null}
+spirit:
+  diiivoy_neon:
+    movies:
+      "Spirit Riding Free: Spirit of Christmas (2019)": {tpdb_poster: null, url_poster: null}
+      "Spirit Riding Free: Ride Along Adventure (2020)": {tpdb_poster: null, url_poster: null}
+ungrouped:
+  diiivoy_neon:
+    movies:
+      "Mutant Pumpkins from Outer Space (2009)": {tpdb_poster: null, url_poster: null}
+      "DreamWorks Home: For the Holidays (2017)": {tpdb_poster: null, url_poster: null}
+      "Trollhunters: Rise of the Titans (2021)": {tpdb_poster: null, url_poster: null}
