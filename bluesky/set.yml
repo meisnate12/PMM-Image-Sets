@@ -5,7 +5,10 @@ sections:
       tmdb_collection: 8354
       tmdb_movie: 387893, 79218
     styles:
+      agon024:
+      dsman124:
       diiivoy_neon:
+      ishalioh:
     collections:
       "Ice Age Collection":
       - "Ice Age"
@@ -23,7 +26,10 @@ sections:
     builders:
       tmdb_collection: 229932
     styles:
+      agon024:
+      dsman124:
       diiivoy_neon:
+      ishalioh:
     collections:
       "Rio Collection":
       - "Rio"
@@ -35,7 +41,10 @@ sections:
     builders:
       tmdb_movie: 9928, 12222, 116711, 227973. 431693, 961323, 364689
     styles:
+      agon024:
+      dsman124:
       diiivoy_neon:
+      ishalioh:
     collections:
       "Blue Sky Studios Collection":
       - "Blue Sky Studios"

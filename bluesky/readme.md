@@ -21,9 +21,30 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/173561" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/iceage/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/173561" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/90149" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/iceage/dsman124.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dsman124</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/90149" target="_blank" rel="noopener noreferrer">Dsman124</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/177313" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/iceage/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/177313" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/23445" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/iceage/ishalioh.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>ishalioh</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/23445" target="_blank" rel="noopener noreferrer">ishalioh</a><br>
         </div>
       </td>
     </tr>
@@ -42,9 +63,30 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/173561" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/rio/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/173561" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/90149" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/rio/dsman124.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dsman124</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/90149" target="_blank" rel="noopener noreferrer">Dsman124</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/177313" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/rio/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/177313" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/23445" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/rio/ishalioh.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>ishalioh</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/23445" target="_blank" rel="noopener noreferrer">ishalioh</a><br>
         </div>
       </td>
     </tr>
@@ -63,9 +105,30 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/173561" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/ungrouped/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/173561" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/90149" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/ungrouped/dsman124.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dsman124</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/90149" target="_blank" rel="noopener noreferrer">Dsman124</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/177313" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/ungrouped/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/177313" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/23445" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/bluesky/styles/ungrouped/ishalioh.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>ishalioh</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/23445" target="_blank" rel="noopener noreferrer">ishalioh</a><br>
         </div>
       </td>
     </tr>

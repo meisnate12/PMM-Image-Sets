@@ -1,0 +1,9 @@
+info:
+  style_author: ishalioh
+  style_image: 38158
+  style_key: ishalioh
+  style_link: 23445
+  complete: true
+movies:
+  "Rio (2011)": {tpdb_poster: 38158}
+  "Rio 2 (2014)": {tpdb_poster: 38161}

@@ -1,0 +1,9 @@
+info:
+  style_author: Dsman124
+  style_image: 146078
+  style_key: dsman124
+  style_link: 90149
+  complete: true
+movies:
+  "Rio (2011)": {tpdb_poster: 146078}
+  "Rio 2 (2014)": {tpdb_poster: 146081}
