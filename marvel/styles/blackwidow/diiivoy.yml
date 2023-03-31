@@ -1,9 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/71860
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/41596
-  set_author: DIIIVOY
-
-set:
+  style_author: DIIIVOY
+  style_image: 71860
+  style_key: diiivoy
+  style_link: 41596
+  complete: true
+movies:
   "Black Widow (2021)": {tpdb_poster: 71860}
-

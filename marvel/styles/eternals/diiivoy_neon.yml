@@ -1,8 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/170975
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/71510
-  set_author: DIIIVOY
-
-set:
+  style_author: DIIIVOY
+  style_image: 170975
+  style_key: diiivoy_neon
+  style_link: 71510
+  complete: true
+movies:
   "Eternals (2021)": {tpdb_poster: 170975}

@@ -1,8 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/796
-  set_key: rhj
-  set_link: https://theposterdb.com/set/4475
-  set_author: RedHeadJedi
-
-set:
-  "Captain Marvel (2019)": {tpdb_poster: 796}
+  style_author: RedHeadJedi
+  style_image: 9796
+  style_key: rhj
+  style_link: 4475
+  complete: true
+movies:
+  "Captain Marvel (2019)": {tpdb_poster: 9796}

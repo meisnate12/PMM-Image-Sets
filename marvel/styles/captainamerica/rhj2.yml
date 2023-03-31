@@ -1,13 +1,10 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/139858
-  set_key: rhj2
-  set_link: https://theposterdb.com/set/87080
-  set_author: RedHeadJedi
-
-collections:
-  "Marvel Cinematic Universe": {tpdb_poster: 139853}
-set:
-  "Captain America: Civil War (2016)": {tpdb_poster: 139866}
+  style_author: RedHeadJedi
+  style_image: 139858
+  style_key: rhj2
+  style_link: 87080
+  complete: true
+movies:
   "Captain America: The First Avenger (2011)": {tpdb_poster: 139858}
   "Captain America: The Winter Soldier (2014)": {tpdb_poster: 139862}
-  "Captain America: New World Order (2024)": {tpdb_poster: null}
+  "Captain America: Civil War (2016)": {tpdb_poster: 139866}

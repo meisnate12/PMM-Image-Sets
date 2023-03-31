@@ -1,19 +1,12 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/143888
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/78444
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 143888
+  style_key: diiivoy_neon
+  style_link: 78444
 collections:
   "X-Men Collection": {tpdb_poster: 143883}
-
-set:
+movies:
   "X-Men (2000)": {tpdb_poster: 143884}
-  "X2 (2003)": {tpdb_poster: 143885}
-  "X-Men: The Last Stand (2006)": {tpdb_poster: 143886}
   "X-Men: First Class (2011)": {tpdb_poster: 143887}
   "X-Men: Days of Future Past (2014)": {tpdb_poster: 143888}
-  "X-Men: Days of Future Past (The Rogue Cut)": {tpdb_poster: 143892}
-  "X-Men: Apocalypse (2016)": {tpdb_poster: 143889}
   "Dark Phoenix (2019)": {tpdb_poster: 143890}
-  "The New Mutants (2020)": {tpdb_poster: 143891}

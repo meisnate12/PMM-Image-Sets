@@ -1,8 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/67746
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/41596
-  set_author: DIIIVOY
-
-set:
+  style_author: DIIIVOY
+  style_image: 67746
+  style_key: diiivoy
+  style_link: 41596
+  complete: true
+movies:
+  "Hulk (2003)": {tpdb_poster: 100868}
   "The Incredible Hulk (2008)": {tpdb_poster: 67746}

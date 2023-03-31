@@ -1,12 +1,9 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/153724
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/78444
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 153724
+  style_key: diiivoy_neon
+  style_link: 78444
 collections:
   "Venom Collection": {tpdb_poster: 153723}
-
-set:
-  "Venom (2018)": {tpdb_poster: 132638}
-  "Venom: Let There Be Carnage (2021)": {tpdb_poster: 153724}
+movies:
+  "Venom (2018)": {tpdb_poster: 132637}

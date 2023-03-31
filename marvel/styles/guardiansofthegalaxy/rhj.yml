@@ -1,9 +1,8 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/9784
-  set_key: rhj
-  set_link: https://theposterdb.com/set/4475
-  set_author: RedHeadJedi
-
-set:
+  style_author: RedHeadJedi
+  style_image: 9784
+  style_key: rhj
+  style_link: 4475
+movies:
   "Guardians of the Galaxy (2014)": {tpdb_poster: 9784}
   "Guardians of the Galaxy Vol. 2 (2017)": {tpdb_poster: 9789}
