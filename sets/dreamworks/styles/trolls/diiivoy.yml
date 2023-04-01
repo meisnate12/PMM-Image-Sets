@@ -1,0 +1,12 @@
+info:
+  style_author: DIIIVOY
+  style_image: 28446
+  style_key: diiivoy
+  style_link: 65006
+  complete: true
+collections:
+  "The Trolls Collection": {tpdb_poster: 28444}
+movies:
+  "Trolls (2016)": {tpdb_poster: 28445}
+  "Trolls Holiday (2017)": {tpdb_poster: 28446}
+  "Trolls World Tour (2020)": {tpdb_poster: 28447}

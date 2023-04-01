@@ -1,0 +1,9 @@
+info:
+  style_author: DIIIVOY
+  style_image: 28436
+  style_key: diiivoy
+  style_link: 65006
+  complete: true
+movies:
+  "The Prince of Egypt (1998)": {tpdb_poster: 28436}
+  "Joseph: King of Dreams (2000)": {tpdb_poster: 43671}

@@ -1,0 +1,9 @@
+info:
+  style_author: Dsman124
+  style_image: 144387
+  style_key: dsman124
+  style_link: 89296
+  complete: true
+movies:
+  "The Prince of Egypt (1998)": {tpdb_poster: 144387}
+  "Joseph: King of Dreams (2000)": {tpdb_poster: 144804}

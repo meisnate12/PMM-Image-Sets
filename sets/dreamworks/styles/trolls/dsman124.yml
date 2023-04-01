@@ -1,0 +1,10 @@
+info:
+  style_author: Dsman124
+  style_image: 144806
+  style_key: dsman124
+  style_link: 89296
+  complete: true
+movies:
+  "Trolls (2016)": {tpdb_poster: 144418}
+  "Trolls Holiday (2017)": {tpdb_poster: 144806}
+  "Trolls World Tour (2020)": {tpdb_poster: 144423}

@@ -1,0 +1,11 @@
+info:
+  style_author: Dsman124
+  style_image: 144393
+  style_key: dsman124
+  style_link: 89296
+movies:
+  "Shrek (2001)": {tpdb_poster: 144390}
+  "Shrek 2 (2004)": {tpdb_poster: 144393}
+  "The Ghost of Lord Farquaad (2004)": {tpdb_poster: 144598}
+  "Shrek the Third (2007)": {tpdb_poster: 144399}
+  "Shrek Forever After (2010)": {tpdb_poster: 144405}

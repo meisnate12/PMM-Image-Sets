@@ -1,19 +1,102 @@
 biblestories:
+  agon024:
+    collections:
+      "Dreamworks Bible Stories Collection": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    collections:
+      "Dreamworks Bible Stories Collection": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    collections:
+      "Dreamworks Bible Stories Collection": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     collections:
       "Dreamworks Bible Stories Collection": {tpdb_poster: null, url_poster: null}
+bossbaby:
+  agon024:
+    movies:
+      "The Boss Baby: Get That Baby! (2020)": {tpdb_poster: null, url_poster: null}
+      "The Boss Baby: Christmas Bonus (2022)": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    movies:
+      "The Boss Baby: Get That Baby! (2020)": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    collections:
+      "The Boss Baby Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Boss Baby: Get That Baby! (2020)": {tpdb_poster: null, url_poster: null}
+      "The Boss Baby: Christmas Bonus (2022)": {tpdb_poster: null, url_poster: null}
 chickenrun:
+  agon024:
+    collections:
+      "Chicken Run Collection": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    collections:
+      "Chicken Run Collection": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    collections:
+      "Chicken Run Collection": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     collections:
       "Chicken Run Collection": {tpdb_poster: null, url_poster: null}
+croods:
+  dsman124:
+    collections:
+      "The Croods Collection": {tpdb_poster: null, url_poster: null}
 trainyourdragon:
+  agon024:
+    movies:
+      "Legend of the BoneKnapper Dragon (2010)": {tpdb_poster: null, url_poster: null}
+      "Dragons: Gift of the Night Fury (2011)": {tpdb_poster: null, url_poster: null}
+      "Book of Dragons (2011)": {tpdb_poster: null, url_poster: null}
+      "Dragons: Dawn Of The Dragon Racers (2014)": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    movies:
+      "Legend of the BoneKnapper Dragon (2010)": {tpdb_poster: null, url_poster: null}
+      "Dragons: Gift of the Night Fury (2011)": {tpdb_poster: null, url_poster: null}
+      "Book of Dragons (2011)": {tpdb_poster: null, url_poster: null}
+      "Dragons: Dawn Of The Dragon Racers (2014)": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    collections:
+      "How to Train Your Dragon Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Dragons: Gift of the Night Fury (2011)": {tpdb_poster: null, url_poster: null}
+      "Book of Dragons (2011)": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     movies:
       "Legend of the BoneKnapper Dragon (2010)": {tpdb_poster: null, url_poster: null}
       "Dragons: Gift of the Night Fury (2011)": {tpdb_poster: null, url_poster: null}
       "Book of Dragons (2011)": {tpdb_poster: null, url_poster: null}
       "Dragons: Dawn Of The Dragon Racers (2014)": {tpdb_poster: null, url_poster: null}
+kungfupanda:
+  diiivoy:
+    movies:
+      "Kung Fu Panda: Secrets of the Furious Five (2008)": {tpdb_poster: null, url_poster: null}
+      "Kung Fu Panda: Secrets of the Masters (2011)": {tpdb_poster: null, url_poster: null}
+      "Kung Fu Panda: Secrets of the Scroll (2016)": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    collections:
+      "Kung Fu Panda Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Kung Fu Panda: Secrets of the Furious Five (2008)": {tpdb_poster: null, url_poster: null}
+      "Kung Fu Panda: Secrets of the Masters (2011)": {tpdb_poster: null, url_poster: null}
+      "Kung Fu Panda: Secrets of the Scroll (2016)": {tpdb_poster: null, url_poster: null}
 madagascar:
+  agon024:
+    collections:
+      "Penguins of Madagascar": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    collections:
+      "Penguins of Madagascar": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Madagascar Penguins in a Christmas Caper (2005)": {tpdb_poster: null, url_poster: null}
+      "Madly Madagascar (2013)": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    collections:
+      "Madagascar Collection": {tpdb_poster: null, url_poster: null}
+      "Penguins of Madagascar": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Madagascar Penguins in a Christmas Caper (2005)": {tpdb_poster: null, url_poster: null}
+      "Merry Madagascar (2009)": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     collections:
       "Penguins of Madagascar": {tpdb_poster: null, url_poster: null}
@@ -21,7 +104,40 @@ madagascar:
       "The Madagascar Penguins in a Christmas Caper (2005)": {tpdb_poster: null, url_poster: null}
       "Merry Madagascar (2009)": {tpdb_poster: null, url_poster: null}
       "Madly Madagascar (2013)": {tpdb_poster: null, url_poster: null}
+pussinboots:
+  dsman124:
+    collections:
+      "Puss in Boots Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Puss in Boots: The Three Diablos (2012)": {tpdb_poster: null, url_poster: null}
 shrek:
+  agon024:
+    movies:
+      "The Ghost of Lord Farquaad (2004)": {tpdb_poster: null, url_poster: null}
+      "Far Far Away Idol (2004)": {tpdb_poster: null, url_poster: null}
+      "Shrek the Halls (2007)": {tpdb_poster: null, url_poster: null}
+      "Scared Shrekless (2010)": {tpdb_poster: null, url_poster: null}
+      "Thriller Night (2011)": {tpdb_poster: null, url_poster: null}
+      "Shrek's Thrilling Tales (2012)": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    movies:
+      "The Ghost of Lord Farquaad (2004)": {tpdb_poster: null, url_poster: null}
+      "Far Far Away Idol (2004)": {tpdb_poster: null, url_poster: null}
+      "Shrek the Halls (2007)": {tpdb_poster: null, url_poster: null}
+      "Scared Shrekless (2010)": {tpdb_poster: null, url_poster: null}
+      "Donkey's Christmas Shrektacular (2010)": {tpdb_poster: null, url_poster: null}
+      "Thriller Night (2011)": {tpdb_poster: null, url_poster: null}
+      "Shrek's Thrilling Tales (2012)": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    collections:
+      "Shrek Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Far Far Away Idol (2004)": {tpdb_poster: null, url_poster: null}
+      "Shrek the Halls (2007)": {tpdb_poster: null, url_poster: null}
+      "Scared Shrekless (2010)": {tpdb_poster: null, url_poster: null}
+      "Donkey's Christmas Shrektacular (2010)": {tpdb_poster: null, url_poster: null}
+      "Thriller Night (2011)": {tpdb_poster: null, url_poster: null}
+      "Shrek's Thrilling Tales (2012)": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     movies:
       "The Ghost of Lord Farquaad (2004)": {tpdb_poster: null, url_poster: null}
@@ -32,11 +148,44 @@ shrek:
       "Thriller Night (2011)": {tpdb_poster: null, url_poster: null}
       "Shrek's Thrilling Tales (2012)": {tpdb_poster: null, url_poster: null}
 spirit:
+  agon024:
+    movies:
+      "Spirit Riding Free: Spirit of Christmas (2019)": {tpdb_poster: null, url_poster: null}
+      "Spirit Riding Free: Ride Along Adventure (2020)": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    movies:
+      "Spirit Riding Free: Spirit of Christmas (2019)": {tpdb_poster: null, url_poster: null}
+      "Spirit Riding Free: Ride Along Adventure (2020)": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    collections:
+      "Spirit Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Spirit Riding Free: Spirit of Christmas (2019)": {tpdb_poster: null, url_poster: null}
+      "Spirit Riding Free: Ride Along Adventure (2020)": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     movies:
       "Spirit Riding Free: Spirit of Christmas (2019)": {tpdb_poster: null, url_poster: null}
       "Spirit Riding Free: Ride Along Adventure (2020)": {tpdb_poster: null, url_poster: null}
+trolls:
+  dsman124:
+    collections:
+      "The Trolls Collection": {tpdb_poster: null, url_poster: null}
 ungrouped:
+  agon024:
+    movies:
+      "Mutant Pumpkins from Outer Space (2009)": {tpdb_poster: null, url_poster: null}
+      "DreamWorks Home: For the Holidays (2017)": {tpdb_poster: null, url_poster: null}
+      "Maraschino Ruby (2022)": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    movies:
+      "Mutant Pumpkins from Outer Space (2009)": {tpdb_poster: null, url_poster: null}
+      "DreamWorks Home: For the Holidays (2017)": {tpdb_poster: null, url_poster: null}
+      "Trollhunters: Rise of the Titans (2021)": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    movies:
+      "Mutant Pumpkins from Outer Space (2009)": {tpdb_poster: null, url_poster: null}
+      "DreamWorks Home: For the Holidays (2017)": {tpdb_poster: null, url_poster: null}
+      "Maraschino Ruby (2022)": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     movies:
       "Mutant Pumpkins from Outer Space (2009)": {tpdb_poster: null, url_poster: null}
