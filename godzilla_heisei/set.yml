@@ -1,0 +1,22 @@
+sections:
+  godzilla_heisei:
+    title: Godzilla Heisei Set
+    builders:
+      tmdb_collection: 374511
+      tmdb_movie: 39256
+    styles:
+      doctorbat:
+      doctorbat2:
+    default_image: "Godzilla vs. King Ghidorah (1991)"
+    collections:
+      "Godzilla (Heisei) Collection":
+      - "Godzilla (Heisei)"
+    movies:
+      "The Return of Godzilla (1984)": 421467
+      "Godzilla 1985 (1985)": 39256
+      "Godzilla vs. Biollante (1989)": 18289
+      "Godzilla vs. King Ghidorah (1991)": 36679
+      "Godzilla vs. Mothra (1992)": 39465
+      "Godzilla vs. Mechagodzilla II (1993)": 6593
+      "Godzilla vs. SpaceGodzilla (1994)": 39466
+      "Godzilla vs. Destoroyah (1995)": 12561

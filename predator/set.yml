@@ -1,0 +1,20 @@
+sections:
+  predator:
+    title: Predator Set
+    builders:
+      tmdb_collection: 399
+    styles:
+      rhj:
+      morkoz:
+      dm247:
+      doctorbat:
+    default_image: "The Predator (2018)"
+    collections:
+      "Predator Collection":
+      - "Predator"
+    movies:
+      "Predator (1987)": 106
+      "Predator 2 (1990)": 169
+      "Predators (2010)": 34851
+      "The Predator (2018)": 346910
+      "Prey (2022)": 766507

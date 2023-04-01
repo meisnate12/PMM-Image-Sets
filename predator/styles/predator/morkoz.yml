@@ -1,0 +1,14 @@
+info:
+  style_author: MorkOz
+  style_image: 146110
+  style_key: morkoz
+  style_link: 90157
+  complete: true
+collections:
+  "Predator Collection": {tpdb_poster: 146106}
+movies:
+  "Predator (1987)": {tpdb_poster: 146107}
+  "Predator 2 (1990)": {tpdb_poster: 146108}
+  "Predators (2010)": {tpdb_poster: 146109}
+  "The Predator (2018)": {tpdb_poster: 146110}
+  "Prey (2022)": {tpdb_poster: 255822}

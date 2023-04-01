@@ -1,0 +1,20 @@
+sections:
+  godzilla_monsterverse:
+    title: Godzilla Monsterverse Set
+    builders:
+      tmdb_collection: 535313
+      tmdb_movie: 293167
+    styles:
+      rhj:
+      rhj2:
+    default_image: "Kong: Skull Island (2017)"
+    collections:
+      "Monsterverse Collection":
+      - "Monsterverse"
+      "Godzilla Collection":
+      - "Godzilla"
+    movies:
+      "Godzilla (2014)": 124905
+      "Kong: Skull Island (2017)": 293167
+      "Godzilla: King of the Monsters (2019)": 373571
+      "Godzilla vs. Kong (2021)": 399566

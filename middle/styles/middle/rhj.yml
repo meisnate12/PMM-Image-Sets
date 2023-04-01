@@ -1,0 +1,15 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 1722
+  style_key: rhj
+  style_link: 554
+  complete: true
+collections:
+  "Middle-Earth Collection": {tpdb_poster: 1716}
+movies:
+  "The Lord of the Rings: The Fellowship of the Ring (2001)": {tpdb_poster: 1719}
+  "The Lord of the Rings: The Two Towers (2002)": {tpdb_poster: 1721}
+  "The Lord of the Rings: The Return of the King (2003)": {tpdb_poster: 1722}
+  "The Hobbit: An Unexpected Journey (2012)": {tpdb_poster: 1723}
+  "The Hobbit: The Desolation of Smaug (2013)": {tpdb_poster: 1724}
+  "The Hobbit: The Battle of the Five Armies (2014)": {tpdb_poster: 1725}

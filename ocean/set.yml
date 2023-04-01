@@ -1,0 +1,19 @@
+sections:
+  ocean:
+    title: Ocean's Set
+    builders:
+      tmdb_collection: 304
+      tmdb_movie: 402900, 299
+    styles:
+      rhj:
+      diiivoy:
+    default_image: "Ocean's Thirteen (2007)"
+    collections:
+      "Ocean's Collection":
+      - "Ocean's"
+    movies:
+      "Ocean's Eleven (1960)": 299
+      "Ocean's Eleven (2001)": 161
+      "Ocean's Twelve (2004)": 163
+      "Ocean's Thirteen (2007)": 298
+      "Ocean's Eight (2018)": 402900

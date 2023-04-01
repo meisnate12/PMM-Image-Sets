@@ -1,0 +1,11 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 2629
+  style_key: rhj
+  style_link: 945
+  complete: true
+collections:
+  "Now You See Me Collection": {tpdb_poster: 2628}
+movies:
+  "Now You See Me (2013)": {tpdb_poster: 2629}
+  "Now You See Me 2 (2016)": {tpdb_poster: 2630}

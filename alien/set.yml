@@ -1,0 +1,27 @@
+sections:
+  alien:
+    title: Alien Set
+    builders:
+      tmdb_collection: 8091, 115762, 135416
+    styles:
+      rhj:
+      labrat:
+      dm247:
+      morkoz:
+    default_image: "Alien (1979)"
+    collections:
+      "Alien Collection":
+      - "Alien"
+      "AVP Collection":
+      - "AVP"
+      "Prometheus Collection":
+      - "Prometheus"
+    movies:
+      "Alien (1979)": 348
+      "Aliens (1986)": 679
+      "Alien³ (1992)": 8077
+      "Alien Resurrection (1997)": 8078
+      "AVP: Alien vs. Predator (2004)": 395
+      "Aliens vs Predator: Requiem (2007)": 440
+      "Prometheus (2012)": 70981
+      "Alien: Covenant (2017)": 126889

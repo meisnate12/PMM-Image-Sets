@@ -1,0 +1,19 @@
+wizard:
+  rhj:
+    collections:
+      "Fantastic Beasts Collection": {tpdb_poster: null, url_poster: null}
+      "Harry Potter Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Fantastic Beasts Collection": {tpdb_poster: null, url_poster: null}
+      "Harry Potter Collection": {tpdb_poster: null, url_poster: null}
+  dsman:
+    collections:
+      "Fantastic Beasts Collection": {tpdb_poster: null, url_poster: null}
+      "Harry Potter Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Fantastic Beasts and Where to Find Them (2016)": {tpdb_poster: null, url_poster: null}
+      "Fantastic Beasts: The Crimes of Grindelwald (2018)": {tpdb_poster: null, url_poster: null}
+      "Fantastic Beasts: The Secrets of Dumbledore (2022)": {tpdb_poster: null, url_poster: null}
+      "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": {tpdb_poster: null,
+        url_poster: null}

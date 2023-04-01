@@ -1,0 +1,21 @@
+sections:
+  jurassic:
+    title: Jurassic Park Set
+    builders:
+      tmdb_collection: 328
+      tmdb_movie: 630322
+    styles:
+      diiivoy_neon:
+      rhj:
+    default_image: "Jurassic Park (1993)"
+    collections:
+      "Jurassic Park Collection":
+      - "Jurassic Park"
+    movies:
+      "Jurassic Park (1993)": 329
+      "The Lost World: Jurassic Park (1997)": 330
+      "Jurassic Park III (2001)": 331
+      "Jurassic World (2015)": 135397
+      "Jurassic World: Fallen Kingdom (2018)": 351286
+      "Battle at Big Rock (2019)": 630322
+      "Jurassic World Dominion (2022)": 507086

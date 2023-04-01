@@ -1,0 +1,22 @@
+alien:
+  rhj:
+    collections:
+      "Alien Collection": {tpdb_poster: null, url_poster: null}
+      "AVP Collection": {tpdb_poster: null, url_poster: null}
+      "Prometheus Collection": {tpdb_poster: null, url_poster: null}
+  labrat:
+    collections:
+      "Alien Collection": {tpdb_poster: null, url_poster: null}
+      "AVP Collection": {tpdb_poster: null, url_poster: null}
+      "Prometheus Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "AVP: Alien vs. Predator (2004)": {tpdb_poster: null, url_poster: null}
+      "Aliens vs Predator: Requiem (2007)": {tpdb_poster: null, url_poster: null}
+  dm247:
+    collections:
+      "Alien Collection": {tpdb_poster: null, url_poster: null}
+      "AVP Collection": {tpdb_poster: null, url_poster: null}
+      "Prometheus Collection": {tpdb_poster: null, url_poster: null}
+  morkoz:
+    collections:
+      "Prometheus Collection": {tpdb_poster: null, url_poster: null}

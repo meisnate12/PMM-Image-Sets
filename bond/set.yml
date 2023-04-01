@@ -1,0 +1,43 @@
+sections:
+  bond:
+    title: James Bond Set
+    builders:
+      tmdb_collection: 645
+      tmdb_movie: 12208
+    styles:
+      rhj:
+      diiivoy:
+      mikenobbs:
+    default_image: "The Man with the Golden Gun (1974)"
+    collections:
+      "James Bond Collection":
+      - "007"
+      - "James Bond"
+    movies:
+      "Dr. No (1962)": 646
+      "From Russia with Love (1963)": 657
+      "Goldfinger (1964)": 658
+      "Thunderball (1965)": 660
+      "You Only Live Twice (1967)": 667
+      "Casino Royale (1967)": 12208
+      "On Her Majesty's Secret Service (1969)": 668
+      "Diamonds Are Forever (1971)": 681
+      "Live and Let Die (1973)": 253
+      "The Man with the Golden Gun (1974)": 682
+      "The Spy Who Loved Me (1977)": 691
+      "Moonraker (1979)": 698
+      "For Your Eyes Only (1981)": 699
+      "Octopussy (1983)": 700
+      "Never Say Never Again (1983)": 36670
+      "A View to a Kill (1985)": 707
+      "The Living Daylights (1987)": 708
+      "Licence to Kill (1989)": 709
+      "GoldenEye (1995)": 710
+      "Tomorrow Never Dies (1997)": 714
+      "The World Is Not Enough (1999)": 36643
+      "Die Another Day (2002)": 36669
+      "Casino Royale (2006)": 36557
+      "Quantum of Solace (2008)": 10764
+      "Skyfall (2012)": 37724
+      "Spectre (2015)": 206647
+      "No Time to Die (2021)": 370172

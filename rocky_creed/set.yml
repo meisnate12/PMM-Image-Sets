@@ -1,0 +1,35 @@
+sections:
+  creed:
+    title: Creed Films
+    builders:
+      tmdb_collection: 553717
+    styles:
+      dannybeaton:
+    default_image: "Creed II (2018)"
+    collections:
+      "Creed Collection":
+      - "Creed"
+    movies:
+      "Creed (2015)": 312221
+      "Creed II (2018)": 480530
+      "Creed III (2023)": 677179
+  rocky:
+    title: Rocky Films
+    builders:
+      tmdb_collection: 1575
+    styles:
+      dannybeaton:
+      doctorbat:
+    default_image: "Rocky (1976)"
+    collections:
+      "Rocky Collection":
+      - "Rocky"
+      "Rocky / Creed Collection":
+      - "Rocky / Creed"
+    movies:
+      "Rocky (1976)": 1366
+      "Rocky II (1979)": 1367
+      "Rocky III (1982)": 1371
+      "Rocky IV (1985)": 1374
+      "Rocky V (1990)": 1375
+      "Rocky Balboa (2006)": 1246

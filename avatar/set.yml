@@ -1,0 +1,19 @@
+sections:
+  avatar:
+    title: Avatar Set
+    builders:
+      tmdb_collection: 87096
+    styles:
+      rhj:
+    default_image: "Avatar: The Way of Water (2022)"
+    collections:
+      "Avatar Collection":
+      - "Avatar"
+    movies:
+      "Avatar (2009) (Extended)":
+        mapping_id: 19995
+        edition_contains: Extended
+      "Avatar (2009)":
+        mapping_id: 19995
+        blank_edition: true
+      "Avatar: The Way of Water (2022)": 76600

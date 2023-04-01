@@ -1,0 +1,18 @@
+info:
+  style_author: MorkOz
+  style_image: 146097
+  style_key: morkoz
+  style_link: 90155
+  complete: true
+collections:
+  "Alien Collection": {tpdb_poster: 146111}
+  "AVP Collection": {tpdb_poster: 146105}
+movies:
+  "Alien (1979)": {tpdb_poster: 146097}
+  "Aliens (1986)": {tpdb_poster: 146098}
+  "Alien³ (1992)": {tpdb_poster: 146099}
+  "Alien Resurrection (1997)": {tpdb_poster: 146100}
+  "AVP: Alien vs. Predator (2004)": {tpdb_poster: 146101}
+  "Aliens vs Predator: Requiem (2007)": {tpdb_poster: 146102}
+  "Prometheus (2012)": {tpdb_poster: 146103}
+  "Alien: Covenant (2017)": {tpdb_poster: 146104}

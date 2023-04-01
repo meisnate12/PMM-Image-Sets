@@ -1,0 +1,17 @@
+sections:
+  john_wick:
+    title: John Wick Set
+    builders:
+      tmdb_collection: 404609
+    styles:
+      rhj:
+      morkoz:
+    default_image: "John Wick (2014)"
+    collections:
+      "John Wick Collection":
+      - "John Wick"
+    movies:
+      "John Wick (2014)": 245891
+      "John Wick: Chapter 2 (2017)": 324552
+      "John Wick: Chapter 3 - Parabellum (2019)": 458156
+      "John Wick: Chapter 4 (2023)": 603692

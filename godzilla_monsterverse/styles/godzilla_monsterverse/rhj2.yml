@@ -1,0 +1,13 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 8260
+  style_key: rhj2
+  style_link: 3435
+  complete: true
+collections:
+  "Monsterverse Collection": {tpdb_poster: 8258}
+movies:
+  "Godzilla (2014)": {tpdb_poster: 8259}
+  "Kong: Skull Island (2017)": {tpdb_poster: 8260}
+  "Godzilla: King of the Monsters (2019)": {tpdb_poster: 8261}
+  "Godzilla vs. Kong (2021)": {tpdb_poster: 134491}

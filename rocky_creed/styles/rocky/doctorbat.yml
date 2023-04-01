@@ -1,0 +1,15 @@
+info:
+  style_author: DoctorBat
+  style_image: 40075
+  style_key: doctorbat
+  style_link: 24506
+  complete: true
+collections:
+  "Rocky Collection": {tpdb_poster: 40086}
+movies:
+  "Rocky (1976)": {tpdb_poster: 40075}
+  "Rocky II (1979)": {tpdb_poster: 40076}
+  "Rocky III (1982)": {tpdb_poster: 40077}
+  "Rocky IV (1985)": {tpdb_poster: 40079}
+  "Rocky V (1990)": {tpdb_poster: 40080}
+  "Rocky Balboa (2006)": {tpdb_poster: 40082}

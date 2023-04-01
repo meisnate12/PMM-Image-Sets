@@ -1,0 +1,20 @@
+sections:
+  mission:
+    title: Mission Impossible Set
+    builders:
+      tmdb_collection: 87359
+    styles:
+      rhj:
+      rhj2:
+      mikenobbs:
+    default_image: "Mission: Impossible - Fallout (2018)"
+    collections:
+      "Mission: Impossible Collection":
+      - "Mission: Impossible"
+    movies:
+      "Mission: Impossible (1996)": 954
+      "Mission: Impossible II (2000)": 955
+      "Mission: Impossible III (2006)": 956
+      "Mission: Impossible - Ghost Protocol (2011)": 56292
+      "Mission: Impossible - Rogue Nation (2015)": 177677
+      "Mission: Impossible - Fallout (2018)": 353081

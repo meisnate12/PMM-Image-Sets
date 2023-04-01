@@ -1,0 +1,32 @@
+sections:
+  wizard:
+    title: Wizarding World (of Harry Potter) Set
+    builders:
+      tmdb_collection: 435259, 1241
+      tmdb_movie: 899082
+    styles:
+      diiivoy_neon:
+      rhj:
+      rhj2:
+      dsman:
+    default_image: "Harry Potter and the Half-Blood Prince (2009)"
+    collections:
+      "Wizarding World (of Harry Potter) Collection":
+      - "Wizarding World (of Harry Potter)"
+      "Fantastic Beasts Collection":
+      - "Fantastic Beasts"
+      "Harry Potter Collection":
+      - "Harry Potter"
+    movies:
+      "Harry Potter and the Philosopher's Stone (2001)": 671
+      "Harry Potter and the Chamber of Secrets (2002)": 672
+      "Harry Potter and the Prisoner of Azkaban (2004)": 673
+      "Harry Potter and the Goblet of Fire (2005)": 674
+      "Harry Potter and the Order of the Phoenix (2007)": 675
+      "Harry Potter and the Half-Blood Prince (2009)": 767
+      "Harry Potter and the Deathly Hallows: Part 1 (2010)": 12444
+      "Harry Potter and the Deathly Hallows: Part 2 (2011)": 12445
+      "Fantastic Beasts and Where to Find Them (2016)": 259316
+      "Fantastic Beasts: The Crimes of Grindelwald (2018)": 338952
+      "Fantastic Beasts: The Secrets of Dumbledore (2022)": 338953
+      "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": 899082

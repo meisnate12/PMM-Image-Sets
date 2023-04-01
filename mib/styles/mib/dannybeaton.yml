@@ -1,0 +1,14 @@
+info:
+  style_author: Danny Beaton
+  style_image: 16776
+  style_key: dannybeaton
+  style_link: 9322
+  complete: true
+collections:
+  "Men in Black Collection": {tpdb_poster: 16774}
+  "Men In Black Collection": {tpdb_poster: 16774}
+movies:
+  "Men in Black (1997)": {tpdb_poster: 16775}
+  "Men in Black II (2002)": {tpdb_poster: 16776}
+  "Men in Black 3 (2012)": {tpdb_poster: 16777}
+  "Men in Black: International (2019)": {tpdb_poster: 16778}

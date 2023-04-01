@@ -1,0 +1,15 @@
+sections:
+  poirot:
+    title: Hercule Poirot Set
+    builders:
+      tmdb_collection: 735384
+    styles:
+      diiivoy_neon:
+      rhj:
+    default_image: "Death on the Nile (2022)"
+    collections:
+      "Hercule Poirot Collection":
+      - "Hercule Poirot"
+    movies:
+      "Murder on the Orient Express (2017)": 392044
+      "Death on the Nile (2022)": 505026

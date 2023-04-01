@@ -1,0 +1,12 @@
+info:
+  style_author: LabRat
+  style_image: 1206
+  style_key: labrat
+  style_link: 355
+movies:
+  "Alien (1979)": {tpdb_poster: 1206}
+  "Aliens (1986)": {tpdb_poster: 1207}
+  "Alien³ (1992)": {tpdb_poster: 1208}
+  "Alien Resurrection (1997)": {tpdb_poster: 1209}
+  "Prometheus (2012)": {tpdb_poster: 1210}
+  "Alien: Covenant (2017)": {tpdb_poster: 1211}

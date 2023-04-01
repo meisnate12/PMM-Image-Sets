@@ -1,0 +1,16 @@
+info:
+  style_author: Danny Beaton
+  style_image: 5902
+  style_key: dannybeaton
+  style_link: 2402
+  complete: true
+collections:
+  "Rocky Collection": {tpdb_poster: 5901}
+  "Rocky / Creed Collection": {tpdb_poster: 5907}
+movies:
+  "Rocky (1976)": {tpdb_poster: 5902}
+  "Rocky II (1979)": {tpdb_poster: 5904}
+  "Rocky III (1982)": {tpdb_poster: 5906}
+  "Rocky IV (1985)": {tpdb_poster: 5909}
+  "Rocky V (1990)": {tpdb_poster: 5910}
+  "Rocky Balboa (2006)": {tpdb_poster: 5911}

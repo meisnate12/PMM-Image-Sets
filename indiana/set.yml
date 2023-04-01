@@ -1,0 +1,17 @@
+sections:
+  indiana:
+    title: Indiana Jones Set
+    builders:
+      tmdb_collection: 84
+    styles:
+      rhj:
+      olivier:
+    default_image: "Raiders of the Lost Ark (1981)"
+    collections:
+      "Indiana Jones Collection":
+      - "Indiana Jones"
+    movies:
+      "Raiders of the Lost Ark (1981)": 85
+      "Indiana Jones and the Temple of Doom (1984)": 87
+      "Indiana Jones and the Last Crusade (1989)": 89
+      "Indiana Jones and the Kingdom of the Crystal Skull (2008)": 217
