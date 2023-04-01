@@ -4,7 +4,10 @@ sections:
     builders:
       tmdb_collection: 531315
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+    default_image: "The Angry Birds Movie (2016)"
     collections:
       "The Angry Birds Collection":
       - "Angry Birds"
@@ -18,20 +21,38 @@ sections:
     builders:
       tmdb_collection: 177467
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+    default_image: "Cloudy with a Chance of Meatballs (2009)"
     collections:
       "Cloudy with a Chance of Meatballs Collection":
       - "Cloudy with a Chance of Meatballs"
     movies:
       "Cloudy with a Chance of Meatballs (2009)": 22794
       "Cloudy with a Chance of Meatballs 2 (2013)": 109451
+  goosebumps:
+    title: Goosebumps
+    builders:
+      tmdb_collection: 508783
+    styles:
+      agon024:
+    collections:
+      "Goosebumps Collection":
+      - "Goosebumps"
+    movies:
+      "Goosebumps (2015)": 257445
+      "Goosebumps 2: Haunted Halloween (2018)": 442062
   transylvania:
     title: Hotel Transylvania
     builders:
       tmdb_collection: 185103
       tmdb_movie: 813258, 459159
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+    default_image: "Hotel Transylvania: Puppy! (2017)"
     collections:
       "Hotel Transylvania Collection":
       - "Hotel Transylvania"
@@ -47,7 +68,10 @@ sections:
     builders:
       tmdb_collection: 66761
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+    default_image: "Open Season: Scared Silly (2015)"
     collections:
       "Open Season Collection":
       - "Open Season"
@@ -61,7 +85,10 @@ sections:
     builders:
       tmdb_collection: 595693
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+    default_image: "Peter Rabbit 2: The Runaway (2021)"
     collections:
       "Peter Rabbit Collection":
       - "Peter Rabbit"
@@ -74,7 +101,10 @@ sections:
       tmdb_collection: 134897
       tmdb_movie: 174188
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+    default_image: "The Smurfs 2 (2013)"
     collections:
       "The Smurfs (Theatrical) Collection":
       - "Smurfs (Theatrical)"
@@ -93,7 +123,10 @@ sections:
     builders:
       tmdb_collection: 436295
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+    default_image: "Surf's Up (2007)"
     collections:
       "Surf's Up Collection":
       - "Surf's Up"
@@ -105,7 +138,10 @@ sections:
     builders:
       tmdb_movie: 51052, 72197, 378236, 355547, 550205, 501929, 449406
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+    default_image: "The Emoji Movie (2017)"
     collections:
       "Sony Pictures Animation Collection":
       - "Sony Pictures Animation"

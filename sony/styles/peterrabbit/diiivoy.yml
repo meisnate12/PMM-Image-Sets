@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 100879
+  style_key: diiivoy
+  style_link: 65010
+  complete: true
+collections:
+  "Peter Rabbit Collection": {tpdb_poster: 100877}
+movies:
+  "Peter Rabbit (2018)": {tpdb_poster: 100878}
+  "Peter Rabbit 2: The Runaway (2021)": {tpdb_poster: 100879}

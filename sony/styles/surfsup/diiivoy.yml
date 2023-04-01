@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 101252
+  style_key: diiivoy
+  style_link: 65010
+  complete: true
+collections:
+  "Surf's Up Collection": {tpdb_poster: 174211}
+movies:
+  "Surf's Up (2007)": {tpdb_poster: 101252}
+  "Surf's Up 2: WaveMania (2017)": {tpdb_poster: 174208}

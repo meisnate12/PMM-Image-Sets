@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 101249
+  style_key: diiivoy
+  style_link: 65010
+  complete: true
+collections:
+  "Cloudy with a Chance of Meatballs Collection": {tpdb_poster: 101248}
+movies:
+  "Cloudy with a Chance of Meatballs (2009)": {tpdb_poster: 101249}
+  "Cloudy with a Chance of Meatballs 2 (2013)": {tpdb_poster: 101250}
