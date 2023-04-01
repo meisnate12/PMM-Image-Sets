@@ -1,0 +1,10 @@
+info:
+  style_author: MorkOz
+  style_image: 268422
+  style_key: morkoz
+  style_link: 82588
+  complete: true
+movies:
+  "LEGO Star Wars Holiday Special (2020)": {tpdb_poster: 133229}
+  "LEGO Star Wars Terrifying Tales (2021)": {tpdb_poster: 268422}
+  "LEGO Star Wars Summer Vacation (2022)": {tpdb_poster: 268423}

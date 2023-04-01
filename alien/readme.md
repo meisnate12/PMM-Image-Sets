@@ -25,13 +25,6 @@ This Image Set is for all Movies and Shows that are a part of the Alien Franchis
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/355" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/alien/styles/alien/labrat.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>labrat</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/355" target="_blank" rel="noopener noreferrer">LabRat</a><br>
-        </div>
-      </td>
-      <td>
-        <div>
           <a href="https://theposterdb.com/set/7281" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/alien/styles/alien/dm247.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>dm247</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/7281" target="_blank" rel="noopener noreferrer">dm247</a><br>

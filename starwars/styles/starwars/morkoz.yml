@@ -1,0 +1,31 @@
+info:
+  style_author: MorkOz
+  style_image: 132699
+  style_key: morkoz
+  style_link: 82588
+  complete: true
+collections:
+  "Star Wars: The Complete Collection": {tpdb_poster: 132698}
+movies:
+  "Star Wars (1977)": {tpdb_poster: 132699}
+  "The Star Wars Holiday Special (1978)": {tpdb_poster: 133158}
+  "The Empire Strikes Back (1980)": {tpdb_poster: 132700}
+  "Return of the Jedi (1983)": {tpdb_poster: 132701}
+  "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 132702}
+  "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 132703}
+  "Star Wars: Episode III - Revenge of the Sith (2005)": {tpdb_poster: 132704}
+  "Star Wars: The Clone Wars (2008)": {tpdb_poster: 132710}
+  "Star Wars: The Force Awakens (2015)": {tpdb_poster: 132705}
+  "Rogue One: A Star Wars Story (2016)": {tpdb_poster: 132706}
+  "Star Wars: The Last Jedi (2017)": {tpdb_poster: 132707}
+  "Solo: A Star Wars Story (2018)": {tpdb_poster: 132708}
+  "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 132709}
+shows:
+  "Star Wars: The Clone Wars (2008)": {tpdb_poster: 132710}
+  "Star Wars Rebels (2014)": {tpdb_poster: 133153}
+  "Star Wars Resistance (2018)": {tpdb_poster: 133230}
+  "The Mandalorian (2019)": {tpdb_poster: 132718}
+  "Star Wars: The Bad Batch (2021)": {tpdb_poster: 133235}
+  "The Book of Boba Fett (2021)": {tpdb_poster: 133237}
+  "Star Wars: Visions (2021)": {tpdb_poster: 177486}
+  "Obi-Wan Kenobi (2022)": {tpdb_poster: 219000}

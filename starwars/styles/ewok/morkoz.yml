@@ -1,0 +1,9 @@
+info:
+  style_author: MorkOz
+  style_image: 134423
+  style_key: morkoz
+  style_link: 82588
+  complete: true
+movies:
+  "Ewoks: The Battle for Endor (1985)": {tpdb_poster: 134423}
+  "The Ewok Adventure (1985)": {tpdb_poster: 134424}

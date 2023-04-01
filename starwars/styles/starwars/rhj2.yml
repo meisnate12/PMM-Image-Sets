@@ -1,0 +1,28 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 145036
+  style_key: rhj2
+  style_link: 89606
+collections:
+  "Star Wars: The Complete Collection": {tpdb_poster: 145035}
+movies:
+  "Star Wars (1977)": {tpdb_poster: 145036}
+  "The Empire Strikes Back (1980)": {tpdb_poster: 145037}
+  "Return of the Jedi (1983)": {tpdb_poster: 145038}
+  "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 145039}
+  "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 145040}
+  "Star Wars: Episode III - Revenge of the Sith (2005)": {tpdb_poster: 145041}
+  "Star Wars: The Clone Wars (2008)": {tpdb_poster: 145042}
+  "Star Wars: The Force Awakens (2015)": {tpdb_poster: 145043}
+  "Rogue One: A Star Wars Story (2016)": {tpdb_poster: 145044}
+  "Star Wars: The Last Jedi (2017)": {tpdb_poster: 145045}
+  "Solo: A Star Wars Story (2018)": {tpdb_poster: 145046}
+  "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 145047}
+shows:
+  "Star Wars: The Clone Wars (2008)": {tpdb_poster: 145042}
+  "Star Wars Rebels (2014)": {tpdb_poster: 145049}
+  "Star Wars Resistance (2018)": {tpdb_poster: 145050}
+  "The Mandalorian (2019)": {tpdb_poster: 145051}
+  "Star Wars: The Bad Batch (2021)": {tpdb_poster: 145052}
+  "The Book of Boba Fett (2021)": {tpdb_poster: 199477}
+  "Obi-Wan Kenobi (2022)": {tpdb_poster: 235861}

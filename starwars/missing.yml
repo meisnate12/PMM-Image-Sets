@@ -1,0 +1,52 @@
+documentary:
+  agon024:
+    info:
+      style_image:
+    collections:
+      "Star Wars: Documentary Collection": {tpdb_poster: null, url_poster: null}
+ewok:
+  rhj3:
+    collections:
+      "Star Wars: The Ewok Adventure Collection": {tpdb_poster: null, url_poster: null}
+      "Star Wars: The Ewok Adventures Collection": {tpdb_poster: null, url_poster: null}
+  agon024:
+    collections:
+      "Star Wars: The Ewok Adventure Collection": {tpdb_poster: null, url_poster: null}
+      "Star Wars: The Ewok Adventures Collection": {tpdb_poster: null, url_poster: null}
+  morkoz:
+    collections:
+      "Star Wars: The Ewok Adventure Collection": {tpdb_poster: null, url_poster: null}
+      "Star Wars: The Ewok Adventures Collection": {tpdb_poster: null, url_poster: null}
+family_guy:
+  agon024:
+    collections:
+      "Family Guy Trilogy Collection: Laugh It Up, Fuzzball! Collection": {tpdb_poster: null,
+        url_poster: null}
+lego_seasonal:
+  agon024:
+    collections:
+      "LEGO Star Wars (Seasonal) Collection": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    collections:
+      "LEGO Star Wars (Seasonal) Collection": {tpdb_poster: null, url_poster: null}
+  dsman124:
+    collections:
+      "LEGO Star Wars (Seasonal) Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "LEGO Star Wars Summer Vacation (2022)": {tpdb_poster: null, url_poster: null}
+  morkoz:
+    collections:
+      "LEGO Star Wars (Seasonal) Collection": {tpdb_poster: null, url_poster: null}
+robot_chicken:
+  agon024:
+    collections:
+      "Robot Chicken: Star Wars Collection": {tpdb_poster: null, url_poster: null}
+starwars:
+  rhj:
+    movies:
+      "The Star Wars Holiday Special (1978)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    movies:
+      "The Star Wars Holiday Special (1978)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Star Wars: Visions (2021)": {tpdb_poster: null, url_poster: null}
