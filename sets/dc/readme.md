@@ -1,4 +1,4 @@
-<h1 id="dc-properties">DC Properties<a class="headerlink" href="#dc-properties" title="Permalink to this heading">Â¶</a></h1>
+<h1 id="dc-properties">DC Properties<a class="headerlink" href="#dc-properties" title="Permalink to this heading">¶</a></h1>
 This Image Set is for all Movies and Shows that are a property of DC.
 
 <ul class="images-index-table">
@@ -18,8 +18,8 @@ This Image Set is for all Movies and Shows that are a property of DC.
   <li><a href="#wonder-woman"><div class="images-inline-link">Wonder Woman<br><code>wonderwoman</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
-<h3 id="aquaman">Aquaman<a class="headerlink" href="#aquaman" title="Permalink to this heading">Â¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
+<h3 id="aquaman">Aquaman<a class="headerlink" href="#aquaman" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>aquaman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -47,7 +47,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="batman">Batman<a class="headerlink" href="#batman" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="batman">Batman<a class="headerlink" href="#batman" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>batman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -68,7 +68,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="the-batman">The Batman<a class="headerlink" href="#the-batman" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="the-batman">The Batman<a class="headerlink" href="#the-batman" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>thebatman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -96,7 +96,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="batman-'66">Batman '66<a class="headerlink" href="#batman-'66" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="batman-'66">Batman '66<a class="headerlink" href="#batman-'66" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>batman_66</code>
 <br><strong>Builders:</strong>
 <br>
@@ -126,7 +126,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="the-dark-knight">The Dark Knight<a class="headerlink" href="#the-dark-knight" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="the-dark-knight">The Dark Knight<a class="headerlink" href="#the-dark-knight" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>darkknight</code>
 <br><strong>Builders:</strong>
 <br>
@@ -147,7 +147,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="harley-quinn">Harley Quinn<a class="headerlink" href="#harley-quinn" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="harley-quinn">Harley Quinn<a class="headerlink" href="#harley-quinn" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>harleyquinn</code>
 <br><strong>Builders:</strong>
 <br>
@@ -175,7 +175,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="justice-league">Justice League<a class="headerlink" href="#justice-league" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="justice-league">Justice League<a class="headerlink" href="#justice-league" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>justiceleague</code>
 <br><strong>Builders:</strong>
 <br>
@@ -203,7 +203,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="man-of-steel">Man of Steel<a class="headerlink" href="#man-of-steel" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="man-of-steel">Man of Steel<a class="headerlink" href="#man-of-steel" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>manofsteel</code>
 <br><strong>Builders:</strong>
 <br>
@@ -231,7 +231,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="red">RED<a class="headerlink" href="#red" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="red">RED<a class="headerlink" href="#red" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>red</code>
 <br><strong>Builders:</strong>
 <br>
@@ -252,7 +252,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="shazam!">Shazam!<a class="headerlink" href="#shazam!" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="shazam!">Shazam!<a class="headerlink" href="#shazam!" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>shazam</code>
 <br><strong>Builders:</strong>
 <br>
@@ -280,7 +280,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="suicide-squad">Suicide Squad<a class="headerlink" href="#suicide-squad" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="suicide-squad">Suicide Squad<a class="headerlink" href="#suicide-squad" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>suicidesquad</code>
 <br><strong>Builders:</strong>
 <br>
@@ -308,7 +308,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="superman">Superman<a class="headerlink" href="#superman" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="superman">Superman<a class="headerlink" href="#superman" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>superman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -329,7 +329,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>
@@ -357,7 +357,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
   </table>
 </div>
 
-<h3 id="wonder-woman">Wonder Woman<a class="headerlink" href="#wonder-woman" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="wonder-woman">Wonder Woman<a class="headerlink" href="#wonder-woman" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>wonderwoman</code>
 <br><strong>Builders:</strong>
 <br>

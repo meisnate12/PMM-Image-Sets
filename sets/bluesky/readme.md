@@ -1,4 +1,4 @@
-<h1 id="blue-sky-studios">Blue Sky Studios<a class="headerlink" href="#blue-sky-studios" title="Permalink to this heading">Â¶</a></h1>
+<h1 id="blue-sky-studios">Blue Sky Studios<a class="headerlink" href="#blue-sky-studios" title="Permalink to this heading">¶</a></h1>
 This Image Set is for all Movies released by Blue Sky Studios.
 
 <ul class="images-index-table">
@@ -7,8 +7,8 @@ This Image Set is for all Movies released by Blue Sky Studios.
   <li><a href="#ungrouped"><div class="images-inline-link">Ungrouped<br><code>ungrouped</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
-<h3 id="ice-age">Ice Age<a class="headerlink" href="#ice-age" title="Permalink to this heading">Â¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
+<h3 id="ice-age">Ice Age<a class="headerlink" href="#ice-age" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>iceage</code>
 <br><strong>Builders:</strong>
 <br>
@@ -51,7 +51,7 @@ This Image Set is for all Movies released by Blue Sky Studios.
   </table>
 </div>
 
-<h3 id="rio">Rio<a class="headerlink" href="#rio" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="rio">Rio<a class="headerlink" href="#rio" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>rio</code>
 <br><strong>Builders:</strong>
 <br>
@@ -93,7 +93,7 @@ This Image Set is for all Movies released by Blue Sky Studios.
   </table>
 </div>
 
-<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>

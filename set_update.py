@@ -36,6 +36,8 @@ headers = {"Accept-Language": "en-US,en;q=0.5", "User-Agent": "Mozilla/5.0 Firef
 base_url = "https://api.trakt.tv"
 script_name = "PMM Image Set Update"
 base_dir = os.path.dirname(os.path.abspath(__file__))
+base_dir = os.path.dirname(os.path.abspath(__file__))
+sets_dir = os.path.join(base_dir, "sets")
 pmmargs = PMMArgs("meisnate12/PMM-Image-Sets", os.path.dirname(os.path.abspath(__file__)), options, config_folder=None, use_nightly=False)
 logger = logging.PMMLogger(script_name, "set_update", os.path.join(base_dir, "logs"), is_trace=pmmargs["trace"], log_requests=pmmargs["log-requests"])
 logger.secret([pmmargs["tmdbapi"], pmmargs["trakt_id"], pmmargs["trakt_token"]])
@@ -347,19 +349,19 @@ try:
     for file_key, set_info in sets_yaml["sets"].items():
         set_title = set_info["title"] if "title" in set_info else ""
         set_description = set_info["description"] if "description" in set_info else ""
-        file_dir = os.path.join(base_dir, file_key)
+        file_dir = os.path.join(sets_dir, file_key)
         if "set_key" in set_info and set_info["set_key"]:
             if str(set_info["set_key"]) in sets_yaml["sets"]:
                 logger.error(f"Set Key Error: Set Key: {set_info['set_key']} already exists")
                 new_sets[file_key] = set_info
                 continue
             set_key = str(set_info["set_key"])
-            metadata_dir = os.path.join(base_dir, set_key)
+            metadata_dir = os.path.join(sets_dir, set_key)
             if not os.path.exists(metadata_dir) and os.path.exists(file_dir):
                 os.rename(file_dir, metadata_dir)
         else:
             set_key = file_key
-            metadata_dir = os.path.join(base_dir, set_key)
+            metadata_dir = os.path.join(sets_dir, set_key)
         new_sets[str(set_key)] = {"title": set_title, "description": set_description}
         style_dir = os.path.join(metadata_dir, "styles")
         metadata_path = os.path.join(metadata_dir, "set.yml")
