@@ -1,6 +1,6 @@
 sections:
   godzilla_showa:
-    title: Godzilla Showa Set
+    title: Godzilla Showa
     builders:
       tmdb_collection: 374509
       tmdb_movie: 18983, 329237, 686487

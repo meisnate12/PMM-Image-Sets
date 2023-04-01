@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Godzilla Heisei Franchise
 
 <ul class="images-index-table">
-  <li><a href="#godzilla-heisei-set"><div class="images-inline-link">Godzilla Heisei Set<br><code>godzilla_heisei</code></div></a></li>
+  <li><a href="#godzilla-heisei"><div class="images-inline-link">Godzilla Heisei<br><code>godzilla_heisei</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="godzilla-heisei-set">Godzilla Heisei Set<a class="headerlink" href="#godzilla-heisei-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="godzilla-heisei">Godzilla Heisei<a class="headerlink" href="#godzilla-heisei" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godzilla_heisei</code>
 <br><strong>Builders:</strong>
 <br>

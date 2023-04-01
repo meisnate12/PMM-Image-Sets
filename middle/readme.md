@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Alien Franchise
 
 <ul class="images-index-table">
-  <li><a href="#middle-earth-set"><div class="images-inline-link">Middle-Earth Set<br><code>middle</code></div></a></li>
+  <li><a href="#middle-earth"><div class="images-inline-link">Middle-Earth<br><code>middle</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="middle-earth-set">Middle-Earth Set<a class="headerlink" href="#middle-earth-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="middle-earth">Middle-Earth<a class="headerlink" href="#middle-earth" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>middle</code>
 <br><strong>Builders:</strong>
 <br>

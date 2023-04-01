@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Now You See Me Franchise
 
 <ul class="images-index-table">
-  <li><a href="#now-you-see-me-set"><div class="images-inline-link">Now You See Me Set<br><code>nowyouseeme</code></div></a></li>
+  <li><a href="#now-you-see-me"><div class="images-inline-link">Now You See Me<br><code>nowyouseeme</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="now-you-see-me-set">Now You See Me Set<a class="headerlink" href="#now-you-see-me-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="now-you-see-me">Now You See Me<a class="headerlink" href="#now-you-see-me" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>nowyouseeme</code>
 <br><strong>Builders:</strong>
 <br>

@@ -1,6 +1,6 @@
 sections:
   fast_furious:
-    title: The Fast and the Furious Set
+    title: The Fast and the Furious
     builders:
       tmdb_collection: 9485, 688042
       tmdb_movie: 253835

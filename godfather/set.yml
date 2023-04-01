@@ -1,6 +1,6 @@
 sections:
   godfather:
-    title: The Godfather Set
+    title: The Godfather
     builders:
       tmdb_collection: 230
     styles:

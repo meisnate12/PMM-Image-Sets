@@ -1,11 +1,10 @@
 sections:
   alien:
-    title: Alien Set
+    title: Alien
     builders:
       tmdb_collection: 8091, 115762, 135416
     styles:
       rhj:
-      labrat:
       dm247:
       morkoz:
     default_image: "Alien (1979)"
@@ -17,7 +16,12 @@ sections:
       "Prometheus Collection":
       - "Prometheus"
     movies:
-      "Alien (1979)": 348
+      "Alien (1979) (Director)":
+        mapping_id: 348
+        edition_contains: Director
+      "Alien (1979)":
+        mapping_id: 348
+        blank_edition: true
       "Aliens (1986)": 679
       "Alien³ (1992)": 8077
       "Alien Resurrection (1997)": 8078

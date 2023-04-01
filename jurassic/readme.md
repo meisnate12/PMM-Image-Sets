@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Jurassic Park Franchise
 
 <ul class="images-index-table">
-  <li><a href="#jurassic-park-set"><div class="images-inline-link">Jurassic Park Set<br><code>jurassic</code></div></a></li>
+  <li><a href="#jurassic-park"><div class="images-inline-link">Jurassic Park<br><code>jurassic</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="jurassic-park-set">Jurassic Park Set<a class="headerlink" href="#jurassic-park-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="jurassic-park">Jurassic Park<a class="headerlink" href="#jurassic-park" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>jurassic</code>
 <br><strong>Builders:</strong>
 <br>

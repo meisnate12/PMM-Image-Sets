@@ -1,6 +1,6 @@
 sections:
   bourne:
-    title: Jason Bourne Set
+    title: Jason Bourne
     builders:
       tmdb_collection: 31562
     styles:

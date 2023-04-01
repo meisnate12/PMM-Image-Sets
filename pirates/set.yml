@@ -1,6 +1,6 @@
 sections:
   pirates:
-    title: Pirates of the Caribbean Set
+    title: Pirates of the Caribbean
     builders:
       tmdb_collection: 295
     styles:

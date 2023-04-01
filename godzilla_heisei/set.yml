@@ -1,6 +1,6 @@
 sections:
   godzilla_heisei:
-    title: Godzilla Heisei Set
+    title: Godzilla Heisei
     builders:
       tmdb_collection: 374511
       tmdb_movie: 39256

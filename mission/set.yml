@@ -1,6 +1,6 @@
 sections:
   mission:
-    title: Mission Impossible Set
+    title: Mission Impossible
     builders:
       tmdb_collection: 87359
     styles:

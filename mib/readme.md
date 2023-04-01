@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the MIB Franchise
 
 <ul class="images-index-table">
-  <li><a href="#men-in-black-set"><div class="images-inline-link">Men in Black Set<br><code>mib</code></div></a></li>
+  <li><a href="#men-in-black"><div class="images-inline-link">Men in Black<br><code>mib</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="men-in-black-set">Men in Black Set<a class="headerlink" href="#men-in-black-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="men-in-black">Men in Black<a class="headerlink" href="#men-in-black" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>mib</code>
 <br><strong>Builders:</strong>
 <br>

@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Alien Franchise
 
 <ul class="images-index-table">
-  <li><a href="#alien-set"><div class="images-inline-link">Alien Set<br><code>alien</code></div></a></li>
+  <li><a href="#alien"><div class="images-inline-link">Alien<br><code>alien</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="alien-set">Alien Set<a class="headerlink" href="#alien-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="alien">Alien<a class="headerlink" href="#alien" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>alien</code>
 <br><strong>Builders:</strong>
 <br>

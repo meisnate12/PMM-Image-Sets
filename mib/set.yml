@@ -1,6 +1,6 @@
 sections:
   mib:
-    title: Men in Black Set
+    title: Men in Black
     builders:
       tmdb_collection: 86055
       tmdb_movie: 479455

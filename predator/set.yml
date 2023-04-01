@@ -1,6 +1,6 @@
 sections:
   predator:
-    title: Predator Set
+    title: Predator
     builders:
       tmdb_collection: 399
     styles:

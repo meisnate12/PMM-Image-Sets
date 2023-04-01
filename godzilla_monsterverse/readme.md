@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Monsterverse Franchise
 
 <ul class="images-index-table">
-  <li><a href="#godzilla-monsterverse-set"><div class="images-inline-link">Godzilla Monsterverse Set<br><code>godzilla_monsterverse</code></div></a></li>
+  <li><a href="#godzilla-monsterverse"><div class="images-inline-link">Godzilla Monsterverse<br><code>godzilla_monsterverse</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="godzilla-monsterverse-set">Godzilla Monsterverse Set<a class="headerlink" href="#godzilla-monsterverse-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="godzilla-monsterverse">Godzilla Monsterverse<a class="headerlink" href="#godzilla-monsterverse" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>godzilla_monsterverse</code>
 <br><strong>Builders:</strong>
 <br>

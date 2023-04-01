@@ -1,6 +1,6 @@
 sections:
   jurassic:
-    title: Jurassic Park Set
+    title: Jurassic Park
     builders:
       tmdb_collection: 328
       tmdb_movie: 630322

@@ -1,6 +1,6 @@
 sections:
   poirot:
-    title: Hercule Poirot Set
+    title: Hercule Poirot
     builders:
       tmdb_collection: 735384
     styles:

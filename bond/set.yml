@@ -1,6 +1,6 @@
 sections:
   bond:
-    title: James Bond Set
+    title: James Bond
     builders:
       tmdb_collection: 645
       tmdb_movie: 12208

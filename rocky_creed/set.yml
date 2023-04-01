@@ -1,6 +1,6 @@
 sections:
   creed:
-    title: Creed Films
+    title: Creed
     builders:
       tmdb_collection: 553717
     styles:
@@ -14,7 +14,7 @@ sections:
       "Creed II (2018)": 480530
       "Creed III (2023)": 677179
   rocky:
-    title: Rocky Films
+    title: Rocky
     builders:
       tmdb_collection: 1575
     styles:

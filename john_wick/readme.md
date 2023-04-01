@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the John Wick Franchise
 
 <ul class="images-index-table">
-  <li><a href="#john-wick-set"><div class="images-inline-link">John Wick Set<br><code>john_wick</code></div></a></li>
+  <li><a href="#john-wick"><div class="images-inline-link">John Wick<br><code>john_wick</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="john-wick-set">John Wick Set<a class="headerlink" href="#john-wick-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="john-wick">John Wick<a class="headerlink" href="#john-wick" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>john_wick</code>
 <br><strong>Builders:</strong>
 <br>

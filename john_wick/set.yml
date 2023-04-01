@@ -1,6 +1,6 @@
 sections:
   john_wick:
-    title: John Wick Set
+    title: John Wick
     builders:
       tmdb_collection: 404609
     styles:

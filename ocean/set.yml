@@ -1,6 +1,6 @@
 sections:
   ocean:
-    title: Ocean's Set
+    title: Ocean's
     builders:
       tmdb_collection: 304
       tmdb_movie: 402900, 299

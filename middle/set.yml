@@ -1,6 +1,6 @@
 sections:
   middle:
-    title: Middle-Earth Set
+    title: Middle-Earth
     builders:
       tmdb_collection: 121938, 119
     styles:

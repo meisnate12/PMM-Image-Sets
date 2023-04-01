@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Fast & Furious Franchise
 
 <ul class="images-index-table">
-  <li><a href="#the-fast-and-the-furious-set"><div class="images-inline-link">The Fast and the Furious Set<br><code>fast_furious</code></div></a></li>
+  <li><a href="#the-fast-and-the-furious"><div class="images-inline-link">The Fast and the Furious<br><code>fast_furious</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="the-fast-and-the-furious-set">The Fast and the Furious Set<a class="headerlink" href="#the-fast-and-the-furious-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-fast-and-the-furious">The Fast and the Furious<a class="headerlink" href="#the-fast-and-the-furious" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>fast_furious</code>
 <br><strong>Builders:</strong>
 <br>

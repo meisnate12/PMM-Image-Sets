@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Indiana Jones Franchise
 
 <ul class="images-index-table">
-  <li><a href="#indiana-jones-set"><div class="images-inline-link">Indiana Jones Set<br><code>indiana</code></div></a></li>
+  <li><a href="#indiana-jones"><div class="images-inline-link">Indiana Jones<br><code>indiana</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="indiana-jones-set">Indiana Jones Set<a class="headerlink" href="#indiana-jones-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="indiana-jones">Indiana Jones<a class="headerlink" href="#indiana-jones" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>indiana</code>
 <br><strong>Builders:</strong>
 <br>

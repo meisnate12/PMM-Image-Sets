@@ -1,6 +1,6 @@
 sections:
   godzilla_monsterverse:
-    title: Godzilla Monsterverse Set
+    title: Godzilla Monsterverse
     builders:
       tmdb_collection: 535313
       tmdb_movie: 293167

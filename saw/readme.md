@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Saw Franchise
 
 <ul class="images-index-table">
-  <li><a href="#saw-set"><div class="images-inline-link">Saw Set<br><code>saw</code></div></a></li>
+  <li><a href="#saw"><div class="images-inline-link">Saw<br><code>saw</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="saw-set">Saw Set<a class="headerlink" href="#saw-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="saw">Saw<a class="headerlink" href="#saw" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>saw</code>
 <br><strong>Builders:</strong>
 <br>

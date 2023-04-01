@@ -1,6 +1,6 @@
 sections:
   wizard:
-    title: Wizarding World (of Harry Potter) Set
+    title: Wizarding World (of Harry Potter)
     builders:
       tmdb_collection: 435259, 1241
       tmdb_movie: 899082

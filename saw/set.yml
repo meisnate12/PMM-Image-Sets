@@ -1,6 +1,6 @@
 sections:
   saw:
-    title: Saw Set
+    title: Saw
     builders:
       tmdb_collection: 656
       tmdb_movie: 602734

@@ -1,6 +1,6 @@
 sections:
   nowyouseeme:
-    title: Now You See Me Set
+    title: Now You See Me
     builders:
       tmdb_collection: 382685
     styles:

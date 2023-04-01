@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Ocean's Franchise
 
 <ul class="images-index-table">
-  <li><a href="#ocean's-set"><div class="images-inline-link">Ocean's Set<br><code>ocean</code></div></a></li>
+  <li><a href="#ocean's"><div class="images-inline-link">Ocean's<br><code>ocean</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="ocean's-set">Ocean's Set<a class="headerlink" href="#ocean's-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="ocean's">Ocean's<a class="headerlink" href="#ocean's" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ocean</code>
 <br><strong>Builders:</strong>
 <br>

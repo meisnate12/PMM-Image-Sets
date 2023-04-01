@@ -1,6 +1,6 @@
 sections:
   avatar:
-    title: Avatar Set
+    title: Avatar
     builders:
       tmdb_collection: 87096
     styles:

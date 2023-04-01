@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Poirot Franchise
 
 <ul class="images-index-table">
-  <li><a href="#hercule-poirot-set"><div class="images-inline-link">Hercule Poirot Set<br><code>poirot</code></div></a></li>
+  <li><a href="#hercule-poirot"><div class="images-inline-link">Hercule Poirot<br><code>poirot</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="hercule-poirot-set">Hercule Poirot Set<a class="headerlink" href="#hercule-poirot-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="hercule-poirot">Hercule Poirot<a class="headerlink" href="#hercule-poirot" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>poirot</code>
 <br><strong>Builders:</strong>
 <br>

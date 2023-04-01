@@ -1,6 +1,6 @@
 sections:
   indiana:
-    title: Indiana Jones Set
+    title: Indiana Jones
     builders:
       tmdb_collection: 84
     styles:

@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Pirates Franchise
 
 <ul class="images-index-table">
-  <li><a href="#pirates-of-the-caribbean-set"><div class="images-inline-link">Pirates of the Caribbean Set<br><code>pirates</code></div></a></li>
+  <li><a href="#pirates-of-the-caribbean"><div class="images-inline-link">Pirates of the Caribbean<br><code>pirates</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="pirates-of-the-caribbean-set">Pirates of the Caribbean Set<a class="headerlink" href="#pirates-of-the-caribbean-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="pirates-of-the-caribbean">Pirates of the Caribbean<a class="headerlink" href="#pirates-of-the-caribbean" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>pirates</code>
 <br><strong>Builders:</strong>
 <br>

@@ -2,12 +2,12 @@
 This Image Set is for all Movies and Shows that are a part of the Rocky / Creed Franchise
 
 <ul class="images-index-table">
-  <li><a href="#creed-films"><div class="images-inline-link">Creed Films<br><code>creed</code></div></a></li>
-  <li><a href="#rocky-films"><div class="images-inline-link">Rocky Films<br><code>rocky</code></div></a></li>
+  <li><a href="#creed"><div class="images-inline-link">Creed<br><code>creed</code></div></a></li>
+  <li><a href="#rocky"><div class="images-inline-link">Rocky<br><code>rocky</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="creed-films">Creed Films<a class="headerlink" href="#creed-films" title="Permalink to this heading">¶</a></h3>
+<h3 id="creed">Creed<a class="headerlink" href="#creed" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>creed</code>
 <br><strong>Builders:</strong>
 <br>
@@ -28,7 +28,7 @@ This Image Set is for all Movies and Shows that are a part of the Rocky / Creed 
   </table>
 </div>
 
-<h3 id="rocky-films">Rocky Films<a class="headerlink" href="#rocky-films" title="Permalink to this heading">¶</a></h3>
+<h3 id="rocky">Rocky<a class="headerlink" href="#rocky" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>rocky</code>
 <br><strong>Builders:</strong>
 <br>

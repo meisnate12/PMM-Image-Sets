@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the James Bond Franchise
 
 <ul class="images-index-table">
-  <li><a href="#james-bond-set"><div class="images-inline-link">James Bond Set<br><code>bond</code></div></a></li>
+  <li><a href="#james-bond"><div class="images-inline-link">James Bond<br><code>bond</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="james-bond-set">James Bond Set<a class="headerlink" href="#james-bond-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="james-bond">James Bond<a class="headerlink" href="#james-bond" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>bond</code>
 <br><strong>Builders:</strong>
 <br>

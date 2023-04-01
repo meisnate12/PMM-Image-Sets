@@ -2,11 +2,11 @@
 This Image Set is for all Movies and Shows that are a part of the Mission-Impossible Franchise
 
 <ul class="images-index-table">
-  <li><a href="#mission-impossible-set"><div class="images-inline-link">Mission Impossible Set<br><code>mission</code></div></a></li>
+  <li><a href="#mission-impossible"><div class="images-inline-link">Mission Impossible<br><code>mission</code></div></a></li>
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="mission-impossible-set">Mission Impossible Set<a class="headerlink" href="#mission-impossible-set" title="Permalink to this heading">¶</a></h3>
+<h3 id="mission-impossible">Mission Impossible<a class="headerlink" href="#mission-impossible" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>mission</code>
 <br><strong>Builders:</strong>
 <br>
