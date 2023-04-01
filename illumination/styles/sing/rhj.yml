@@ -1,0 +1,9 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 15842
+  style_key: rhj
+  style_link: 122245
+  complete: true
+movies:
+  "Sing (2016)": {tpdb_poster: 15842}
+  "Sing 2 (2021)": {tpdb_poster: 202679}

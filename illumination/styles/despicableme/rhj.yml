@@ -1,0 +1,10 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 15839
+  style_key: rhj
+  style_link: 122245
+  complete: true
+movies:
+  "Despicable Me (2010)": {tpdb_poster: 15839}
+  "Despicable Me 2 (2013)": {tpdb_poster: 15840}
+  "Despicable Me 3 (2017)": {tpdb_poster: 15841}

@@ -1,1 +1,23 @@
-{}
+despicableme:
+  rhj:
+    collections:
+      "Despicable Me Collection": {tpdb_poster: null, url_poster: null}
+minions:
+  rhj:
+    collections:
+      "Minions Collection": {tpdb_poster: null, url_poster: null}
+lifeofpets:
+  agon024:
+    movies:
+      "Norman Television (2016)": {tpdb_poster: null, url_poster: null}
+      "Super Gidget (2019)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "The Secret Life of Pets Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Norman Television (2016)": {tpdb_poster: null, url_poster: null}
+      "Super Gidget (2019)": {tpdb_poster: null, url_poster: null}
+sing:
+  rhj:
+    collections:
+      "Sing Collection": {tpdb_poster: null, url_poster: null}

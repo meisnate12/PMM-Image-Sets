@@ -4,7 +4,11 @@ sections:
     builders:
       tmdb_collection: 86066
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+      rhj:
+    default_image: "Despicable Me (2010)"
     collections:
       "Despicable Me Collection":
       - "Despicable Me"
@@ -17,7 +21,11 @@ sections:
     builders:
       tmdb_collection: 544669
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+      rhj:
+    default_image: "Minions: The Rise of Gru (2022)"
     collections:
       "Minions Collection":
       - "Minions"
@@ -30,7 +38,11 @@ sections:
       tmdb_collection: 427084
       tmdb_movie: 624993, 424889
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+      rhj:
+    default_image: "The Secret Life of Pets (2016)"
     collections:
       "The Secret Life of Pets Collection":
       - "Secret Life of Pets"
@@ -46,7 +58,11 @@ sections:
     builders:
       tmdb_collection: 544670
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+      rhj:
+    default_image: "Sing (2016)"
     collections:
       "Sing Collection":
       - "Sing"
@@ -58,7 +74,11 @@ sections:
     builders:
       tmdb_movie: 50359, 73723, 360920, 502356
     styles:
+      agon024:
+      diiivoy:
       diiivoy_neon:
+      rhj:
+    default_image: "The Grinch (2018)"
     collections:
       "Illumination Entertainment Collection":
       - "Illumination Entertainment"
@@ -66,4 +86,3 @@ sections:
       "Hop (2011)": 50359
       "The Lorax (2012)": 73723
       "The Grinch (2018)": 360920
-      "The Super Mario Bros. Movie (2023)": 502356

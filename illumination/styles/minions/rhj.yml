@@ -1,0 +1,9 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 254841
+  style_key: rhj
+  style_link: 122245
+  complete: true
+movies:
+  "Minions (2015)": {tpdb_poster: 15844}
+  "Minions: The Rise of Gru (2022)": {tpdb_poster: 254841}
