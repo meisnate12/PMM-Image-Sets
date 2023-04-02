@@ -1,0 +1,13 @@
+info:
+  style_author: Aloha_Alona
+  style_image: 33018
+  style_key: aloha_alona
+  style_link: 20037
+  complete: true
+collections:
+  "Batman Collection": {tpdb_poster: 33017}
+movies:
+  "Batman (1989)": {tpdb_poster: 33018}
+  "Batman Returns (1992)": {tpdb_poster: 33019}
+  "Batman Forever (1995)": {tpdb_poster: 33020}
+  "Batman & Robin (1997)": {tpdb_poster: 33021}

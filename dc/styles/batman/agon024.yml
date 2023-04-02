@@ -1,0 +1,13 @@
+info:
+  style_author: agon024
+  style_image: 251179
+  style_key: agon024
+  style_link: 150024
+  complete: true
+collections:
+  "Batman Collection": {tpdb_poster: 251166}
+movies:
+  "Batman (1989)": {tpdb_poster: 251179}
+  "Batman Returns (1992)": {tpdb_poster: 251180}
+  "Batman Forever (1995)": {tpdb_poster: 251181}
+  "Batman & Robin (1997)": {tpdb_poster: 251182}

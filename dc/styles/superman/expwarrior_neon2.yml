@@ -1,0 +1,14 @@
+info:
+  style_author: EXPWARRIOR
+  style_image: 245145
+  style_key: expwarrior_neon2
+  style_link: 146989
+  track_seasons: true
+shows:
+  "Superman: The Animated Series (1996)":
+    tpdb_poster: 245145
+    seasons:
+      0: {tpdb_poster: 245146}
+      1: {tpdb_poster: 245147}
+      2: {tpdb_poster: 245148}
+      3: {tpdb_poster: 245149}

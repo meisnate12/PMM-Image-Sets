@@ -1,0 +1,11 @@
+info:
+  style_author: EXPWARRIOR
+  style_image: 254517
+  style_key: expwarrior_neon
+  style_link: 152067
+  track_seasons: true
+shows:
+  "Aquaman (1967)":
+    tpdb_poster: 254517
+    seasons:
+      1: {tpdb_poster: 254518}

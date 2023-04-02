@@ -1,0 +1,14 @@
+info:
+  style_author: mikenobbs
+  style_image: 46817
+  style_key: mikenobbs
+  style_link: 29360
+  track_seasons: true
+shows:
+  "Harley Quinn (2019)":
+    tpdb_poster: 46817
+    seasons:
+      0: {tpdb_poster: 318924}
+      1: {tpdb_poster: 46818}
+      2: {tpdb_poster: 61493}
+      3: {tpdb_poster: 254783}

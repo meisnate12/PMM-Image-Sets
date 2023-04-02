@@ -1,0 +1,9 @@
+info:
+  style_author: agon024
+  style_image: 88367
+  style_key: agon024
+  style_link: 56005
+  complete: true
+movies:
+  "Man of Steel (2013)": {tpdb_poster: 88367}
+  "Batman v Superman: Dawn of Justice (2016)": {tpdb_poster: 88368}

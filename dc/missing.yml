@@ -7,44 +7,76 @@ aquaman:
       "Aquaman Collection": {tpdb_poster: null, url_poster: null}
     shows:
       "Aquaman (1967)": {tpdb_poster: null, url_poster: null}
-  expwarrior:
+  expwarrior_neon:
     collections:
       "Aquaman Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Aquaman (2018)": {tpdb_poster: null, url_poster: null}
+  agon024:
+    collections:
+      "Aquaman Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Aquaman (1967)": {tpdb_poster: null, url_poster: null}
 thebatman:
   diiivoy_neon:
-    info:
-      style_image:
     collections:
       "The Batman Collection": {tpdb_poster: null, url_poster: null}
   rhj:
-    info:
-      style_image:
     collections:
       "The Batman Collection": {tpdb_poster: null, url_poster: null}
-batman_66:
-  diiivoy_neon:
-    collections:
-      "Batman '66 Collection": {tpdb_poster: null, url_poster: null}
-darkknight:
+flash:
   diiivoy_neon:
     info:
       style_image:
+    shows:
+      "The Flash (1990)": {tpdb_poster: null, url_poster: null}
+      "The Flash (2014)": {tpdb_poster: null, url_poster: null}
+  agon024:
+    info:
+      style_image:
+    collections:
+      "The Flash Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "The Flash (1990)": {tpdb_poster: null, url_poster: null}
+      "The Flash (2014)": {tpdb_poster: null, url_poster: null}
 harleyquinn:
   diiivoy_neon:
     collections:
       "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Harley Quinn (2019)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Harley Quinn (2019)": {tpdb_poster: null, url_poster: null}
+  mikenobbs:
+    collections:
+      "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)": {
+        tpdb_poster: null, url_poster: null}
+  agon024:
+    collections:
+      "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Harley Quinn (2019)": {tpdb_poster: null, url_poster: null}
 justiceleague:
   diiivoy_neon:
-    info:
-      style_image:
+    shows:
+      "Justice League (2001)": {tpdb_poster: null, url_poster: null}
   rhj:
-    info:
-      style_image:
+    shows:
+      "Justice League (2001)": {tpdb_poster: null, url_poster: null}
+  expwarrior_neon:
+    movies:
+      "Justice League (2017)": {tpdb_poster: null, url_poster: null}
+      "Zack Snyder's Justice League (2021)": {tpdb_poster: null, url_poster: null}
+  agon024:
+    movies:
+      "Zack Snyder's Justice League (2021)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Justice League (2001)": {tpdb_poster: null, url_poster: null}
 manofsteel:
   diiivoy_neon:
     collections:
@@ -52,8 +84,20 @@ manofsteel:
   rhj:
     collections:
       "Man of Steel Collection": {tpdb_poster: null, url_poster: null}
+  agon024:
+    collections:
+      "Man of Steel Collection": {tpdb_poster: null, url_poster: null}
+peacemaker:
+  agon024:
+    info:
+      style_image:
 shazam:
   rhj:
+    collections:
+      "Shazam! Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Shazam! Fury of the Gods (2023)": {tpdb_poster: null, url_poster: null}
+  agon024:
     collections:
       "Shazam! Collection": {tpdb_poster: null, url_poster: null}
     movies:
@@ -62,10 +106,41 @@ suicidesquad:
   rhj:
     collections:
       "Suicide Squad Collection": {tpdb_poster: null, url_poster: null}
+  agon024:
+    collections:
+      "Suicide Squad Collection": {tpdb_poster: null, url_poster: null}
 superman:
   diiivoy_neon:
     collections:
       "Superman Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Superman (1988)": {tpdb_poster: null, url_poster: null}
+      "Superman: The Animated Series (1996)": {tpdb_poster: null, url_poster: null}
+  expwarrior_neon:
+    collections:
+      "Superman Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Superman (1978)": {tpdb_poster: null, url_poster: null}
+      "Superman II (1980)": {tpdb_poster: null, url_poster: null}
+      "Superman III (1983)": {tpdb_poster: null, url_poster: null}
+      "Superman IV: The Quest for Peace (1987)": {tpdb_poster: null, url_poster: null}
+      "Superman Returns (2006)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Superman: The Animated Series (1996)": {tpdb_poster: null, url_poster: null,
+        seasons: {1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null,
+            url_poster: null}, 3: {tpdb_poster: null, url_poster: null}}}
+  expwarrior_neon2:
+    collections:
+      "Superman Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Superman (1978)": {tpdb_poster: null, url_poster: null}
+      "Superman II (1980)": {tpdb_poster: null, url_poster: null}
+      "Superman III (1983)": {tpdb_poster: null, url_poster: null}
+      "Superman IV: The Quest for Peace (1987)": {tpdb_poster: null, url_poster: null}
+      "Superman Returns (2006)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Superman (1988)": {tpdb_poster: null, url_poster: null, seasons: {1: {tpdb_poster: null,
+            url_poster: null}}}
 ungrouped:
   diiivoy_neon:
     movies:
@@ -95,7 +170,24 @@ ungrouped:
       "Joker (2019)": {tpdb_poster: null, url_poster: null}
       "Injustice (2021)": {tpdb_poster: null, url_poster: null}
       "DC League of Super-Pets (2022)": {tpdb_poster: null, url_poster: null}
+  agon024:
+    movies:
+      "Return to the Batcave - The Misadventures of Adam and Burt (2003)": {tpdb_poster: null,
+        url_poster: null}
+      "Catwoman (2004)": {tpdb_poster: null, url_poster: null}
+      "Constantine (2005)": {tpdb_poster: null, url_poster: null}
+      "V for Vendetta (2006)": {tpdb_poster: null, url_poster: null}
+      "Watchmen (2009)": {tpdb_poster: null, url_poster: null}
+      "Under the Hood (2009)": {tpdb_poster: null, url_poster: null}
+      "Jonah Hex (2010)": {tpdb_poster: null, url_poster: null}
+      "Green Lantern (2011)": {tpdb_poster: null, url_poster: null}
+      "Joker (2019)": {tpdb_poster: null, url_poster: null}
+      "Injustice (2021)": {tpdb_poster: null, url_poster: null}
+      "DC League of Super-Pets (2022)": {tpdb_poster: null, url_poster: null}
 wonderwoman:
   rhj:
+    collections:
+      "Wonder Woman Collection": {tpdb_poster: null, url_poster: null}
+  agon024:
     collections:
       "Wonder Woman Collection": {tpdb_poster: null, url_poster: null}
