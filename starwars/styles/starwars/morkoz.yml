@@ -4,6 +4,7 @@ info:
   style_key: morkoz
   style_link: 82588
   complete: true
+  track_seasons: true
 collections:
   "Star Wars: The Complete Collection": {tpdb_poster: 132698}
 movies:
@@ -22,13 +23,54 @@ movies:
   "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 132709}
 shows:
   "Star Wars: Ewoks (1985)": {tpdb_poster: 133262}
-  "Star Wars: The Clone Wars (2008)": {tpdb_poster: 132710}
-  "Star Wars Rebels (2014)": {tpdb_poster: 133153}
+  "Star Wars: The Clone Wars (2008)":
+    tpdb_poster: 132710
+    seasons:
+      1: {tpdb_poster: 132711}
+      2: {tpdb_poster: 132712}
+      3: {tpdb_poster: 132713}
+      4: {tpdb_poster: 132714}
+      5: {tpdb_poster: 132715}
+      6: {tpdb_poster: 132716}
+      7: {tpdb_poster: 132717}
+  "Star Wars Rebels (2014)":
+    tpdb_poster: 133153
+    seasons:
+      0: {tpdb_poster: 150008}
+      1: {tpdb_poster: 133154}
+      2: {tpdb_poster: 133155}
+      3: {tpdb_poster: 133156}
+      4: {tpdb_poster: 133157}
   "Star Wars: Forces of Destiny (2017)": {tpdb_poster: 133238}
-  "Star Wars Resistance (2018)": {tpdb_poster: 133230}
-  "The Mandalorian (2019)": {tpdb_poster: 132718}
-  "Star Wars: The Bad Batch (2021)": {tpdb_poster: 133235}
-  "Star Wars: Visions (2021)": {tpdb_poster: 177486}
-  "The Book of Boba Fett (2021)": {tpdb_poster: 133237}
-  "Star Wars: Andor (2022)": {tpdb_poster: 247257}
-  "Star Wars: Tales of the Jedi (2022)": {tpdb_poster: 268426}
+  "Star Wars Resistance (2018)":
+    tpdb_poster: 133230
+    seasons:
+      1: {tpdb_poster: 133231}
+      2: {tpdb_poster: 133232}
+  "The Mandalorian (2019)":
+    tpdb_poster: 132718
+    seasons:
+      1: {tpdb_poster: 132719}
+      2: {tpdb_poster: 132720}
+      3: {tpdb_poster: 331064}
+  "Star Wars: The Bad Batch (2021)":
+    tpdb_poster: 133235
+    seasons:
+      1: {tpdb_poster: 142381}
+      2: {tpdb_poster: 305696}
+  "Star Wars: Visions (2021)":
+    tpdb_poster: 177486
+    seasons:
+      1: {tpdb_poster: 177487}
+  "The Book of Boba Fett (2021)":
+    tpdb_poster: 133237
+    seasons:
+      1: {tpdb_poster: 186710}
+  "Star Wars: Andor (2022)":
+    tpdb_poster: 247257
+    seasons:
+      1: {tpdb_poster: 267449}
+  "Star Wars: Tales of the Jedi (2022)":
+    tpdb_poster: 268426
+    seasons:
+      1: {tpdb_poster: 279759}

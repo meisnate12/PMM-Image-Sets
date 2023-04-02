@@ -4,6 +4,7 @@ info:
   style_key: dsman124
   style_link: 95546
   complete: true
+  track_seasons: true
 collections:
   "LEGO Star Wars Collection": {tpdb_poster: 155946}
 movies:

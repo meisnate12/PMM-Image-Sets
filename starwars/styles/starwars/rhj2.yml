@@ -3,6 +3,7 @@ info:
   style_image: 145036
   style_key: rhj2
   style_link: 89606
+  track_seasons: true
 collections:
   "Star Wars: The Complete Collection": {tpdb_poster: 145035}
 movies:
@@ -23,3 +24,6 @@ shows:
   "Star Wars Rebels (2014)": {tpdb_poster: 145049}
   "Star Wars Resistance (2018)": {tpdb_poster: 145050}
   "The Mandalorian (2019)": {tpdb_poster: 145051}
+  "Star Wars: The Bad Batch (2021)": {tpdb_poster: 145052}
+  "The Book of Boba Fett (2021)": {tpdb_poster: 199477}
+  "Star Wars: Andor (2022)": {tpdb_poster: 266673}
