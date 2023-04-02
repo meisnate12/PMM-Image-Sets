@@ -1,5 +1,5 @@
-<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">¶</a></h1>
-Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
+<h1 id="marvel-properties">Marvel Properties<a class="headerlink" href="#marvel-properties" title="Permalink to this heading">Â¶</a></h1>
+This Image Set is for all Movies and Shows that are a property of Marvel.
 
 <ul class="images-index-table">
   <li><a href="#the-amazing-spider-man"><div class="images-inline-link">The Amazing Spider-Man<br><code>spiderman_amazing</code></div></a></li>
@@ -33,8 +33,8 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   <li><a href="#x-men"><div class="images-inline-link">X-Men<br><code>xmen</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="the-amazing-spider-man">The Amazing Spider-Man<a class="headerlink" href="#the-amazing-spider-man" title="Permalink to this heading">¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
+<h3 id="the-amazing-spider-man">The Amazing Spider-Man<a class="headerlink" href="#the-amazing-spider-man" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>spiderman_amazing</code>
 <br><strong>Builders:</strong>
 <br>
@@ -55,7 +55,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="ant-man">Ant-Man<a class="headerlink" href="#ant-man" title="Permalink to this heading">¶</a></h3>
+<h3 id="ant-man">Ant-Man<a class="headerlink" href="#ant-man" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>antman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -97,7 +97,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="the-avengers">The Avengers<a class="headerlink" href="#the-avengers" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-avengers">The Avengers<a class="headerlink" href="#the-avengers" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>avengers</code>
 <br><strong>Builders:</strong>
 <br>
@@ -139,7 +139,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="black-panther">Black Panther<a class="headerlink" href="#black-panther" title="Permalink to this heading">¶</a></h3>
+<h3 id="black-panther">Black Panther<a class="headerlink" href="#black-panther" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>blackpanther</code>
 <br><strong>Builders:</strong>
 <br>
@@ -181,7 +181,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="black-widow">Black Widow<a class="headerlink" href="#black-widow" title="Permalink to this heading">¶</a></h3>
+<h3 id="black-widow">Black Widow<a class="headerlink" href="#black-widow" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>blackwidow</code>
 <br><strong>Builders:</strong>
 <br>
@@ -223,7 +223,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="blade">Blade<a class="headerlink" href="#blade" title="Permalink to this heading">¶</a></h3>
+<h3 id="blade">Blade<a class="headerlink" href="#blade" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>blade</code>
 <br><strong>Builders:</strong>
 <br>
@@ -244,11 +244,12 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="captain-america">Captain America<a class="headerlink" href="#captain-america" title="Permalink to this heading">¶</a></h3>
+<h3 id="captain-america">Captain America<a class="headerlink" href="#captain-america" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>captainamerica</code>
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/131295" target="_blank" rel="noopener noreferrer">131295</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/362496" target="_blank" rel="noopener noreferrer">362496</a> (<a href="https://www.themoviedb.org/tv/88396" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -286,7 +287,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="captainmarvel">Captainmarvel<a class="headerlink" href="#captainmarvel" title="Permalink to this heading">¶</a></h3>
+<h3 id="captainmarvel">Captainmarvel<a class="headerlink" href="#captainmarvel" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>captainmarvel</code>
 <br><strong>Builders:</strong>
 <br>
@@ -328,11 +329,12 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="daredevil">Daredevil<a class="headerlink" href="#daredevil" title="Permalink to this heading">¶</a></h3>
+<h3 id="daredevil">Daredevil<a class="headerlink" href="#daredevil" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>daredevil</code>
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/9480" target="_blank" rel="noopener noreferrer">9480</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/281662" target="_blank" rel="noopener noreferrer">281662</a> (<a href="https://www.themoviedb.org/tv/61889" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -349,7 +351,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="deadpool">Deadpool<a class="headerlink" href="#deadpool" title="Permalink to this heading">¶</a></h3>
+<h3 id="deadpool">Deadpool<a class="headerlink" href="#deadpool" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>deadpool</code>
 <br><strong>Builders:</strong>
 <br>
@@ -371,7 +373,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="doctor-strange">Doctor Strange<a class="headerlink" href="#doctor-strange" title="Permalink to this heading">¶</a></h3>
+<h3 id="doctor-strange">Doctor Strange<a class="headerlink" href="#doctor-strange" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>doctorstrange</code>
 <br><strong>Builders:</strong>
 <br>
@@ -413,7 +415,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="eternals">Eternals<a class="headerlink" href="#eternals" title="Permalink to this heading">¶</a></h3>
+<h3 id="eternals">Eternals<a class="headerlink" href="#eternals" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>eternals</code>
 <br><strong>Builders:</strong>
 <br>
@@ -455,7 +457,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="fantastic-four">Fantastic Four<a class="headerlink" href="#fantastic-four" title="Permalink to this heading">¶</a></h3>
+<h3 id="fantastic-four">Fantastic Four<a class="headerlink" href="#fantastic-four" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>fantasticfour</code>
 <br><strong>Builders:</strong>
 <br>
@@ -477,7 +479,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="ghost-rider">Ghost Rider<a class="headerlink" href="#ghost-rider" title="Permalink to this heading">¶</a></h3>
+<h3 id="ghost-rider">Ghost Rider<a class="headerlink" href="#ghost-rider" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ghostrider</code>
 <br><strong>Builders:</strong>
 <br>
@@ -498,7 +500,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="guardians-of-the-galaxy">Guardians of the Galaxy<a class="headerlink" href="#guardians-of-the-galaxy" title="Permalink to this heading">¶</a></h3>
+<h3 id="guardians-of-the-galaxy">Guardians of the Galaxy<a class="headerlink" href="#guardians-of-the-galaxy" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>guardiansofthegalaxy</code>
 <br><strong>Builders:</strong>
 <br>
@@ -541,7 +543,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="the-hulk">The Hulk<a class="headerlink" href="#the-hulk" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-hulk">The Hulk<a class="headerlink" href="#the-hulk" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>hulk</code>
 <br><strong>Builders:</strong>
 <br>
@@ -583,7 +585,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="iron-man">Iron Man<a class="headerlink" href="#iron-man" title="Permalink to this heading">¶</a></h3>
+<h3 id="iron-man">Iron Man<a class="headerlink" href="#iron-man" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ironman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -625,7 +627,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="marvel-one-shots">Marvel One-Shots<a class="headerlink" href="#marvel-one-shots" title="Permalink to this heading">¶</a></h3>
+<h3 id="marvel-one-shots">Marvel One-Shots<a class="headerlink" href="#marvel-one-shots" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>oneshot</code>
 <br><strong>Builders:</strong>
 <br>
@@ -653,11 +655,12 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="the-punisher">The Punisher<a class="headerlink" href="#the-punisher" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-punisher">The Punisher<a class="headerlink" href="#the-punisher" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>punisher</code>
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/635362" target="_blank" rel="noopener noreferrer">635362</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/331980" target="_blank" rel="noopener noreferrer">331980</a> (<a href="https://www.themoviedb.org/tv/67178" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -674,7 +677,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="shang-chi">Shang-Chi<a class="headerlink" href="#shang-chi" title="Permalink to this heading">¶</a></h3>
+<h3 id="shang-chi">Shang-Chi<a class="headerlink" href="#shang-chi" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>shangchi</code>
 <br><strong>Builders:</strong>
 <br>
@@ -716,7 +719,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="spider-man">Spider-Man<a class="headerlink" href="#spider-man" title="Permalink to this heading">¶</a></h3>
+<h3 id="spider-man">Spider-Man<a class="headerlink" href="#spider-man" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>spiderman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -737,7 +740,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="spider-man-(avengers)">Spider-Man (Avengers)<a class="headerlink" href="#spider-man-(avengers)" title="Permalink to this heading">¶</a></h3>
+<h3 id="spider-man-(avengers)">Spider-Man (Avengers)<a class="headerlink" href="#spider-man-(avengers)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>spiderman_avengers</code>
 <br><strong>Builders:</strong>
 <br>
@@ -780,7 +783,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="spider-man-(spider-verse)">Spider-Man (Spider-Verse)<a class="headerlink" href="#spider-man-(spider-verse)" title="Permalink to this heading">¶</a></h3>
+<h3 id="spider-man-(spider-verse)">Spider-Man (Spider-Verse)<a class="headerlink" href="#spider-man-(spider-verse)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>spiderman_spiderverse</code>
 <br><strong>Builders:</strong>
 <br>
@@ -802,7 +805,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="thor">Thor<a class="headerlink" href="#thor" title="Permalink to this heading">¶</a></h3>
+<h3 id="thor">Thor<a class="headerlink" href="#thor" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>thor</code>
 <br><strong>Builders:</strong>
 <br>
@@ -844,11 +847,12 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">¶</a></h3>
+<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/177572" target="_blank" rel="noopener noreferrer">177572</a>, <a href="https://www.themoviedb.org/movie/526896" target="_blank" rel="noopener noreferrer">526896</a>, <a href="https://www.themoviedb.org/movie/9947" target="_blank" rel="noopener noreferrer">9947</a>, <a href="https://www.themoviedb.org/movie/27460" target="_blank" rel="noopener noreferrer">27460</a>, <a href="https://www.themoviedb.org/movie/299969" target="_blank" rel="noopener noreferrer">299969</a>, <a href="https://www.themoviedb.org/movie/647375" target="_blank" rel="noopener noreferrer">647375</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/263365" target="_blank" rel="noopener noreferrer">263365</a> (<a href="https://www.themoviedb.org/tv/1403" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/281485" target="_blank" rel="noopener noreferrer">281485</a> (<a href="https://www.themoviedb.org/tv/61550" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/284190" target="_blank" rel="noopener noreferrer">284190</a> (<a href="https://www.themoviedb.org/tv/38472" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/304219" target="_blank" rel="noopener noreferrer">304219</a> (<a href="https://www.themoviedb.org/tv/62126" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/317953" target="_blank" rel="noopener noreferrer">317953</a> (<a href="https://www.themoviedb.org/tv/62127" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/326490" target="_blank" rel="noopener noreferrer">326490</a> (<a href="https://www.themoviedb.org/tv/62285" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/320558" target="_blank" rel="noopener noreferrer">320558</a> (<a href="https://www.themoviedb.org/tv/68716" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/332027" target="_blank" rel="noopener noreferrer">332027</a> (<a href="https://www.themoviedb.org/tv/67466" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/341455" target="_blank" rel="noopener noreferrer">341455</a> (<a href="https://www.themoviedb.org/tv/66190" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/364038" target="_blank" rel="noopener noreferrer">364038</a> (<a href="https://www.themoviedb.org/tv/88987" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/367147" target="_blank" rel="noopener noreferrer">367147</a> (<a href="https://www.themoviedb.org/tv/91363" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/368611" target="_blank" rel="noopener noreferrer">368611</a> (<a href="https://www.themoviedb.org/tv/92749" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/362392" target="_blank" rel="noopener noreferrer">362392</a> (<a href="https://www.themoviedb.org/tv/85271" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/362472" target="_blank" rel="noopener noreferrer">362472</a> (<a href="https://www.themoviedb.org/tv/84958" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/367146" target="_blank" rel="noopener noreferrer">367146</a> (<a href="https://www.themoviedb.org/tv/88329" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/368612" target="_blank" rel="noopener noreferrer">368612</a> (<a href="https://www.themoviedb.org/tv/92782" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/368613" target="_blank" rel="noopener noreferrer">368613</a> (<a href="https://www.themoviedb.org/tv/92783" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -861,11 +865,25 @@ Below is a table of the available sets that can be used on Movie libraries, you 
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/78444" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/4475" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/marvel/styles/ungrouped/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/4475" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/87080" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/marvel/styles/ungrouped/rhj2.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj2</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/87080" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
 
-<h3 id="venom">Venom<a class="headerlink" href="#venom" title="Permalink to this heading">¶</a></h3>
+<h3 id="venom">Venom<a class="headerlink" href="#venom" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>venom</code>
 <br><strong>Builders:</strong>
 <br>
@@ -886,7 +904,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="werewolf-by-night">Werewolf by Night<a class="headerlink" href="#werewolf-by-night" title="Permalink to this heading">¶</a></h3>
+<h3 id="werewolf-by-night">Werewolf by Night<a class="headerlink" href="#werewolf-by-night" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>werewolf</code>
 <br><strong>Builders:</strong>
 <br>
@@ -921,7 +939,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="the-wolverine">The Wolverine<a class="headerlink" href="#the-wolverine" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-wolverine">The Wolverine<a class="headerlink" href="#the-wolverine" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>wolverine</code>
 <br><strong>Builders:</strong>
 <br>
@@ -942,7 +960,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
   </table>
 </div>
 
-<h3 id="x-men">X-Men<a class="headerlink" href="#x-men" title="Permalink to this heading">¶</a></h3>
+<h3 id="x-men">X-Men<a class="headerlink" href="#x-men" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>xmen</code>
 <br><strong>Builders:</strong>
 <br>

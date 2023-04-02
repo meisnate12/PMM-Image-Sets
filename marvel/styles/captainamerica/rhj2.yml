@@ -8,3 +8,5 @@ movies:
   "Captain America: The First Avenger (2011)": {tpdb_poster: 139858}
   "Captain America: The Winter Soldier (2014)": {tpdb_poster: 139862}
   "Captain America: Civil War (2016)": {tpdb_poster: 139866}
+shows:
+  "The Falcon and the Winter Soldier (2021)": {tpdb_poster: 139878}

@@ -4,6 +4,7 @@ info:
   style_key: diiivoy_neon
   style_link: 71510
   complete: true
+  track_seasons: true
 collections:
   "Guardians of the Galaxy Collection": {tpdb_poster: 291146}
 movies:

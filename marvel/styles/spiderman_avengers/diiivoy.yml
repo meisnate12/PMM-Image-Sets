@@ -3,9 +3,11 @@ info:
   style_image: 65413
   style_key: diiivoy
   style_link: 41596
+  complete: true
 collections:
   "Spider-Man (Avengers) Collection": {tpdb_poster: 65414}
 movies:
   "Spider-Man: Homecoming (2017)": {tpdb_poster: 65412}
   "Spider-Man: Far From Home (2019)": {tpdb_poster: 65413}
   "Spider-Man: No Way Home (2021)": {tpdb_poster: 250574}
+  "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: 287943}

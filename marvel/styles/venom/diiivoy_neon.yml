@@ -3,7 +3,9 @@ info:
   style_image: 153724
   style_key: diiivoy_neon
   style_link: 78444
+  complete: true
 collections:
   "Venom Collection": {tpdb_poster: 153723}
 movies:
   "Venom (2018)": {tpdb_poster: 132637}
+  "Venom: Let There Be Carnage (2021)": {tpdb_poster: 153724}
