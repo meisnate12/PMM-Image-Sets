@@ -3,14 +3,18 @@ sections:
     title: Aquaman
     builders:
       tmdb_collection: 573693
+      tvdb_show: 82143
     styles:
       diiivoy_neon:
       rhj:
+      expwarrior:
     collections:
       "Aquaman Collection":
       - "Aquaman"
     movies:
       "Aquaman (2018)": 297802
+    shows:
+      "Aquaman (1967)": 82143
   batman:
     title: Batman
     builders:

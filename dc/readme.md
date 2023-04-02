@@ -24,6 +24,7 @@ This Image Set is for all Movies and Shows that are a property of DC.
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/573693" target="_blank" rel="noopener noreferrer">573693</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/82143" target="_blank" rel="noopener noreferrer">82143</a> (<a href="https://www.themoviedb.org/tv/10724" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -41,6 +42,13 @@ This Image Set is for all Movies and Shows that are a property of DC.
           <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/aquaman/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/152067" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/aquaman/expwarrior.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>expwarrior</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/152067" target="_blank" rel="noopener noreferrer">EXPWARRIOR</a><br>
         </div>
       </td>
     </tr>

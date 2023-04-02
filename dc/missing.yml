@@ -1,7 +1,17 @@
 aquaman:
+  diiivoy_neon:
+    shows:
+      "Aquaman (1967)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Aquaman Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Aquaman (1967)": {tpdb_poster: null, url_poster: null}
+  expwarrior:
+    collections:
+      "Aquaman Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Aquaman (2018)": {tpdb_poster: null, url_poster: null}
 thebatman:
   diiivoy_neon:
     info:
