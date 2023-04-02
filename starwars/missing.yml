@@ -1,7 +1,5 @@
 documentary:
   agon024:
-    info:
-      style_image:
     collections:
       "Star Wars: Documentary Collection": {tpdb_poster: null, url_poster: null}
 ewok:
@@ -45,8 +43,60 @@ starwars:
   rhj:
     movies:
       "The Star Wars Holiday Special (1978)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Rebels: Spark of Rebellion (2014)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Rebels: The Siege of Lothal (2015)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Star Wars: Droids (1985)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Ewoks (1985)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Clone Wars (2003)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Forces of Destiny (2017)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Galaxy of Adventures (2018)": {tpdb_poster: null, url_poster: null}
+      "Disney Gallery / Star Wars: The Mandalorian (2020)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: The Bad Batch (2021)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Visions (2021)": {tpdb_poster: null, url_poster: null}
+      "The Book of Boba Fett (2021)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Andor (2022)": {tpdb_poster: null, url_poster: null}
+      "Disney Gallery / Star Wars: The Book of Boba Fett (2022)": {tpdb_poster: null,
+        url_poster: null}
+      "Star Wars: Tales of the Jedi (2022)": {tpdb_poster: null, url_poster: null}
   rhj2:
     movies:
       "The Star Wars Holiday Special (1978)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Rebels: Spark of Rebellion (2014)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Rebels: The Siege of Lothal (2015)": {tpdb_poster: null, url_poster: null}
     shows:
+      "Star Wars: Droids (1985)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Ewoks (1985)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Clone Wars (2003)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Forces of Destiny (2017)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Galaxy of Adventures (2018)": {tpdb_poster: null, url_poster: null}
+      "Disney Gallery / Star Wars: The Mandalorian (2020)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: The Bad Batch (2021)": {tpdb_poster: null, url_poster: null}
       "Star Wars: Visions (2021)": {tpdb_poster: null, url_poster: null}
+      "The Book of Boba Fett (2021)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Andor (2022)": {tpdb_poster: null, url_poster: null}
+      "Disney Gallery / Star Wars: The Book of Boba Fett (2022)": {tpdb_poster: null,
+        url_poster: null}
+      "Star Wars: Tales of the Jedi (2022)": {tpdb_poster: null, url_poster: null}
+  rhj3:
+    movies:
+      "Star Wars Rebels: Spark of Rebellion (2014)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Rebels: The Siege of Lothal (2015)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Disney Gallery / Star Wars: The Book of Boba Fett (2022)": {tpdb_poster: null,
+        url_poster: null}
+  agon024:
+    movies:
+      "Star Wars Rebels: Spark of Rebellion (2014)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Rebels: The Siege of Lothal (2015)": {tpdb_poster: null, url_poster: null}
+  morkoz:
+    movies:
+      "Star Wars Rebels: Spark of Rebellion (2014)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Rebels: The Siege of Lothal (2015)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Star Wars: Droids (1985)": {tpdb_poster: null, url_poster: null}
+      "Star Wars: Clone Wars (2003)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Galaxy of Adventures (2018)": {tpdb_poster: null, url_poster: null}
+      "Disney Gallery / Star Wars: The Mandalorian (2020)": {tpdb_poster: null, url_poster: null}
+      "Disney Gallery / Star Wars: The Book of Boba Fett (2022)": {tpdb_poster: null,
+        url_poster: null}

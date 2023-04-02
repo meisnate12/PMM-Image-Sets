@@ -104,6 +104,7 @@ sections:
     title: LEGO Star Wars
     builders:
       tmdb_collection: 302331
+      tvdb_show: 250498
     styles:
       agon024:
       dsman124:
@@ -117,6 +118,8 @@ sections:
       "LEGO Star Wars: Bombad Bounty (2010)": 79158
       "LEGO Star Wars: The Padawan Menace (2011)": 70608
       "LEGO Star Wars: The Empire Strikes Out (2012)": 136406
+    shows:
+      "LEGO Star Wars: The Freemaker Adventures (2016)": 250498
   lego_seasonal:
     title: LEGO Star Wars (Seasonal)
     builders:
@@ -153,8 +156,10 @@ sections:
   starwars:
     title: Star Wars
     builders:
-      trakt_list: https://trakt.tv/users/hitsquid/lists/star-wars-the-complete-saga
+      trakt_list: https://trakt.tv/users/execcac/lists/complete-star-wars-canon-time-line
       tmdb_movie: 74849
+      tvdb_show: 393189, 356114, 72244, 70399, 385376, 393190, 393589, 73697, 380352,
+        419714, 420659
     styles:
       rhj:
       rhj2:
@@ -174,20 +179,30 @@ sections:
       "Star Wars: Episode II - Attack of the Clones (2002)": 1894
       "Star Wars: Episode III - Revenge of the Sith (2005)": 1895
       "Star Wars: The Clone Wars (2008)": 12180
+      "Star Wars Rebels: Spark of Rebellion (2014)": 287663
+      "Star Wars Rebels: The Siege of Lothal (2015)": 337755
       "Star Wars: The Force Awakens (2015)": 140607
       "Rogue One: A Star Wars Story (2016)": 330459
       "Star Wars: The Last Jedi (2017)": 181808
       "Solo: A Star Wars Story (2018)": 348350
       "Star Wars: The Rise of Skywalker (2019)": 181812
     shows:
+      "Star Wars: Droids (1985)": 70399
+      "Star Wars: Ewoks (1985)": 73697
+      "Star Wars: Clone Wars (2003)": 72244
       "Star Wars: The Clone Wars (2008)": 83268
       "Star Wars Rebels (2014)": 283468
+      "Star Wars: Forces of Destiny (2017)": 330710
+      "Star Wars Galaxy of Adventures (2018)": 356114
       "Star Wars Resistance (2018)": 351575
       "The Mandalorian (2019)": 361753
+      "Disney Gallery / Star Wars: The Mandalorian (2020)": 380352
       "Star Wars: The Bad Batch (2021)": 385376
-      "The Book of Boba Fett (2021)": 393589
       "Star Wars: Visions (2021)": 393190
-      "Obi-Wan Kenobi (2022)": 393199
+      "The Book of Boba Fett (2021)": 393589
+      "Star Wars: Andor (2022)": 393189
+      "Disney Gallery / Star Wars: The Book of Boba Fett (2022)": 419714
+      "Star Wars: Tales of the Jedi (2022)": 420659
   ungrouped:
     title: Ungrouped
     builders:

@@ -21,11 +21,18 @@ movies:
   "Solo: A Star Wars Story (2018)": {tpdb_poster: 124635}
   "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 124636}
 shows:
+  "Star Wars: Droids (1985)": {tpdb_poster: 124818}
+  "Star Wars: Ewoks (1985)": {tpdb_poster: 124819}
+  "Star Wars: Clone Wars (2003)": {tpdb_poster: 124820}
   "Star Wars: The Clone Wars (2008)": {tpdb_poster: 124631}
   "Star Wars Rebels (2014)": {tpdb_poster: 124647}
+  "Star Wars: Forces of Destiny (2017)": {tpdb_poster: 124657}
+  "Star Wars Galaxy of Adventures (2018)": {tpdb_poster: 124661}
   "Star Wars Resistance (2018)": {tpdb_poster: 124653}
   "The Mandalorian (2019)": {tpdb_poster: 124658}
+  "Disney Gallery / Star Wars: The Mandalorian (2020)": {tpdb_poster: 124663}
   "Star Wars: The Bad Batch (2021)": {tpdb_poster: 124662}
-  "The Book of Boba Fett (2021)": {tpdb_poster: 124664}
   "Star Wars: Visions (2021)": {tpdb_poster: 179814}
-  "Obi-Wan Kenobi (2022)": {tpdb_poster: 235862}
+  "The Book of Boba Fett (2021)": {tpdb_poster: 124664}
+  "Star Wars: Andor (2022)": {tpdb_poster: 266674}
+  "Star Wars: Tales of the Jedi (2022)": {tpdb_poster: 281333}
