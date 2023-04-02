@@ -1,0 +1,29 @@
+info:
+  style_author: agon024
+  style_image: 300609
+  style_key: agon024
+  style_link: 177468
+  complete: true
+  track_seasons: true
+collections:
+  "Yellowstone Collection": {tpdb_poster: 300602}
+shows:
+  "Yellowstone (2018)":
+    tpdb_poster: 300609
+    seasons:
+      0: {tpdb_poster: 300610}
+      1: {tpdb_poster: 300611}
+      2: {tpdb_poster: 300612}
+      3: {tpdb_poster: 300613}
+      4: {tpdb_poster: 300614}
+      5: {tpdb_poster: 300615}
+  "1883 (2021)":
+    tpdb_poster: 300603
+    seasons:
+      0: {tpdb_poster: 300604}
+      1: {tpdb_poster: 300605}
+  "1923 (2022)":
+    tpdb_poster: 300606
+    seasons:
+      0: {tpdb_poster: 300607}
+      1: {tpdb_poster: 300608}

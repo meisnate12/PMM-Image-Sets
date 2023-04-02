@@ -1,0 +1,17 @@
+info:
+  style_author: MBF
+  style_image: 18089
+  style_key: mbf
+  style_link: 10208
+  complete: true
+  track_seasons: true
+shows:
+  "Breaking Bad (2008)":
+    tpdb_poster: 18089
+    seasons:
+      0: {tpdb_poster: 20568}
+      1: {tpdb_poster: 18090}
+      2: {tpdb_poster: 18091}
+      3: {tpdb_poster: 18092}
+      4: {tpdb_poster: 18093}
+      5: {tpdb_poster: 18094}

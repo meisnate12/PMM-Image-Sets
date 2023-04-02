@@ -1,0 +1,19 @@
+info:
+  style_author: pmbasehore
+  style_image: 39004
+  style_key: pmbasehore
+  style_link: 23801
+  complete: true
+  track_seasons: true
+shows:
+  "MacGyver (1985)":
+    tpdb_poster: 39004
+    seasons:
+      0: {tpdb_poster: 39005}
+      1: {tpdb_poster: 39006}
+      2: {tpdb_poster: 39007}
+      3: {tpdb_poster: 39008}
+      4: {tpdb_poster: 39009}
+      5: {tpdb_poster: 39010}
+      6: {tpdb_poster: 39011}
+      7: {tpdb_poster: 39012}

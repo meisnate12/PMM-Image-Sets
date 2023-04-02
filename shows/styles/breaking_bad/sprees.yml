@@ -1,0 +1,17 @@
+info:
+  style_author: sprees
+  style_image: 66405
+  style_key: sprees
+  style_link: 42166
+  complete: true
+  track_seasons: true
+shows:
+  "Breaking Bad (2008)":
+    tpdb_poster: 66405
+    seasons:
+      0: {tpdb_poster: 66406}
+      1: {tpdb_poster: 66407}
+      2: {tpdb_poster: 66408}
+      3: {tpdb_poster: 66409}
+      4: {tpdb_poster: 66410}
+      5: {tpdb_poster: 66411}

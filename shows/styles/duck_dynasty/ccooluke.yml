@@ -1,0 +1,22 @@
+info:
+  style_author: Ccooluke
+  style_image: 88672
+  style_key: ccooluke
+  style_link: 56164
+  complete: true
+  track_seasons: true
+shows:
+  "Duck Dynasty (2012)":
+    tpdb_poster: 88672
+    seasons:
+      1: {tpdb_poster: 88673}
+      2: {tpdb_poster: 88674}
+      3: {tpdb_poster: 88675}
+      4: {tpdb_poster: 88676}
+      5: {tpdb_poster: 88677}
+      6: {tpdb_poster: 88678}
+      7: {tpdb_poster: 88679}
+      8: {tpdb_poster: 88680}
+      9: {tpdb_poster: 88681}
+      10: {tpdb_poster: 88682}
+      11: {tpdb_poster: 88683}

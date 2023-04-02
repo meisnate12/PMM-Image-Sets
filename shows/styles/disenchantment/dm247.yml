@@ -1,0 +1,13 @@
+info:
+  style_author: dm247
+  style_image: 66499
+  style_key: dm247
+  style_link: 42223
+  complete: true
+  track_seasons: true
+shows:
+  "Disenchantment (2018)":
+    tpdb_poster: 66499
+    seasons:
+      1: {tpdb_poster: 66500}
+      2: {tpdb_poster: 126272}

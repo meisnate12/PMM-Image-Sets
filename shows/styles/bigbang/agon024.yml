@@ -1,0 +1,24 @@
+info:
+  style_author: agon024
+  style_image: 151228
+  style_key: agon024
+  style_link: 93001
+  complete: true
+  track_seasons: true
+shows:
+  "The Big Bang Theory (2007)":
+    tpdb_poster: 151228
+    seasons:
+      0: {tpdb_poster: 151229}
+      1: {tpdb_poster: 151230}
+      2: {tpdb_poster: 151231}
+      3: {tpdb_poster: 151232}
+      4: {tpdb_poster: 151233}
+      5: {tpdb_poster: 151234}
+      6: {tpdb_poster: 151235}
+      7: {tpdb_poster: 151236}
+      8: {tpdb_poster: 151237}
+      9: {tpdb_poster: 151238}
+      10: {tpdb_poster: 151239}
+      11: {tpdb_poster: 151240}
+      12: {tpdb_poster: 151241}

@@ -1,0 +1,16 @@
+info:
+  style_author: DIIIVOY
+  style_image: 23435
+  style_key: diiivoy
+  style_link: 13829
+  complete: true
+  track_seasons: true
+shows:
+  "Heroes (2006)":
+    tpdb_poster: 23435
+    seasons:
+      0: {tpdb_poster: 23436}
+      1: {tpdb_poster: 23437}
+      2: {tpdb_poster: 23438}
+      3: {tpdb_poster: 23439}
+      4: {tpdb_poster: 23440}

@@ -1,0 +1,19 @@
+info:
+  style_author: squire23
+  style_image: 17333
+  style_key: squire23
+  style_link: 9694
+  complete: true
+  track_seasons: true
+shows:
+  "Futurama (1999)":
+    tpdb_poster: 17333
+    seasons:
+      0: {tpdb_poster: 17739}
+      1: {tpdb_poster: 17334}
+      2: {tpdb_poster: 17335}
+      3: {tpdb_poster: 17336}
+      4: {tpdb_poster: 17337}
+      5: {tpdb_poster: 17338}
+      6: {tpdb_poster: 17339}
+      7: {tpdb_poster: 17340}

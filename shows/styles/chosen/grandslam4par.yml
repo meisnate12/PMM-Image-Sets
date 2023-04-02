@@ -1,0 +1,15 @@
+info:
+  style_author: GrandSlam4Par
+  style_image: 188461
+  style_key: grandslam4par
+  style_link: 114305
+  complete: true
+  track_seasons: true
+shows:
+  "The Chosen (2019)":
+    tpdb_poster: 188461
+    seasons:
+      0: {tpdb_poster: 188462}
+      1: {tpdb_poster: 188463}
+      2: {tpdb_poster: 188464}
+      3: {tpdb_poster: 292433}

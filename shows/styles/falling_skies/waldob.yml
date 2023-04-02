@@ -1,0 +1,17 @@
+info:
+  style_author: waldob
+  style_image: 93908
+  style_key: waldob
+  style_link: 59666
+  complete: true
+  track_seasons: true
+shows:
+  "Falling Skies (2011)":
+    tpdb_poster: 93908
+    seasons:
+      0: {tpdb_poster: 93909}
+      1: {tpdb_poster: 93910}
+      2: {tpdb_poster: 93911}
+      3: {tpdb_poster: 93912}
+      4: {tpdb_poster: 93913}
+      5: {tpdb_poster: 93914}

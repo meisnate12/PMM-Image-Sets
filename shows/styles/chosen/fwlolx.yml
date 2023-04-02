@@ -1,0 +1,15 @@
+info:
+  style_author: fwlolx
+  style_image: 180790
+  style_key: fwlolx
+  style_link: 109998
+  complete: true
+  track_seasons: true
+shows:
+  "The Chosen (2019)":
+    tpdb_poster: 180790
+    seasons:
+      0: {tpdb_poster: 186735}
+      1: {tpdb_poster: 180791}
+      2: {tpdb_poster: 180792}
+      3: {tpdb_poster: 290725}

@@ -1,0 +1,16 @@
+info:
+  style_author: Aloha_Alona
+  style_image: 105020
+  style_key: aloha_alona
+  style_link: 66074
+  complete: true
+  track_seasons: true
+shows:
+  "Heroes (2006)":
+    tpdb_poster: 105020
+    seasons:
+      0: {tpdb_poster: 105021}
+      1: {tpdb_poster: 105022}
+      2: {tpdb_poster: 105023}
+      3: {tpdb_poster: 105024}
+      4: {tpdb_poster: 105025}

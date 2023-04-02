@@ -1,0 +1,16 @@
+info:
+  style_author: CeeFight
+  style_image: 35256
+  style_key: ceefight2
+  style_link: 21548
+  complete: true
+  track_seasons: true
+shows:
+  "The Magicians (2015)":
+    tpdb_poster: 35256
+    seasons:
+      1: {tpdb_poster: 35257}
+      2: {tpdb_poster: 35258}
+      3: {tpdb_poster: 35259}
+      4: {tpdb_poster: 35260}
+      5: {tpdb_poster: 35261}
