@@ -1,21 +1,14 @@
 info:
-  asset_image: https://theposterdb.com/api/assets/174202
-  set_key: diiivoy
-  set_link: https://theposterdb.com/set/106184
-  set_author: DIIIVOY
-
+  style_author: DIIIVOY
+  style_image: 174202
+  style_key: diiivoy_neon
+  style_link: 106184
+  complete: true
+  track_seasons: true
 collections:
   "Sony Pictures Animation Collection": {tpdb_poster: 174163}
   "Cloudy with a Chance of Meatballs Collection": {tpdb_poster: 174164}
   "Hotel Transylvania Collection": {tpdb_poster: 174165}
-  "Open Season Collection": {tpdb_poster: 174166}
-  "Peter Rabbit Collection": {tpdb_poster: 174167}
-  "Spider-Man: Spider-Verse Collection": {tpdb_poster: 174168}
-  "Surf's Up Collection": {tpdb_poster: 174169}
-  "The Angry Birds Collection": {tpdb_poster: 174170}
-  "The Smurfs (Theatrical) Collection": {tpdb_poster: 174171}
-set:
-  "Cloudy with a Chance of Meatballs":
-    tpdb_poster: 174201
-  "Hotel Transylvania: The Series":
-    tpdb_poster: 174202
+shows:
+  "Cloudy with a Chance of Meatballs (2017)": {tpdb_poster: 174201}
+  "Hotel Transylvania: The Series (2017)": {tpdb_poster: 174202}

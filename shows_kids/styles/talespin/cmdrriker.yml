@@ -1,0 +1,12 @@
+info:
+  style_author: CmdrRiker
+  style_image: 191361
+  style_key: cmdrriker
+  style_link: 115836
+  complete: true
+  track_seasons: true
+shows:
+  "TaleSpin (1990)":
+    tpdb_poster: 191361
+    seasons:
+      1: {tpdb_poster: 191362}

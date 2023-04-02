@@ -1,0 +1,16 @@
+info:
+  style_author: Aloha_Alona
+  style_image: 259116
+  style_key: aloha_alona
+  style_link: 154497
+  complete: true
+  track_seasons: true
+shows:
+  "G.I. Joe: A Real American Hero (1983)":
+    tpdb_poster: 259116
+    seasons:
+      0: {tpdb_poster: 259117}
+      1: {tpdb_poster: 259118}
+      2: {tpdb_poster: 259119}
+      3: {tpdb_poster: 259120}
+      4: {tpdb_poster: 259121}

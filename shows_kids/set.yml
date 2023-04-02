@@ -1,437 +1,285 @@
 sections:
-    title: Walt Disney Set
-  disney:
-    styles:
-      default: diiivoy_neon
-      diiivoy_neon:
-        pmm: disney/diiivoy_neon
-    collections:
-      "Walt Disney Animation Studios":
-        - "Disney Animation Studios"
-        - "Disney Animation"
-      "Pixar Animation Studios":
-        - "Pixar Collection"
-        - "Pixar"
-        - "Pixar Studios"
-        - "Pixar Animation"
-      "Pixar Shorts Collection":
-        - "Pixar Shorts"
-      "Toy Story Collection":
-        - "Toy Story"
-      "Monsters, Inc. Collection":
-        - "Monsters, Inc."
-        - "Monsters, Inc"
-      "Finding Nemo Collection":
-        - "Finding Nemo"
-      "The Incredibles Collection":
-        - "The Incredibles"
-        - "Incredibles Collection"
-        - "Incredibles"
-      "Cars Collection":
-        - "Cars"
-      "Bolt Collection":
-        - "Bolt"
-      "Frozen Complete Collection":
-        - "Frozen Complete"
-        - "Frozen Collection"
-        - "Frozen"
-      "Planes Collection":
-        - "Planes"
-      "Tangled Collection":
-        - "Tangled"
-      "Wreck-It Ralph Collection":
-        - "Wreck-It Ralph"
-      "101 Dalmatians (Animated) Collection":
-        - "101 Dalmatians (Animated)"
-      "Aladdin Complete Collection":
-        - "Aladdin Complete"
-        - "Aladdin"
-      "Atlantis Collection":
-        - "Atlantis"
-      "Bambi Collection":
-        - "Bambi"
-      "Beauty and the Beast Collection":
-        - "Beauty and the Beast"
-      "Brother Bear Collection":
-        - "Brother Bear"
-      "Cinderella Collection":
-        - "Cinderella"
-      "The Fox and the Hound Collection":
-        - "The Fox and the Hound"
-        - "Fox and the Hound"
-      "A Goofy Movie Collection":
-        - "A Goofy Movie"
-        - "Goofy Movie"
-      "Disney's Hercules Collection":
-        - "Disney's Hercules"
-        - "Hercules"
-      "The Jungle Book Collection":
-        - "The Jungle Book"
-        - "Jungle Book"
-      "Lady and the Tramp Collection":
-        - "Lady and the Tramp"
-      "The Hunchback of Notre Dame Collection":
-        - "The Hunchback of Notre Dame"
-        - "Hunchback of Notre Dame"
-      "Lilo & Stitch Collection":
-        - "Lilo & Stitch"
-      "The Lion King Collection":
-        - "The Lion King"
-        - "Lion King"
-      "The Little Mermaid Collection":
-        - "The Little Mermaid"
-        - "Little Mermaid"
-      "Mulan Collection":
-        - "Mulan"
-      "The Emperor's New Groove Collection":
-        - "The Emperor's New Groove"
-        - "Emperor's New Groove"
-      "Peter Pan Collection":
-        - "Peter Pan"
-      "Pocahontas Collection":
-        - "Pocahontas"
-      "Tarzan (Animation) Collection":
-        - "Tarzan (Animation)"
-        - "Tarzan"
-      "Tinker Bell Collection":
-        - "Tinker Bell"
-      "Winnie the Pooh Collection":
-        - "Winnie the Pooh"
-      "Caballeros Collection":
-        - "Caballeros"
-      "Fantasia Collection":
-        - "Fantasia"
-      "The Rescuers Collection":
-        - "The Rescuers"
-        - "Rescuers"
-      "Sleeping Beauty Collection":
-        - "Sleeping Beauty"
-      "Disney Live-Action Remakes":
-        - "Disney Live-Action"
-    builders:
-      trakt_list:
-        - https://trakt.tv/users/darkman1498/lists/disney-animated-series
-    shows:
-      "Sam and Friends": 253697
-      "The Muppet Show": 72476
-      "Muppet Babies": 75216
-      "Jim Henson's Little Muppet Monsters": 71548
-      "The Wuzzles": 70964
-      "Disney's Adventures of the Gummi Bears": 76081
-      "DuckTales": 75931
-      "The New Adventures of Winnie the Pooh": 78442
-      "Chip 'n Dale Rescue Rangers": 75477
-      "The Jim Henson Hour": 70713
-      "TaleSpin": 75476
-      "Doug": 72210
-      "Darkwing Duck": 75475
-      "Goof Troop": 78250
-      "The Little Mermaid": 77088
-      "Raw Toonage": 71686
-      "Bonkers": 72013
-      "Marsupilami": 71595
-      "Aladdin": 73981
-      "Gargoyles": 72885
-      "The Shnookums and Meat Funny Cartoon Show": 76300
-      "Timon & Pumbaa": 70559
-      "Muppets Tonight": 78801
-      "Adventures from the Book of Virtues": 76598
-      "Quack Pack": 76599
-      "Mighty Ducks: The Animated Series": 76059
-      "Jungle Cubs": 73717
-      "Nightmare Ned": 78143
-      "101 Dalmatians: The Series": 73719
-      "Recess": 71780
-      "Pepper Ann": 73720
-      "Disney's Hercules": 72163
-      "PB&J Otter": 74195
-      "Rolie Polie Olie": 77147
-      "Mickey Mouse Works": 70958
-      "The Weekenders": 79669
-      "Teacher's Pet": 73733
-      "Buzz Lightyear of Star Command": 72474
-      "House of Mouse": 74189
-      "Lloyd in Space": 74174
-      "The Legend of Tarzan": 76600
-      "The Proud Family": 76814
-      "Stanley": 79373
-      "Teamo Supremo": 78237
-      "Kim Possible": 78259
-      "Fillmore!": 79910
-      "Lilo & Stitch: The Series": 71624
-      "JoJo's Circus": 79370
-      "Dave the Barbarian": 79538
-      "Brandy & Mr. Whiskers": 74289
-      "Higglytown Heroes": 73305
-      "Super Robot Monkey Team Hyperforce Go!": 253986
-      "American Dragon: Jake Long": 74344
-      "The Buzz on Maggie": 75374
-      "Little Einsteins": 78978
-      "Get Ed": 278076
-      "The Emperor's New School": 79855
-      "Mickey Mouse Clubhouse": 79854
-      "The Replacements": 84192
-      "Yin Yang Yo!": 150691
-      "Handy Manny": 81587
-      "Muppets TV": 367443
-      "Phineas and Ferb": 81848
-      "My Friends Tigger and Pooh": 80850
-      "Stitch!": 98661
-      "Special Agent Oso": 112931
-      "Jungle Junction": 136141
-      "Fish Hooks": 193491
-      "Kick Buttowski": 159221
-      "Jake and the Never Land Pirates": 223831
-      "Minnie's Bow Toons": 263271
-      "Doc McStuffins": 258111
-      "Motorcity": 258233
-      "Tron: Uprising": 258480
-      "Randy Cunningham: 9th Grade Ninja": 262736
-      "Gravity Falls": 259972
-      "Henry Hugglemonster": 268338
-      "Wander Over Yonder": 272417
-      "Sofia the First": 264365
-      "Sheriff Callie's Wild West": 277289
-      "The 7D": 283115
-      "Penn Zero: Part-Time Hero": 288914
-      "Star vs. the Forces of Evil": 282994
-      "Miles From Tomorrowland": 290506
-      "Muppet Moments": 374328
-      "Pickle & Peanut": 300105
-      "Goldie and Bear": 300622
-      "The Muppets": 295721
-      "Star Darlings": 307245
-      "The Lion Guard": 282756
-      "Elena of Avalor": 312964
-      "Future-Worm!": 296709
-      "Milo Murphy's Law": 315954
-      "Mickey Mouse Mixed-Up Adventures": 320725
-      "Stitch & Ai": 343739
-      "Rapunzel's Tangled Adventure": 318990
-      "Puppy Dog Pals": 325978
-      "Billy Dilley's Super-Duper Subterranean Summer": 328374
-      "DuckTales (2017)": 330134
-      "Vampirina": 335717
-      "Big Hero 6: The Series": 322241
-      "Legend of the Three Caballeros": 349466
-      "Big City Greens": 342059
-      "Fancy Nancy": 348820
-      "101 Dalmatian Street": 349423
-      "T.O.T.S.": 363930
-      "Amphibia": 350984
-      "The Rocketeer": 371012
-      "The Owl House": 349578
-      "Mira, Royal Detective": 373754
-      "Dug Days": 393210
-      "Cars on the Road": 412436
-      "Tiana": 393208
-      "Moana: The Series": 393209
-      "Monsters at Work": 362280
-      "Zootopia+": 393206
-      "Baymax!": 393207
-      "The Chicken Squad": 373755
-      "Pixar in Real Life": 371609
-      "Pixar Popcorn": 393212
-      "Iwájú": 393219
-      "Win or Lose": 393242
-      "The Simpsons": 71663
-      "King of the Hill": 73903
-      "Family Guy": 75978
-      "American Dad!": 73141
-      "The Cleveland Show": 93991
-      "Bob's Burgers": 194031
-      "Duncanville": 364530
-      "Solar Opposites": 375892
-      "Central Park": 368121
-      "The Great North": 353887
-      "Koala Man": 399758
-      "Little Demon": 381028
-      "Futurama": 73871
-      "Archer": 110381
-      "Allen Gregory": 249081
-      "Unsupervised": 254561
-      "Brickleberry": 259569
-      "Napoleon Dynamite": 249363
-      "Out There": 265406
-      "Chozen": 275126
-      "Bordertown": 275120
-      "Son of Zorn": 311817
-      "Bless the Harts": 353889
-      "Hoops": 374971
-      "Olaf Presents": 404155
-      "Ice Age: Scrat Tales": 416952
-
-  dreamworks:
-    title: DreamWorks Set
-    styles:
-      default: diiivoy_neon
-      diiivoy_neon:
-        pmm: dreamworks/diiivoy_neon
-    collections:
-      "DreamWorks Animation":
-        - "DreamWorks"
-      "The Boss Baby Collection":
-        - "Boss Baby Collection"
-        - "The Boss Baby"
-        - "Boss Baby"
-      "How to Train Your Dragon Collection":
-        - "How to Train Your Dragon"
-      "The Croods Collection":
-        - "The Croods"
-        - "Croods Collection"
-        - "Croods"
-      "Shrek Collection":
-        - "Shrek"
-      "Puss in Boots Collection":
-        - "Puss in Boots"
-      "Spirit Collection":
-        - "Spirit"
-      "Kung Fu Panda Collection":
-        - "Kung Fu Panda"
-      "The Trolls Collection":
-        - "The Trolls"
-        - "Trolls Collection"
-        - "Trolls"
-      "Madagascar Collection":
-        - "Madagascar"
-    builders:
-      trakt_list:
-        - https://trakt.tv/users/asmobarki/lists/dreamworks
-    shows:
-      "The Angry Beavers": 76386
-      "DreamWorks Shorts": 144611
-      "Dragons": 261202
-      "Kung Fu Panda: Legends of Awesomeness": 250632
-      "The Penguins of Madagascar": 85075
-      "Monsters vs. Aliens": 267978
-      "Turbo FAST": 268855
-      "The Mr. Peabody & Sherman Show": 301314
-      "The Epic Tales of Captain Underpants in Space": 388044
-      "The Adventures of Puss in Boots": 290174
-      "Dawn of the Croods": 301614
-      "The Boss Baby: Back in Business": 342858
-      "The Epic Tales of Captain Underpants": 347765
-      "Hi Score Girl": 346673
-      "Dragons: Rescue Riders": 370115
-      "Kung Fu Panda: The Paws of Destiny": 353844
-      "The Rocky and Bullwinkle show": 76705
-      "The Adventures of Rocky and Bullwinkle": 347581
-      "Trolls: TrollsTopia": 391482
-      "Dragons: The Nine Realms": 411408
-      "Yabba Dabba Dinosaurs": 376638
-      "Madagascar: A Little Wild": 387162
-      "The Boss Baby: Back in the Crib": 419298
-      "Kung Fu Panda: The Dragon Knight": 419961
-
-  landbeforetime:
-    title: The Land Before Time Set
-    styles:
-      default: mikenobbs
-      mikenobbs:
-        pmm: miscellaneous/landbeforetime/mikenobbs
-    collections:
-      "The Land Before Time Collection":
-        - "The Land Before Time"
-    builders:
-      tvdb_show: 80822
-    shows:
-      "The Land Before Time": 80822
-
-  scoobydoo:
-    title: Scooby-Doo! Set
-    styles:
-      default: mikenobbs
-      mikenobbs:
-        pmm: miscellaneous/scoobydoo/mikenobbs
-    collections:
-      "Scooby-Doo! Animated Collection":
-        - "Scooby-Doo! Animated"
-    builders:
-      trakt_list:
-        - https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
-    shows:
-      "Scooby-Doo, Where Are You!": 78260
-      "The New Scooby-Doo Movies": 75661
-      "Scooby-Doo and Scrappy-Doo": 78740
-      "The 13 Ghosts of Scooby-Doo": 73543
-      "A Pup Named Scooby-Doo": 73546
-      "What's New Scooby-Doo?": 80119
-      "Shaggy & Scooby-Doo Get a Clue!": 81425
-      "Scooby-Doo! Mystery Incorporated": 174681
-      "Be Cool, Scooby-Doo!": 301376
-      "Scooby-Doo and Guess Who?": 361065
-      "The Scooby-Doo Show": 73817
-
-  sony:
-    title: Sony Pictures Set
-    styles:
-      default: diiivoy_neon
-      diiivoy_neon:
-        pmm: sony/diiivoy_neon
-    collections:
-      "Sony Pictures Animation Collection":
-        - "Sony Pictures Animation"
-      "Cloudy with a Chance of Meatballs Collection":
-        - "Cloudy with a Chance of Meatballs"
-      "Hotel Transylvania Collection":
-        - "Hotel Transylvania"
-    builders:
-      tvdb_show: 324262, 328994
-    shows:
-      "Cloudy with a Chance of Meatballs": 324262
-      "Hotel Transylvania: The Series": 328994
-
-  tomjerry:
-    title: Tom and Jerry Set
-    styles:
-      default: mikenobbs
-      mikenobbs:
-        pmm: miscellaneous/tomjerry/mikenobbs
-    collections:
-      "Tom and Jerry Collection":
-        - "Tom and Jerry"
-    builders:
-      trakt_list:
-        - https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
-    shows:
-      "The Tom and Jerry Comedy Show": 83056
-      "The Tom and Jerry Show": 280446
-      "Tom and Jerry Kids Show": 77973
-      "The New Tom & Jerry Show": 76206
-      "Tom and Jerry": 72860
-      "Tom and Jerry in New York": 390477
-      "Tom and Jerry Tales": 82837
-
-  sonic:
-    title: Sonic the Hedgehog Set
-    styles:
-      default: diiivoy_neon
-      diiivoy_neon:
-        pmm: miscellaneous/sonic/diiivoy_neon
-    collections:
-      "Sonic the Hedgehog Complete Collection":   # Source Link:  
-        - "Sonic the Hedgehog Complete"
-        - "Sonic the Hedgehog"                    
-      "SEGA Collection":
-        - "SEGA"
-    builders:
-      trakt_list:
-        - https://trakt.tv/users/shedman214/lists/sonic 
-    shows:
-      "Sonic X": 72459
-      "Sonic Boom": 280103
-      "Sonic Underground": 73634
-      "Sonic the Hedgehog": 73629
-      "Sonic Mania Adventures": 373903
-      "The Adventures of Sonic the Hedgehog": 73630
-
-  ungrouped:
-    title: Ungrouped Set
-    styles:
-      default: diiivoy_neon
-      diiivoy_neon:
-        pmm: miscellaneous/ungrouped/diiivoy_neon
+  bluey:
+    title: Bluey
     builders:
       tvdb_show: 353546
+    styles:
+      diiivoy_neon:
+    default_image: "Bluey (2018)"
     shows:
-      "Bluey": 353546
+      "Bluey (2018)": 353546
+  chip_n_dale:
+    title: Chip and Dale Rescue Rangers
+    builders:
+      tvdb_show: 75477
+    styles:
+      syco:
+      onyxpost:
+    default_image: "Chip 'n' Dale Rescue Rangers (1989)"
+    shows:
+      "Chip 'n' Dale Rescue Rangers (1989)": 75477
+  dinosaurs:
+    title: Dinosaurs
+    builders:
+      tvdb_show: 76461
+    styles:
+      pmbasehore:
+    default_image: "Dinosaurs (1991)"
+    shows:
+      "Dinosaurs (1991)": 76461
+  flintstones:
+    title: The Flintstones
+    builders:
+      tvdb_show: 76171
+    styles:
+      mikenobbs:
+      cmdrriker:
+    default_image: "The Flintstones (1960)"
+    shows:
+      "The Flintstones (1960)": 76171
+  gi_joe:
+    title: "G.I. Joe: A Real American Hero"
+    builders:
+      tvdb_show: 77780
+    styles:
+      cmdrriker:
+      aloha_alona:
+    default_image: "G.I. Joe: A Real American Hero (1983)"
+    shows:
+      "G.I. Joe: A Real American Hero (1983)": 77780
+  he-man:
+    title: He-Man and the Masters of the Universe
+    builders:
+      tvdb_show: 73014
+    styles:
+      rhj:
+      cmdrriker:
+    default_image: "He-Man and the Masters of the Universe (1983)"
+    shows:
+      "He-Man and the Masters of the Universe (1983)": 73014
+  jetsons:
+    title: The Jetsons
+    builders:
+      tvdb_show: 76204
+      tmdb_movie: 36868, 17009, 444510, 249246
+    styles:
+      mikenobbs:
+      cmdrriker:
+    default_image: "The Jetsons (1962)"
+    movies:
+      "The Jetsons Meet the Flintstones (1987)": 36868
+      "Rockin' with Judy Jetson (1988)": 249246
+      "Jetsons: The Movie (1990)": 17009
+      "The Jetsons & WWE: Robo-WrestleMania! (2017)": 444510
+    shows:
+      "The Jetsons (1962)": 76204
+  landbeforetime:
+    title: The Land Before Time
+    builders:
+      tvdb_show: 80822
+    styles:
+      mikenobbs:
+    default_image: "The Land Before Time"
+    collections:
+      "The Land Before Time Collection":
+      - "Land Before Time"
+      - "Land Before Time Collection"
+      - "The Land Before Time"
+    shows:
+      "The Land Before Time (2007)": 80822
+  rocko:
+    title: Rocko's Modern Life
+    builders:
+      tvdb_show: ID75729
+    styles:
+      entree3000:
+      waldob:
+    default_image: "Rocko's Modern Life (1993)"
+    shows:
+      "Rocko's Modern Life (1993)": 75729
+  scoobydoo:
+    title: Scooby-Doo!
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+    styles:
+      mikenobbs:
+    default_image: "Scooby-Doo, Where Are You! (1969)"
+    collections:
+      "Scooby-Doo! Animated Collection":
+      - "Scooby-Doo! Animated"
+    movies:
+      "Scooby-Doo Meets Batman (1972)": 287757
+      "Scooby-Doo! Meets the Boo Brothers (1987)": 24787
+      "Scooby-Doo! and the Reluctant Werewolf (1988)": 37211
+      "Scooby-Doo and the Ghoul School (1988)": 13350
+      "Scooby-Doo! in Arabian Nights (1994)": 13351
+      "Scooby-Doo on Zombie Island (1998)": 13151
+      "Scooby-Doo! and the Witch's Ghost (1999)": 17681
+      "Scooby-Doo and the Alien Invaders (2000)": 20410
+      "Scooby-Doo! and the Cyber Chase (2001)": 15601
+      "Scooby-Doo! and the Legend of the Vampire (2003)": 30074
+      "Scooby-Doo! and the Monster of Mexico (2003)": 21956
+      "Scooby-Doo! and the Loch Ness Monster (2004)": 12902
+      "Scooby-Doo! in Where's My Mummy? (2005)": 20558
+      "Aloha Scooby-Doo! (2005)": 24615
+      "Scooby-Doo! Pirates Ahoy! (2006)": 13355
+      "Chill Out, Scooby-Doo! (2007)": 13354
+      "Scooby-Doo! and the Goblin King (2008)": 12903
+      "Scooby-Doo! and the Samurai Sword (2009)": 16390
+      "Scooby-Doo! Abracadabra-Doo (2010)": 32916
+      "Scooby-Doo! Camp Scare (2010)": 45752
+      "Scooby-Doo! Legend of the Phantosaur (2011)": 67900
+      "Scooby-Doo! Spooky Games (2012)": 284908
+      "Scooby-Doo! Music of the Vampire (2012)": 81900
+      "Big Top Scooby-Doo! (2012)": 119321
+      "Scooby-Doo!™ Haunted Holidays (2012)": 245881
+      "Scooby-Doo! Mask of the Blue Falcon (2013)": 151535
+      "Scooby-Doo! Stage Fright (2013)": 203696
+      "Scooby-Doo! WrestleMania Mystery (2014)": 258893
+      "Scooby-Doo! Frankencreepy (2014)": 284995
+      "Scooby-Doo! and the Beach Beastie (2015)": 340884
+      "Scooby-Doo! and KISS: Rock and Roll Mystery (2015)": 347688
+      "Scooby-Doo! Moon Monster Madness (2015)": 302960
+      "Scooby-Doo! and WWE: Curse of the Speed Demon (2016)": 409122
+      "Scooby-Doo! Shaggy's Showdown (2017)": 427564
+      "Scooby-Doo! & Batman: The Brave and the Bold (2018)": 484862
+      "Scooby-Doo! and the Gourmet Ghost (2018)": 533592
+      "Scooby-Doo! and the Curse of the 13th Ghost (2019)": 560066
+      "Scooby-Doo! Return to Zombie Island (2019)": 615774
+      "Happy Halloween, Scooby-Doo! (2020)": 721656
+      "Scooby-Doo! The Sword and the Scoob (2021)": 682254
+      "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog (2021)": 843906
+      "Trick or Treat Scooby-Doo! (2022)": 1015724
+    shows:
+      "Scooby-Doo, Where Are You! (1969)": 78260
+      "The New Scooby-Doo Movies (1972)": 75661
+      "The Scooby-Doo Show (1976)": 73817
+      "Scooby-Doo and Scrappy-Doo (1979)": 78740
+      "The 13 Ghosts of Scooby-Doo (1985)": 73543
+      "A Pup Named Scooby-Doo (1988)": 73546
+      "What's New, Scooby-Doo? (2002)": 80119
+      "Shaggy & Scooby-Doo Get a Clue! (2006)": 81425
+      "Scooby-Doo! Mystery Incorporated (2010)": 174681
+      "Be Cool, Scooby-Doo! (2015)": 301376
+      "Scooby-Doo and Guess Who? (2019)": 361065
+  she-ra:
+    title: "She-Ra: Princess of Power"
+    builders:
+      tvdb_show: 73015
+    styles:
+      bjbeard:
+    default_image: "She-Ra: Princess of Power (1985)"
+    shows:
+      "She-Ra: Princess of Power (1985)": 73015
+  sonic:
+    title: Sonic the Hedgehog
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/shedman214/lists/sonic
+    styles:
+      diiivoy_neon:
+    default_image: "Sonic the Hedgehog (1993)"
+    collections:
+      "Sonic the Hedgehog Complete Collection":
+      - "Sonic the Hedgehog"
+      - "Sonic the Hedgehog Complete"
+      "SEGA Collection":
+      - "SEGA"
+    movies:
+      "Sonic the Hedgehog: The Movie (1996)": 16355
+      "Sonic the Hedgehog (2020)": 454626
+      "Sonic the Hedgehog 2 (2022)": 675353
+    shows:
+      "Sonic the Hedgehog (1993)": 73629
+      "Adventures of Sonic the Hedgehog (1993)": 73630
+      "Sonic Underground (1999)": 73634
+      "Sonic X (2003)": 72459
+      "Sonic Boom (2014)": 280103
+      "Sonic Mania Adventures (2018)": 373903
+  sony:
+    title: Sony Pictures
+    builders:
+      tvdb_show: 324262, 328994
+    styles:
+      diiivoy_neon:
+    default_image: "Cloudy with a Chance of Meatballs (2017)"
+    collections:
+      "Sony Pictures Animation Collection":
+      - "Sony Pictures Animation"
+      "Cloudy with a Chance of Meatballs Collection":
+      - "Cloudy with a Chance of Meatballs"
+      "Hotel Transylvania Collection":
+      - "Hotel Transylvania"
+    shows:
+      "Cloudy with a Chance of Meatballs (2017)": 324262
+      "Hotel Transylvania: The Series (2017)": 328994
+  talespin:
+    title: TaleSpin
+    builders:
+      tvdb_show: 75476
+    styles:
+      syco:
+      cmdrriker:
+      diiivoy:
+    default_image: "TaleSpin (1990)"
+    shows:
+      "TaleSpin (1990)": 75476
+  tmnt:
+    title: Teenage Mutant Ninja Turtles
+    builders:
+      tvdb_show: 74582
+    styles:
+      minizaki:
+      cmdrriker:
+      cmdrriker2:
+    default_image: "Teenage Mutant Ninja Turtles (1987)"
+    shows:
+      "Teenage Mutant Ninja Turtles (1987)": 74582
+  thundercats:
+    title: ThunderCats
+    builders:
+      tvdb_show: 70355
+    styles:
+      onyxpost:
+      cmdrriker:
+    default_image: "ThunderCats (1985)"
+    shows:
+      "ThunderCats (1985)": 70355
+  tomjerry:
+    title: Tom and Jerry
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
+    styles:
+      mikenobbs:
+    default_image: "Tom and Jerry Tales (2006)"
+    collections:
+      "Tom and Jerry Collection":
+      - "Tom and Jerry"
+    movies:
+      "Tom and Jerry: The Movie (1992)": 22582
+      "Tom and Jerry: The Magic Ring (2002)": 14787
+      "Tom and Jerry Blast Off to Mars! (2005)": 21078
+      "Tom and Jerry: The Fast and the Furry (2005)": 42246
+      "Tom and Jerry: Shiver Me Whiskers (2006)": 60293
+      "Tom and Jerry: A Nutcracker Tale (2007)": 24696
+      "Tom and Jerry Meet Sherlock Holmes (2010)": 43956
+      "Tom and Jerry & The Wizard of Oz (2011)": 72972
+      "Tom and Jerry: Robin Hood and His Merry Mouse (2012)": 134623
+      "Tom and Jerry's Giant Adventure (2013)": 199753
+      "Tom and Jerry: The Lost Dragon (2014)": 287233
+      "Tom and Jerry Santa's Little Helpers (2014)": 307650
+      "Tom and Jerry: Spy Quest (2015)": 343977
+      "Tom and Jerry: Back to Oz (2016)": 403510
+      "Tom and Jerry: Willy Wonka and the Chocolate Factory (2017)": 455411
+      "Tom & Jerry (2021)": 587807
+      "Tom and Jerry Cowboy Up! (2022)": 892153
+      "Tom and Jerry Snowman's Land (2022)": 1018403
+    shows:
+      "The Tom and Jerry Show (1975)": 76206
+      "The Tom and Jerry Comedy Show (1980)": 83056
+      "Tom & Jerry Kids Show (1990)": 77973
+      "Tom and Jerry Tales (2006)": 82837
+      "The Tom and Jerry Show (2014)": 280446
+      "Tom and Jerry in New York (2021)": 390477

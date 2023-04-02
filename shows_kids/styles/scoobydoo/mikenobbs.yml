@@ -1,0 +1,121 @@
+info:
+  style_author: mikenobbs
+  style_image: 165160
+  style_key: mikenobbs
+  style_link: 98627
+  complete: true
+  track_seasons: true
+collections:
+  "Scooby-Doo! Animated Collection": {tpdb_poster: 161484}
+movies:
+  "Scooby-Doo Meets Batman (1972)": {tpdb_poster: 161485}
+  "Scooby-Doo! Meets the Boo Brothers (1987)": {tpdb_poster: 161489}
+  "Scooby-Doo! and the Reluctant Werewolf (1988)": {tpdb_poster: 161491}
+  "Scooby-Doo and the Ghoul School (1988)": {tpdb_poster: 161490}
+  "Scooby-Doo! in Arabian Nights (1994)": {tpdb_poster: 161492}
+  "Scooby-Doo on Zombie Island (1998)": {tpdb_poster: 161493}
+  "Scooby-Doo! and the Witch's Ghost (1999)": {tpdb_poster: 161495}
+  "Scooby-Doo and the Alien Invaders (2000)": {tpdb_poster: 161496}
+  "Scooby-Doo! and the Cyber Chase (2001)": {tpdb_poster: 161497}
+  "Scooby-Doo! and the Legend of the Vampire (2003)": {tpdb_poster: 161499}
+  "Scooby-Doo! and the Monster of Mexico (2003)": {tpdb_poster: 161500}
+  "Scooby-Doo! and the Loch Ness Monster (2004)": {tpdb_poster: 161501}
+  "Scooby-Doo! in Where's My Mummy? (2005)": {tpdb_poster: 161503}
+  "Aloha Scooby-Doo! (2005)": {tpdb_poster: 161502}
+  "Scooby-Doo! Pirates Ahoy! (2006)": {tpdb_poster: 161504}
+  "Chill Out, Scooby-Doo! (2007)": {tpdb_poster: 161505}
+  "Scooby-Doo! and the Goblin King (2008)": {tpdb_poster: 161506}
+  "Scooby-Doo! and the Samurai Sword (2009)": {tpdb_poster: 161507}
+  "Scooby-Doo! Abracadabra-Doo (2010)": {tpdb_poster: 161508}
+  "Scooby-Doo! Camp Scare (2010)": {tpdb_poster: 161509}
+  "Scooby-Doo! Legend of the Phantosaur (2011)": {tpdb_poster: 161514}
+  "Scooby-Doo! Spooky Games (2012)": {tpdb_poster: 161516}
+  "Scooby-Doo! Music of the Vampire (2012)": {tpdb_poster: 161515}
+  "Big Top Scooby-Doo! (2012)": {tpdb_poster: 161518}
+  "Scooby-Doo!™ Haunted Holidays (2012)": {tpdb_poster: 161517}
+  "Scooby-Doo! Mask of the Blue Falcon (2013)": {tpdb_poster: 161519}
+  "Scooby-Doo! Stage Fright (2013)": {tpdb_poster: 161520}
+  "Scooby-Doo! WrestleMania Mystery (2014)": {tpdb_poster: 161523}
+  "Scooby-Doo! Frankencreepy (2014)": {tpdb_poster: 161525}
+  "Scooby-Doo! and the Beach Beastie (2015)": {tpdb_poster: 161527}
+  "Scooby-Doo! and KISS: Rock and Roll Mystery (2015)": {tpdb_poster: 161528}
+  "Scooby-Doo! Moon Monster Madness (2015)": {tpdb_poster: 161526}
+  "Scooby-Doo! and WWE: Curse of the Speed Demon (2016)": {tpdb_poster: 161529}
+  "Scooby-Doo! Shaggy's Showdown (2017)": {tpdb_poster: 161530}
+  "Scooby-Doo! & Batman: The Brave and the Bold (2018)": {tpdb_poster: 161531}
+  "Scooby-Doo! and the Gourmet Ghost (2018)": {tpdb_poster: 161532}
+  "Scooby-Doo! and the Curse of the 13th Ghost (2019)": {tpdb_poster: 161533}
+  "Scooby-Doo! Return to Zombie Island (2019)": {tpdb_poster: 161534}
+  "Happy Halloween, Scooby-Doo! (2020)": {tpdb_poster: 161535}
+  "Scooby-Doo! The Sword and the Scoob (2021)": {tpdb_poster: 161536}
+  "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog (2021)": {tpdb_poster: 166309}
+  "Trick or Treat Scooby-Doo! (2022)": {tpdb_poster: 274804}
+shows:
+  "Scooby-Doo, Where Are You! (1969)":
+    tpdb_poster: 165160
+    seasons:
+      0: {tpdb_poster: 165161}
+      1: {tpdb_poster: 165162}
+      2: {tpdb_poster: 165163}
+      3: {tpdb_poster: 165164}
+  "The New Scooby-Doo Movies (1972)":
+    tpdb_poster: 165191
+    seasons:
+      0: {tpdb_poster: 165192}
+      1: {tpdb_poster: 165193}
+      2: {tpdb_poster: 165194}
+  "The Scooby-Doo Show (1976)":
+    tpdb_poster: 165178
+    seasons:
+      1: {tpdb_poster: 165179}
+      2: {tpdb_poster: 165180}
+      3: {tpdb_poster: 165181}
+  "Scooby-Doo and Scrappy-Doo (1979)":
+    tpdb_poster: 165170
+    seasons:
+      0: {tpdb_poster: 165171}
+      1: {tpdb_poster: 165172}
+      2: {tpdb_poster: 165173}
+      3: {tpdb_poster: 165174}
+      4: {tpdb_poster: 165175}
+  "The 13 Ghosts of Scooby-Doo (1985)":
+    tpdb_poster: 165151
+    seasons:
+      0: {tpdb_poster: 165152}
+      1: {tpdb_poster: 165153}
+  "A Pup Named Scooby-Doo (1988)":
+    tpdb_poster: 165186
+    seasons:
+      1: {tpdb_poster: 165187}
+      2: {tpdb_poster: 165188}
+      3: {tpdb_poster: 165189}
+      4: {tpdb_poster: 165190}
+  "What's New, Scooby-Doo? (2002)":
+    tpdb_poster: 165165
+    seasons:
+      0: {tpdb_poster: 165166}
+      1: {tpdb_poster: 165167}
+      2: {tpdb_poster: 165168}
+      3: {tpdb_poster: 165169}
+  "Shaggy & Scooby-Doo Get a Clue! (2006)":
+    tpdb_poster: 165182
+    seasons:
+      0: {tpdb_poster: 165183}
+      1: {tpdb_poster: 165184}
+      2: {tpdb_poster: 165185}
+  "Scooby-Doo! Mystery Incorporated (2010)":
+    tpdb_poster: 165195
+    seasons:
+      0: {tpdb_poster: 165196}
+      1: {tpdb_poster: 165197}
+      2: {tpdb_poster: 165198}
+  "Be Cool, Scooby-Doo! (2015)":
+    tpdb_poster: 165154
+    seasons:
+      1: {tpdb_poster: 165155}
+      2: {tpdb_poster: 165156}
+  "Scooby-Doo and Guess Who? (2019)":
+    tpdb_poster: 165157
+    seasons:
+      1: {tpdb_poster: 165158}
+      2: {tpdb_poster: 165159}

@@ -1,0 +1,12 @@
+info:
+  style_author: SyCo
+  style_image: 2365
+  style_key: syco
+  style_link: 762
+  complete: true
+  track_seasons: true
+shows:
+  "TaleSpin (1990)":
+    tpdb_poster: 2365
+    seasons:
+      1: {tpdb_poster: 2366}

@@ -1,0 +1,18 @@
+info:
+  style_author: CmdrRiker
+  style_image: 262473
+  style_key: cmdrriker
+  style_link: 156515
+  complete: true
+  track_seasons: true
+shows:
+  "The Flintstones (1960)":
+    tpdb_poster: 262473
+    seasons:
+      0: {tpdb_poster: 262474}
+      1: {tpdb_poster: 262475}
+      2: {tpdb_poster: 262476}
+      3: {tpdb_poster: 262477}
+      4: {tpdb_poster: 262478}
+      5: {tpdb_poster: 262479}
+      6: {tpdb_poster: 262480}

@@ -1,0 +1,15 @@
+info:
+  style_author: waldob
+  style_image: 130173
+  style_key: waldob
+  style_link: 80899
+  complete: true
+  track_seasons: true
+shows:
+  "Rocko's Modern Life (1993)":
+    tpdb_poster: 130173
+    seasons:
+      1: {tpdb_poster: 130174}
+      2: {tpdb_poster: 130175}
+      3: {tpdb_poster: 130176}
+      4: {tpdb_poster: 130177}

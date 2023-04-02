@@ -1,0 +1,20 @@
+info:
+  style_author: mikenobbs
+  style_image: 219943
+  style_key: mikenobbs
+  style_link: 132656
+  complete: true
+  track_seasons: true
+movies:
+  "The Jetsons Meet the Flintstones (1987)": {tpdb_poster: 219939}
+  "Rockin' with Judy Jetson (1988)": {tpdb_poster: 219940}
+  "Jetsons: The Movie (1990)": {tpdb_poster: 219941}
+  "The Jetsons & WWE: Robo-WrestleMania! (2017)": {tpdb_poster: 219942}
+shows:
+  "The Jetsons (1962)":
+    tpdb_poster: 219943
+    seasons:
+      0: {tpdb_poster: 219944}
+      1: {tpdb_poster: 219945}
+      2: {tpdb_poster: 219946}
+      3: {tpdb_poster: 219947}

@@ -1,0 +1,15 @@
+info:
+  style_author: OnyxPost
+  style_image: 200592
+  style_key: onyxpost
+  style_link: 120904
+  complete: true
+  track_seasons: true
+shows:
+  "Chip 'n' Dale Rescue Rangers (1989)":
+    tpdb_poster: 200592
+    seasons:
+      0: {tpdb_poster: 200593}
+      1: {tpdb_poster: 200594}
+      2: {tpdb_poster: 200595}
+      3: {tpdb_poster: 200596}
