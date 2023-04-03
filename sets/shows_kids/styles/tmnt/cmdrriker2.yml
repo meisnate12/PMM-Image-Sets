@@ -1,0 +1,22 @@
+info:
+  style_author: CmdrRiker
+  style_image: 261953
+  style_key: cmdrriker2
+  style_link: 156273
+  complete: true
+  track_seasons: true
+shows:
+  "Teenage Mutant Ninja Turtles (1987)":
+    tpdb_poster: 261953
+    seasons:
+      0: {tpdb_poster: 261954}
+      1: {tpdb_poster: 261955}
+      2: {tpdb_poster: 261956}
+      3: {tpdb_poster: 261957}
+      4: {tpdb_poster: 261958}
+      5: {tpdb_poster: 261959}
+      6: {tpdb_poster: 261960}
+      7: {tpdb_poster: 261961}
+      8: {tpdb_poster: 261962}
+      9: {tpdb_poster: 261963}
+      10: {tpdb_poster: 261964}

@@ -1,0 +1,285 @@
+sections:
+  bluey:
+    title: Bluey
+    builders:
+      tvdb_show: 353546
+    styles:
+      diiivoy_neon:
+    default_image: "Bluey (2018)"
+    shows:
+      "Bluey (2018)": 353546
+  chip_n_dale:
+    title: Chip and Dale Rescue Rangers
+    builders:
+      tvdb_show: 75477
+    styles:
+      syco:
+      onyxpost:
+    default_image: "Chip 'n' Dale Rescue Rangers (1989)"
+    shows:
+      "Chip 'n' Dale Rescue Rangers (1989)": 75477
+  dinosaurs:
+    title: Dinosaurs
+    builders:
+      tvdb_show: 76461
+    styles:
+      pmbasehore:
+    default_image: "Dinosaurs (1991)"
+    shows:
+      "Dinosaurs (1991)": 76461
+  flintstones:
+    title: The Flintstones
+    builders:
+      tvdb_show: 76171
+    styles:
+      mikenobbs:
+      cmdrriker:
+    default_image: "The Flintstones (1960)"
+    shows:
+      "The Flintstones (1960)": 76171
+  gi_joe:
+    title: "G.I. Joe: A Real American Hero"
+    builders:
+      tvdb_show: 77780
+    styles:
+      cmdrriker:
+      aloha_alona:
+    default_image: "G.I. Joe: A Real American Hero (1983)"
+    shows:
+      "G.I. Joe: A Real American Hero (1983)": 77780
+  he-man:
+    title: He-Man and the Masters of the Universe
+    builders:
+      tvdb_show: 73014
+    styles:
+      rhj:
+      cmdrriker:
+    default_image: "He-Man and the Masters of the Universe (1983)"
+    shows:
+      "He-Man and the Masters of the Universe (1983)": 73014
+  jetsons:
+    title: The Jetsons
+    builders:
+      tvdb_show: 76204
+      tmdb_movie: 36868, 17009, 444510, 249246
+    styles:
+      mikenobbs:
+      cmdrriker:
+    default_image: "The Jetsons (1962)"
+    movies:
+      "The Jetsons Meet the Flintstones (1987)": 36868
+      "Rockin' with Judy Jetson (1988)": 249246
+      "Jetsons: The Movie (1990)": 17009
+      "The Jetsons & WWE: Robo-WrestleMania! (2017)": 444510
+    shows:
+      "The Jetsons (1962)": 76204
+  landbeforetime:
+    title: The Land Before Time
+    builders:
+      tvdb_show: 80822
+    styles:
+      mikenobbs:
+    default_image: "The Land Before Time"
+    collections:
+      "The Land Before Time Collection":
+      - "Land Before Time"
+      - "Land Before Time Collection"
+      - "The Land Before Time"
+    shows:
+      "The Land Before Time (2007)": 80822
+  rocko:
+    title: Rocko's Modern Life
+    builders:
+      tvdb_show: ID75729
+    styles:
+      entree3000:
+      waldob:
+    default_image: "Rocko's Modern Life (1993)"
+    shows:
+      "Rocko's Modern Life (1993)": 75729
+  scoobydoo:
+    title: Scooby-Doo!
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/mikenobbs/lists/scooby-doo-animation
+    styles:
+      mikenobbs:
+    default_image: "Scooby-Doo, Where Are You! (1969)"
+    collections:
+      "Scooby-Doo! Animated Collection":
+      - "Scooby-Doo! Animated"
+    movies:
+      "Scooby-Doo Meets Batman (1972)": 287757
+      "Scooby-Doo! Meets the Boo Brothers (1987)": 24787
+      "Scooby-Doo! and the Reluctant Werewolf (1988)": 37211
+      "Scooby-Doo and the Ghoul School (1988)": 13350
+      "Scooby-Doo! in Arabian Nights (1994)": 13351
+      "Scooby-Doo on Zombie Island (1998)": 13151
+      "Scooby-Doo! and the Witch's Ghost (1999)": 17681
+      "Scooby-Doo and the Alien Invaders (2000)": 20410
+      "Scooby-Doo! and the Cyber Chase (2001)": 15601
+      "Scooby-Doo! and the Legend of the Vampire (2003)": 30074
+      "Scooby-Doo! and the Monster of Mexico (2003)": 21956
+      "Scooby-Doo! and the Loch Ness Monster (2004)": 12902
+      "Scooby-Doo! in Where's My Mummy? (2005)": 20558
+      "Aloha Scooby-Doo! (2005)": 24615
+      "Scooby-Doo! Pirates Ahoy! (2006)": 13355
+      "Chill Out, Scooby-Doo! (2007)": 13354
+      "Scooby-Doo! and the Goblin King (2008)": 12903
+      "Scooby-Doo! and the Samurai Sword (2009)": 16390
+      "Scooby-Doo! Abracadabra-Doo (2010)": 32916
+      "Scooby-Doo! Camp Scare (2010)": 45752
+      "Scooby-Doo! Legend of the Phantosaur (2011)": 67900
+      "Scooby-Doo! Spooky Games (2012)": 284908
+      "Scooby-Doo! Music of the Vampire (2012)": 81900
+      "Big Top Scooby-Doo! (2012)": 119321
+      "Scooby-Doo!™ Haunted Holidays (2012)": 245881
+      "Scooby-Doo! Mask of the Blue Falcon (2013)": 151535
+      "Scooby-Doo! Stage Fright (2013)": 203696
+      "Scooby-Doo! WrestleMania Mystery (2014)": 258893
+      "Scooby-Doo! Frankencreepy (2014)": 284995
+      "Scooby-Doo! and the Beach Beastie (2015)": 340884
+      "Scooby-Doo! and KISS: Rock and Roll Mystery (2015)": 347688
+      "Scooby-Doo! Moon Monster Madness (2015)": 302960
+      "Scooby-Doo! and WWE: Curse of the Speed Demon (2016)": 409122
+      "Scooby-Doo! Shaggy's Showdown (2017)": 427564
+      "Scooby-Doo! & Batman: The Brave and the Bold (2018)": 484862
+      "Scooby-Doo! and the Gourmet Ghost (2018)": 533592
+      "Scooby-Doo! and the Curse of the 13th Ghost (2019)": 560066
+      "Scooby-Doo! Return to Zombie Island (2019)": 615774
+      "Happy Halloween, Scooby-Doo! (2020)": 721656
+      "Scooby-Doo! The Sword and the Scoob (2021)": 682254
+      "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog (2021)": 843906
+      "Trick or Treat Scooby-Doo! (2022)": 1015724
+    shows:
+      "Scooby-Doo, Where Are You! (1969)": 78260
+      "The New Scooby-Doo Movies (1972)": 75661
+      "The Scooby-Doo Show (1976)": 73817
+      "Scooby-Doo and Scrappy-Doo (1979)": 78740
+      "The 13 Ghosts of Scooby-Doo (1985)": 73543
+      "A Pup Named Scooby-Doo (1988)": 73546
+      "What's New, Scooby-Doo? (2002)": 80119
+      "Shaggy & Scooby-Doo Get a Clue! (2006)": 81425
+      "Scooby-Doo! Mystery Incorporated (2010)": 174681
+      "Be Cool, Scooby-Doo! (2015)": 301376
+      "Scooby-Doo and Guess Who? (2019)": 361065
+  she-ra:
+    title: "She-Ra: Princess of Power"
+    builders:
+      tvdb_show: 73015
+    styles:
+      bjbeard:
+    default_image: "She-Ra: Princess of Power (1985)"
+    shows:
+      "She-Ra: Princess of Power (1985)": 73015
+  sonic:
+    title: Sonic the Hedgehog
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/shedman214/lists/sonic
+    styles:
+      diiivoy_neon:
+    default_image: "Sonic the Hedgehog (1993)"
+    collections:
+      "Sonic the Hedgehog Complete Collection":
+      - "Sonic the Hedgehog"
+      - "Sonic the Hedgehog Complete"
+      "SEGA Collection":
+      - "SEGA"
+    movies:
+      "Sonic the Hedgehog: The Movie (1996)": 16355
+      "Sonic the Hedgehog (2020)": 454626
+      "Sonic the Hedgehog 2 (2022)": 675353
+    shows:
+      "Sonic the Hedgehog (1993)": 73629
+      "Adventures of Sonic the Hedgehog (1993)": 73630
+      "Sonic Underground (1999)": 73634
+      "Sonic X (2003)": 72459
+      "Sonic Boom (2014)": 280103
+      "Sonic Mania Adventures (2018)": 373903
+  sony:
+    title: Sony Pictures
+    builders:
+      tvdb_show: 324262, 328994
+    styles:
+      diiivoy_neon:
+    default_image: "Cloudy with a Chance of Meatballs (2017)"
+    collections:
+      "Sony Pictures Animation Collection":
+      - "Sony Pictures Animation"
+      "Cloudy with a Chance of Meatballs Collection":
+      - "Cloudy with a Chance of Meatballs"
+      "Hotel Transylvania Collection":
+      - "Hotel Transylvania"
+    shows:
+      "Cloudy with a Chance of Meatballs (2017)": 324262
+      "Hotel Transylvania: The Series (2017)": 328994
+  talespin:
+    title: TaleSpin
+    builders:
+      tvdb_show: 75476
+    styles:
+      syco:
+      cmdrriker:
+      diiivoy:
+    default_image: "TaleSpin (1990)"
+    shows:
+      "TaleSpin (1990)": 75476
+  tmnt:
+    title: Teenage Mutant Ninja Turtles
+    builders:
+      tvdb_show: 74582
+    styles:
+      minizaki:
+      cmdrriker:
+      cmdrriker2:
+    default_image: "Teenage Mutant Ninja Turtles (1987)"
+    shows:
+      "Teenage Mutant Ninja Turtles (1987)": 74582
+  thundercats:
+    title: ThunderCats
+    builders:
+      tvdb_show: 70355
+    styles:
+      onyxpost:
+      cmdrriker:
+    default_image: "ThunderCats (1985)"
+    shows:
+      "ThunderCats (1985)": 70355
+  tomjerry:
+    title: Tom and Jerry
+    builders:
+      trakt_list:
+      - https://trakt.tv/users/mikenobbs/lists/tom-and-jerry
+    styles:
+      mikenobbs:
+    default_image: "Tom and Jerry Tales (2006)"
+    collections:
+      "Tom and Jerry Collection":
+      - "Tom and Jerry"
+    movies:
+      "Tom and Jerry: The Movie (1992)": 22582
+      "Tom and Jerry: The Magic Ring (2002)": 14787
+      "Tom and Jerry Blast Off to Mars! (2005)": 21078
+      "Tom and Jerry: The Fast and the Furry (2005)": 42246
+      "Tom and Jerry: Shiver Me Whiskers (2006)": 60293
+      "Tom and Jerry: A Nutcracker Tale (2007)": 24696
+      "Tom and Jerry Meet Sherlock Holmes (2010)": 43956
+      "Tom and Jerry & The Wizard of Oz (2011)": 72972
+      "Tom and Jerry: Robin Hood and His Merry Mouse (2012)": 134623
+      "Tom and Jerry's Giant Adventure (2013)": 199753
+      "Tom and Jerry: The Lost Dragon (2014)": 287233
+      "Tom and Jerry Santa's Little Helpers (2014)": 307650
+      "Tom and Jerry: Spy Quest (2015)": 343977
+      "Tom and Jerry: Back to Oz (2016)": 403510
+      "Tom and Jerry: Willy Wonka and the Chocolate Factory (2017)": 455411
+      "Tom & Jerry (2021)": 587807
+      "Tom and Jerry Cowboy Up! (2022)": 892153
+      "Tom and Jerry Snowman's Land (2022)": 1018403
+    shows:
+      "The Tom and Jerry Show (1975)": 76206
+      "The Tom and Jerry Comedy Show (1980)": 83056
+      "Tom & Jerry Kids Show (1990)": 77973
+      "Tom and Jerry Tales (2006)": 82837
+      "The Tom and Jerry Show (2014)": 280446
+      "Tom and Jerry in New York (2021)": 390477

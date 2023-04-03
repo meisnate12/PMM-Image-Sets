@@ -1,0 +1,90 @@
+jetsons:
+  cmdrriker:
+    movies:
+      "The Jetsons Meet the Flintstones (1987)": {tpdb_poster: null, url_poster: null}
+      "Rockin' with Judy Jetson (1988)": {tpdb_poster: null, url_poster: null}
+      "Jetsons: The Movie (1990)": {tpdb_poster: null, url_poster: null}
+      "The Jetsons & WWE: Robo-WrestleMania! (2017)": {tpdb_poster: null, url_poster: null}
+landbeforetime:
+  mikenobbs:
+    info:
+      style_image:
+rocko:
+  entree3000:
+    info:
+      style_image:
+  waldob:
+    info:
+      style_image:
+she-ra:
+  bjbeard:
+    info:
+      style_image:
+sonic:
+  diiivoy_neon:
+    collections:
+      "SEGA Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Sonic the Hedgehog (1993)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+          2: {tpdb_poster: null, url_poster: null}
+      "Adventures of Sonic the Hedgehog (1993)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+      "Sonic Underground (1999)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+      "Sonic X (2003)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+          2: {tpdb_poster: null, url_poster: null}
+          3: {tpdb_poster: null, url_poster: null}
+      "Sonic Boom (2014)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+          2: {tpdb_poster: null, url_poster: null}
+      "Sonic Mania Adventures (2018)": {tpdb_poster: null, url_poster: null, seasons: {
+          1: {tpdb_poster: null, url_poster: null}}}
+sony:
+  diiivoy_neon:
+    shows:
+      "Cloudy with a Chance of Meatballs (2017)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+          2: {tpdb_poster: null, url_poster: null}
+      "Hotel Transylvania: The Series (2017)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+          2: {tpdb_poster: null, url_poster: null}
+talespin:
+  syco:
+    info:
+      style_image:
+  cmdrriker:
+    info:
+      style_image:
+  diiivoy:
+    info:
+      style_image:
+tmnt:
+  minizaki:
+    info:
+      style_image:
+  cmdrriker:
+    info:
+      style_image:
+  cmdrriker2:
+    info:
+      style_image:
+thundercats:
+  onyxpost:
+    info:
+      style_image:
+  cmdrriker:
+    info:
+      style_image:
+tomjerry:
+  mikenobbs:
+    movies:
+      "Tom and Jerry Santa's Little Helpers (2014)": {tpdb_poster: null, url_poster: null}

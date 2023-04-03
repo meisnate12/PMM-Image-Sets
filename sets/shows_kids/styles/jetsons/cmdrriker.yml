@@ -1,0 +1,13 @@
+info:
+  style_author: CmdrRiker
+  style_image: 248373
+  style_key: cmdrriker
+  style_link: 148563
+  track_seasons: true
+shows:
+  "The Jetsons (1962)":
+    tpdb_poster: 248373
+    seasons:
+      1: {tpdb_poster: 248374}
+      2: {tpdb_poster: 248375}
+      3: {tpdb_poster: 248376}

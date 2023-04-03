@@ -1,0 +1,13 @@
+info:
+  style_author: bjbeard
+  style_image: 310332
+  style_key: bjbeard
+  style_link: 182423
+  complete: true
+  track_seasons: true
+shows:
+  "She-Ra: Princess of Power (1985)":
+    tpdb_poster: 310332
+    seasons:
+      1: {tpdb_poster: 310333}
+      2: {tpdb_poster: 310334}

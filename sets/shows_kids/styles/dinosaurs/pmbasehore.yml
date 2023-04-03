@@ -1,0 +1,15 @@
+info:
+  style_author: pmbasehore
+  style_image: 35536
+  style_key: pmbasehore
+  style_link: 21688
+  complete: true
+  track_seasons: true
+shows:
+  "Dinosaurs (1991)":
+    tpdb_poster: 35536
+    seasons:
+      1: {tpdb_poster: 35537}
+      2: {tpdb_poster: 35538}
+      3: {tpdb_poster: 35539}
+      4: {tpdb_poster: 35540}

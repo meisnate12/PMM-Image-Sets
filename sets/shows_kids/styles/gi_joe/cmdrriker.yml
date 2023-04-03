@@ -1,0 +1,16 @@
+info:
+  style_author: CmdrRiker
+  style_image: 253316
+  style_key: cmdrriker
+  style_link: 151370
+  complete: true
+  track_seasons: true
+shows:
+  "G.I. Joe: A Real American Hero (1983)":
+    tpdb_poster: 253316
+    seasons:
+      0: {tpdb_poster: 253317}
+      1: {tpdb_poster: 253318}
+      2: {tpdb_poster: 253319}
+      3: {tpdb_poster: 253320}
+      4: {tpdb_poster: 253321}

@@ -1,0 +1,14 @@
+info:
+  style_author: DIIIVOY
+  style_image: 174202
+  style_key: diiivoy_neon
+  style_link: 106184
+  complete: true
+  track_seasons: true
+collections:
+  "Sony Pictures Animation Collection": {tpdb_poster: 174163}
+  "Cloudy with a Chance of Meatballs Collection": {tpdb_poster: 174164}
+  "Hotel Transylvania Collection": {tpdb_poster: 174165}
+shows:
+  "Cloudy with a Chance of Meatballs (2017)": {tpdb_poster: 174201}
+  "Hotel Transylvania: The Series (2017)": {tpdb_poster: 174202}

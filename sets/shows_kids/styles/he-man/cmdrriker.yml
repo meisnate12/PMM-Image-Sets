@@ -1,0 +1,13 @@
+info:
+  style_author: CmdrRiker
+  style_image: 248366
+  style_key: cmdrriker
+  style_link: 148560
+  complete: true
+  track_seasons: true
+shows:
+  "He-Man and the Masters of the Universe (1983)":
+    tpdb_poster: 248366
+    seasons:
+      1: {tpdb_poster: 248367}
+      2: {tpdb_poster: 248368}

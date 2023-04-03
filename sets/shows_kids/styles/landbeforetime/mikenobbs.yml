@@ -1,0 +1,14 @@
+info:
+  style_author: mikenobbs
+  style_image:
+  style_key: mikenobbs
+  style_link: 66397
+  complete: true
+  track_seasons: true
+collections:
+  "The Land Before Time Collection": {tpdb_poster: 105457}
+shows:
+  "The Land Before Time (2007)":
+    tpdb_poster: 105472
+    seasons:
+      1: {tpdb_poster: 105473}
