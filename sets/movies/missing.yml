@@ -1,0 +1,93 @@
+alien:
+  rhj:
+    collections:
+      "AVP Collection": {tpdb_poster: null, url_poster: null}
+      "Prometheus Collection": {tpdb_poster: null, url_poster: null}
+avatar:
+  rhj:
+    collections:
+      "Avatar Collection": {tpdb_poster: null, url_poster: null}
+fast_furious:
+  mikenobbs:
+    collections:
+      "The Fast and the Furious Collection": {tpdb_poster: null, url_poster: null}
+      "Hobbs & Shaw Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Fast X (2023)": {tpdb_poster: null, url_poster: null}
+godzilla_monsterverse:
+  rhj:
+    collections:
+      "Godzilla Collection": {tpdb_poster: null, url_poster: null}
+godzilla_showa:
+  doctorbat:
+    movies:
+      "Godzilla (1954)": {tpdb_poster: null, url_poster: null}
+poirot:
+  diiivoy_neon:
+    movies:
+      "A Haunting in Venice (2023)": {tpdb_poster: null, url_poster: null}
+indiana:
+  rhj:
+    movies:
+      "Indiana Jones and the Dial of Destiny (2023)": {tpdb_poster: null, url_poster: null}
+  olivier:
+    movies:
+      "Indiana Jones and the Dial of Destiny (2023)": {tpdb_poster: null, url_poster: null}
+john_wick:
+  rhj:
+    movies:
+      "John Wick: Chapter 4 (2023)": {tpdb_poster: null, url_poster: null}
+mib:
+  rhj:
+    collections:
+      "Men In Black Collection": {tpdb_poster: null, url_poster: null}
+middle:
+  mikenobbs:
+    collections:
+      "The Hobbit Collection": {tpdb_poster: null, url_poster: null}
+      "The Lord of the Rings Collection": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "The Hobbit Collection": {tpdb_poster: null, url_poster: null}
+      "The Lord of the Rings Collection": {tpdb_poster: null, url_poster: null}
+mission:
+  rhj:
+    movies:
+      "Mission: Impossible - Dead Reckoning Part One (2023)": {tpdb_poster: null,
+        url_poster: null}
+  rhj2:
+    movies:
+      "Mission: Impossible - Dead Reckoning Part One (2023)": {tpdb_poster: null,
+        url_poster: null}
+pirates:
+  rhj:
+    collections:
+      "Pirates of the Caribbean Collection": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    collections:
+      "Pirates of the Caribbean Collection": {tpdb_poster: null, url_poster: null}
+rocky_creed:
+  dannybeaton:
+    movies:
+      "Creed III (2023)": {tpdb_poster: null, url_poster: null}
+wizard:
+  rhj:
+    collections:
+      "Fantastic Beasts Collection": {tpdb_poster: null, url_poster: null}
+      "Harry Potter Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Fantastic Beasts Collection": {tpdb_poster: null, url_poster: null}
+      "Harry Potter Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Fantastic Beasts: The Secrets of Dumbledore (2022)": {tpdb_poster: null, url_poster: null}
+  dsman:
+    collections:
+      "Fantastic Beasts Collection": {tpdb_poster: null, url_poster: null}
+      "Harry Potter Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Fantastic Beasts and Where to Find Them (2016)": {tpdb_poster: null, url_poster: null}
+      "Fantastic Beasts: The Crimes of Grindelwald (2018)": {tpdb_poster: null, url_poster: null}
+      "Fantastic Beasts: The Secrets of Dumbledore (2022)": {tpdb_poster: null, url_poster: null}
+      "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": {tpdb_poster: null,
+        url_poster: null}

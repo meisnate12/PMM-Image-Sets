@@ -1,0 +1,21 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 20349
+  style_key: rhj2
+  style_link: 11706
+  complete: true
+collections:
+  "Wizarding World (of Harry Potter) Collection": {tpdb_poster: 20343}
+movies:
+  "Harry Potter and the Philosopher's Stone (2001)": {tpdb_poster: 20344}
+  "Harry Potter and the Chamber of Secrets (2002)": {tpdb_poster: 20345}
+  "Harry Potter and the Prisoner of Azkaban (2004)": {tpdb_poster: 20346}
+  "Harry Potter and the Goblet of Fire (2005)": {tpdb_poster: 20347}
+  "Harry Potter and the Order of the Phoenix (2007)": {tpdb_poster: 20348}
+  "Harry Potter and the Half-Blood Prince (2009)": {tpdb_poster: 20349}
+  "Harry Potter and the Deathly Hallows: Part 1 (2010)": {tpdb_poster: 20350}
+  "Harry Potter and the Deathly Hallows: Part 2 (2011)": {tpdb_poster: 20351}
+  "Fantastic Beasts and Where to Find Them (2016)": {tpdb_poster: 20352}
+  "Fantastic Beasts: The Crimes of Grindelwald (2018)": {tpdb_poster: 20353}
+  "Fantastic Beasts: The Secrets of Dumbledore (2022)": {tpdb_poster: 239160}
+  "Harry Potter 20th Anniversary: Return to Hogwarts (2022)": {tpdb_poster: 201116}

@@ -1,0 +1,32 @@
+sections:
+  godzilla_showa:
+    title: Godzilla Showa
+    builders:
+      tmdb_collection: 374509
+      tmdb_movie: 18983, 329237, 686487
+    styles:
+      doctorbat:
+      doctorbat2:
+    default_image: "Mothra vs. Godzilla (1964)"
+    collections:
+      "Godzilla (Showa) Collection":
+      - "Godzilla (Showa)"
+    movies:
+      "Godzilla (1954)": 1678
+      "Godzilla Raids Again (1955)": 1679
+      "Godzilla, King of the Monsters! (1956)": 18983
+      "Gigantis: The Fire Monster (1959)": 329237
+      "King Kong vs. Godzilla (1962)": 1680
+      "King Kong vs. Godzilla (1963)": 686487
+      "Mothra vs. Godzilla (1964)": 1682
+      "Ghidorah, the Three-Headed Monster (1964)": 15766
+      "Invasion of Astro-Monster (1965)": 19545
+      "Ebirah, Horror of the Deep (1966)": 3115
+      "Son of Godzilla (1967)": 18627
+      "Destroy All Monsters (1968)": 3107
+      "All Monsters Attack (1969)": 39462
+      "Godzilla vs. Hedorah (1971)": 39464
+      "Godzilla vs. Gigan (1972)": 19336
+      "Godzilla vs. Megalon (1973)": 39264
+      "Godzilla vs. Mechagodzilla (1974)": 38582
+      "Terror of Mechagodzilla (1975)": 19333

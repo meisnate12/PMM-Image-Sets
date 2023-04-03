@@ -1,0 +1,11 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 12030
+  style_key: rhj
+  style_link: 6002
+collections:
+  "John Wick Collection": {tpdb_poster: 12029}
+movies:
+  "John Wick (2014)": {tpdb_poster: 12030}
+  "John Wick: Chapter 2 (2017)": {tpdb_poster: 12031}
+  "John Wick: Chapter 3 - Parabellum (2019)": {tpdb_poster: 12032}

@@ -1,0 +1,59 @@
+sections:
+  middle:
+    title: Middle-Earth
+    builders:
+      tmdb_collection: 121938, 119
+    styles:
+      mikenobbs:
+      rhj:
+    default_image: "The Lord of the Rings: The Return of the King (2003)"
+    collections:
+      "Middle-Earth Collection":
+      - "Middle Earth"
+      - "Middle Earth Collection"
+      - "Middle-Earth"
+      "Hobbit Collection":
+      - "Hobbit"
+      - "The Hobbit"
+      - "The Hobbit Collection"
+      "Lord of the Rings Collection":
+      - "Lord of the Rings"
+      - "The Lord of the Rings"
+      - "The Lord of the Rings Collection"
+    movies:
+      "The Lord of the Rings: The Fellowship of the Ring (2001) (Extended)":
+        mapping_id: 120
+        edition_contains: Extended
+      "The Lord of the Rings: The Fellowship of the Ring (2001)":
+        mapping_id: 120
+        blank_edition: true
+      "The Lord of the Rings: The Two Towers (2002) (Extended)":
+        mapping_id: 121
+        edition_contains: Extended
+      "The Lord of the Rings: The Two Towers (2002)":
+        mapping_id: 121
+        blank_edition: true
+      "The Lord of the Rings: The Return of the King (2003) (Extended)":
+        mapping_id: 122
+        edition_contains: Extended
+      "The Lord of the Rings: The Return of the King (2003)":
+        mapping_id: 122
+        blank_edition: true
+      "The Hobbit: An Unexpected Journey (2012) (Extended)":
+        mapping_id: 49051
+        edition_contains: Extended
+      "The Hobbit: An Unexpected Journey (2012)":
+        mapping_id: 49051
+        blank_edition: true
+      "The Hobbit: The Desolation of Smaug (2013) (Extended)":
+        mapping_id: 57158
+        edition_contains: Extended
+      "The Hobbit: The Desolation of Smaug (2013)":
+        mapping_id: 57158
+        blank_edition: true
+      "The Hobbit: The Battle of the Five Armies (2014) (Extended)":
+        mapping_id: 122917
+        edition_contains: Extended
+      "The Hobbit: The Battle of the Five Armies (2014)":
+        mapping_id: 122917
+        blank_edition: true

@@ -1,0 +1,15 @@
+info:
+  style_author: dm247
+  style_image: 13912
+  style_key: dm247
+  style_link: 7281
+  complete: true
+movies:
+  "Alien (1979)": {tpdb_poster: 13912}
+  "Aliens (1986)": {tpdb_poster: 13913}
+  "Alien³ (1992)": {tpdb_poster: 13914}
+  "Alien Resurrection (1997)": {tpdb_poster: 13915}
+  "AVP: Alien vs. Predator (2004)": {tpdb_poster: 13916}
+  "Aliens vs Predator: Requiem (2007)": {tpdb_poster: 13917}
+  "Prometheus (2012)": {tpdb_poster: 13918}
+  "Alien: Covenant (2017)": {tpdb_poster: 13919}

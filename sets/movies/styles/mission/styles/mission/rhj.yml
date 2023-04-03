@@ -1,0 +1,15 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 65208
+  style_key: rhj
+  style_link: 41497
+  complete: true
+collections:
+  "Mission: Impossible Collection": {tpdb_poster: 65202}
+movies:
+  "Mission: Impossible (1996)": {tpdb_poster: 65203}
+  "Mission: Impossible II (2000)": {tpdb_poster: 65204}
+  "Mission: Impossible III (2006)": {tpdb_poster: 65205}
+  "Mission: Impossible - Ghost Protocol (2011)": {tpdb_poster: 65206}
+  "Mission: Impossible - Rogue Nation (2015)": {tpdb_poster: 65207}
+  "Mission: Impossible - Fallout (2018)": {tpdb_poster: 65208}

@@ -1,0 +1,14 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 49937
+  style_key: rhj
+  style_link: 31826
+  complete: true
+collections:
+  "Pirates of the Caribbean Collection": {tpdb_poster: 49933}
+movies:
+  "Pirates of the Caribbean: The Curse of the Black Pearl (2003)": {tpdb_poster: 49934}
+  "Pirates of the Caribbean: Dead Man's Chest (2006)": {tpdb_poster: 49935}
+  "Pirates of the Caribbean: At World's End (2007)": {tpdb_poster: 49936}
+  "Pirates of the Caribbean: On Stranger Tides (2011)": {tpdb_poster: 49937}
+  "Pirates of the Caribbean: Dead Men Tell No Tales (2017)": {tpdb_poster: 49938}

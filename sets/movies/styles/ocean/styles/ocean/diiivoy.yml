@@ -1,0 +1,14 @@
+info:
+  style_author: DIIIVOY
+  style_image: 81380
+  style_key: diiivoy
+  style_link: 51960
+  complete: true
+collections:
+  "Ocean's Collection": {tpdb_poster: 81376}
+movies:
+  "Ocean's Eleven (1960)": {tpdb_poster: 81377}
+  "Ocean's Eleven (2001)": {tpdb_poster: 81378}
+  "Ocean's Twelve (2004)": {tpdb_poster: 81379}
+  "Ocean's Thirteen (2007)": {tpdb_poster: 81380}
+  "Ocean's Eight (2018)": {tpdb_poster: 81381}

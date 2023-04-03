@@ -1,0 +1,15 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 1214
+  style_key: rhj
+  style_link: 357
+  complete: true
+movies:
+  "Alien (1979)": {tpdb_poster: 1214}
+  "Aliens (1986)": {tpdb_poster: 1215}
+  "Alien³ (1992)": {tpdb_poster: 1216}
+  "Alien Resurrection (1997)": {tpdb_poster: 1217}
+  "AVP: Alien vs. Predator (2004)": {tpdb_poster: 1218}
+  "Aliens vs Predator: Requiem (2007)": {tpdb_poster: 1219}
+  "Prometheus (2012)": {tpdb_poster: 1220}
+  "Alien: Covenant (2017)": {tpdb_poster: 1221}

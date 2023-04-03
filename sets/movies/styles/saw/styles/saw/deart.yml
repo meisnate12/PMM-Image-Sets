@@ -1,0 +1,18 @@
+info:
+  style_author: deArt
+  style_image: 153130
+  style_key: deart
+  style_link: 94062
+  complete: true
+collections:
+  "Saw Collection": {tpdb_poster: 153125}
+movies:
+  "Saw (2004)": {tpdb_poster: 153126}
+  "Saw II (2005)": {tpdb_poster: 153127}
+  "Saw III (2006)": {tpdb_poster: 153128}
+  "Saw IV (2007)": {tpdb_poster: 153129}
+  "Saw V (2008)": {tpdb_poster: 153130}
+  "Saw VI (2009)": {tpdb_poster: 153131}
+  "Saw 3D (2010)": {tpdb_poster: 153132}
+  "Jigsaw (2017)": {tpdb_poster: 153133}
+  "Spiral: From the Book of Saw (2021)": {tpdb_poster: 153444}

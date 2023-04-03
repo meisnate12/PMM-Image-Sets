@@ -1,0 +1,15 @@
+sections:
+  nowyouseeme:
+    title: Now You See Me
+    builders:
+      tmdb_collection: 382685
+    styles:
+      rhj:
+      ishalioh:
+    default_image: "Now You See Me (2013)"
+    collections:
+      "Now You See Me Collection":
+      - "Now You See Me"
+    movies:
+      "Now You See Me (2013)": 75656
+      "Now You See Me 2 (2016)": 291805
