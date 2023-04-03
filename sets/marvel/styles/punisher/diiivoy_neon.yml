@@ -4,8 +4,15 @@ info:
   style_key: diiivoy_neon
   style_link: 78444
   complete: true
+  track_seasons: true
 collections:
   "The Punisher Collection": {tpdb_poster: 151892}
 movies:
   "The Punisher (2004)": {tpdb_poster: 151894}
   "Punisher: War Zone (2008)": {tpdb_poster: 151895}
+shows:
+  "Marvel's The Punisher (2017)":
+    tpdb_poster: 125387
+    seasons:
+      1: {tpdb_poster: 125388}
+      2: {tpdb_poster: 125389}

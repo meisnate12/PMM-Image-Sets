@@ -1,0 +1,27 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 139880
+  style_key: rhj2
+  style_link: 87080
+  track_seasons: true
+collections:
+  "Marvel Cinematic Universe": {tpdb_poster: 139853}
+shows:
+  "Marvel's Agents of S.H.I.E.L.D. (2013)": {tpdb_poster: 141750}
+  "Marvel's Agent Carter (2015)": {tpdb_poster: 141748}
+  "What If...? (2021)":
+    tpdb_poster: 167301
+    seasons:
+      1: {tpdb_poster: 168580}
+  "WandaVision (2021)":
+    tpdb_poster: 139880
+    seasons:
+      1: {tpdb_poster: 139881}
+  "Loki (2021)":
+    tpdb_poster: 139882
+    seasons:
+      1: {tpdb_poster: 157160}
+  "Hawkeye (2021)": {tpdb_poster: 189529}
+  "Moon Knight (2022)": {tpdb_poster: 212417}
+  "Ms. Marvel (2022)": {tpdb_poster: 241440}
+  "She-Hulk: Attorney at Law (2022)": {tpdb_poster: 258440}

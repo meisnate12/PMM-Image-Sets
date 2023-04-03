@@ -91,6 +91,7 @@ sections:
     title: Captain America
     builders:
       tmdb_collection: 131295
+      tvdb_show: 362496
     styles:
       diiivoy_neon:
       diiivoy:
@@ -103,6 +104,8 @@ sections:
       "Captain America: The First Avenger (2011)": 1771
       "Captain America: The Winter Soldier (2014)": 100402
       "Captain America: Civil War (2016)": 271110
+    shows:
+      "The Falcon and the Winter Soldier (2021)": 362496
   captainmarvel:
     title: Captainmarvel
     builders:
@@ -121,6 +124,7 @@ sections:
     title: Daredevil
     builders:
       tmdb_movie: 9480
+      tvdb_show: ID281662
     styles:
       diiivoy_neon:
     collections:
@@ -128,6 +132,8 @@ sections:
       - "Daredevil"
     movies:
       "Daredevil (2003)": 9480
+    shows:
+      "Marvel's Daredevil (2015)": 281662
   deadpool:
     title: Deadpool
     builders:
@@ -270,6 +276,7 @@ sections:
     title: The Punisher
     builders:
       tmdb_collection: 635362
+      tvdb_show: 331980
     styles:
       diiivoy_neon:
     collections:
@@ -280,6 +287,8 @@ sections:
     movies:
       "The Punisher (2004)": 7220
       "Punisher: War Zone (2008)": 13056
+    shows:
+      "Marvel's The Punisher (2017)": 331980
   shangchi:
     title: Shang-Chi
     builders:
@@ -351,6 +360,7 @@ sections:
       diiivoy:
       rhj:
       rhj2:
+    default_image: "Thor: Love and Thunder (2022)"
     collections:
       "Thor Collection":
       - "Thor"
@@ -363,8 +373,13 @@ sections:
     title: Ungrouped
     builders:
       tmdb_movie: 177572,  526896, 9947, 27460, 299969, 647375
+      tvdb_show: 263365, 281485, 284190, 304219, 317953, 326490, 320558, 332027, 341455,
+        364038, 367147, 368611, 362392, 362472, 367146, 368612, 368613
     styles:
       diiivoy_neon:
+      rhj:
+      rhj2:
+    default_image: "WandaVision (2021)"
     collections:
       "In Association with Marvel":
       - "In Association With Marvel"
@@ -378,6 +393,24 @@ sections:
       "Marvel: 75 Years, From Pulp to Pop! (2014)": 299969
       "Marvel Studios: Expanding the Universe (2019)": 647375
       "Morbius (2022)": 526896
+    shows:
+      "Marvel's Agents of S.H.I.E.L.D. (2013)": 263365
+      "Marvel's Agent Carter (2015)": 281485
+      "Marvel's Jessica Jones (2015)": 284190
+      "Marvel's Luke Cage (2016)": 304219
+      "Marvel's Iron Fist (2017)": 317953
+      "Marvel's The Defenders (2017)": 326490
+      "Marvel's Inhumans (2017)": 320558
+      "Marvel's Runaways (2017)": 332027
+      "Marvel's Cloak & Dagger (2018)": 341455
+      "Helstrom (2020)": 364038
+      "What If...? (2021)": 367147
+      "WandaVision (2021)": 362392
+      "Loki (2021)": 362472
+      "Hawkeye (2021)": 367146
+      "Moon Knight (2022)": 368611
+      "Ms. Marvel (2022)": 368612
+      "She-Hulk: Attorney at Law (2022)": 368613
   venom:
     title: Venom
     builders:
@@ -398,6 +431,7 @@ sections:
       diiivoy_neon:
       rhj:
       rhj2:
+    default_image: "Werewolf by Night (2022)"
     movies:
       "Werewolf by Night (2022)": 894205
       "Director by Night (2022)": 1036996

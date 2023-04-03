@@ -1,12 +1,99 @@
 info:
   style_author: DIIIVOY
-  style_image: 135779
+  style_image: 235304
   style_key: diiivoy_neon
   style_link: 78444
+  track_seasons: true
 collections:
   "In Association with Marvel": {tpdb_poster: 125372}
+  "Marvel Cinematic Universe": {tpdb_poster: 114045}
 movies:
   "Nick Fury: Agent of S.H.I.E.L.D. (1998)": {tpdb_poster: 220282}
   "Elektra (2005)": {tpdb_poster: 152035}
   "Big Hero 6 (2014)": {tpdb_poster: 171459}
   "Morbius (2022)": {tpdb_poster: 235304}
+shows:
+  "Marvel's Agents of S.H.I.E.L.D. (2013)":
+    tpdb_poster: 126114
+    seasons:
+      1: {tpdb_poster: 126115}
+      2: {tpdb_poster: 126116}
+      3: {tpdb_poster: 126117}
+      4: {tpdb_poster: 126118}
+      5: {tpdb_poster: 126119}
+      6: {tpdb_poster: 126121}
+      7: {tpdb_poster: 126124}
+  "Marvel's Agent Carter (2015)":
+    tpdb_poster: 126120
+    seasons:
+      1: {tpdb_poster: 126122}
+      2: {tpdb_poster: 126123}
+  "Marvel's Jessica Jones (2015)":
+    tpdb_poster: 125377
+    seasons:
+      1: {tpdb_poster: 125378}
+      2: {tpdb_poster: 125379}
+      3: {tpdb_poster: 125380}
+  "Marvel's Luke Cage (2016)":
+    tpdb_poster: 125381
+    seasons:
+      1: {tpdb_poster: 125382}
+      2: {tpdb_poster: 125383}
+  "Marvel's Iron Fist (2017)":
+    tpdb_poster: 125384
+    seasons:
+      1: {tpdb_poster: 125385}
+      2: {tpdb_poster: 125386}
+  "Marvel's The Defenders (2017)":
+    tpdb_poster: 125390
+    seasons:
+      1: {tpdb_poster: 125391}
+  "Marvel's Inhumans (2017)":
+    tpdb_poster: 133434
+    seasons:
+      1: {tpdb_poster: 133435}
+  "Marvel's Runaways (2017)":
+    tpdb_poster: 133002
+    seasons:
+      1: {tpdb_poster: 133003}
+      2: {tpdb_poster: 133004}
+      3: {tpdb_poster: 133005}
+  "Marvel's Cloak & Dagger (2018)":
+    tpdb_poster: 133473
+    seasons:
+      1: {tpdb_poster: 133474}
+      2: {tpdb_poster: 133475}
+  "Helstrom (2020)":
+    tpdb_poster: 151792
+    seasons:
+      1: {tpdb_poster: 151793}
+  "What If...? (2021)":
+    tpdb_poster: 167483
+    seasons:
+      1: {tpdb_poster: 167484}
+  "WandaVision (2021)":
+    tpdb_poster: 124699
+    seasons:
+      1: {tpdb_poster: 124700}
+  "Loki (2021)":
+    tpdb_poster: 144829
+    seasons:
+      0: {tpdb_poster: 164197}
+      1: {tpdb_poster: 144830}
+  "Hawkeye (2021)":
+    tpdb_poster: 192356
+    seasons:
+      1: {tpdb_poster: 192357}
+  "Moon Knight (2022)":
+    tpdb_poster: 212414
+    seasons:
+      0: {tpdb_poster: 233946}
+      1: {tpdb_poster: 213298}
+  "Ms. Marvel (2022)":
+    tpdb_poster: 241709
+    seasons:
+      1: {tpdb_poster: 241710}
+  "She-Hulk: Attorney at Law (2022)":
+    tpdb_poster: 257395
+    seasons:
+      1: {tpdb_poster: 257396}
