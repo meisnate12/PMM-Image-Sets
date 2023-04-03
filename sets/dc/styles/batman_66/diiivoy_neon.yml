@@ -5,6 +5,8 @@ info:
   style_link: 108123
   complete: true
   track_seasons: true
+collections:
+  "Batman '66 Collection": {tpdb_poster: 177506}
 movies:
   "Batman (1966)": {tpdb_poster: 177507}
   "Return to the Batcave - The Misadventures of Adam and Burt (2003)": {tpdb_poster: 177508}

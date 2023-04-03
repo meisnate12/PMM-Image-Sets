@@ -1,0 +1,12 @@
+info:
+  style_author: Aloha_Alona
+  style_image: 24046
+  style_key: aloha_alona
+  style_link: 14219
+  complete: true
+collections:
+  "The Dark Knight Collection": {tpdb_poster: 24044}
+movies:
+  "Batman Begins (2005)": {tpdb_poster: 24045}
+  "The Dark Knight (2008)": {tpdb_poster: 24046}
+  "The Dark Knight Rises (2012)": {tpdb_poster: 24047}

@@ -1,0 +1,12 @@
+info:
+  style_author: NarkoTikz
+  style_image: 8491
+  style_key: narkotikz
+  style_link: 3504
+  complete: true
+collections:
+  "The Dark Knight Collection": {tpdb_poster: 8489}
+movies:
+  "Batman Begins (2005)": {tpdb_poster: 8490}
+  "The Dark Knight (2008)": {tpdb_poster: 8491}
+  "The Dark Knight Rises (2012)": {tpdb_poster: 8492}
