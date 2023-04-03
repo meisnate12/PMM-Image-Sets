@@ -1,0 +1,20 @@
+sections:
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie: 14836, 77174, 170687, 313297, 458253
+    styles:
+      agon024:
+      diiivoy:
+      jeda:
+      rhj:
+      wdavery:
+    default_image: "Coraline (2009)"
+    collections:
+      "Laika Studios": []
+    movies:
+      "Coraline (2009)": 14836
+      "ParaNorman (2012)": 77174
+      "The Boxtrolls (2014)": 170687
+      "Kubo and the Two Strings (2016)": 313297
+      "Missing Link (2019)": 458253
