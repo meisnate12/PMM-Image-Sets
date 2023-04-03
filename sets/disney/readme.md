@@ -1,5 +1,5 @@
-<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">¶</a></h1>
-Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
+<h1 id="walt-disney-animation-studios">Walt Disney Animation Studios<a class="headerlink" href="#walt-disney-animation-studios" title="Permalink to this heading">¶</a></h1>
+This Image Set is for Movies and Shows released by Walt Disney Animation Studios.
 
 <ul class="images-index-table">
   <li><a href="#101-dalmatians-(animated)"><div class="images-inline-link">101 Dalmatians (Animated)<br><code>101dalmatians</code></div></a></li>

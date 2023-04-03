@@ -1,5 +1,5 @@
-<h1 id="star-wars-franchise">Star Wars Franchise<a class="headerlink" href="#star-wars-franchise" title="Permalink to this heading">Â¶</a></h1>
-This Image Set is for all Movies and Shows that are a part of the Star Wars Franchise
+<h1 id="star-wars">Star Wars<a class="headerlink" href="#star-wars" title="Permalink to this heading">¶</a></h1>
+This Image Set is for Movies and Shows that are part of the Star Wars franchise.
 
 <ul class="images-index-table">
   <li><a href="#documentaries"><div class="images-inline-link">Documentaries<br><code>documentary</code></div></a></li>
@@ -12,8 +12,8 @@ This Image Set is for all Movies and Shows that are a part of the Star Wars Fran
   <li><a href="#ungrouped"><div class="images-inline-link">Ungrouped<br><code>ungrouped</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
-<h3 id="documentaries">Documentaries<a class="headerlink" href="#documentaries" title="Permalink to this heading">Â¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
+<h3 id="documentaries">Documentaries<a class="headerlink" href="#documentaries" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>documentary</code>
 <br><strong>Builders:</strong>
 <br>
@@ -34,7 +34,7 @@ This Image Set is for all Movies and Shows that are a part of the Star Wars Fran
   </table>
 </div>
 
-<h3 id="ewok-adventure">Ewok Adventure<a class="headerlink" href="#ewok-adventure" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="ewok-adventure">Ewok Adventure<a class="headerlink" href="#ewok-adventure" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ewok</code>
 <br><strong>Builders:</strong>
 <br>
@@ -69,7 +69,7 @@ This Image Set is for all Movies and Shows that are a part of the Star Wars Fran
   </table>
 </div>
 
-<h3 id="family-guy">Family Guy<a class="headerlink" href="#family-guy" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="family-guy">Family Guy<a class="headerlink" href="#family-guy" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>family_guy</code>
 <br><strong>Builders:</strong>
 <br>
@@ -90,7 +90,7 @@ This Image Set is for all Movies and Shows that are a part of the Star Wars Fran
   </table>
 </div>
 
-<h3 id="lego-star-wars">LEGO Star Wars<a class="headerlink" href="#lego-star-wars" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="lego-star-wars">LEGO Star Wars<a class="headerlink" href="#lego-star-wars" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>lego</code>
 <br><strong>Builders:</strong>
 <br>
@@ -119,7 +119,7 @@ This Image Set is for all Movies and Shows that are a part of the Star Wars Fran
   </table>
 </div>
 
-<h3 id="lego-star-wars-(seasonal)">LEGO Star Wars (Seasonal)<a class="headerlink" href="#lego-star-wars-(seasonal)" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="lego-star-wars-(seasonal)">LEGO Star Wars (Seasonal)<a class="headerlink" href="#lego-star-wars-(seasonal)" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>lego_seasonal</code>
 <br><strong>Builders:</strong>
 <br>
@@ -161,7 +161,7 @@ This Image Set is for all Movies and Shows that are a part of the Star Wars Fran
   </table>
 </div>
 
-<h3 id="robot-chicken">Robot Chicken<a class="headerlink" href="#robot-chicken" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="robot-chicken">Robot Chicken<a class="headerlink" href="#robot-chicken" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>robot_chicken</code>
 <br><strong>Builders:</strong>
 <br>
@@ -182,7 +182,7 @@ This Image Set is for all Movies and Shows that are a part of the Star Wars Fran
   </table>
 </div>
 
-<h3 id="star-wars">Star Wars<a class="headerlink" href="#star-wars" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="star-wars">Star Wars<a class="headerlink" href="#star-wars" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>starwars</code>
 <br><strong>Builders:</strong>
 <br>
@@ -233,7 +233,7 @@ This Image Set is for all Movies and Shows that are a part of the Star Wars Fran
   </table>
 </div>
 
-<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>

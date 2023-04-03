@@ -1,5 +1,5 @@
-<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">¶</a></h1>
-Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
+<h1 id="dreamworks-animation">DreamWorks Animation<a class="headerlink" href="#dreamworks-animation" title="Permalink to this heading">¶</a></h1>
+This Image Set is for Movies and Shows released by DreamWorks Animation.
 
 <ul class="images-index-table">
   <li><a href="#bible-stories"><div class="images-inline-link">Bible Stories<br><code>biblestories</code></div></a></li>
