@@ -1,5 +1,5 @@
-<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">¶</a></h1>
-Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
+<h1 id="illumination-entertainment">Illumination Entertainment<a class="headerlink" href="#illumination-entertainment" title="Permalink to this heading">¶</a></h1>
+This Image Set is for Movies and Shows released by Illumination Entertainment.
 
 <ul class="images-index-table">
   <li><a href="#despicable-me"><div class="images-inline-link">Despicable Me<br><code>despicableme</code></div></a></li>

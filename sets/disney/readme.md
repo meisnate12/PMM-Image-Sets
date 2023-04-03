@@ -1,5 +1,5 @@
-<h1 id="sets---movies">Sets - Movies<a class="headerlink" href="#sets---movies" title="Permalink to this heading">¶</a></h1>
-Below is a table of the available sets that can be used on Movie libraries, you can click the Image Set link to go to the poster source
+<h1 id="walt-disney-animation-studios">Walt Disney Animation Studios<a class="headerlink" href="#walt-disney-animation-studios" title="Permalink to this heading">¶</a></h1>
+This Image Set is for Movies and Shows released by Walt Disney Animation Studios.
 
 <ul class="images-index-table">
   <li><a href="#101-dalmatians-(animated)"><div class="images-inline-link">101 Dalmatians (Animated)<br><code>101dalmatians</code></div></a></li>
@@ -52,35 +52,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/101dalmatians/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/101dalmatians/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/101dalmatians/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/101dalmatians/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/101dalmatians/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/101dalmatians/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/101dalmatians/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/101dalmatians/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/101dalmatians/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/101dalmatians/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -101,35 +101,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/aladdin/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/aladdin/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/aladdin/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/aladdin/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/aladdin/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/aladdin/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/aladdin/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/aladdin/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/aladdin/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/aladdin/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -150,35 +150,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/atlantis/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/atlantis/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/atlantis/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/atlantis/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/atlantis/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/atlantis/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/atlantis/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/atlantis/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/atlantis/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/atlantis/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -199,35 +199,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bambi/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bambi/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bambi/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bambi/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bambi/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bambi/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bambi/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bambi/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bambi/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bambi/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -248,35 +248,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/beautybeast/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/beautybeast/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/beautybeast/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/beautybeast/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/beautybeast/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/beautybeast/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/beautybeast/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/beautybeast/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/beautybeast/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/beautybeast/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -297,35 +297,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bighero6/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bighero6/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bighero6/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bighero6/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bighero6/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bighero6/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bighero6/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bighero6/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bighero6/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bighero6/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -346,35 +346,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bolt/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bolt/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bolt/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bolt/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bolt/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bolt/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bolt/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bolt/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bolt/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/bolt/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -395,35 +395,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/brotherbear/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/brotherbear/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/brotherbear/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/brotherbear/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/brotherbear/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/brotherbear/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/brotherbear/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/brotherbear/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/brotherbear/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/brotherbear/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -444,35 +444,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/caballeros/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/caballeros/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/caballeros/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/caballeros/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/caballeros/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/caballeros/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/caballeros/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/caballeros/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/caballeros/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/caballeros/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -493,35 +493,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/cinderella/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/cinderella/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/cinderella/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/cinderella/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/cinderella/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/cinderella/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/cinderella/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/cinderella/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/cinderella/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/cinderella/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -542,35 +542,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hercules/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hercules/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hercules/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hercules/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hercules/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hercules/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hercules/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hercules/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hercules/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hercules/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -591,28 +591,28 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/emperor/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/emperor/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/emperor/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/emperor/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/emperor/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/emperor/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/emperor/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/emperor/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -633,35 +633,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/fantasia/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/fantasia/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/fantasia/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/fantasia/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/fantasia/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/fantasia/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/fantasia/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/fantasia/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/fantasia/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/fantasia/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -682,35 +682,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/foxhound/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/foxhound/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/foxhound/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/foxhound/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/foxhound/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/foxhound/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/foxhound/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/foxhound/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/foxhound/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/foxhound/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -732,35 +732,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/frozen/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/frozen/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/frozen/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/frozen/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/frozen/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/frozen/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/frozen/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/frozen/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/frozen/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/frozen/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -781,7 +781,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/goofy/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/goofy/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
@@ -802,35 +802,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hunchback/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hunchback/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hunchback/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hunchback/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hunchback/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hunchback/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hunchback/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hunchback/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hunchback/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/hunchback/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -851,35 +851,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/junglebook/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/junglebook/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/junglebook/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/junglebook/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/junglebook/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/junglebook/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/junglebook/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/junglebook/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/junglebook/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/junglebook/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -900,35 +900,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ladytramp/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ladytramp/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ladytramp/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ladytramp/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ladytramp/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ladytramp/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ladytramp/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ladytramp/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ladytramp/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ladytramp/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -949,35 +949,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lilostitch/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lilostitch/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lilostitch/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lilostitch/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lilostitch/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lilostitch/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lilostitch/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lilostitch/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lilostitch/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lilostitch/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -998,35 +998,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lionking/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lionking/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lionking/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lionking/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lionking/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lionking/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lionking/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lionking/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lionking/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/lionking/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1047,35 +1047,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/littlemermaid/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/littlemermaid/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/littlemermaid/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/littlemermaid/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/littlemermaid/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/littlemermaid/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/littlemermaid/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/littlemermaid/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/littlemermaid/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/littlemermaid/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1096,35 +1096,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/moana/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/moana/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/moana/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/moana/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/moana/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/moana/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/moana/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/moana/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/moana/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/moana/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1145,35 +1145,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/mulan/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/mulan/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/mulan/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/mulan/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/mulan/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/mulan/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/mulan/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/mulan/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/mulan/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/mulan/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1194,35 +1194,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/peterpan/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/peterpan/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/peterpan/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/peterpan/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/peterpan/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/peterpan/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/peterpan/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/peterpan/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/peterpan/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/peterpan/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1243,7 +1243,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/planes/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/planes/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
@@ -1264,7 +1264,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/pocahontas/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/pocahontas/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
@@ -1285,35 +1285,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/rescuers/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/rescuers/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/rescuers/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/rescuers/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/rescuers/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/rescuers/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/rescuers/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/rescuers/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/rescuers/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/rescuers/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1334,35 +1334,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tangled/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tangled/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tangled/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tangled/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tangled/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tangled/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tangled/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tangled/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tangled/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tangled/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1383,35 +1383,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tarzan/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tarzan/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tarzan/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tarzan/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tarzan/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tarzan/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tarzan/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tarzan/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tarzan/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tarzan/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1432,7 +1432,7 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tinkerbell/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/tinkerbell/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
@@ -1453,35 +1453,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ungrouped/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ungrouped/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ungrouped/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ungrouped/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ungrouped/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ungrouped/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ungrouped/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ungrouped/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ungrouped/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/ungrouped/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1502,35 +1502,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/winnie/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/winnie/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/95848" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/winnie/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/95848" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/winnie/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/95848" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/winnie/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/winnie/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/winnie/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/winnie/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/winnie/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/winnie/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1551,35 +1551,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/wreckitralph/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/wreckitralph/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/wreckitralph/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/wreckitralph/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/wreckitralph/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/wreckitralph/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/wreckitralph/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/wreckitralph/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/wreckitralph/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/wreckitralph/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
@@ -1600,35 +1600,35 @@ Below is a table of the available sets that can be used on Movie libraries, you 
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/zootopia/agon024.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/zootopia/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/zootopia/diiivoy_neon.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/zootopia/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/zootopia/faufan.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/zootopia/faufan.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>faufan</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/112548" target="_blank" rel="noopener noreferrer">faufan</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/zootopia/rhj.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/zootopia/rhj.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/62522" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/zootopia/rhj2.jpg" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney_animation/styles/zootopia/rhj2.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>rhj2</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/2454" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
         </div>

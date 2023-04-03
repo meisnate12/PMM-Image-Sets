@@ -1,5 +1,5 @@
-<h1 id="marvel-properties">Marvel Properties<a class="headerlink" href="#marvel-properties" title="Permalink to this heading">Â¶</a></h1>
-This Image Set is for all Movies and Shows that are a property of Marvel.
+<h1 id="marvel">Marvel<a class="headerlink" href="#marvel" title="Permalink to this heading">¶</a></h1>
+This Image Set is for Movies and Shows that are a property of Marvel.
 
 <ul class="images-index-table">
   <li><a href="#the-amazing-spider-man"><div class="images-inline-link">The Amazing Spider-Man<br><code>spiderman_amazing</code></div></a></li>
@@ -33,8 +33,8 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   <li><a href="#x-men"><div class="images-inline-link">X-Men<br><code>xmen</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
-<h3 id="the-amazing-spider-man">The Amazing Spider-Man<a class="headerlink" href="#the-amazing-spider-man" title="Permalink to this heading">Â¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
+<h3 id="the-amazing-spider-man">The Amazing Spider-Man<a class="headerlink" href="#the-amazing-spider-man" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>spiderman_amazing</code>
 <br><strong>Builders:</strong>
 <br>
@@ -55,7 +55,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="ant-man">Ant-Man<a class="headerlink" href="#ant-man" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="ant-man">Ant-Man<a class="headerlink" href="#ant-man" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>antman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -97,7 +97,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="the-avengers">The Avengers<a class="headerlink" href="#the-avengers" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="the-avengers">The Avengers<a class="headerlink" href="#the-avengers" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>avengers</code>
 <br><strong>Builders:</strong>
 <br>
@@ -139,7 +139,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="black-panther">Black Panther<a class="headerlink" href="#black-panther" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="black-panther">Black Panther<a class="headerlink" href="#black-panther" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>blackpanther</code>
 <br><strong>Builders:</strong>
 <br>
@@ -181,7 +181,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="black-widow">Black Widow<a class="headerlink" href="#black-widow" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="black-widow">Black Widow<a class="headerlink" href="#black-widow" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>blackwidow</code>
 <br><strong>Builders:</strong>
 <br>
@@ -223,7 +223,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="blade">Blade<a class="headerlink" href="#blade" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="blade">Blade<a class="headerlink" href="#blade" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>blade</code>
 <br><strong>Builders:</strong>
 <br>
@@ -244,7 +244,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="captain-america">Captain America<a class="headerlink" href="#captain-america" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="captain-america">Captain America<a class="headerlink" href="#captain-america" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>captainamerica</code>
 <br><strong>Builders:</strong>
 <br>
@@ -287,7 +287,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="captainmarvel">Captainmarvel<a class="headerlink" href="#captainmarvel" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="captainmarvel">Captainmarvel<a class="headerlink" href="#captainmarvel" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>captainmarvel</code>
 <br><strong>Builders:</strong>
 <br>
@@ -329,7 +329,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="daredevil">Daredevil<a class="headerlink" href="#daredevil" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="daredevil">Daredevil<a class="headerlink" href="#daredevil" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>daredevil</code>
 <br><strong>Builders:</strong>
 <br>
@@ -351,7 +351,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="deadpool">Deadpool<a class="headerlink" href="#deadpool" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="deadpool">Deadpool<a class="headerlink" href="#deadpool" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>deadpool</code>
 <br><strong>Builders:</strong>
 <br>
@@ -373,7 +373,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="doctor-strange">Doctor Strange<a class="headerlink" href="#doctor-strange" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="doctor-strange">Doctor Strange<a class="headerlink" href="#doctor-strange" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>doctorstrange</code>
 <br><strong>Builders:</strong>
 <br>
@@ -415,7 +415,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="eternals">Eternals<a class="headerlink" href="#eternals" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="eternals">Eternals<a class="headerlink" href="#eternals" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>eternals</code>
 <br><strong>Builders:</strong>
 <br>
@@ -457,7 +457,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="fantastic-four">Fantastic Four<a class="headerlink" href="#fantastic-four" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="fantastic-four">Fantastic Four<a class="headerlink" href="#fantastic-four" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>fantasticfour</code>
 <br><strong>Builders:</strong>
 <br>
@@ -479,7 +479,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="ghost-rider">Ghost Rider<a class="headerlink" href="#ghost-rider" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="ghost-rider">Ghost Rider<a class="headerlink" href="#ghost-rider" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ghostrider</code>
 <br><strong>Builders:</strong>
 <br>
@@ -500,7 +500,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="guardians-of-the-galaxy">Guardians of the Galaxy<a class="headerlink" href="#guardians-of-the-galaxy" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="guardians-of-the-galaxy">Guardians of the Galaxy<a class="headerlink" href="#guardians-of-the-galaxy" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>guardiansofthegalaxy</code>
 <br><strong>Builders:</strong>
 <br>
@@ -543,7 +543,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="the-hulk">The Hulk<a class="headerlink" href="#the-hulk" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="the-hulk">The Hulk<a class="headerlink" href="#the-hulk" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>hulk</code>
 <br><strong>Builders:</strong>
 <br>
@@ -585,7 +585,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="iron-man">Iron Man<a class="headerlink" href="#iron-man" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="iron-man">Iron Man<a class="headerlink" href="#iron-man" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ironman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -627,7 +627,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="marvel-one-shots">Marvel One-Shots<a class="headerlink" href="#marvel-one-shots" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="marvel-one-shots">Marvel One-Shots<a class="headerlink" href="#marvel-one-shots" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>oneshot</code>
 <br><strong>Builders:</strong>
 <br>
@@ -655,7 +655,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="the-punisher">The Punisher<a class="headerlink" href="#the-punisher" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="the-punisher">The Punisher<a class="headerlink" href="#the-punisher" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>punisher</code>
 <br><strong>Builders:</strong>
 <br>
@@ -677,7 +677,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="shang-chi">Shang-Chi<a class="headerlink" href="#shang-chi" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="shang-chi">Shang-Chi<a class="headerlink" href="#shang-chi" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>shangchi</code>
 <br><strong>Builders:</strong>
 <br>
@@ -719,7 +719,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="spider-man">Spider-Man<a class="headerlink" href="#spider-man" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="spider-man">Spider-Man<a class="headerlink" href="#spider-man" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>spiderman</code>
 <br><strong>Builders:</strong>
 <br>
@@ -740,7 +740,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="spider-man-(avengers)">Spider-Man (Avengers)<a class="headerlink" href="#spider-man-(avengers)" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="spider-man-(avengers)">Spider-Man (Avengers)<a class="headerlink" href="#spider-man-(avengers)" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>spiderman_avengers</code>
 <br><strong>Builders:</strong>
 <br>
@@ -783,7 +783,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="spider-man-(spider-verse)">Spider-Man (Spider-Verse)<a class="headerlink" href="#spider-man-(spider-verse)" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="spider-man-(spider-verse)">Spider-Man (Spider-Verse)<a class="headerlink" href="#spider-man-(spider-verse)" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>spiderman_spiderverse</code>
 <br><strong>Builders:</strong>
 <br>
@@ -805,7 +805,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="thor">Thor<a class="headerlink" href="#thor" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="thor">Thor<a class="headerlink" href="#thor" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>thor</code>
 <br><strong>Builders:</strong>
 <br>
@@ -847,7 +847,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>
@@ -883,7 +883,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="venom">Venom<a class="headerlink" href="#venom" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="venom">Venom<a class="headerlink" href="#venom" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>venom</code>
 <br><strong>Builders:</strong>
 <br>
@@ -904,7 +904,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="werewolf-by-night">Werewolf by Night<a class="headerlink" href="#werewolf-by-night" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="werewolf-by-night">Werewolf by Night<a class="headerlink" href="#werewolf-by-night" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>werewolf</code>
 <br><strong>Builders:</strong>
 <br>
@@ -939,7 +939,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="the-wolverine">The Wolverine<a class="headerlink" href="#the-wolverine" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="the-wolverine">The Wolverine<a class="headerlink" href="#the-wolverine" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>wolverine</code>
 <br><strong>Builders:</strong>
 <br>
@@ -960,7 +960,7 @@ This Image Set is for all Movies and Shows that are a property of Marvel.
   </table>
 </div>
 
-<h3 id="x-men">X-Men<a class="headerlink" href="#x-men" title="Permalink to this heading">Â¶</a></h3>
+<h3 id="x-men">X-Men<a class="headerlink" href="#x-men" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>xmen</code>
 <br><strong>Builders:</strong>
 <br>

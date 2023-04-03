@@ -1,5 +1,5 @@
 <h1 id="blue-sky-studios">Blue Sky Studios<a class="headerlink" href="#blue-sky-studios" title="Permalink to this heading">¶</a></h1>
-This Image Set is for all Movies released by Blue Sky Studios.
+This Image Set is for Movies and Shows released by Blue Sky Studios.
 
 <ul class="images-index-table">
   <li><a href="#ice-age"><div class="images-inline-link">Ice Age<br><code>iceage</code></div></a></li>

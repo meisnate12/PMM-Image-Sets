@@ -1,12 +1,12 @@
-<h1 id="laika-studios">Laika Studios<a class="headerlink" href="#laika-studios" title="Permalink to this heading">Â¶</a></h1>
-This Image Set is for all Movies released by Laika Studios.
+<h1 id="laika-studios">Laika Studios<a class="headerlink" href="#laika-studios" title="Permalink to this heading">¶</a></h1>
+This Image Set is for Movies and Shows released by Laika Studios.
 
 <ul class="images-index-table">
   <li><a href="#ungrouped"><div class="images-inline-link">Ungrouped<br><code>ungrouped</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
-<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">Â¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
+<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>

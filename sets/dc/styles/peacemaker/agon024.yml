@@ -3,8 +3,8 @@ info:
   style_image: 204649
   style_key: agon024
   style_link: 80057
-  track_seasons: true
   complete: true
+  track_seasons: true
 shows:
   "Peacemaker (2022)":
     tpdb_poster: 204649
