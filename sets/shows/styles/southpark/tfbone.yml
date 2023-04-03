@@ -1,0 +1,38 @@
+info:
+  style_author: TFBone
+  style_image: 36001
+  style_key: tfbone
+  style_link: 21978
+  complete: true
+  track_seasons: true
+shows:
+  "South Park (1997)":
+    tpdb_poster: 36001
+    seasons:
+      0: {tpdb_poster: 36002}
+      1: {tpdb_poster: 36003}
+      2: {tpdb_poster: 36004}
+      3: {tpdb_poster: 36005}
+      4: {tpdb_poster: 36006}
+      5: {tpdb_poster: 36007}
+      6: {tpdb_poster: 36008}
+      7: {tpdb_poster: 36009}
+      8: {tpdb_poster: 36010}
+      9: {tpdb_poster: 36011}
+      10: {tpdb_poster: 36012}
+      11: {tpdb_poster: 36013}
+      12: {tpdb_poster: 36014}
+      13: {tpdb_poster: 36015}
+      14: {tpdb_poster: 36016}
+      15: {tpdb_poster: 36017}
+      16: {tpdb_poster: 36018}
+      17: {tpdb_poster: 36019}
+      18: {tpdb_poster: 36020}
+      19: {tpdb_poster: 36021}
+      20: {tpdb_poster: 36022}
+      21: {tpdb_poster: 36023}
+      22: {tpdb_poster: 36024}
+      23: {tpdb_poster: 36025}
+      24: {tpdb_poster: 105039}
+      25: {tpdb_poster: 209817}
+      26: {tpdb_poster: 319392}

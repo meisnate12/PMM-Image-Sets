@@ -1,0 +1,22 @@
+info:
+  style_author: CmdrRiker
+  style_image: 242303
+  style_key: cmdrriker
+  style_link: 145486
+  complete: true
+  track_seasons: true
+shows:
+  "Friends (1994)":
+    tpdb_poster: 242303
+    seasons:
+      0: {tpdb_poster: 242304}
+      1: {tpdb_poster: 242305}
+      2: {tpdb_poster: 242306}
+      3: {tpdb_poster: 242307}
+      4: {tpdb_poster: 242308}
+      5: {tpdb_poster: 242309}
+      6: {tpdb_poster: 242310}
+      7: {tpdb_poster: 242311}
+      8: {tpdb_poster: 242312}
+      9: {tpdb_poster: 242313}
+      10: {tpdb_poster: 242314}

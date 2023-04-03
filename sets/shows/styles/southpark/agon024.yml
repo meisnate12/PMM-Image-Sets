@@ -1,0 +1,38 @@
+info:
+  style_author: agon024
+  style_image: 147236
+  style_key: agon024
+  style_link: 90742
+  complete: true
+  track_seasons: true
+shows:
+  "South Park (1997)":
+    tpdb_poster: 147236
+    seasons:
+      0: {tpdb_poster: 147237}
+      1: {tpdb_poster: 147238}
+      2: {tpdb_poster: 147239}
+      3: {tpdb_poster: 147240}
+      4: {tpdb_poster: 147241}
+      5: {tpdb_poster: 147242}
+      6: {tpdb_poster: 147243}
+      7: {tpdb_poster: 147244}
+      8: {tpdb_poster: 147245}
+      9: {tpdb_poster: 147246}
+      10: {tpdb_poster: 147247}
+      11: {tpdb_poster: 147248}
+      12: {tpdb_poster: 147249}
+      13: {tpdb_poster: 147250}
+      14: {tpdb_poster: 147251}
+      15: {tpdb_poster: 147252}
+      16: {tpdb_poster: 147253}
+      17: {tpdb_poster: 147254}
+      18: {tpdb_poster: 147255}
+      19: {tpdb_poster: 147256}
+      20: {tpdb_poster: 147257}
+      21: {tpdb_poster: 147258}
+      22: {tpdb_poster: 147259}
+      23: {tpdb_poster: 147260}
+      24: {tpdb_poster: 147261}
+      25: {tpdb_poster: 222478}
+      26: {tpdb_poster: 318316}

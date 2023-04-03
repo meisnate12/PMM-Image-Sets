@@ -1,0 +1,15 @@
+info:
+  style_author: CmdrRiker
+  style_image: 149861
+  style_key: cmdrriker
+  style_link: 92223
+  complete: true
+  track_seasons: true
+shows:
+  "Chappelle's Show (2003)":
+    tpdb_poster: 149861
+    seasons:
+      0: {tpdb_poster: 149862}
+      1: {tpdb_poster: 149863}
+      2: {tpdb_poster: 149864}
+      3: {tpdb_poster: 149865}

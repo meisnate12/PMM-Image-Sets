@@ -1,0 +1,33 @@
+info:
+  style_author: agon024
+  style_image: 147806
+  style_key: agon024
+  style_link: 91126
+  complete: true
+  track_seasons: true
+shows:
+  "Family Guy (1999)":
+    tpdb_poster: 147806
+    seasons:
+      0: {tpdb_poster: 147807}
+      1: {tpdb_poster: 147808}
+      2: {tpdb_poster: 147809}
+      3: {tpdb_poster: 147810}
+      4: {tpdb_poster: 147811}
+      5: {tpdb_poster: 147812}
+      6: {tpdb_poster: 147813}
+      7: {tpdb_poster: 147814}
+      8: {tpdb_poster: 147815}
+      9: {tpdb_poster: 147816}
+      10: {tpdb_poster: 147817}
+      11: {tpdb_poster: 147818}
+      12: {tpdb_poster: 147819}
+      13: {tpdb_poster: 147820}
+      14: {tpdb_poster: 147821}
+      15: {tpdb_poster: 147822}
+      16: {tpdb_poster: 147823}
+      17: {tpdb_poster: 147824}
+      18: {tpdb_poster: 147825}
+      19: {tpdb_poster: 147826}
+      20: {tpdb_poster: 147827}
+      21: {tpdb_poster: 147828}

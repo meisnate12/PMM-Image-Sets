@@ -1,0 +1,19 @@
+info:
+  style_author: evremonde
+  style_image: 20181
+  style_key: evremonde
+  style_link: 11608
+  complete: true
+  track_seasons: true
+shows:
+  "Parks and Recreation (2009)":
+    tpdb_poster: 20181
+    seasons:
+      0: {tpdb_poster: 20182}
+      1: {tpdb_poster: 20183}
+      2: {tpdb_poster: 20184}
+      3: {tpdb_poster: 20185}
+      4: {tpdb_poster: 20186}
+      5: {tpdb_poster: 20187}
+      6: {tpdb_poster: 20188}
+      7: {tpdb_poster: 20189}

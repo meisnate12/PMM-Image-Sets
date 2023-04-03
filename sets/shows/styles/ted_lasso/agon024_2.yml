@@ -1,0 +1,14 @@
+info:
+  style_author: agon024
+  style_image: 95086
+  style_key: agon024_2
+  style_link: 60331
+  complete: true
+  track_seasons: true
+shows:
+  "Ted Lasso (2020)":
+    tpdb_poster: 95086
+    seasons:
+      1: {tpdb_poster: 95087}
+      2: {tpdb_poster: 168299}
+      3: {tpdb_poster: 342110}

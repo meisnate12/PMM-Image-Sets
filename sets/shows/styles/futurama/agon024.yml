@@ -1,0 +1,19 @@
+info:
+  style_author: agon024
+  style_image: 150233
+  style_key: agon024
+  style_link: 92466
+  complete: true
+  track_seasons: true
+shows:
+  "Futurama (1999)":
+    tpdb_poster: 150233
+    seasons:
+      0: {tpdb_poster: 150234}
+      1: {tpdb_poster: 150235}
+      2: {tpdb_poster: 150236}
+      3: {tpdb_poster: 150237}
+      4: {tpdb_poster: 150238}
+      5: {tpdb_poster: 150239}
+      6: {tpdb_poster: 150240}
+      7: {tpdb_poster: 150241}

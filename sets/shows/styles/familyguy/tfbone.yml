@@ -1,0 +1,33 @@
+info:
+  style_author: TFBone
+  style_image: 182490
+  style_key: tfbone
+  style_link: 111084
+  complete: true
+  track_seasons: true
+shows:
+  "Family Guy (1999)":
+    tpdb_poster: 182490
+    seasons:
+      0: {tpdb_poster: 182491}
+      1: {tpdb_poster: 182492}
+      2: {tpdb_poster: 182493}
+      3: {tpdb_poster: 182494}
+      4: {tpdb_poster: 182495}
+      5: {tpdb_poster: 182496}
+      6: {tpdb_poster: 182497}
+      7: {tpdb_poster: 182498}
+      8: {tpdb_poster: 182499}
+      9: {tpdb_poster: 182500}
+      10: {tpdb_poster: 182501}
+      11: {tpdb_poster: 182502}
+      12: {tpdb_poster: 182503}
+      13: {tpdb_poster: 182504}
+      14: {tpdb_poster: 182505}
+      15: {tpdb_poster: 182506}
+      16: {tpdb_poster: 182507}
+      17: {tpdb_poster: 182508}
+      18: {tpdb_poster: 182509}
+      19: {tpdb_poster: 182510}
+      20: {tpdb_poster: 182511}
+      21: {tpdb_poster: 182513}

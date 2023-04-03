@@ -1,0 +1,15 @@
+info:
+  style_author: ishalioh
+  style_image: 17309
+  style_key: ishalioh
+  style_link: 9681
+  complete: true
+  track_seasons: true
+shows:
+  "Stranger Things (2016)":
+    tpdb_poster: 17309
+    seasons:
+      1: {tpdb_poster: 17310}
+      2: {tpdb_poster: 17311}
+      3: {tpdb_poster: 17312}
+      4: {tpdb_poster: 254672}

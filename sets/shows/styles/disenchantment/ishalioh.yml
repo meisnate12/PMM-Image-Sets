@@ -1,0 +1,13 @@
+info:
+  style_author: ishalioh
+  style_image: 126582
+  style_key: ishalioh
+  style_link: 79117
+  complete: true
+  track_seasons: true
+shows:
+  "Disenchantment (2018)":
+    tpdb_poster: 126582
+    seasons:
+      1: {tpdb_poster: 126583}
+      2: {tpdb_poster: 126584}

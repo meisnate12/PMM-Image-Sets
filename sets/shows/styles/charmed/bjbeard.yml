@@ -1,0 +1,19 @@
+info:
+  style_author: bjbeard
+  style_image: 268845
+  style_key: bjbeard
+  style_link: 160156
+  complete: true
+  track_seasons: true
+shows:
+  "Charmed (1998)":
+    tpdb_poster: 268845
+    seasons:
+      1: {tpdb_poster: 268846}
+      2: {tpdb_poster: 268847}
+      3: {tpdb_poster: 268848}
+      4: {tpdb_poster: 268849}
+      5: {tpdb_poster: 268850}
+      6: {tpdb_poster: 268851}
+      7: {tpdb_poster: 268852}
+      8: {tpdb_poster: 268853}

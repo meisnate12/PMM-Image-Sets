@@ -1,0 +1,17 @@
+info:
+  style_author: bjbeard
+  style_image: 296246
+  style_key: bjbeard
+  style_link: 175098
+  complete: true
+  track_seasons: true
+shows:
+  "Falling Skies (2011)":
+    tpdb_poster: 296246
+    seasons:
+      0: {tpdb_poster: 296247}
+      1: {tpdb_poster: 296248}
+      2: {tpdb_poster: 296249}
+      3: {tpdb_poster: 296250}
+      4: {tpdb_poster: 296251}
+      5: {tpdb_poster: 296252}

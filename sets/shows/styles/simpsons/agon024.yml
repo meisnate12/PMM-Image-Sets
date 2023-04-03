@@ -1,0 +1,46 @@
+info:
+  style_author: agon024
+  style_image: 97063
+  style_key: agon024
+  style_link: 61413
+  complete: true
+  track_seasons: true
+shows:
+  "The Simpsons (1989)":
+    tpdb_poster: 97063
+    seasons:
+      0: {tpdb_poster: 97064}
+      1: {tpdb_poster: 97065}
+      2: {tpdb_poster: 97066}
+      3: {tpdb_poster: 97067}
+      4: {tpdb_poster: 97068}
+      5: {tpdb_poster: 97069}
+      6: {tpdb_poster: 97070}
+      7: {tpdb_poster: 97071}
+      8: {tpdb_poster: 97072}
+      9: {tpdb_poster: 97073}
+      10: {tpdb_poster: 97074}
+      11: {tpdb_poster: 97075}
+      12: {tpdb_poster: 97076}
+      13: {tpdb_poster: 97077}
+      14: {tpdb_poster: 97078}
+      15: {tpdb_poster: 97079}
+      16: {tpdb_poster: 97080}
+      17: {tpdb_poster: 97081}
+      18: {tpdb_poster: 97082}
+      19: {tpdb_poster: 97083}
+      20: {tpdb_poster: 97084}
+      21: {tpdb_poster: 97085}
+      22: {tpdb_poster: 97086}
+      23: {tpdb_poster: 97087}
+      24: {tpdb_poster: 97088}
+      25: {tpdb_poster: 97089}
+      26: {tpdb_poster: 97090}
+      27: {tpdb_poster: 97091}
+      28: {tpdb_poster: 97092}
+      29: {tpdb_poster: 97093}
+      30: {tpdb_poster: 97094}
+      31: {tpdb_poster: 97095}
+      32: {tpdb_poster: 97096}
+      33: {tpdb_poster: 179276}
+      34: {tpdb_poster: 179277}

@@ -1,0 +1,46 @@
+info:
+  style_author: Silvz
+  style_image: 165340
+  style_key: silvz
+  style_link: 101124
+  complete: true
+  track_seasons: true
+shows:
+  "The Simpsons (1989)":
+    tpdb_poster: 165340
+    seasons:
+      0: {tpdb_poster: 165341}
+      1: {tpdb_poster: 165342}
+      2: {tpdb_poster: 165343}
+      3: {tpdb_poster: 165344}
+      4: {tpdb_poster: 165345}
+      5: {tpdb_poster: 165346}
+      6: {tpdb_poster: 165389}
+      7: {tpdb_poster: 165347}
+      8: {tpdb_poster: 165348}
+      9: {tpdb_poster: 165349}
+      10: {tpdb_poster: 165350}
+      11: {tpdb_poster: 165351}
+      12: {tpdb_poster: 165352}
+      13: {tpdb_poster: 165353}
+      14: {tpdb_poster: 165354}
+      15: {tpdb_poster: 165355}
+      16: {tpdb_poster: 165356}
+      17: {tpdb_poster: 165357}
+      18: {tpdb_poster: 165358}
+      19: {tpdb_poster: 165359}
+      20: {tpdb_poster: 165360}
+      21: {tpdb_poster: 165361}
+      22: {tpdb_poster: 165362}
+      23: {tpdb_poster: 165363}
+      24: {tpdb_poster: 165364}
+      25: {tpdb_poster: 165365}
+      26: {tpdb_poster: 165366}
+      27: {tpdb_poster: 165367}
+      28: {tpdb_poster: 165368}
+      29: {tpdb_poster: 165369}
+      30: {tpdb_poster: 165370}
+      31: {tpdb_poster: 165371}
+      32: {tpdb_poster: 165372}
+      33: {tpdb_poster: 180003}
+      34: {tpdb_poster: 285053}

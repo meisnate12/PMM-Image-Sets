@@ -1,0 +1,18 @@
+info:
+  style_author: ishalioh
+  style_image: 63068
+  style_key: ishalioh
+  style_link: 40255
+  complete: true
+  track_seasons: true
+shows:
+  "Grimm (2011)":
+    tpdb_poster: 63068
+    seasons:
+      0: {tpdb_poster: 63069}
+      1: {tpdb_poster: 63070}
+      2: {tpdb_poster: 63071}
+      3: {tpdb_poster: 63072}
+      4: {tpdb_poster: 63073}
+      5: {tpdb_poster: 63074}
+      6: {tpdb_poster: 63075}

@@ -1,0 +1,19 @@
+info:
+  style_author: ConanCrafted
+  style_image: 134656
+  style_key: conancrafted
+  style_link: 83879
+  complete: true
+  track_seasons: true
+shows:
+  "Parks and Recreation (2009)":
+    tpdb_poster: 134656
+    seasons:
+      0: {tpdb_poster: 134657}
+      1: {tpdb_poster: 134658}
+      2: {tpdb_poster: 134659}
+      3: {tpdb_poster: 134660}
+      4: {tpdb_poster: 134661}
+      5: {tpdb_poster: 134662}
+      6: {tpdb_poster: 134663}
+      7: {tpdb_poster: 134664}

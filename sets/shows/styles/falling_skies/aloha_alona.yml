@@ -1,0 +1,17 @@
+info:
+  style_author: Aloha_Alona
+  style_image: 106955
+  style_key: aloha_alona
+  style_link: 67146
+  complete: true
+  track_seasons: true
+shows:
+  "Falling Skies (2011)":
+    tpdb_poster: 106955
+    seasons:
+      0: {tpdb_poster: 106956}
+      1: {tpdb_poster: 106957}
+      2: {tpdb_poster: 106958}
+      3: {tpdb_poster: 106959}
+      4: {tpdb_poster: 106960}
+      5: {tpdb_poster: 106961}

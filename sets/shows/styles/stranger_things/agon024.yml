@@ -1,0 +1,15 @@
+info:
+  style_author: agon024
+  style_image: 241108
+  style_key: agon024
+  style_link: 144854
+  complete: true
+  track_seasons: true
+shows:
+  "Stranger Things (2016)":
+    tpdb_poster: 241108
+    seasons:
+      1: {tpdb_poster: 241109}
+      2: {tpdb_poster: 241110}
+      3: {tpdb_poster: 241111}
+      4: {tpdb_poster: 241112}

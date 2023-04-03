@@ -1,0 +1,25 @@
+info:
+  style_author: spec0071
+  style_image: 117628
+  style_key: spec0071
+  style_link: 73856
+  complete: true
+  track_seasons: true
+shows:
+  "Bob's Burgers (2011)":
+    tpdb_poster: 117628
+    seasons:
+      0: {tpdb_poster: 117629}
+      1: {tpdb_poster: 117630}
+      2: {tpdb_poster: 117631}
+      3: {tpdb_poster: 117632}
+      4: {tpdb_poster: 117633}
+      5: {tpdb_poster: 117634}
+      6: {tpdb_poster: 117635}
+      7: {tpdb_poster: 117636}
+      8: {tpdb_poster: 117637}
+      9: {tpdb_poster: 117638}
+      10: {tpdb_poster: 117639}
+      11: {tpdb_poster: 117640}
+      12: {tpdb_poster: 180365}
+      13: {tpdb_poster: 273529}
