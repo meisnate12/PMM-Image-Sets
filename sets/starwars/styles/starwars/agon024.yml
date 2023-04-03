@@ -1,0 +1,116 @@
+info:
+  style_author: agon024
+  style_image: 167167
+  style_key: agon024
+  style_link: 102187
+  complete: true
+  track_seasons: true
+collections:
+  "Star Wars: The Complete Collection": {tpdb_poster: 167166}
+movies:
+  "Star Wars (1977)": {tpdb_poster: 167167}
+  "The Star Wars Holiday Special (1978)": {tpdb_poster: 167168}
+  "The Empire Strikes Back (1980)": {tpdb_poster: 167169}
+  "Return of the Jedi (1983)": {tpdb_poster: 167170}
+  "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 167171}
+  "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 167172}
+  "Star Wars: Episode III - Revenge of the Sith (2005)": {tpdb_poster: 167173}
+  "Star Wars: The Clone Wars (2008)": {tpdb_poster: 167174}
+  "Star Wars: The Force Awakens (2015)": {tpdb_poster: 167175}
+  "Rogue One: A Star Wars Story (2016)": {tpdb_poster: 167176}
+  "Star Wars: The Last Jedi (2017)": {tpdb_poster: 167177}
+  "Solo: A Star Wars Story (2018)": {tpdb_poster: 167178}
+  "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 167179}
+shows:
+  "Star Wars: Droids (1985)":
+    tpdb_poster: 241625
+    seasons:
+      0: {tpdb_poster: 241964}
+      1: {tpdb_poster: 241965}
+  "Star Wars: Ewoks (1985)":
+    tpdb_poster: 241687
+    seasons:
+      0: {tpdb_poster: 241907}
+      1: {tpdb_poster: 241908}
+      2: {tpdb_poster: 241909}
+  "Star Wars: Clone Wars (2003)":
+    tpdb_poster: 241624
+    seasons:
+      0: {tpdb_poster: 241722}
+      1: {tpdb_poster: 241723}
+      2: {tpdb_poster: 241724}
+      3: {tpdb_poster: 241725}
+  "Star Wars: The Clone Wars (2008)":
+    tpdb_poster: 167174
+    seasons:
+      0: {tpdb_poster: 241630}
+      1: {tpdb_poster: 241631}
+      2: {tpdb_poster: 241632}
+      3: {tpdb_poster: 241633}
+      4: {tpdb_poster: 241634}
+      5: {tpdb_poster: 241635}
+      6: {tpdb_poster: 241636}
+      7: {tpdb_poster: 241637}
+  "Star Wars Rebels (2014)":
+    tpdb_poster: 241618
+    seasons:
+      0: {tpdb_poster: 241967}
+      1: {tpdb_poster: 241619}
+      2: {tpdb_poster: 241620}
+      3: {tpdb_poster: 241621}
+      4: {tpdb_poster: 241622}
+  "Star Wars: Forces of Destiny (2017)":
+    tpdb_poster: 241626
+    seasons:
+      0: {tpdb_poster: 241961}
+      1: {tpdb_poster: 241962}
+      2: {tpdb_poster: 241963}
+  "Star Wars Galaxy of Adventures (2018)":
+    tpdb_poster: 241617
+    seasons:
+      0: {tpdb_poster: 241864}
+      1: {tpdb_poster: 241865}
+      2: {tpdb_poster: 241866}
+  "Star Wars Resistance (2018)":
+    tpdb_poster: 241623
+    seasons:
+      0: {tpdb_poster: 241671}
+      1: {tpdb_poster: 241672}
+      2: {tpdb_poster: 241674}
+  "The Mandalorian (2019)":
+    tpdb_poster: 241641
+    seasons:
+      1: {tpdb_poster: 241642}
+      2: {tpdb_poster: 241643}
+      3: {tpdb_poster: 241644}
+  "Disney Gallery / Star Wars: The Mandalorian (2020)":
+    tpdb_poster: 241945
+    seasons:
+      1: {tpdb_poster: 241946}
+      2: {tpdb_poster: 241947}
+  "Star Wars: The Bad Batch (2021)":
+    tpdb_poster: 241627
+    seasons:
+      1: {tpdb_poster: 241628}
+      2: {tpdb_poster: 241969}
+  "Star Wars: Visions (2021)":
+    tpdb_poster: 241638
+    seasons:
+      1: {tpdb_poster: 241968}
+  "The Book of Boba Fett (2021)":
+    tpdb_poster: 241639
+    seasons:
+      1: {tpdb_poster: 241640}
+  "Star Wars: Andor (2022)":
+    tpdb_poster: 247533
+    seasons:
+      0: {tpdb_poster: 267524}
+      1: {tpdb_poster: 247534}
+  "Disney Gallery / Star Wars: The Book of Boba Fett (2022)":
+    tpdb_poster: 242222
+    seasons:
+      1: {tpdb_poster: 242223}
+  "Star Wars: Tales of the Jedi (2022)":
+    tpdb_poster: 273184
+    seasons:
+      1: {tpdb_poster: 273185}
