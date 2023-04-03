@@ -96,7 +96,12 @@ sections:
       rhj:
     movies:
       "Justice League (2017)": 141052
-      "Zack Snyder's Justice League (2021)": 791373
+      "Zack Snyder's Justice League (2021) (Gray)":
+        mapping_id: 791373
+        edition_contains: Gray
+      "Zack Snyder's Justice League (2021)":
+        mapping_id: 791373
+        blank_edition: true
   manofsteel:
     title: Man of Steel
     builders:
