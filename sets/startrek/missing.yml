@@ -1,0 +1,74 @@
+deepspacenine:
+  mjmattu:
+    info:
+      style_image:
+altreality:
+  mjmattu:
+    info:
+      style_image:
+    collections:
+      "Star Trek: Alternate Reality Collection": {tpdb_poster: null, url_poster: null}
+animatedseries:
+  mjmattu:
+    info:
+      style_image:
+discovery:
+  mjmattu:
+    info:
+      style_image:
+    shows:
+      "Star Trek: Discovery (2017)":
+        seasons:
+          5: {tpdb_poster: null, url_poster: null}
+enterprise:
+  mjmattu:
+    info:
+      style_image:
+lowerdecks:
+  mjmattu:
+    info:
+      style_image:
+nextgen1987:
+  mjmattu:
+    info:
+      style_image:
+nextgen:
+  mjmattu:
+    info:
+      style_image:
+    collections:
+      "Star Trek: The Next Generation Collection": {tpdb_poster: null, url_poster: null}
+startrek:
+  mjmattu:
+    info:
+      style_image:
+    collections:
+      "Star Trek: The Original Series Collection": {tpdb_poster: null, url_poster: null}
+picard:
+  mjmattu:
+    info:
+      style_image:
+prodigy:
+  mjmattu:
+    info:
+      style_image:
+shorttreks:
+  mjmattu:
+    info:
+      style_image:
+startrek1996:
+  mjmattu:
+    info:
+      style_image:
+strangenewworlds:
+  mjmattu:
+    info:
+      style_image:
+    shows:
+      "Star Trek: Strange New Worlds (2022)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
+voyager:
+  mjmattu:
+    info:
+      style_image:

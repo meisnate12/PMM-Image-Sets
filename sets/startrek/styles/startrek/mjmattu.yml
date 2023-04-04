@@ -1,0 +1,13 @@
+info:
+  style_author: mjmattu
+  style_image: 335540
+  style_key: mjmattu
+  style_link: 194895
+  complete: true
+movies:
+  "Star Trek: The Motion Picture (1979)": {tpdb_poster: 335540}
+  "Star Trek II: The Wrath of Khan (1982)": {tpdb_poster: 335541}
+  "Star Trek III: The Search for Spock (1984)": {tpdb_poster: 335542}
+  "Star Trek IV: The Voyage Home (1986)": {tpdb_poster: 335543}
+  "Star Trek V: The Final Frontier (1989)": {tpdb_poster: 335544}
+  "Star Trek VI: The Undiscovered Country (1991)": {tpdb_poster: 335545}

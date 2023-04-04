@@ -1,0 +1,19 @@
+info:
+  style_author: mjmattu
+  style_image: 333359
+  style_key: mjmattu
+  style_link: 193837
+  complete: true
+  track_seasons: true
+shows:
+  "Star Trek: Deep Space Nine (1993)":
+    tpdb_poster: 333359
+    seasons:
+      0: {tpdb_poster: 333360}
+      1: {tpdb_poster: 333361}
+      2: {tpdb_poster: 333362}
+      3: {tpdb_poster: 333363}
+      4: {tpdb_poster: 333364}
+      5: {tpdb_poster: 333365}
+      6: {tpdb_poster: 333366}
+      7: {tpdb_poster: 333367}

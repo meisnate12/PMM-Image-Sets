@@ -1,0 +1,19 @@
+info:
+  style_author: mjmattu
+  style_image: 333350
+  style_key: mjmattu
+  style_link: 193836
+  complete: true
+  track_seasons: true
+shows:
+  "Star Trek: The Next Generation (1987)":
+    tpdb_poster: 333350
+    seasons:
+      0: {tpdb_poster: 333351}
+      1: {tpdb_poster: 333352}
+      2: {tpdb_poster: 333353}
+      3: {tpdb_poster: 333354}
+      4: {tpdb_poster: 333355}
+      5: {tpdb_poster: 333356}
+      6: {tpdb_poster: 333357}
+      7: {tpdb_poster: 333358}

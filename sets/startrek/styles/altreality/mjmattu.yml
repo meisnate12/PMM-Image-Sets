@@ -1,0 +1,10 @@
+info:
+  style_author: mjmattu
+  style_image: 335550
+  style_key: mjmattu
+  style_link: 194895
+  complete: true
+movies:
+  "Star Trek (2009)": {tpdb_poster: 335550}
+  "Star Trek Into Darkness (2013)": {tpdb_poster: 335551}
+  "Star Trek Beyond (2016)": {tpdb_poster: 335552}

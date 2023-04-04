@@ -1,0 +1,155 @@
+sections:
+  deepspacenine:
+    title: " Deep Space Nine (1993)"
+    builders:
+      tvdb_show: 72073
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Deep Space Nine (1993)"
+    shows:
+      "Star Trek: Deep Space Nine (1993)": 72073
+  altreality:
+    title: "Alternate Reality Movies"
+    builders:
+      tmdb_collection: 115575
+    styles:
+      mjmattu:
+    default_image: "Star Trek (2009)"
+    collections:
+      "Star Trek: Alternate Reality Collection":
+      - "Star Trek: Alternate Reality"
+    movies:
+      "Star Trek (2009)": 13475
+      "Star Trek Into Darkness (2013)": 54138
+      "Star Trek Beyond (2016)": 188927
+  animatedseries:
+    title: "The Animated Series (1973)"
+    builders:
+      tvdb_show: 73566
+    styles:
+      mjmattu:
+    default_image: "Star Trek: The Animated Series (1973)"
+    shows:
+      "Star Trek: The Animated Series (1973)": 73566
+  discovery:
+    title: "Discovery (2017)"
+    builders:
+      tvdb_show: 328711
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Discovery (2017)"
+    shows:
+      "Star Trek: Discovery (2017)": 328711
+  enterprise:
+    title: "Enterprise (2001)"
+    builders:
+      tvdb_show: 73893
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Enterprise (2001)"
+    shows:
+      "Star Trek: Enterprise (2001)": 73893
+  lowerdecks:
+    title: "Lower Decks (2020)"
+    builders:
+      tvdb_show: 367138
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Lower Decks (2020)"
+    shows:
+      "Star Trek: Lower Decks (2020)": 367138
+  nextgen1987:
+    title: "The Next Generation (1987)"
+    builders:
+      tvdb_show: 71470
+    styles:
+      mjmattu:
+    default_image: "Star Trek: The Next Generation (1987)"
+    shows:
+      "Star Trek: The Next Generation (1987)": 71470
+  nextgen:
+    title: "The Next Generation Movies"
+    builders:
+      tmdb_collection: 115570
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Generations (1994)"
+    collections:
+      "Star Trek: The Next Generation Collection":
+      - "Star Trek: The Next Generation"
+    movies:
+      "Star Trek: Generations (1994)": 193
+      "Star Trek: First Contact (1996)": 199
+      "Star Trek: Insurrection (1998)": 200
+      "Star Trek: Nemesis (2002)": 201
+  startrek:
+    title: "The Original Series Movies"
+    builders:
+      tmdb_collection: 151
+    styles:
+      mjmattu:
+    default_image: "Star Trek: The Motion Picture (1979)"
+    collections:
+      "Star Trek: The Original Series Collection":
+      - "Star Trek: The Original Series"
+    movies:
+      "Star Trek: The Motion Picture (1979)": 152
+      "Star Trek II: The Wrath of Khan (1982)": 154
+      "Star Trek III: The Search for Spock (1984)": 157
+      "Star Trek IV: The Voyage Home (1986)": 168
+      "Star Trek V: The Final Frontier (1989)": 172
+      "Star Trek VI: The Undiscovered Country (1991)": 174
+  picard:
+    title: "Picard (2020)"
+    builders:
+      tvdb_show: 364093
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Picard (2020)"
+    shows:
+      "Star Trek: Picard (2020)": 364093
+  prodigy:
+    title: "Prodigy (2021) "
+    builders:
+      tvdb_show: 385811
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Prodigy (2021)"
+    shows:
+      "Star Trek: Prodigy (2021)": 385811
+  shorttreks:
+    title: "Short Treks (2018)"
+    builders:
+      tvdb_show: 376108
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Short Treks (2018)"
+    shows:
+      "Star Trek: Short Treks (2018)": 376108
+  startrek1996:
+    title: "Star Trek (1966)"
+    builders:
+      tvdb_show: 77526
+    styles:
+      mjmattu:
+    default_image: "Star Trek (1966)"
+    shows:
+      "Star Trek (1966)": 77526
+  strangenewworlds:
+    title: "Strange New Worlds (2022)"
+    builders:
+      tvdb_show: 382389
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Strange New Worlds (2022)"
+    shows:
+      "Star Trek: Strange New Worlds (2022)": 382389
+  voyager:
+    title: "Voyager (1995)"
+    builders:
+      tvdb_show: 74550
+    styles:
+      mjmattu:
+    default_image: "Star Trek: Voyager (1995)"
+    shows:
+      "Star Trek: Voyager (1995)": 74550

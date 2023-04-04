@@ -1,0 +1,11 @@
+info:
+  style_author: mjmattu
+  style_image: 335546
+  style_key: mjmattu
+  style_link: 194895
+  complete: true
+movies:
+  "Star Trek: Generations (1994)": {tpdb_poster: 335546}
+  "Star Trek: First Contact (1996)": {tpdb_poster: 335547}
+  "Star Trek: Insurrection (1998)": {tpdb_poster: 335548}
+  "Star Trek: Nemesis (2002)": {tpdb_poster: 335549}
