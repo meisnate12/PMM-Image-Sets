@@ -1,0 +1,14 @@
+info:
+  style_author: agon024
+  style_image: 290125
+  style_key: agon024
+  style_link: 172042
+  complete: true
+collections:
+  "Laika Studios": {tpdb_poster: 290124}
+movies:
+  "Coraline (2009)": {tpdb_poster: 290125}
+  "ParaNorman (2012)": {tpdb_poster: 290126}
+  "The Boxtrolls (2014)": {tpdb_poster: 290127}
+  "Kubo and the Two Strings (2016)": {tpdb_poster: 290128}
+  "Missing Link (2019)": {tpdb_poster: 290129}

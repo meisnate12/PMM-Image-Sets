@@ -1,0 +1,22 @@
+info:
+  style_author: MiniZaki
+  style_image: 163236
+  style_key: minizaki
+  style_link: 99686
+  complete: true
+  track_seasons: true
+shows:
+  "Teenage Mutant Ninja Turtles (1987)":
+    tpdb_poster: 163236
+    seasons:
+      0: {tpdb_poster: 163237}
+      1: {tpdb_poster: 163238}
+      2: {tpdb_poster: 163239}
+      3: {tpdb_poster: 163240}
+      4: {tpdb_poster: 163241}
+      5: {tpdb_poster: 163242}
+      6: {tpdb_poster: 163243}
+      7: {tpdb_poster: 163244}
+      8: {tpdb_poster: 163245}
+      9: {tpdb_poster: 163246}
+      10: {tpdb_poster: 163247}

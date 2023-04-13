@@ -1,0 +1,27 @@
+info:
+  style_author: DIIIVOY
+  style_image: 33319
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+movies:
+  "Snow White and the Seven Dwarfs (1937)": {tpdb_poster: 33319}
+  "Dumbo (1941)": {tpdb_poster: 44924}
+  "Make Mine Music (1946)": {tpdb_poster: 33617}
+  "Fun and Fancy Free (1947)": {tpdb_poster: 33326}
+  "Melody Time (1948)": {tpdb_poster: 33327}
+  "The Adventures of Ichabod and Mr. Toad (1949)": {tpdb_poster: 33328}
+  "Alice in Wonderland (1951)": {tpdb_poster: 44909}
+  "Sleeping Beauty (1959)": {tpdb_poster: 44937}
+  "The Sword in the Stone (1963)": {tpdb_poster: 33335}
+  "The Aristocats (1970)": {tpdb_poster: 33337}
+  "Robin Hood (1973)": {tpdb_poster: 33338}
+  "Treasure Planet (2002)": {tpdb_poster: 33359}
+  "Home on the Range (2004)": {tpdb_poster: 33361}
+  "Chicken Little (2005)": {tpdb_poster: 33365}
+  "The Wild (2006)": {tpdb_poster: 32452}
+  "Meet the Robinsons (2007)": {tpdb_poster: 33366}
+  "The Princess and the Frog (2009)": {tpdb_poster: 33362}
+  "Encanto (2021)": {tpdb_poster: 201247}
+  "Raya and the Last Dragon (2021)": {tpdb_poster: 135285}
+  "Strange World (2022)": {tpdb_poster: 305811}

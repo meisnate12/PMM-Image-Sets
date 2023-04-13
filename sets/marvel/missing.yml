@@ -1,0 +1,195 @@
+antman:
+  diiivoy:
+    movies:
+      "Ant-Man and the Wasp: Quantumania (2023)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "Ant-Man Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Ant-Man Collection": {tpdb_poster: null, url_poster: null}
+avengers:
+  rhj:
+    collections:
+      "The Avengers Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "The Avengers Collection": {tpdb_poster: null, url_poster: null}
+blackpanther:
+  rhj:
+    collections:
+      "Black Panther Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Black Panther Collection": {tpdb_poster: null, url_poster: null}
+captainamerica:
+  rhj:
+    collections:
+      "Captain America Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Captain America Collection": {tpdb_poster: null, url_poster: null}
+captainmarvel:
+  rhj:
+    collections:
+      "Captain Marvel Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Captain Marvel Collection": {tpdb_poster: null, url_poster: null}
+doctorstrange:
+  rhj:
+    collections:
+      "Doctor Strange Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Doctor Strange Collection": {tpdb_poster: null, url_poster: null}
+guardiansofthegalaxy:
+  rhj:
+    collections:
+      "Guardians of the Galaxy Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Guardians of the Galaxy Holiday Special (2022)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Guardians of the Galaxy Collection": {tpdb_poster: null, url_poster: null}
+hulk:
+  rhj:
+    movies:
+      "Hulk (2003)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    movies:
+      "Hulk (2003)": {tpdb_poster: null, url_poster: null}
+ironman:
+  rhj:
+    collections:
+      "Iron Man Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Iron Man Collection": {tpdb_poster: null, url_poster: null}
+oneshot:
+  diiivoy_neon:
+    movies:
+      "Marvel One-Shot: The Consultant (2011)": {tpdb_poster: null, url_poster: null}
+      "Team Thor (2016)": {tpdb_poster: null, url_poster: null}
+      "Team Thor: Part 2 (2017)": {tpdb_poster: null, url_poster: null}
+      "Team Darryl (2018)": {tpdb_poster: null, url_poster: null}
+      "Peter's To-Do List (2019)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Marvel One-Shots Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Team Thor (2016)": {tpdb_poster: null, url_poster: null}
+      "Team Thor: Part 2 (2017)": {tpdb_poster: null, url_poster: null}
+      "Team Darryl (2018)": {tpdb_poster: null, url_poster: null}
+      "Peter's To-Do List (2019)": {tpdb_poster: null, url_poster: null}
+spiderman_avengers:
+  rhj:
+    collections:
+      "Spider-Man (Avengers) Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Spider-Man (Avengers) Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: null, url_poster: null}
+thor:
+  rhj:
+    collections:
+      "Thor Collection": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "Thor Collection": {tpdb_poster: null, url_poster: null}
+ungrouped:
+  diiivoy_neon:
+    movies:
+      "Marvel: 75 Years, From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "In Association with Marvel": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Nick Fury: Agent of S.H.I.E.L.D. (1998)": {tpdb_poster: null, url_poster: null}
+      "Elektra (2005)": {tpdb_poster: null, url_poster: null}
+      "Big Hero 6 (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel: 75 Years, From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
+      "Morbius (2022)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Marvel's Agents of S.H.I.E.L.D. (2013)": {tpdb_poster: null, url_poster: null}
+      "Marvel's Agent Carter (2015)": {tpdb_poster: null, url_poster: null}
+      "Marvel's Jessica Jones (2015)": {tpdb_poster: null, url_poster: null}
+      "Marvel's Luke Cage (2016)": {tpdb_poster: null, url_poster: null}
+      "Marvel's Iron Fist (2017)": {tpdb_poster: null, url_poster: null}
+      "Marvel's The Defenders (2017)": {tpdb_poster: null, url_poster: null}
+      "Marvel's Inhumans (2017)": {tpdb_poster: null, url_poster: null}
+      "Marvel's Runaways (2017)": {tpdb_poster: null, url_poster: null}
+      "Marvel's Cloak & Dagger (2018)": {tpdb_poster: null, url_poster: null}
+      "Helstrom (2020)": {tpdb_poster: null, url_poster: null}
+      "Ms. Marvel (2022)": {tpdb_poster: null, url_poster: null}
+      "She-Hulk: Attorney at Law (2022)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    collections:
+      "In Association with Marvel": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Nick Fury: Agent of S.H.I.E.L.D. (1998)": {tpdb_poster: null, url_poster: null}
+      "Elektra (2005)": {tpdb_poster: null, url_poster: null}
+      "Big Hero 6 (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel: 75 Years, From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
+      "Morbius (2022)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Marvel's Agents of S.H.I.E.L.D. (2013)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+          2: {tpdb_poster: null, url_poster: null}
+          3: {tpdb_poster: null, url_poster: null}
+          4: {tpdb_poster: null, url_poster: null}
+          5: {tpdb_poster: null, url_poster: null}
+          6: {tpdb_poster: null, url_poster: null}
+          7: {tpdb_poster: null, url_poster: null}
+      "Marvel's Agent Carter (2015)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+          2: {tpdb_poster: null, url_poster: null}
+      "Marvel's Jessica Jones (2015)": {tpdb_poster: null, url_poster: null, seasons: {
+          1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null},
+          3: {tpdb_poster: null, url_poster: null}}}
+      "Marvel's Luke Cage (2016)": {tpdb_poster: null, url_poster: null, seasons: {
+          1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}
+      "Marvel's Iron Fist (2017)": {tpdb_poster: null, url_poster: null, seasons: {
+          1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}
+      "Marvel's The Defenders (2017)": {tpdb_poster: null, url_poster: null, seasons: {
+          1: {tpdb_poster: null, url_poster: null}}}
+      "Marvel's Inhumans (2017)": {tpdb_poster: null, url_poster: null, seasons: {
+          1: {tpdb_poster: null, url_poster: null}}}
+      "Marvel's Runaways (2017)": {tpdb_poster: null, url_poster: null, seasons: {
+          1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null},
+          3: {tpdb_poster: null, url_poster: null}}}
+      "Marvel's Cloak & Dagger (2018)": {tpdb_poster: null, url_poster: null, seasons: {
+          1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}
+      "Helstrom (2020)": {tpdb_poster: null, url_poster: null, seasons: {1: {tpdb_poster: null,
+            url_poster: null}}}
+      "Hawkeye (2021)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+      "Moon Knight (2022)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+      "Ms. Marvel (2022)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+      "She-Hulk: Attorney at Law (2022)":
+        seasons:
+          1: {tpdb_poster: null, url_poster: null}
+werewolf:
+  rhj:
+    movies:
+      "Director by Night (2022)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    movies:
+      "Director by Night (2022)": {tpdb_poster: null, url_poster: null}
+xmen:
+  diiivoy_neon:
+    movies:
+      "Generation X (1996)": {tpdb_poster: null, url_poster: null}

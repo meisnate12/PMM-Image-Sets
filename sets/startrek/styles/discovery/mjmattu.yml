@@ -1,0 +1,16 @@
+info:
+  style_author: mjmattu
+  style_image: 334913
+  style_key: mjmattu
+  style_link: 194604
+  complete: true
+  track_seasons: true
+shows:
+  "Star Trek: Discovery (2017)":
+    tpdb_poster: 334913
+    seasons:
+      0: {tpdb_poster: 334914}
+      1: {tpdb_poster: 334915}
+      2: {tpdb_poster: 334916}
+      3: {tpdb_poster: 334917}
+      4: {tpdb_poster: 334918}

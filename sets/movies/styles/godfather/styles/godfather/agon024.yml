@@ -1,0 +1,12 @@
+info:
+  style_author: agon024
+  style_image: 245915
+  style_key: agon024
+  style_link: 44424
+  complete: true
+collections:
+  "The Godfather Collection": {tpdb_poster: 69953}
+movies:
+  "The Godfather (1972)": {tpdb_poster: 245915}
+  "The Godfather Part II (1974)": {tpdb_poster: 245916}
+  "The Godfather Part III (1990)": {tpdb_poster: 245917}

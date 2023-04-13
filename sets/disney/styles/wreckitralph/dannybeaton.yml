@@ -1,0 +1,9 @@
+info:
+  style_author: Danny Beaton
+  style_image: 11837
+  style_key: dannybeaton
+  style_link: 5935
+  complete: true
+movies:
+  "Wreck-It Ralph (2012)": {tpdb_poster: 11837}
+  "Ralph Breaks the Internet (2018)": {tpdb_poster: 11842}

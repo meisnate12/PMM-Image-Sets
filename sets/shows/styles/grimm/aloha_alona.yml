@@ -1,0 +1,18 @@
+info:
+  style_author: Aloha_Alona
+  style_image: 183124
+  style_key: aloha_alona
+  style_link: 111347
+  complete: true
+  track_seasons: true
+shows:
+  "Grimm (2011)":
+    tpdb_poster: 183124
+    seasons:
+      0: {tpdb_poster: 183125}
+      1: {tpdb_poster: 183126}
+      2: {tpdb_poster: 183127}
+      3: {tpdb_poster: 183128}
+      4: {tpdb_poster: 183129}
+      5: {tpdb_poster: 183130}
+      6: {tpdb_poster: 183131}

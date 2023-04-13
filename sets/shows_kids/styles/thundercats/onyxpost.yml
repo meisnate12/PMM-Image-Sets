@@ -1,0 +1,16 @@
+info:
+  style_author: OnyxPost
+  style_image: 216989
+  style_key: onyxpost
+  style_link: 130784
+  complete: true
+  track_seasons: true
+shows:
+  "ThunderCats (1985)":
+    tpdb_poster: 216989
+    seasons:
+      0: {tpdb_poster: 216990}
+      1: {tpdb_poster: 216991}
+      2: {tpdb_poster: 216992}
+      3: {tpdb_poster: 216993}
+      4: {tpdb_poster: 216994}

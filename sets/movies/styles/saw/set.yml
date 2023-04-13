@@ -1,0 +1,23 @@
+sections:
+  saw:
+    title: Saw
+    builders:
+      tmdb_collection: 656
+      tmdb_movie: 602734
+    styles:
+      rhj:
+      deart:
+    default_image: "Saw V (2008)"
+    collections:
+      "Saw Collection":
+      - "Saw"
+    movies:
+      "Saw (2004)": 176
+      "Saw II (2005)": 215
+      "Saw III (2006)": 214
+      "Saw IV (2007)": 663
+      "Saw V (2008)": 11917
+      "Saw VI (2009)": 22804
+      "Saw 3D (2010)": 41439
+      "Jigsaw (2017)": 298250
+      "Spiral: From the Book of Saw (2021)": 602734

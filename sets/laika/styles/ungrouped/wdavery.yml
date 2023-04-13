@@ -1,0 +1,14 @@
+info:
+  style_author: wdavery
+  style_image: 21393
+  style_key: wdavery
+  style_link: 9201
+  complete: true
+collections:
+  "Laika Studios": {tpdb_poster: 16548}
+movies:
+  "Coraline (2009)": {tpdb_poster: 21393}
+  "ParaNorman (2012)": {tpdb_poster: 21394}
+  "The Boxtrolls (2014)": {tpdb_poster: 21395}
+  "Kubo and the Two Strings (2016)": {tpdb_poster: 21396}
+  "Missing Link (2019)": {tpdb_poster: 21397}

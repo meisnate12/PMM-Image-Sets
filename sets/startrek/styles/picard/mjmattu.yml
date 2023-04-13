@@ -1,0 +1,15 @@
+info:
+  style_author: mjmattu
+  style_image: 335004
+  style_key: mjmattu
+  style_link: 194670
+  complete: true
+  track_seasons: true
+shows:
+  "Star Trek: Picard (2020)":
+    tpdb_poster: 335004
+    seasons:
+      0: {tpdb_poster: 335005}
+      1: {tpdb_poster: 335006}
+      2: {tpdb_poster: 335007}
+      3: {tpdb_poster: 335008}

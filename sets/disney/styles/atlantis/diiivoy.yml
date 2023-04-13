@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 48046
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+collections:
+  "Atlantis Collection": {tpdb_poster: 48045}
+movies:
+  "Atlantis: The Lost Empire (2001)": {tpdb_poster: 48046}
+  "Atlantis: Milo's Return (2003)": {tpdb_poster: 48047}

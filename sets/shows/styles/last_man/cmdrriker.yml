@@ -1,0 +1,15 @@
+info:
+  style_author: CmdrRiker
+  style_image: 240706
+  style_key: cmdrriker
+  style_link: 144614
+  complete: true
+  track_seasons: true
+shows:
+  "The Last Man on Earth (2015)":
+    tpdb_poster: 240706
+    seasons:
+      1: {tpdb_poster: 240707}
+      2: {tpdb_poster: 240708}
+      3: {tpdb_poster: 240709}
+      4: {tpdb_poster: 240710}

@@ -1,0 +1,298 @@
+sections:
+  aquaman:
+    title: Aquaman
+    builders:
+      tmdb_collection: 573693
+      tvdb_show: 82143
+    styles:
+      diiivoy_neon:
+      rhj:
+      expwarrior_neon:
+      agon024:
+    collections:
+      "Aquaman Collection":
+      - "Aquaman"
+    movies:
+      "Aquaman (2018)": 297802
+    shows:
+      "Aquaman (1967)": 82143
+  batman:
+    title: Batman
+    builders:
+      tmdb_collection: 120794
+    styles:
+      diiivoy_neon:
+      rhj:
+      aloha_alona:
+      agon024:
+    default_image: "Batman (1989)"
+    collections:
+      "Batman Collection":
+      - "Batman"
+    movies:
+      "Batman (1989)": 268
+      "Batman Returns (1992)": 364
+      "Batman Forever (1995)": 414
+      "Batman & Robin (1997)": 415
+  thebatman:
+    title: The Batman
+    builders:
+      tmdb_collection: 948485
+    styles:
+      diiivoy_neon:
+      rhj:
+    default_image: "The Batman (2022)"
+    collections:
+      "The Batman Collection":
+      - "Batman"
+      - "Batman Collection"
+      - "The Batman"
+    movies:
+      "The Batman (2022)": 414906
+  batman_66:
+    title: Batman '66
+    builders:
+      tmdb_collection: 626517
+      tmdb_movie: 2661, 20776
+      tmdb_show: 2287
+    styles:
+      diiivoy_neon:
+      mikenobbs:
+    default_image: "Batman (1966)"
+    collections:
+      "Batman '66 Collection":
+      - "Batman '66"
+      - "Batman Animation Collection (Adam West)"
+    movies:
+      "Batman (1966)": 2661
+      "Return to the Batcave - The Misadventures of Adam and Burt (2003)": 20776
+      "Batman: Return of the Caped Crusaders (2016)": 411736
+      "Batman vs. Two-Face (2017)": 464882
+    shows:
+      "Batman (1966)": 77871
+  darkknight:
+    title: The Dark Knight
+    builders:
+      tmdb_collection: 263
+    styles:
+      diiivoy_neon:
+      narkotikz:
+      narkotikz2:
+      aloha_alona:
+    default_image: "The Dark Knight (2008)"
+    collections:
+      "The Dark Knight Collection":
+      - "Dark Knight"
+      - "Dark Knight Collection"
+      - "The Dark Knight"
+    movies:
+      "Batman Begins (2005)": 272
+      "The Dark Knight (2008)": 155
+      "The Dark Knight Rises (2012)": 49026
+  flash:
+    title: Flash
+    builders:
+      tmdb_movie: 298618
+      tvdb_show: 78650, 279121
+    styles:
+      diiivoy_neon:
+      agon024:
+    collections:
+      "The Flash Collection":
+      - "Flash"
+      - "Flash Collection"
+      - "The Flash"
+    shows:
+      "The Flash (1990)": 78650
+      "The Flash (2014)": 279121
+  harleyquinn:
+    title: Harley Quinn
+    builders:
+      tmdb_movie: 495764
+      tvdb_show: 365677
+    styles:
+      diiivoy_neon:
+      rhj:
+      mikenobbs:
+      agon024:
+    default_image: "Birds of Prey (and the Fantabulous Emancipation of One Harley\
+      \ Quinn) (2020)"
+    collections:
+      "Harley Quinn Collection":
+      - "Harley Quinn"
+    movies:
+      "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)": 495764
+    shows:
+      "Harley Quinn (2019)": 365677
+  justiceleague:
+    title: Justice League
+    builders:
+      tmdb_movie: 141052, 791373
+      tvdb_show: 76320
+    styles:
+      diiivoy_neon:
+      rhj:
+      expwarrior_neon:
+      agon024:
+    default_image: "Justice League (2017)"
+    movies:
+      "Justice League (2017)": 141052
+      "Zack Snyder's Justice League (2021) (Gray)":
+        mapping_id: 791373
+        edition_contains: Gray
+      "Zack Snyder's Justice League (2021)":
+        mapping_id: 791373
+        blank_edition: true
+    shows:
+      "Justice League (2001)": 76320
+  manofsteel:
+    title: Man of Steel
+    builders:
+      tmdb_collection: 209131
+    styles:
+      diiivoy_neon:
+      rhj:
+      agon024:
+    default_image: "Man of Steel (2013)"
+    collections:
+      "Man of Steel Collection":
+      - "Man of Steel"
+    movies:
+      "Man of Steel (2013)": 49521
+      "Batman v Superman: Dawn of Justice (2016) (Ultimate)":
+        mapping_id: 209112
+        edition_contains: Ultimate
+      "Batman v Superman: Dawn of Justice (2016)":
+        mapping_id: 209112
+        blank_edition: true
+  peacemaker:
+    title: Peacemaker
+    builders:
+      tvdb_show: ID391153
+    styles:
+      diiivoy_neon:
+      agon024:
+    default_image: "Peacemaker (2022)"
+    shows:
+      "Peacemaker (2022)": 391153
+  red:
+    title: RED
+    builders:
+      tmdb_collection: 163902
+    styles:
+      diiivoy_neon:
+    default_image: "RED 2 (2013)"
+    collections:
+      "RED Collection":
+      - "RED"
+    movies:
+      "RED (2010)": 39514
+      "RED 2 (2013)": 146216
+  shazam:
+    title: Shazam!
+    builders:
+      tmdb_collection: 724848
+    styles:
+      diiivoy_neon:
+      rhj:
+      agon024:
+    default_image: "Shazam! (2019)"
+    collections:
+      "Shazam! Collection":
+      - "Shazam!"
+    movies:
+      "Shazam! (2019)": 287947
+      "Shazam! Fury of the Gods (2023)": 594767
+  suicidesquad:
+    title: Suicide Squad
+    builders:
+      tmdb_collection: 531242
+    styles:
+      diiivoy_neon:
+      rhj:
+      agon024:
+    default_image: "Suicide Squad (2016)"
+    collections:
+      "Suicide Squad Collection":
+      - "Suicide Squad"
+      - "The Suicide Squad"
+    movies:
+      "Suicide Squad (2016)": 297761
+      "The Suicide Squad (2021)": 436969
+  superman:
+    title: Superman
+    builders:
+      tmdb_collection: 8537
+      tvdb_show: 71788, 71161
+    styles:
+      diiivoy_neon:
+      expwarrior_neon:
+      expwarrior_neon2:
+    default_image: "Superman II (1980)"
+    collections:
+      "Superman Collection":
+      - "Superman"
+    movies:
+      "Superman (1978)": 1924
+      "Superman II (1980) (Donner)":
+        mapping_id: 8536
+        edition_contains: Donner
+      "Superman II (1980)":
+        mapping_id: 8536
+        blank_edition: true
+      "Superman III (1983)": 9531
+      "Superman IV: The Quest for Peace (1987)": 11411
+      "Superman Returns (2006)": 1452
+    shows:
+      "Superman (1988)": 71161
+      "Superman: The Animated Series (1996)": 71788
+  ungrouped:
+    title: Ungrouped
+    builders:
+      tmdb_movie: 20776, 436270, 13183, 41207, 475557, 44912, 314, 561, 831405, 20533,
+        752, 539681
+    styles:
+      diiivoy_neon:
+      rhj:
+      agon024:
+    default_image: "Black Adam (2022)"
+    collections:
+      "Worlds of DC (DCEU)":
+      - "DC Extended Universe"
+      - "Worlds of DC"
+    movies:
+      "Return to the Batcave - The Misadventures of Adam and Burt (2003)": 20776
+      "Catwoman (2004)": 314
+      "Constantine (2005)": 561
+      "V for Vendetta (2006)": 752
+      "Watchmen (2009) (Director)":
+        mapping_id: 13183
+        edition_contains: Director
+      "Watchmen (2009) (Midnight)":
+        mapping_id: 13183
+        edition_contains: Midnight
+      "Watchmen (2009)":
+        mapping_id: 13183
+        blank_edition: true
+      "Under the Hood (2009)": 41207
+      "Jonah Hex (2010)": 20533
+      "Green Lantern (2011)": 44912
+      "Joker (2019)": 475557
+      "Injustice (2021)": 831405
+      "Black Adam (2022)": 436270
+      "DC League of Super-Pets (2022)": 539681
+  wonderwoman:
+    title: Wonder Woman
+    builders:
+      tmdb_collection: 468552
+    styles:
+      diiivoy_neon:
+      rhj:
+      agon024:
+    default_image: "Wonder Woman 1984 (2020)"
+    collections:
+      "Wonder Woman Collection":
+      - "Wonder Woman"
+    movies:
+      "Wonder Woman (2017)": 297762
+      "Wonder Woman 1984 (2020)": 464052

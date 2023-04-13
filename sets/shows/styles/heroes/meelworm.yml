@@ -1,0 +1,16 @@
+info:
+  style_author: meelWORM
+  style_image: 43065
+  style_key: meelworm
+  style_link: 26507
+  complete: true
+  track_seasons: true
+shows:
+  "Heroes (2006)":
+    tpdb_poster: 43065
+    seasons:
+      0: {tpdb_poster: 43066}
+      1: {tpdb_poster: 43067}
+      2: {tpdb_poster: 43068}
+      3: {tpdb_poster: 43069}
+      4: {tpdb_poster: 43070}

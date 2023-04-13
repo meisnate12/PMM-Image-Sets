@@ -1,0 +1,15 @@
+info:
+  style_author: McMoomers
+  style_image: 88902
+  style_key: mcmooners
+  style_link: 56318
+  complete: true
+  track_seasons: true
+shows:
+  "The Last Man on Earth (2015)":
+    tpdb_poster: 88902
+    seasons:
+      1: {tpdb_poster: 88903}
+      2: {tpdb_poster: 88904}
+      3: {tpdb_poster: 88905}
+      4: {tpdb_poster: 88906}

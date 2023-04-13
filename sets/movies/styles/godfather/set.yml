@@ -1,0 +1,23 @@
+sections:
+  godfather:
+    title: The Godfather
+    builders:
+      tmdb_collection: 230
+    styles:
+      eternal:
+      agon024:
+    default_image: "The Godfather (1972)"
+    collections:
+      "The Godfather Collection":
+      - "Godfather"
+      - "Godfather Collection"
+      - "The Godfather"
+    movies:
+      "The Godfather (1972)": 238
+      "The Godfather Part II (1974)": 240
+      "The Godfather Part III (1990) (Coda)":
+        mapping_id: 242
+        edition_contains: Coda
+      "The Godfather Part III (1990)":
+        mapping_id: 242
+        blank_edition: true

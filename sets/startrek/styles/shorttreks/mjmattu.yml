@@ -1,0 +1,13 @@
+info:
+  style_author: mjmattu
+  style_image: 334993
+  style_key: mjmattu
+  style_link: 194663
+  complete: true
+  track_seasons: true
+shows:
+  "Star Trek: Short Treks (2018)":
+    tpdb_poster: 334993
+    seasons:
+      1: {tpdb_poster: 334994}
+      2: {tpdb_poster: 334995}

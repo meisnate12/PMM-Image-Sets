@@ -1,0 +1,25 @@
+info:
+  style_author: SulverShadow
+  style_image: 160215
+  style_key: sulvershadow
+  style_link: 97830
+  complete: true
+  track_seasons: true
+shows:
+  "Bob's Burgers (2011)":
+    tpdb_poster: 160215
+    seasons:
+      0: {tpdb_poster: 160216}
+      1: {tpdb_poster: 160217}
+      2: {tpdb_poster: 160218}
+      3: {tpdb_poster: 160219}
+      4: {tpdb_poster: 160220}
+      5: {tpdb_poster: 160221}
+      6: {tpdb_poster: 160222}
+      7: {tpdb_poster: 160223}
+      8: {tpdb_poster: 160224}
+      9: {tpdb_poster: 160225}
+      10: {tpdb_poster: 160226}
+      11: {tpdb_poster: 160227}
+      12: {tpdb_poster: 199475}
+      13: {tpdb_poster: 332629}

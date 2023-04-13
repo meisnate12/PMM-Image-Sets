@@ -1,0 +1,15 @@
+info:
+  style_author: DIIIVOY
+  style_image: 287089
+  style_key: diiivoy_neon
+  style_link: 170169
+  complete: true
+  track_seasons: true
+shows:
+  "Bluey (2018)":
+    tpdb_poster: 287089
+    seasons:
+      0: {tpdb_poster: 287090}
+      1: {tpdb_poster: 287091}
+      2: {tpdb_poster: 287092}
+      3: {tpdb_poster: 287093}

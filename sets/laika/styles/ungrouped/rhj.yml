@@ -1,0 +1,14 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 12034
+  style_key: rhj
+  style_link: 6003
+  complete: true
+collections:
+  "Laika Studios": {tpdb_poster: 12033}
+movies:
+  "Coraline (2009)": {tpdb_poster: 12034}
+  "ParaNorman (2012)": {tpdb_poster: 12035}
+  "The Boxtrolls (2014)": {tpdb_poster: 12036}
+  "Kubo and the Two Strings (2016)": {tpdb_poster: 12037}
+  "Missing Link (2019)": {tpdb_poster: 12038}

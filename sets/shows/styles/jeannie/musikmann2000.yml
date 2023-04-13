@@ -1,0 +1,17 @@
+info:
+  style_author: musikmann2000
+  style_image: 285539
+  style_key: musikmann2000
+  style_link: 169303
+  complete: true
+  track_seasons: true
+shows:
+  "I Dream of Jeannie (1965)":
+    tpdb_poster: 285539
+    seasons:
+      0: {tpdb_poster: 285540}
+      1: {tpdb_poster: 285541}
+      2: {tpdb_poster: 285542}
+      3: {tpdb_poster: 285543}
+      4: {tpdb_poster: 285544}
+      5: {tpdb_poster: 285545}

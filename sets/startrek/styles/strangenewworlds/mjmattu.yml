@@ -1,0 +1,13 @@
+info:
+  style_author: mjmattu
+  style_image: 335492
+  style_key: mjmattu
+  style_link: 194877
+  complete: true
+  track_seasons: true
+shows:
+  "Star Trek: Strange New Worlds (2022)":
+    tpdb_poster: 335492
+    seasons:
+      0: {tpdb_poster: 335495}
+      1: {tpdb_poster: 335496}

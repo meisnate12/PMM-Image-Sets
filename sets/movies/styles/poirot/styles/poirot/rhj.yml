@@ -1,0 +1,11 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 212749
+  style_key: rhj
+  style_link: 128200
+  complete: true
+collections:
+  "Hercule Poirot Collection": {tpdb_poster: 230473}
+movies:
+  "Murder on the Orient Express (2017)": {tpdb_poster: 212748}
+  "Death on the Nile (2022)": {tpdb_poster: 212749}

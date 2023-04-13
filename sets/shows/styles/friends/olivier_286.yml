@@ -1,0 +1,21 @@
+info:
+  style_author: Olivier_286
+  style_image: 42449
+  style_key: olivier_286
+  style_link: 26150
+  complete: true
+  track_seasons: true
+shows:
+  "Friends (1994)":
+    tpdb_poster: 42449
+    seasons:
+      1: {tpdb_poster: 42450}
+      2: {tpdb_poster: 42451}
+      3: {tpdb_poster: 42452}
+      4: {tpdb_poster: 42453}
+      5: {tpdb_poster: 42454}
+      6: {tpdb_poster: 42455}
+      7: {tpdb_poster: 42456}
+      8: {tpdb_poster: 42457}
+      9: {tpdb_poster: 42458}
+      10: {tpdb_poster: 42459}

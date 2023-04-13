@@ -1,0 +1,17 @@
+info:
+  style_author: waldob
+  style_image: 154008
+  style_key: waldob
+  style_link: 94632
+  complete: true
+  track_seasons: true
+shows:
+  "The Magicians (2015)":
+    tpdb_poster: 154008
+    seasons:
+      0: {tpdb_poster: 154009}
+      1: {tpdb_poster: 154010}
+      2: {tpdb_poster: 154011}
+      3: {tpdb_poster: 154012}
+      4: {tpdb_poster: 154013}
+      5: {tpdb_poster: 154014}

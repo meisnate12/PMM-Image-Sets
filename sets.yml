@@ -1,8 +1,41 @@
 sets:
   bluesky:
     title: Blue Sky Studios
-    description: This Image Set is for all Movies released by Blue Sky Studios.
+    description: This Image Set is for Movies and Shows released by Blue Sky Studios.
   dc:
     title: DC Properties
-    description: This Image Set is for all Movies and Shows that are a property of
-      DC.
+    description: This Image Set is for Movies and Shows that are a property of DC.
+  disney:
+    title: Walt Disney Animation Studios
+    description: This Image Set is for Movies and Shows released by Walt Disney Animation
+      Studios.
+  dreamworks:
+    title: DreamWorks Animation
+    description: This Image Set is for Movies and Shows released by DreamWorks Animation.
+  illumination:
+    title: Illumination Entertainment
+    description: This Image Set is for Movies and Shows released by Illumination Entertainment.
+  laika:
+    title: Laika Studios
+    description: This Image Set is for Movies and Shows released by Laika Studios.
+  marvel:
+    title: Marvel
+    description: This Image Set is for Movies and Shows that are a property of Marvel.
+  pixar:
+    title: Pixar Animation Studios
+    description: This Image Set is for Movies and Shows released by Pixar Animation
+      Studios.
+  shows:
+    title: Shows
+    description: This Image Set is for miscellaneous shows which do not fall into
+      any other Image Set
+  startrek:
+    title: Star Trek
+    description: This Image Set is for Movies and Shows which are part of the Star
+      Trek franchise.
+  starwars:
+    title: Star Wars
+    description: This Image Set is for Movies and Shows that are part of the Star
+      Wars franchise.
+
+

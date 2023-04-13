@@ -1,0 +1,13 @@
+info:
+  style_author: mjmattu
+  style_image: 335405
+  style_key: mjmattu
+  style_link: 194848
+  complete: true
+  track_seasons: true
+shows:
+  "Star Trek: Prodigy (2021)":
+    tpdb_poster: 335405
+    seasons:
+      0: {tpdb_poster: 335406}
+      1: {tpdb_poster: 335407}

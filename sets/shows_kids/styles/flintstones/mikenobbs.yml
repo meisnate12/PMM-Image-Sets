@@ -1,0 +1,18 @@
+info:
+  style_author: mikenobbs
+  style_image: 166414
+  style_key: mikenobbs
+  style_link: 101729
+  complete: true
+  track_seasons: true
+shows:
+  "The Flintstones (1960)":
+    tpdb_poster: 166414
+    seasons:
+      0: {tpdb_poster: 166415}
+      1: {tpdb_poster: 166428}
+      2: {tpdb_poster: 166429}
+      3: {tpdb_poster: 166430}
+      4: {tpdb_poster: 166431}
+      5: {tpdb_poster: 166432}
+      6: {tpdb_poster: 166433}

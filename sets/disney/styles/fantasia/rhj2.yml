@@ -1,0 +1,9 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 6019
+  style_key: rhj2
+  style_link: 2454
+  complete: true
+movies:
+  "Fantasia (1940)": {tpdb_poster: 6019}
+  "Fantasia 2000 (1999)": {tpdb_poster: 6052}

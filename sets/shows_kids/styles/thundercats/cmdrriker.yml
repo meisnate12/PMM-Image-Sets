@@ -1,0 +1,16 @@
+info:
+  style_author: CmdrRiker
+  style_image: 248326
+  style_key: cmdrriker
+  style_link: 148537
+  complete: true
+  track_seasons: true
+shows:
+  "ThunderCats (1985)":
+    tpdb_poster: 248326
+    seasons:
+      0: {tpdb_poster: 248327}
+      1: {tpdb_poster: 248328}
+      2: {tpdb_poster: 248329}
+      3: {tpdb_poster: 248330}
+      4: {tpdb_poster: 248331}

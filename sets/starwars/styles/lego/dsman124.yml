@@ -1,0 +1,17 @@
+info:
+  style_author: Dsman124
+  style_image: 155947
+  style_key: dsman124
+  style_link: 95546
+  complete: true
+  track_seasons: true
+collections:
+  "LEGO Star Wars Collection": {tpdb_poster: 155946}
+movies:
+  "LEGO Star Wars: Revenge of The Brick (2005)": {tpdb_poster: 155947}
+  "LEGO Star Wars: The Quest for R2-D2 (2009)": {tpdb_poster: 155948}
+  "LEGO Star Wars: Bombad Bounty (2010)": {tpdb_poster: 155949}
+  "LEGO Star Wars: The Padawan Menace (2011)": {tpdb_poster: 155950}
+  "LEGO Star Wars: The Empire Strikes Out (2012)": {tpdb_poster: 155951}
+shows:
+  "LEGO Star Wars: The Freemaker Adventures (2016)": {tpdb_poster: 155955}

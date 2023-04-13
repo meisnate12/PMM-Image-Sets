@@ -1,0 +1,12 @@
+info:
+  style_author: Sevi
+  style_image: 294968
+  style_key: sevi
+  style_link: 174405
+  complete: true
+  track_seasons: true
+shows:
+  "The Last of Us (2023)":
+    tpdb_poster: 294968
+    seasons:
+      1: {tpdb_poster: 294969}

@@ -1,0 +1,13 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 41330
+  style_key: rhj
+  style_link: 25446
+  complete: true
+  track_seasons: true
+shows:
+  "He-Man and the Masters of the Universe (1983)":
+    tpdb_poster: 41330
+    seasons:
+      1: {tpdb_poster: 41331}
+      2: {tpdb_poster: 41332}

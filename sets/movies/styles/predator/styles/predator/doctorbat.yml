@@ -1,0 +1,14 @@
+info:
+  style_author: DoctorBat
+  style_image: 256579
+  style_key: doctorbat
+  style_link: 153132
+  complete: true
+collections:
+  "Predator Collection": {tpdb_poster: 256575}
+movies:
+  "Predator (1987)": {tpdb_poster: 256576}
+  "Predator 2 (1990)": {tpdb_poster: 256577}
+  "Predators (2010)": {tpdb_poster: 256578}
+  "The Predator (2018)": {tpdb_poster: 256579}
+  "Prey (2022)": {tpdb_poster: 256580}

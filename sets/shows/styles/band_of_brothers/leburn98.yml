@@ -1,0 +1,13 @@
+info:
+  style_author: leburn98
+  style_image: 4527
+  style_key: leburn98
+  style_link: 1834
+  complete: true
+  track_seasons: true
+shows:
+  "Band of Brothers (2001)":
+    tpdb_poster: 4527
+    seasons:
+      0: {tpdb_poster: 4528}
+      1: {tpdb_poster: 4529}

@@ -1,0 +1,9 @@
+info:
+  style_author: DIIIVOY
+  style_image: 49800
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+movies:
+  "Bolt (2008)": {tpdb_poster: 49800}
+  "Super Rhino (2009)": {tpdb_poster: 49801}

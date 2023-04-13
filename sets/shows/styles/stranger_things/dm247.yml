@@ -1,0 +1,15 @@
+info:
+  style_author: dm247
+  style_image: 5590
+  style_key: dm247
+  style_link: 2318
+  complete: true
+  track_seasons: true
+shows:
+  "Stranger Things (2016)":
+    tpdb_poster: 5590
+    seasons:
+      1: {tpdb_poster: 5591}
+      2: {tpdb_poster: 5592}
+      3: {tpdb_poster: 5593}
+      4: {tpdb_poster: 238661}

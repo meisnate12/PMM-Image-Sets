@@ -1,0 +1,14 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 333418
+  style_key: rhj
+  style_link: 193860
+  complete: true
+  track_seasons: true
+shows:
+  "Ted Lasso (2020)":
+    tpdb_poster: 333418
+    seasons:
+      1: {tpdb_poster: 333419}
+      2: {tpdb_poster: 333420}
+      3: {tpdb_poster: 333421}

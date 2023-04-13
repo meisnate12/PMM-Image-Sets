@@ -1,0 +1,19 @@
+info:
+  style_author: waldob
+  style_image: 121711
+  style_key: waldob
+  style_link: 76332
+  complete: true
+  track_seasons: true
+shows:
+  "Charmed (1998)":
+    tpdb_poster: 121711
+    seasons:
+      1: {tpdb_poster: 121712}
+      2: {tpdb_poster: 121713}
+      3: {tpdb_poster: 121714}
+      4: {tpdb_poster: 121715}
+      5: {tpdb_poster: 121716}
+      6: {tpdb_poster: 121717}
+      7: {tpdb_poster: 121718}
+      8: {tpdb_poster: 121719}

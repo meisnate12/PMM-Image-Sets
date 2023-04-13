@@ -1,0 +1,14 @@
+info:
+  style_author: dm247
+  style_image: 43446
+  style_key: dm247
+  style_link: 26809
+  complete: true
+collections:
+  "Predator Collection": {tpdb_poster: 43442}
+movies:
+  "Predator (1987)": {tpdb_poster: 43443}
+  "Predator 2 (1990)": {tpdb_poster: 43444}
+  "Predators (2010)": {tpdb_poster: 43445}
+  "The Predator (2018)": {tpdb_poster: 43446}
+  "Prey (2022)": {tpdb_poster: 330509}

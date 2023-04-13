@@ -1,0 +1,9 @@
+info:
+  style_author: agon024
+  style_image: 279411
+  style_key: agon024
+  style_link: 166303
+  complete: true
+movies:
+  "Saludos Amigos (1942)": {tpdb_poster: 279411}
+  "The Three Caballeros (1944)": {tpdb_poster: 279412}

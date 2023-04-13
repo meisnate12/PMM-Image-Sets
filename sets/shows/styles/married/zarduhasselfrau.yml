@@ -1,0 +1,23 @@
+info:
+  style_author: zarduhasselfrau
+  style_image: 305392
+  style_key: zarduhasselfrau
+  style_link: 179870
+  complete: true
+  track_seasons: true
+shows:
+  "Married... with Children (1987)":
+    tpdb_poster: 305392
+    seasons:
+      0: {tpdb_poster: 305393}
+      1: {tpdb_poster: 305394}
+      2: {tpdb_poster: 305395}
+      3: {tpdb_poster: 305396}
+      4: {tpdb_poster: 305397}
+      5: {tpdb_poster: 305398}
+      6: {tpdb_poster: 305399}
+      7: {tpdb_poster: 305400}
+      8: {tpdb_poster: 305401}
+      9: {tpdb_poster: 305402}
+      10: {tpdb_poster: 305403}
+      11: {tpdb_poster: 305404}

@@ -1,0 +1,36 @@
+info:
+  style_author: mikenobbs
+  style_image: 2046
+  style_key: mikenobbs
+  style_link: 641
+  complete: true
+collections:
+  "James Bond Collection": {tpdb_poster: 2037}
+movies:
+  "Dr. No (1962)": {tpdb_poster: 2038}
+  "From Russia with Love (1963)": {tpdb_poster: 2039}
+  "Goldfinger (1964)": {tpdb_poster: 2040}
+  "Thunderball (1965)": {tpdb_poster: 2041}
+  "You Only Live Twice (1967)": {tpdb_poster: 2042}
+  "Casino Royale (1967)": {tpdb_poster: 2066}
+  "On Her Majesty's Secret Service (1969)": {tpdb_poster: 2043}
+  "Diamonds Are Forever (1971)": {tpdb_poster: 2044}
+  "Live and Let Die (1973)": {tpdb_poster: 2045}
+  "The Man with the Golden Gun (1974)": {tpdb_poster: 2046}
+  "The Spy Who Loved Me (1977)": {tpdb_poster: 2047}
+  "Moonraker (1979)": {tpdb_poster: 2048}
+  "For Your Eyes Only (1981)": {tpdb_poster: 2049}
+  "Octopussy (1983)": {tpdb_poster: 2050}
+  "Never Say Never Again (1983)": {tpdb_poster: 2051}
+  "A View to a Kill (1985)": {tpdb_poster: 2052}
+  "The Living Daylights (1987)": {tpdb_poster: 2053}
+  "Licence to Kill (1989)": {tpdb_poster: 2054}
+  "GoldenEye (1995)": {tpdb_poster: 2055}
+  "Tomorrow Never Dies (1997)": {tpdb_poster: 2056}
+  "The World Is Not Enough (1999)": {tpdb_poster: 2057}
+  "Die Another Day (2002)": {tpdb_poster: 2058}
+  "Casino Royale (2006)": {tpdb_poster: 2059}
+  "Quantum of Solace (2008)": {tpdb_poster: 2060}
+  "Skyfall (2012)": {tpdb_poster: 2061}
+  "Spectre (2015)": {tpdb_poster: 2062}
+  "No Time to Die (2021)": {tpdb_poster: 81315}

@@ -1,0 +1,13 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 6085
+  style_key: rhj
+  style_link: 2459
+  complete: true
+collections:
+  "Batman Collection": {tpdb_poster: 6084}
+movies:
+  "Batman (1989)": {tpdb_poster: 6085}
+  "Batman Returns (1992)": {tpdb_poster: 6086}
+  "Batman Forever (1995)": {tpdb_poster: 6087}
+  "Batman & Robin (1997)": {tpdb_poster: 6088}

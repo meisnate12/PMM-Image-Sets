@@ -1,0 +1,19 @@
+sections:
+  pirates:
+    title: Pirates of the Caribbean
+    builders:
+      tmdb_collection: 295
+    styles:
+      rhj:
+      diiivoy:
+      rhj2:
+    default_image: "Pirates of the Caribbean: On Stranger Tides (2011)"
+    collections:
+      "Pirates of the Caribbean Collection":
+      - "Pirates of the Caribbean"
+    movies:
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)": 22
+      "Pirates of the Caribbean: Dead Man's Chest (2006)": 58
+      "Pirates of the Caribbean: At World's End (2007)": 285
+      "Pirates of the Caribbean: On Stranger Tides (2011)": 1865
+      "Pirates of the Caribbean: Dead Men Tell No Tales (2017)": 166426

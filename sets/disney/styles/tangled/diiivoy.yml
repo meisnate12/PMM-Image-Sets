@@ -1,0 +1,19 @@
+info:
+  style_author: DIIIVOY
+  style_image: 49803
+  style_key: diiivoy
+  style_link: 31725
+  complete: true
+  track_seasons: true
+movies:
+  "Tangled (2010)": {tpdb_poster: 49803}
+  "Tangled Ever After (2012)": {tpdb_poster: 49804}
+  "Tangled: Before Ever After (2017)": {tpdb_poster: 49805}
+shows:
+  "Rapunzel's Tangled Adventure (2017)":
+    tpdb_poster: 49806
+    seasons:
+      0: {tpdb_poster: 49807}
+      1: {tpdb_poster: 49808}
+      2: {tpdb_poster: 49809}
+      3: {tpdb_poster: 49810}

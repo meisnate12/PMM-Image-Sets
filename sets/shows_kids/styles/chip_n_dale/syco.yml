@@ -1,0 +1,15 @@
+info:
+  style_author: SyCo
+  style_image: 2259
+  style_key: syco
+  style_link: 697
+  complete: true
+  track_seasons: true
+shows:
+  "Chip 'n' Dale Rescue Rangers (1989)":
+    tpdb_poster: 2259
+    seasons:
+      0: {tpdb_poster: 2261}
+      1: {tpdb_poster: 2262}
+      2: {tpdb_poster: 2263}
+      3: {tpdb_poster: 2264}

@@ -1,0 +1,18 @@
+info:
+  style_author: DIIIVOY
+  style_image: 46821
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+  track_seasons: true
+collections:
+  "The Emperor's New Groove Collection": {tpdb_poster: 46820}
+movies:
+  "The Emperor's New Groove (2000)": {tpdb_poster: 46821}
+  "Kronk's New Groove (2005)": {tpdb_poster: 46822}
+shows:
+  "The Emperor's New School (2006)":
+    tpdb_poster: 46823
+    seasons:
+      1: {tpdb_poster: 46824}
+      2: {tpdb_poster: 46825}

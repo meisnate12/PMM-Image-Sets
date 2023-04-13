@@ -1,0 +1,17 @@
+info:
+  style_author: fwlolx
+  style_image: 258946
+  style_key: fwlolx
+  style_link: 154393
+  complete: true
+  track_seasons: true
+shows:
+  "I Dream of Jeannie (1965)":
+    tpdb_poster: 258946
+    seasons:
+      0: {tpdb_poster: 258947}
+      1: {tpdb_poster: 258948}
+      2: {tpdb_poster: 258949}
+      3: {tpdb_poster: 258950}
+      4: {tpdb_poster: 258951}
+      5: {tpdb_poster: 258952}

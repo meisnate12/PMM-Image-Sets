@@ -1,0 +1,12 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 9778
+  style_key: rhj
+  style_link: 4475
+  complete: true
+movies:
+  "Captain America: The First Avenger (2011)": {tpdb_poster: 9778}
+  "Captain America: The Winter Soldier (2014)": {tpdb_poster: 9783}
+  "Captain America: Civil War (2016)": {tpdb_poster: 9787}
+shows:
+  "The Falcon and the Winter Soldier (2021)": {tpdb_poster: 144425}

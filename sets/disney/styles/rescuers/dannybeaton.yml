@@ -1,0 +1,9 @@
+info:
+  style_author: Danny Beaton
+  style_image: 11805
+  style_key: dannybeaton
+  style_link: 5935
+  complete: true
+movies:
+  "The Rescuers (1977)": {tpdb_poster: 11805}
+  "The Rescuers Down Under (1990)": {tpdb_poster: 11811}

@@ -1,0 +1,9 @@
+info:
+  style_author: faufan
+  style_image: 185503
+  style_key: faufan
+  style_link: 112548
+  complete: true
+movies:
+  "Saludos Amigos (1942)": {tpdb_poster: 185503}
+  "The Three Caballeros (1944)": {tpdb_poster: 185488}

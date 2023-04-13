@@ -1,0 +1,12 @@
+info:
+  style_author: RedHeadJedi
+  style_image: 302339
+  style_key: rhj
+  style_link: 178397
+  complete: true
+  track_seasons: true
+shows:
+  "The Last of Us (2023)":
+    tpdb_poster: 302339
+    seasons:
+      1: {tpdb_poster: 302340}

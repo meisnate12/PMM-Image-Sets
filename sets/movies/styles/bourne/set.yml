@@ -1,0 +1,19 @@
+sections:
+  bourne:
+    title: Jason Bourne
+    builders:
+      tmdb_collection: 31562
+    styles:
+      agon024:
+    default_image: "The Bourne Ultimatum (2007)"
+    collections:
+      "The Bourne Collection":
+      - "Bourne"
+      - "Bourne Collection"
+      - "The Bourne"
+    movies:
+      "The Bourne Identity (2002)": 2501
+      "The Bourne Supremacy (2004)": 2502
+      "The Bourne Ultimatum (2007)": 2503
+      "The Bourne Legacy (2012)": 49040
+      "Jason Bourne (2016)": 324668

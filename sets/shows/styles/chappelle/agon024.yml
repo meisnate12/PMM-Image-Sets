@@ -1,0 +1,15 @@
+info:
+  style_author: agon024
+  style_image: 191599
+  style_key: agon024
+  style_link: 115942
+  complete: true
+  track_seasons: true
+shows:
+  "Chappelle's Show (2003)":
+    tpdb_poster: 191599
+    seasons:
+      0: {tpdb_poster: 191600}
+      1: {tpdb_poster: 191601}
+      2: {tpdb_poster: 191602}
+      3: {tpdb_poster: 191603}

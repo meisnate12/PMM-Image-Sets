@@ -1,0 +1,22 @@
+info:
+  style_author: themonkeyworks
+  style_image: 168130
+  style_key: themonkeyworks
+  style_link: 102761
+  complete: true
+  track_seasons: true
+shows:
+  "Married... with Children (1987)":
+    tpdb_poster: 168130
+    seasons:
+      1: {tpdb_poster: 168131}
+      2: {tpdb_poster: 168132}
+      3: {tpdb_poster: 168133}
+      4: {tpdb_poster: 168134}
+      5: {tpdb_poster: 215042}
+      6: {tpdb_poster: 215043}
+      7: {tpdb_poster: 215044}
+      8: {tpdb_poster: 215045}
+      9: {tpdb_poster: 215046}
+      10: {tpdb_poster: 215047}
+      11: {tpdb_poster: 215048}

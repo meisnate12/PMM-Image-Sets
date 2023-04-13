@@ -1,0 +1,9 @@
+info:
+  style_author: Danny Beaton
+  style_image: 11785
+  style_key: dannybeaton
+  style_link: 5935
+  complete: true
+movies:
+  "Fantasia (1940)": {tpdb_poster: 11785}
+  "Fantasia 2000 (1999)": {tpdb_poster: 11821}

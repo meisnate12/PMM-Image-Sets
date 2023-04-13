@@ -1,0 +1,62 @@
+info:
+  style_author: mikenobbs
+  style_image: 165754
+  style_key: mikenobbs
+  style_link: 101330
+  track_seasons: true
+collections:
+  "Tom and Jerry Collection": {tpdb_poster: 165722}
+movies:
+  "Tom and Jerry: The Movie (1992)": {tpdb_poster: 165723}
+  "Tom and Jerry: The Magic Ring (2002)": {tpdb_poster: 165724}
+  "Tom and Jerry Blast Off to Mars! (2005)": {tpdb_poster: 165725}
+  "Tom and Jerry: The Fast and the Furry (2005)": {tpdb_poster: 165726}
+  "Tom and Jerry: Shiver Me Whiskers (2006)": {tpdb_poster: 165727}
+  "Tom and Jerry: A Nutcracker Tale (2007)": {tpdb_poster: 165728}
+  "Tom and Jerry Meet Sherlock Holmes (2010)": {tpdb_poster: 165729}
+  "Tom and Jerry & The Wizard of Oz (2011)": {tpdb_poster: 165730}
+  "Tom and Jerry: Robin Hood and His Merry Mouse (2012)": {tpdb_poster: 165731}
+  "Tom and Jerry's Giant Adventure (2013)": {tpdb_poster: 165732}
+  "Tom and Jerry: The Lost Dragon (2014)": {tpdb_poster: 165733}
+  "Tom and Jerry: Spy Quest (2015)": {tpdb_poster: 165734}
+  "Tom and Jerry: Back to Oz (2016)": {tpdb_poster: 165735}
+  "Tom and Jerry: Willy Wonka and the Chocolate Factory (2017)": {tpdb_poster: 165736}
+  "Tom & Jerry (2021)": {tpdb_poster: 165737}
+  "Tom and Jerry Cowboy Up! (2022)": {tpdb_poster: 214926}
+  "Tom and Jerry Snowman's Land (2022)": {tpdb_poster: 318921}
+shows:
+  "The Tom and Jerry Show (1975)":
+    tpdb_poster: 165740
+    seasons:
+      1: {tpdb_poster: 165741}
+  "The Tom and Jerry Comedy Show (1980)":
+    tpdb_poster: 165738
+    seasons:
+      1: {tpdb_poster: 165739}
+  "Tom & Jerry Kids Show (1990)":
+    tpdb_poster: 165758
+    seasons:
+      1: {tpdb_poster: 165759}
+      2: {tpdb_poster: 165760}
+      3: {tpdb_poster: 165761}
+      4: {tpdb_poster: 165762}
+  "Tom and Jerry Tales (2006)":
+    tpdb_poster: 165754
+    seasons:
+      0: {tpdb_poster: 165755}
+      1: {tpdb_poster: 165756}
+      2: {tpdb_poster: 165757}
+  "The Tom and Jerry Show (2014)":
+    tpdb_poster: 165747
+    seasons:
+      0: {tpdb_poster: 165748}
+      1: {tpdb_poster: 165749}
+      2: {tpdb_poster: 165750}
+      3: {tpdb_poster: 165751}
+      4: {tpdb_poster: 165752}
+      5: {tpdb_poster: 165753}
+  "Tom and Jerry in New York (2021)":
+    tpdb_poster: 165763
+    seasons:
+      1: {tpdb_poster: 165764}
+      2: {tpdb_poster: 284510}

@@ -1,0 +1,15 @@
+info:
+  style_author: mikenobbs
+  style_image: 11552
+  style_key: mikenobbs
+  style_link: 5765
+  complete: true
+collections:
+  "Mission: Impossible Collection": {tpdb_poster: 11546}
+movies:
+  "Mission: Impossible (1996)": {tpdb_poster: 11547}
+  "Mission: Impossible II (2000)": {tpdb_poster: 11548}
+  "Mission: Impossible III (2006)": {tpdb_poster: 11549}
+  "Mission: Impossible - Ghost Protocol (2011)": {tpdb_poster: 11550}
+  "Mission: Impossible - Rogue Nation (2015)": {tpdb_poster: 11551}
+  "Mission: Impossible - Fallout (2018)": {tpdb_poster: 11552}

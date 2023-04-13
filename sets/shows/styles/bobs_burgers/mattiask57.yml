@@ -1,0 +1,25 @@
+info:
+  style_author: Mattiask57
+  style_image: 280469
+  style_key: mattiask57
+  style_link: 166764
+  complete: true
+  track_seasons: true
+shows:
+  "Bob's Burgers (2011)":
+    tpdb_poster: 280469
+    seasons:
+      0: {tpdb_poster: 280470}
+      1: {tpdb_poster: 280471}
+      2: {tpdb_poster: 280472}
+      3: {tpdb_poster: 280473}
+      4: {tpdb_poster: 280474}
+      5: {tpdb_poster: 280475}
+      6: {tpdb_poster: 280476}
+      7: {tpdb_poster: 280477}
+      8: {tpdb_poster: 280478}
+      9: {tpdb_poster: 280479}
+      10: {tpdb_poster: 280480}
+      11: {tpdb_poster: 280481}
+      12: {tpdb_poster: 280482}
+      13: {tpdb_poster: 280483}

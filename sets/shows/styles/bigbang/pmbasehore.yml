@@ -1,0 +1,24 @@
+info:
+  style_author: pmbasehore
+  style_image: 36303
+  style_key: pmbasehore
+  style_link: 22171
+  complete: true
+  track_seasons: true
+shows:
+  "The Big Bang Theory (2007)":
+    tpdb_poster: 36303
+    seasons:
+      0: {tpdb_poster: 36304}
+      1: {tpdb_poster: 36305}
+      2: {tpdb_poster: 36306}
+      3: {tpdb_poster: 36307}
+      4: {tpdb_poster: 36308}
+      5: {tpdb_poster: 36309}
+      6: {tpdb_poster: 36310}
+      7: {tpdb_poster: 36311}
+      8: {tpdb_poster: 36312}
+      9: {tpdb_poster: 36313}
+      10: {tpdb_poster: 36314}
+      11: {tpdb_poster: 36315}
+      12: {tpdb_poster: 36316}

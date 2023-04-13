@@ -1,0 +1,12 @@
+info:
+  style_author: EXPWARRIOR
+  style_image: 245138
+  style_key: expwarrior_neon
+  style_link: 146989
+  track_seasons: true
+shows:
+  "Justice League (2001)":
+    tpdb_poster: 245138
+    seasons:
+      1: {tpdb_poster: 245139}
+      2: {tpdb_poster: 245140}

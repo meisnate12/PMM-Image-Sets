@@ -1,0 +1,13 @@
+info:
+  style_author: DIIIVOY
+  style_image: 142580
+  style_key: diiivoy_neon
+  style_link: 88378
+  complete: true
+collections:
+  "Batman Collection": {tpdb_poster: 142579}
+movies:
+  "Batman (1989)": {tpdb_poster: 142580}
+  "Batman Returns (1992)": {tpdb_poster: 142581}
+  "Batman Forever (1995)": {tpdb_poster: 142582}
+  "Batman & Robin (1997)": {tpdb_poster: 142583}

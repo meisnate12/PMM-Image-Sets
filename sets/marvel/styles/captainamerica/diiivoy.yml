@@ -1,0 +1,18 @@
+info:
+  style_author: DIIIVOY
+  style_image: 66447
+  style_key: diiivoy
+  style_link: 41596
+  complete: true
+  track_seasons: true
+collections:
+  "Captain America Collection": {tpdb_poster: 66450}
+movies:
+  "Captain America: The First Avenger (2011)": {tpdb_poster: 66447}
+  "Captain America: The Winter Soldier (2014)": {tpdb_poster: 66448}
+  "Captain America: Civil War (2016)": {tpdb_poster: 66449}
+shows:
+  "The Falcon and the Winter Soldier (2021)":
+    tpdb_poster: 250818
+    seasons:
+      1: {tpdb_poster: 250819}

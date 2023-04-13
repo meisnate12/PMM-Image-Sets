@@ -1,0 +1,18 @@
+info:
+  style_author: DIIIVOY
+  style_image: 152034
+  style_key: diiivoy_neon
+  style_link: 78444
+  complete: true
+  track_seasons: true
+collections:
+  "Daredevil Collection": {tpdb_poster: 152033}
+movies:
+  "Daredevil (2003)": {tpdb_poster: 152034}
+shows:
+  "Marvel's Daredevil (2015)":
+    tpdb_poster: 125373
+    seasons:
+      1: {tpdb_poster: 125374}
+      2: {tpdb_poster: 125375}
+      3: {tpdb_poster: 125376}

@@ -1,0 +1,309 @@
+sections:
+  americandad:
+    title: American Dad!
+    builders:
+      tvdb_show: 73141
+    styles:
+      agon024:
+      sonofdad:
+    default_image: "American Dad! (2005)"
+    shows:
+      "American Dad! (2005)": 73141
+  band_of_brothers:
+    title: Band of Brothers
+    builders:
+      tvdb_show: ID74205
+    styles:
+      leburn98:
+    default_image: "Band of Brothers (2001)"
+    shows:
+      "Band of Brothers (2001)": 74205
+  bigbang:
+    title: The Big Bang Theory
+    builders:
+      tvdb_show: 80379
+    styles:
+      agon024:
+      pmbasehore:
+    default_image: "The Big Bang Theory (2007)"
+    shows:
+      "The Big Bang Theory (2007)": 80379
+  bobs_burgers:
+    title: Bob's Burgers
+    builders:
+      tvdb_show: 194031
+    styles:
+      spec0071:
+      sulvershadow:
+      mattiask57:
+    default_image: "Bob's Burgers (2011)"
+    shows:
+      "Bob's Burgers (2011)": 194031
+  breaking_bad:
+    title: Breaking Bad
+    builders:
+      tvdb_show: 81189
+    styles:
+      mbf:
+      sprees:
+    default_image: "Breaking Bad (2008)"
+    shows:
+      "Breaking Bad (2008)": 81189
+  chappelle:
+    title: Chappelle's Show
+    builders:
+      tvdb_show: 71862
+    styles:
+      agon024:
+      cmdrriker:
+    default_image: "Chappelle's Show (2003)"
+    shows:
+      "Chappelle's Show (2003)": 71862
+  charmed:
+    title: Charmed (1998)
+    builders:
+      tvdb_show: 70626
+    styles:
+      waldob:
+      bjbeard:
+    default_image: "Charmed (1998)"
+    shows:
+      "Charmed (1998)": 70626
+  chosen:
+    title: The Chosen
+    builders:
+      tvdb_show: 356992
+    styles:
+      fwlolx:
+      grandslam4par:
+    default_image: "The Chosen (2019)"
+    shows:
+      "The Chosen (2019)": 356992
+  disenchantment:
+    title: Disenchantment
+    builders:
+      tvdb_show: 340234
+    styles:
+      ishalioh:
+      dm247:
+    default_image: "Disenchantment (2018)"
+    shows:
+      "Disenchantment (2018)": 340234
+  duck_dynasty:
+    title: Duck Dynasty
+    builders:
+      tvdb_show: 256825
+    styles:
+      ccooluke:
+    default_image: "Duck Dynasty (2012)"
+    shows:
+      "Duck Dynasty (2012)": 256825
+  falling_skies:
+    title: Falling Skies
+    builders:
+      tvdb_show: 205281
+    styles:
+      bjbeard:
+      aloha_alona:
+      waldob:
+    default_image: "Falling Skies (2011)"
+    shows:
+      "Falling Skies (2011)": 205281
+  familyguy:
+    title: Family Guy
+    builders:
+      tvdb_show: 75978
+    styles:
+      agon024:
+      tfbone:
+    default_image: "Family Guy (1999)"
+    shows:
+      "Family Guy (1999)": 75978
+  friends:
+    title: Friends (1994)
+    builders:
+      tvdb_show: 79168
+    styles:
+      olivier_286:
+      cmdrriker:
+    default_image: "Friends (1994)"
+    shows:
+      "Friends (1994)": 79168
+  futurama:
+    title: Futurama
+    builders:
+      tvdb_show: 73871
+    styles:
+      agon024:
+      squire23:
+    default_image: "Futurama (1999)"
+    shows:
+      "Futurama (1999)": 73871
+  grimm:
+    title: Grimm
+    builders:
+      tvdb_show: 248736
+    styles:
+      ishalioh:
+      aloha_alona:
+    default_image: "Grimm (2011)"
+    shows:
+      "Grimm (2011)": 248736
+  heroes:
+    title: Heroes
+    builders:
+      tvdb_show: 79501
+    styles:
+      diiivoy:
+      meelworm:
+      aloha_alona:
+    default_image: "Heroes (2006)"
+    shows:
+      "Heroes (2006)": 79501
+  jeannie:
+    title: I Dream of Jeannie
+    builders:
+      tvdb_show: 77388
+    styles:
+      fwlolx:
+      musikmann2000:
+    default_image: "I Dream of Jeannie (1965)"
+    shows:
+      "I Dream of Jeannie (1965)": 77388
+  love_lucy:
+    title: I Love Lucy
+    builders:
+      tvdb_show: 70584
+      imdb_id: tt0050033
+    styles:
+      leburn:
+      cmdrriker:
+    default_image: "I Love Lucy (1951)"
+    shows:
+      "I Love Lucy (1951)": 70584
+      "The Lucy–Desi Comedy Hour (1957)": 74596
+  last_man:
+    title: The Last Man on Earth
+    builders:
+      tvdb_show: 281622
+    styles:
+      mcmooners:
+      cmdrriker:
+    default_image: "The Last Man on Earth (2015)"
+    shows:
+      "The Last Man on Earth (2015)": 281622
+  last_of_us:
+    title: The Last of Us
+    builders:
+      tvdb_show: 392256
+    styles:
+      rhj:
+      sevi:
+    default_image: "The Last of Us (2023)"
+    shows:
+      "The Last of Us (2023)": 392256
+  macgyver:
+    title: MacGyver
+    builders:
+      tvdb_show: 77847
+    styles:
+      pmbasehore:
+    default_image: "MacGyver (1985)"
+    shows:
+      "MacGyver (1985)": 77847
+  magicians:
+    title: The Magicians
+    builders:
+      tvdb_show: 299139
+    styles:
+      ceefight:
+      ceefight2:
+      waldob:
+    default_image: "The Magicians (2015)"
+    shows:
+      "The Magicians (2015)": 299139
+  married:
+    title: Married... with Children
+    builders:
+      tvdb_show: 76385
+    styles:
+      themonkeyworks:
+      zarduhasselfrau:
+    default_image: "Married... with Children (1987)"
+    shows:
+      "Married... with Children (1987)": 76385
+  office:
+    title: The Office (US)
+    builders:
+      tvdb_show: 73244
+    styles:
+    default_image: "The Office (2005)"
+    shows:
+      "The Office (2005)": 73244
+  parks:
+    title: Parks and Recreation
+    builders:
+      tvdb_show: 84912
+    styles:
+      conancrafted:
+      evremonde:
+    default_image: "Parks and Recreation (2009)"
+    shows:
+      "Parks and Recreation (2009)": 84912
+  simpsons:
+    title: The Simpsons
+    builders:
+      tvdb_show: 71663
+    styles:
+      agon024:
+      silvz:
+    default_image: "The Simpsons (1989)"
+    shows:
+      "The Simpsons (1989)": 71663
+  southpark:
+    title: South Park
+    builders:
+      tvdb_show: 75897
+    styles:
+      agon024:
+      tfbone:
+    default_image: "South Park (1997)"
+    shows:
+      "South Park (1997)": 75897
+  stranger_things:
+    title: Stranger Things
+    builders:
+      tvdb_show: 305288
+    styles:
+      ishalioh:
+      dm247:
+      agon024:
+    default_image: "Stranger Things (2016)"
+    shows:
+      "Stranger Things (2016)": 305288
+  ted_lasso:
+    title: Ted Lasso
+    builders:
+      tvdb_show: 383203
+    styles:
+      agon024:
+      agon024_2:
+      rhj:
+    default_image: "Ted Lasso (2020)"
+    shows:
+      "Ted Lasso (2020)": 383203
+  yellowstone:
+    title: Yellowstone
+    builders:
+      tvdb_show: 341164, 416491, 396390
+    styles:
+      agon024:
+      fwlolx:
+    default_image: "Yellowstone (2018)"
+    collections:
+      "Yellowstone Collection":
+      - "Yellowstone"
+    shows:
+      "Yellowstone (2018)": 341164
+      "1883 (2021)": 396390
+      "1923 (2022)": 416491
