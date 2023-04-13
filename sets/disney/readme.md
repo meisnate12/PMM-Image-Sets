@@ -59,6 +59,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/101dalmatians/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/101dalmatians/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/101dalmatians/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -94,6 +108,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/86027" target="_blank" rel="noopener noreferrer">86027</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/73981" target="_blank" rel="noopener noreferrer">73981</a> (<a href="https://www.themoviedb.org/tv/2745" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -104,6 +119,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/aladdin/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/aladdin/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/aladdin/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -157,6 +186,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/atlantis/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/atlantis/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/atlantis/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -202,6 +245,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bambi/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bambi/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bambi/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -255,6 +312,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/beautybeast/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/beautybeast/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/beautybeast/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -290,6 +361,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/177572" target="_blank" rel="noopener noreferrer">177572</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/322241" target="_blank" rel="noopener noreferrer">322241</a> (<a href="https://www.themoviedb.org/tv/68665" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/393207" target="_blank" rel="noopener noreferrer">393207</a> (<a href="https://www.themoviedb.org/tv/114466" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -300,6 +372,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bighero6/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bighero6/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bighero6/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -353,6 +439,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bolt/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bolt/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/bolt/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -402,6 +502,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/brotherbear/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/brotherbear/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/brotherbear/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -437,6 +551,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/271668" target="_blank" rel="noopener noreferrer">271668</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/349466" target="_blank" rel="noopener noreferrer">349466</a> (<a href="https://www.themoviedb.org/tv/80402" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -447,6 +562,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/caballeros/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/caballeros/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/caballeros/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -500,6 +629,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/cinderella/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/cinderella/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/cinderella/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -535,6 +678,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/978459" target="_blank" rel="noopener noreferrer">978459</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/72163" target="_blank" rel="noopener noreferrer">72163</a> (<a href="https://www.themoviedb.org/tv/2567" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -545,6 +689,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hercules/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hercules/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/36322" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hercules/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/36322" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -584,6 +742,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/178117" target="_blank" rel="noopener noreferrer">178117</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/79855" target="_blank" rel="noopener noreferrer">79855</a> (<a href="https://www.themoviedb.org/tv/4623" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -594,6 +753,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/emperor/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/emperor/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/emperor/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -636,6 +809,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/fantasia/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/fantasia/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/fantasia/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -689,6 +876,13 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/foxhound/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/foxhound/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -725,6 +919,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/386382" target="_blank" rel="noopener noreferrer">386382</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/326359" target="_blank" rel="noopener noreferrer">326359</a>, <a href="https://www.themoviedb.org/movie/460793" target="_blank" rel="noopener noreferrer">460793</a>, <a href="https://www.themoviedb.org/movie/741074" target="_blank" rel="noopener noreferrer">741074</a>, <a href="https://www.themoviedb.org/movie/431562" target="_blank" rel="noopener noreferrer">431562</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/404155" target="_blank" rel="noopener noreferrer">404155</a> (<a href="https://www.themoviedb.org/tv/134297" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -735,6 +930,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/frozen/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/frozen/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/18508" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/frozen/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/18508" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -781,6 +990,13 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
     <tr>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/125275" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/goofy/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/125275" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/goofy/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -805,6 +1021,13 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hunchback/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/hunchback/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
         </div>
       </td>
       <td>
@@ -844,6 +1067,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/97459" target="_blank" rel="noopener noreferrer">97459</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/73717" target="_blank" rel="noopener noreferrer">73717</a> (<a href="https://www.themoviedb.org/tv/10103" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -854,6 +1078,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/junglebook/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/junglebook/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/27952" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/junglebook/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/27952" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -907,6 +1145,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ladytramp/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/27963" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ladytramp/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/27963" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ladytramp/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -942,6 +1194,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/97461" target="_blank" rel="noopener noreferrer">97461</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/71624" target="_blank" rel="noopener noreferrer">71624</a> (<a href="https://www.themoviedb.org/tv/2355" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/343739" target="_blank" rel="noopener noreferrer">343739</a> (<a href="https://www.themoviedb.org/tv/93169" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/98661" target="_blank" rel="noopener noreferrer">98661</a> (<a href="https://www.themoviedb.org/tv/20757" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -952,6 +1205,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lilostitch/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lilostitch/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/30352" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lilostitch/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/30352" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -991,6 +1258,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/94032" target="_blank" rel="noopener noreferrer">94032</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/70559" target="_blank" rel="noopener noreferrer">70559</a> (<a href="https://www.themoviedb.org/tv/4429" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/282756" target="_blank" rel="noopener noreferrer">282756</a> (<a href="https://www.themoviedb.org/tv/64752" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -1001,6 +1269,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lionking/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lionking/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/lionking/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -1040,6 +1322,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/33085" target="_blank" rel="noopener noreferrer">33085</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/77088" target="_blank" rel="noopener noreferrer">77088</a> (<a href="https://www.themoviedb.org/tv/2675" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -1050,6 +1333,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/littlemermaid/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/littlemermaid/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/29353" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/littlemermaid/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/29353" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -1103,6 +1400,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/moana/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/75097" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/moana/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/75097" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/moana/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -1148,6 +1459,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/mulan/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/mulan/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/28954" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/mulan/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/28954" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -1201,6 +1526,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/peterpan/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/30373" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/peterpan/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/30373" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/peterpan/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -1243,6 +1582,13 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
     <tr>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/18802" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/planes/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/18802" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/planes/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -1262,6 +1608,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <div class="image-panel">
   <table class="image-table">
     <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/pocahontas/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/32040" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/pocahontas/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/32040" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
       <td>
         <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/pocahontas/diiivoy_neon.jpg" height="200"/></a><br>
@@ -1288,6 +1648,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/rescuers/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/rescuers/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/80567" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/rescuers/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/80567" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -1327,6 +1701,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/38757" target="_blank" rel="noopener noreferrer">38757</a>, <a href="https://www.themoviedb.org/movie/82881" target="_blank" rel="noopener noreferrer">82881</a>, <a href="https://www.themoviedb.org/movie/438747" target="_blank" rel="noopener noreferrer">438747</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/318990" target="_blank" rel="noopener noreferrer">318990</a> (<a href="https://www.themoviedb.org/tv/70047" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -1337,6 +1712,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tangled/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tangled/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/31725" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tangled/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/31725" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -1376,6 +1765,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/106768" target="_blank" rel="noopener noreferrer">106768</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/76600" target="_blank" rel="noopener noreferrer">76600</a> (<a href="https://www.themoviedb.org/tv/2395" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -1386,6 +1776,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tarzan/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tarzan/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/36025" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tarzan/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/36025" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -1432,6 +1836,13 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
     <tr>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/19048" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tinkerbell/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/19048" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/tinkerbell/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -1445,7 +1856,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/408" target="_blank" rel="noopener noreferrer">408</a>, <a href="https://www.themoviedb.org/movie/756" target="_blank" rel="noopener noreferrer">756</a>, <a href="https://www.themoviedb.org/movie/11360" target="_blank" rel="noopener noreferrer">11360</a>, <a href="https://www.themoviedb.org/movie/20343" target="_blank" rel="noopener noreferrer">20343</a>, <a href="https://www.themoviedb.org/movie/46929" target="_blank" rel="noopener noreferrer">46929</a>, <a href="https://www.themoviedb.org/movie/13757" target="_blank" rel="noopener noreferrer">13757</a>, <a href="https://www.themoviedb.org/movie/13465" target="_blank" rel="noopener noreferrer">13465</a>, <a href="https://www.themoviedb.org/movie/12092" target="_blank" rel="noopener noreferrer">12092</a>, <a href="https://www.themoviedb.org/movie/10882" target="_blank" rel="noopener noreferrer">10882</a>, <a href="https://www.themoviedb.org/movie/9078" target="_blank" rel="noopener noreferrer">9078</a>, <a href="https://www.themoviedb.org/movie/10112" target="_blank" rel="noopener noreferrer">10112</a>, <a href="https://www.themoviedb.org/movie/11886" target="_blank" rel="noopener noreferrer">11886</a>, <a href="https://www.themoviedb.org/movie/11319" target="_blank" rel="noopener noreferrer">11319</a>, <a href="https://www.themoviedb.org/movie/10948" target="_blank" rel="noopener noreferrer">10948</a>, <a href="https://www.themoviedb.org/movie/10144" target="_blank" rel="noopener noreferrer">10144</a>, <a href="https://www.themoviedb.org/movie/11135" target="_blank" rel="noopener noreferrer">11135</a>, <a href="https://www.themoviedb.org/movie/9016" target="_blank" rel="noopener noreferrer">9016</a>, <a href="https://www.themoviedb.org/movie/13700" target="_blank" rel="noopener noreferrer">13700</a>, <a href="https://www.themoviedb.org/movie/9982" target="_blank" rel="noopener noreferrer">9982</a>, <a href="https://www.themoviedb.org/movie/9904" target="_blank" rel="noopener noreferrer">9904</a>, <a href="https://www.themoviedb.org/movie/1267" target="_blank" rel="noopener noreferrer">1267</a>, <a href="https://www.themoviedb.org/movie/10198" target="_blank" rel="noopener noreferrer">10198</a>, <a href="https://www.themoviedb.org/movie/568124" target="_blank" rel="noopener noreferrer">568124</a>, <a href="https://www.themoviedb.org/movie/527774" target="_blank" rel="noopener noreferrer">527774</a>, <a href="https://www.themoviedb.org/movie/877269" target="_blank" rel="noopener noreferrer">877269</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/408" target="_blank" rel="noopener noreferrer">408</a>, <a href="https://www.themoviedb.org/movie/11360" target="_blank" rel="noopener noreferrer">11360</a>, <a href="https://www.themoviedb.org/movie/20343" target="_blank" rel="noopener noreferrer">20343</a>, <a href="https://www.themoviedb.org/movie/46929" target="_blank" rel="noopener noreferrer">46929</a>, <a href="https://www.themoviedb.org/movie/13757" target="_blank" rel="noopener noreferrer">13757</a>, <a href="https://www.themoviedb.org/movie/13465" target="_blank" rel="noopener noreferrer">13465</a>, <a href="https://www.themoviedb.org/movie/12092" target="_blank" rel="noopener noreferrer">12092</a>, <a href="https://www.themoviedb.org/movie/10882" target="_blank" rel="noopener noreferrer">10882</a>, <a href="https://www.themoviedb.org/movie/9078" target="_blank" rel="noopener noreferrer">9078</a>, <a href="https://www.themoviedb.org/movie/10112" target="_blank" rel="noopener noreferrer">10112</a>, <a href="https://www.themoviedb.org/movie/11886" target="_blank" rel="noopener noreferrer">11886</a>, <a href="https://www.themoviedb.org/movie/9016" target="_blank" rel="noopener noreferrer">9016</a>, <a href="https://www.themoviedb.org/movie/13700" target="_blank" rel="noopener noreferrer">13700</a>, <a href="https://www.themoviedb.org/movie/9982" target="_blank" rel="noopener noreferrer">9982</a>, <a href="https://www.themoviedb.org/movie/9904" target="_blank" rel="noopener noreferrer">9904</a>, <a href="https://www.themoviedb.org/movie/1267" target="_blank" rel="noopener noreferrer">1267</a>, <a href="https://www.themoviedb.org/movie/10198" target="_blank" rel="noopener noreferrer">10198</a>, <a href="https://www.themoviedb.org/movie/568124" target="_blank" rel="noopener noreferrer">568124</a>, <a href="https://www.themoviedb.org/movie/527774" target="_blank" rel="noopener noreferrer">527774</a>, <a href="https://www.themoviedb.org/movie/877269" target="_blank" rel="noopener noreferrer">877269</a><br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -1456,6 +1867,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ungrouped/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ungrouped/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/ungrouped/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
@@ -1509,6 +1934,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/winnie/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/winnie/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/95848" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/winnie/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/95848" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -1558,6 +1997,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
       </td>
       <td>
         <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/wreckitralph/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/18803" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/wreckitralph/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/18803" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
           <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/wreckitralph/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/93857" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
@@ -1593,6 +2046,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
 <br><strong>Builders:</strong>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/269149" target="_blank" rel="noopener noreferrer">269149</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/393206" target="_blank" rel="noopener noreferrer">393206</a> (<a href="https://www.themoviedb.org/tv/114463" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
 </ul>
 <button class="image-accordion">Styles</button>
 <div class="image-panel">
@@ -1603,6 +2057,20 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
           <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/zootopia/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/166303" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/zootopia/dannybeaton.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>dannybeaton</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/5935" target="_blank" rel="noopener noreferrer">Danny Beaton</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/disney/styles/zootopia/diiivoy.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/65001" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>

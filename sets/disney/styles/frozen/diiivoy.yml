@@ -1,0 +1,19 @@
+info:
+  style_author: DIIIVOY
+  style_image: 30789
+  style_key: diiivoy
+  style_link: 18508
+  complete: true
+  track_seasons: true
+movies:
+  "Frozen (2013)": {tpdb_poster: 30789}
+  "Frozen Fever (2015)": {tpdb_poster: 30790}
+  "Olaf's Frozen Adventure (2017)": {tpdb_poster: 30791}
+  "LEGO Frozen Northern Lights (2017)": {tpdb_poster: 30840}
+  "Frozen II (2019)": {tpdb_poster: 30792}
+  "Once Upon a Snowman (2020)": {tpdb_poster: 108161}
+shows:
+  "Olaf Presents (2021)":
+    tpdb_poster: 194036
+    seasons:
+      1: {tpdb_poster: 194037}

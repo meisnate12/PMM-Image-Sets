@@ -1,0 +1,9 @@
+info:
+  style_author: Danny Beaton
+  style_image: 11788
+  style_key: dannybeaton
+  style_link: 5935
+  complete: true
+movies:
+  "Saludos Amigos (1942)": {tpdb_poster: 11788}
+  "The Three Caballeros (1944)": {tpdb_poster: 11789}

@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 207435
+  style_key: diiivoy
+  style_link: 125275
+  complete: true
+collections:
+  "A Goofy Movie Collection": {tpdb_poster: 207434}
+movies:
+  "A Goofy Movie (1995)": {tpdb_poster: 207435}
+  "An Extremely Goofy Movie (2000)": {tpdb_poster: 207436}

@@ -1,0 +1,21 @@
+info:
+  style_author: DIIIVOY
+  style_image: 43735
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+  track_seasons: true
+collections:
+  "Aladdin Collection": {tpdb_poster: 43734}
+movies:
+  "Aladdin (1992)": {tpdb_poster: 43735}
+  "The Return of Jafar (1994)": {tpdb_poster: 43736}
+  "Aladdin and the King of Thieves (1996)": {tpdb_poster: 43737}
+shows:
+  "Aladdin (1994)":
+    tpdb_poster: 43738
+    seasons:
+      0: {tpdb_poster: 48400}
+      1: {tpdb_poster: 48401}
+      2: {tpdb_poster: 48402}
+      3: {tpdb_poster: 48403}

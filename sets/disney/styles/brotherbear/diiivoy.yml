@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 50184
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+collections:
+  "Brother Bear Collection": {tpdb_poster: 50183}
+movies:
+  "Brother Bear (2003)": {tpdb_poster: 50184}
+  "Brother Bear 2 (2006)": {tpdb_poster: 50185}

@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 44904
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+collections:
+  "101 Dalmatians (Animated) Collection": {tpdb_poster: 44903}
+movies:
+  "One Hundred and One Dalmatians (1961)": {tpdb_poster: 44904}
+  "101 Dalmatians II: Patch's London Adventure (2002)": {tpdb_poster: 44905}

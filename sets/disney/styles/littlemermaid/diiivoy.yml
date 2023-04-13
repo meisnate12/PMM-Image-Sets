@@ -1,0 +1,20 @@
+info:
+  style_author: DIIIVOY
+  style_image: 46805
+  style_key: diiivoy
+  style_link: 29353
+  complete: true
+  track_seasons: true
+collections:
+  "The Little Mermaid Collection": {tpdb_poster: 46804}
+movies:
+  "The Little Mermaid (1989)": {tpdb_poster: 46805}
+  "The Little Mermaid II: Return to the Sea (2000)": {tpdb_poster: 46806}
+  "The Little Mermaid: Ariel's Beginning (2008)": {tpdb_poster: 46807}
+shows:
+  "The Little Mermaid (1992)":
+    tpdb_poster: 46808
+    seasons:
+      1: {tpdb_poster: 46809}
+      2: {tpdb_poster: 46810}
+      3: {tpdb_poster: 46811}

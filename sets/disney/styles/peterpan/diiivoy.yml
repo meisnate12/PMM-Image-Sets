@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 48098
+  style_key: diiivoy
+  style_link: 30373
+  complete: true
+collections:
+  "Peter Pan Collection": {tpdb_poster: 48097}
+movies:
+  "Peter Pan (1953)": {tpdb_poster: 48098}
+  "Return to Never Land (2002)": {tpdb_poster: 48099}

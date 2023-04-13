@@ -4,9 +4,12 @@ info:
   style_key: diiivoy_neon
   style_link: 93857
   complete: true
+  track_seasons: true
 collections:
   "Tarzan (Animation) Collection": {tpdb_poster: 156581}
 movies:
   "Tarzan (1999)": {tpdb_poster: 156210}
   "Tarzan & Jane (2002)": {tpdb_poster: 156582}
   "Tarzan II (2005)": {tpdb_poster: 156583}
+shows:
+  "The Legend of Tarzan (2001)": {tpdb_poster: 156584}

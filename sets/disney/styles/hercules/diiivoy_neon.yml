@@ -4,6 +4,9 @@ info:
   style_key: diiivoy_neon
   style_link: 93857
   complete: true
+  track_seasons: true
 movies:
   "Hercules (1997)": {tpdb_poster: 156208}
   "Hercules: Zero to Hero (1999)": {tpdb_poster: 156538}
+shows:
+  "Hercules (1998)": {tpdb_poster: 156539}

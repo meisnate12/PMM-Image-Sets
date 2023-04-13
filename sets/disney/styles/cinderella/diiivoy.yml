@@ -1,0 +1,12 @@
+info:
+  style_author: DIIIVOY
+  style_image: 44919
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+collections:
+  "Cinderella Collection": {tpdb_poster: 44918}
+movies:
+  "Cinderella (1950)": {tpdb_poster: 44919}
+  "Cinderella II: Dreams Come True (2002)": {tpdb_poster: 44920}
+  "Cinderella III: A Twist in Time (2007)": {tpdb_poster: 44922}

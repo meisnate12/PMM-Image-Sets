@@ -1,11 +1,10 @@
 info:
   style_author: agon024
-  style_image: 279465
+  style_image: 279406
   style_key: agon024
   style_link: 166303
 movies:
   "Snow White and the Seven Dwarfs (1937)": {tpdb_poster: 279406}
-  "Fantasia (1940)": {tpdb_poster: 279408}
   "Dumbo (1941)": {tpdb_poster: 279409}
   "Make Mine Music (1946)": {tpdb_poster: 279413}
   "Fun and Fancy Free (1947)": {tpdb_poster: 279414}
@@ -16,10 +15,6 @@ movies:
   "The Sword in the Stone (1963)": {tpdb_poster: 279423}
   "The Aristocats (1970)": {tpdb_poster: 279425}
   "Robin Hood (1973)": {tpdb_poster: 279426}
-  "The Rescuers (1977)": {tpdb_poster: 279428}
-  "The Fox and the Hound (1981)": {tpdb_poster: 279429}
-  "The Little Mermaid (1989)": {tpdb_poster: 279433}
-  "The Rescuers Down Under (1990)": {tpdb_poster: 279434}
   "Treasure Planet (2002)": {tpdb_poster: 279448}
   "Home on the Range (2004)": {tpdb_poster: 279450}
   "Chicken Little (2005)": {tpdb_poster: 279451}

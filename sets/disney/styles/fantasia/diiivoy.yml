@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 33321
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+collections:
+  "Fantasia Collection": {tpdb_poster: 130368}
+movies:
+  "Fantasia (1940)": {tpdb_poster: 33321}
+  "Fantasia 2000 (1999)": {tpdb_poster: 33355}

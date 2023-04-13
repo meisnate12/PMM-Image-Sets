@@ -1,11 +1,14 @@
 info:
   style_author: DIIIVOY
-  style_image: 156179
+  style_image: 156178
   style_key: diiivoy_neon
   style_link: 93857
   complete: true
+  track_seasons: true
 collections:
   "Caballeros Collection": {tpdb_poster: 235814}
 movies:
   "Saludos Amigos (1942)": {tpdb_poster: 156178}
   "The Three Caballeros (1944)": {tpdb_poster: 156179}
+shows:
+  "Legend of the Three Caballeros (2018)": {tpdb_poster: 235815}

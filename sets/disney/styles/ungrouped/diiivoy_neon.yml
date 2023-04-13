@@ -1,12 +1,11 @@
 info:
   style_author: DIIIVOY
-  style_image: 201248
+  style_image: 156173
   style_key: diiivoy_neon
   style_link: 93857
   complete: true
 movies:
   "Snow White and the Seven Dwarfs (1937)": {tpdb_poster: 156173}
-  "Fantasia (1940)": {tpdb_poster: 156175}
   "Dumbo (1941)": {tpdb_poster: 156176}
   "Make Mine Music (1946)": {tpdb_poster: 156180}
   "Fun and Fancy Free (1947)": {tpdb_poster: 156181}
@@ -17,10 +16,6 @@ movies:
   "The Sword in the Stone (1963)": {tpdb_poster: 156190}
   "The Aristocats (1970)": {tpdb_poster: 156192}
   "Robin Hood (1973)": {tpdb_poster: 156193}
-  "The Rescuers (1977)": {tpdb_poster: 156195}
-  "The Fox and the Hound (1981)": {tpdb_poster: 156196}
-  "The Little Mermaid (1989)": {tpdb_poster: 156200}
-  "The Rescuers Down Under (1990)": {tpdb_poster: 156202}
   "Treasure Planet (2002)": {tpdb_poster: 156215}
   "Home on the Range (2004)": {tpdb_poster: 156217}
   "Chicken Little (2005)": {tpdb_poster: 152818}

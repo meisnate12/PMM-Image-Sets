@@ -1,0 +1,11 @@
+info:
+  style_author: DIIIVOY
+  style_image: 46874
+  style_key: diiivoy
+  style_link: 65001
+  complete: true
+collections:
+  "Bambi Collection": {tpdb_poster: 46873}
+movies:
+  "Bambi (1942)": {tpdb_poster: 46874}
+  "Bambi II (2006)": {tpdb_poster: 46875}

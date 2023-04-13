@@ -4,5 +4,11 @@ info:
   style_key: diiivoy_neon
   style_link: 93857
   complete: true
+  track_seasons: true
 movies:
   "Zootopia (2016)": {tpdb_poster: 152850}
+shows:
+  "Zootopia+ (2022)":
+    tpdb_poster: 156224
+    seasons:
+      1: {tpdb_poster: 287027}
