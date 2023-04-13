@@ -47,13 +47,6 @@ robot_chicken:
     collections:
       "Robot Chicken: Star Wars Collection": {tpdb_poster: null, url_poster: null}
 starwars:
-  olivier:
-    shows:
-      "The Mandalorian (2019)":
-        seasons:
-          3:
-            episodes:
-              8: {tpdb_poster: null, url_poster: null}
   rhj:
     movies:
       "The Star Wars Holiday Special (1978)": {tpdb_poster: null, url_poster: null}
@@ -229,6 +222,536 @@ starwars:
       "Star Wars: Tales of the Jedi (2022)":
         seasons:
           1: {tpdb_poster: null, url_poster: null}
+  olivier:
+    movies:
+      "Star Wars Rebels: Spark of Rebellion (2014)": {tpdb_poster: null, url_poster: null}
+      "Star Wars Rebels: The Siege of Lothal (2015)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Star Wars: Droids (1985)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+      "Star Wars: Ewoks (1985)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+          2:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+              19: {tpdb_poster: null, url_poster: null}
+              20: {tpdb_poster: null, url_poster: null}
+              21: {tpdb_poster: null, url_poster: null}
+              22: {tpdb_poster: null, url_poster: null}
+      "Star Wars: Clone Wars (2003)": {tpdb_poster: null, url_poster: null, seasons: {
+          1: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
+                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}, 3: {
+                tpdb_poster: null, url_poster: null}, 4: {tpdb_poster: null, url_poster: null},
+              5: {tpdb_poster: null, url_poster: null}, 6: {tpdb_poster: null, url_poster: null},
+              7: {tpdb_poster: null, url_poster: null}, 8: {tpdb_poster: null, url_poster: null},
+              9: {tpdb_poster: null, url_poster: null}, 10: {tpdb_poster: null, url_poster: null}}},
+          2: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
+                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}, 3: {
+                tpdb_poster: null, url_poster: null}, 4: {tpdb_poster: null, url_poster: null},
+              5: {tpdb_poster: null, url_poster: null}, 6: {tpdb_poster: null, url_poster: null},
+              7: {tpdb_poster: null, url_poster: null}, 8: {tpdb_poster: null, url_poster: null},
+              9: {tpdb_poster: null, url_poster: null}, 10: {tpdb_poster: null, url_poster: null}}},
+          3: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
+                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}, 3: {
+                tpdb_poster: null, url_poster: null}, 4: {tpdb_poster: null, url_poster: null},
+              5: {tpdb_poster: null, url_poster: null}}}}}
+      "Star Wars: The Clone Wars (2008)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+              19: {tpdb_poster: null, url_poster: null}
+              20: {tpdb_poster: null, url_poster: null}
+              21: {tpdb_poster: null, url_poster: null}
+              22: {tpdb_poster: null, url_poster: null}
+          2:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+              19: {tpdb_poster: null, url_poster: null}
+              20: {tpdb_poster: null, url_poster: null}
+              21: {tpdb_poster: null, url_poster: null}
+              22: {tpdb_poster: null, url_poster: null}
+          3:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+              19: {tpdb_poster: null, url_poster: null}
+              20: {tpdb_poster: null, url_poster: null}
+              21: {tpdb_poster: null, url_poster: null}
+              22: {tpdb_poster: null, url_poster: null}
+          4:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+              19: {tpdb_poster: null, url_poster: null}
+              20: {tpdb_poster: null, url_poster: null}
+              21: {tpdb_poster: null, url_poster: null}
+              22: {tpdb_poster: null, url_poster: null}
+          5:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+              19: {tpdb_poster: null, url_poster: null}
+              20: {tpdb_poster: null, url_poster: null}
+          6:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+          7:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+      "Star Wars Rebels (2014)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+          2:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+              19: {tpdb_poster: null, url_poster: null}
+          3:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+              19: {tpdb_poster: null, url_poster: null}
+              20: {tpdb_poster: null, url_poster: null}
+              21: {tpdb_poster: null, url_poster: null}
+          4:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+      "Star Wars: Forces of Destiny (2017)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+          2:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+      "Star Wars Galaxy of Adventures (2018)": {tpdb_poster: null, url_poster: null,
+        seasons: {1: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
+                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}, 3: {
+                tpdb_poster: null, url_poster: null}, 4: {tpdb_poster: null, url_poster: null},
+              5: {tpdb_poster: null, url_poster: null}, 6: {tpdb_poster: null, url_poster: null},
+              7: {tpdb_poster: null, url_poster: null}, 8: {tpdb_poster: null, url_poster: null},
+              9: {tpdb_poster: null, url_poster: null}, 10: {tpdb_poster: null, url_poster: null},
+              11: {tpdb_poster: null, url_poster: null}, 12: {tpdb_poster: null, url_poster: null},
+              13: {tpdb_poster: null, url_poster: null}, 14: {tpdb_poster: null, url_poster: null},
+              15: {tpdb_poster: null, url_poster: null}, 16: {tpdb_poster: null, url_poster: null},
+              17: {tpdb_poster: null, url_poster: null}, 18: {tpdb_poster: null, url_poster: null},
+              19: {tpdb_poster: null, url_poster: null}, 20: {tpdb_poster: null, url_poster: null},
+              21: {tpdb_poster: null, url_poster: null}, 22: {tpdb_poster: null, url_poster: null},
+              23: {tpdb_poster: null, url_poster: null}, 24: {tpdb_poster: null, url_poster: null},
+              25: {tpdb_poster: null, url_poster: null}, 26: {tpdb_poster: null, url_poster: null},
+              27: {tpdb_poster: null, url_poster: null}, 28: {tpdb_poster: null, url_poster: null},
+              29: {tpdb_poster: null, url_poster: null}, 30: {tpdb_poster: null, url_poster: null},
+              31: {tpdb_poster: null, url_poster: null}, 32: {tpdb_poster: null, url_poster: null},
+              33: {tpdb_poster: null, url_poster: null}, 34: {tpdb_poster: null, url_poster: null},
+              35: {tpdb_poster: null, url_poster: null}, 36: {tpdb_poster: null, url_poster: null}}},
+          2: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
+                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}, 3: {
+                tpdb_poster: null, url_poster: null}, 4: {tpdb_poster: null, url_poster: null},
+              5: {tpdb_poster: null, url_poster: null}, 6: {tpdb_poster: null, url_poster: null},
+              7: {tpdb_poster: null, url_poster: null}, 8: {tpdb_poster: null, url_poster: null},
+              9: {tpdb_poster: null, url_poster: null}, 10: {tpdb_poster: null, url_poster: null},
+              11: {tpdb_poster: null, url_poster: null}, 12: {tpdb_poster: null, url_poster: null},
+              13: {tpdb_poster: null, url_poster: null}, 14: {tpdb_poster: null, url_poster: null},
+              15: {tpdb_poster: null, url_poster: null}, 16: {tpdb_poster: null, url_poster: null},
+              17: {tpdb_poster: null, url_poster: null}, 18: {tpdb_poster: null, url_poster: null}}}}}
+      "Star Wars Resistance (2018)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+              19: {tpdb_poster: null, url_poster: null}
+              20: {tpdb_poster: null, url_poster: null}
+          2:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+              17: {tpdb_poster: null, url_poster: null}
+              18: {tpdb_poster: null, url_poster: null}
+      "The Mandalorian (2019)":
+        seasons:
+          3:
+            episodes:
+              8: {tpdb_poster: null, url_poster: null}
+      "Disney Gallery / Star Wars: The Mandalorian (2020)": {tpdb_poster: null, url_poster: null,
+        seasons: {1: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
+                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}, 3: {
+                tpdb_poster: null, url_poster: null}, 4: {tpdb_poster: null, url_poster: null},
+              5: {tpdb_poster: null, url_poster: null}, 6: {tpdb_poster: null, url_poster: null},
+              7: {tpdb_poster: null, url_poster: null}, 8: {tpdb_poster: null, url_poster: null}}},
+          2: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
+                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}}}
+      "Star Wars: The Bad Batch (2021)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+          2:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+              13: {tpdb_poster: null, url_poster: null}
+              14: {tpdb_poster: null, url_poster: null}
+              15: {tpdb_poster: null, url_poster: null}
+              16: {tpdb_poster: null, url_poster: null}
+      "Star Wars: Visions (2021)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+          2: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
+                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}, 3: {
+                tpdb_poster: null, url_poster: null}, 4: {tpdb_poster: null, url_poster: null},
+              5: {tpdb_poster: null, url_poster: null}, 6: {tpdb_poster: null, url_poster: null},
+              7: {tpdb_poster: null, url_poster: null}, 8: {tpdb_poster: null, url_poster: null},
+              9: {tpdb_poster: null, url_poster: null}}}
+      "The Book of Boba Fett (2021)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+      "Star Wars: Andor (2022)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
+              10: {tpdb_poster: null, url_poster: null}
+              11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
+      "Disney Gallery / Star Wars: The Book of Boba Fett (2022)": {tpdb_poster: null,
+        url_poster: null, seasons: {1: {tpdb_poster: null, url_poster: null, episodes: {
+              1: {tpdb_poster: null, url_poster: null}}}}}
+      "Star Wars: Tales of the Jedi (2022)":
+        seasons:
+          1:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
   agon024:
     movies:
       "Star Wars Rebels: Spark of Rebellion (2014)": {tpdb_poster: null, url_poster: null}

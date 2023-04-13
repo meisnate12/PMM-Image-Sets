@@ -6,7 +6,61 @@ info:
   complete: true
   track_seasons: true
   track_episodes: true
+collections:
+  "Star Wars: The Complete Collection": {tpdb_poster: 180899}
+movies:
+  "Star Wars (1977)": {tpdb_poster: 178897}
+  "The Star Wars Holiday Special (1978)": {tpdb_poster: 181206}
+  "The Empire Strikes Back (1980)": {tpdb_poster: 178898}
+  "Return of the Jedi (1983)": {tpdb_poster: 178899}
+  "Star Wars: Episode I - The Phantom Menace (1999)": {tpdb_poster: 169065}
+  "Star Wars: Episode II - Attack of the Clones (2002)": {tpdb_poster: 169066}
+  "Star Wars: Episode III - Revenge of the Sith (2005)": {tpdb_poster: 169067}
+  "Star Wars: The Clone Wars (2008)": {tpdb_poster: 167077}
+  "Star Wars: The Force Awakens (2015)": {tpdb_poster: 180896}
+  "Rogue One: A Star Wars Story (2016)": {tpdb_poster: 178900}
+  "Star Wars: The Last Jedi (2017)": {tpdb_poster: 180897}
+  "Solo: A Star Wars Story (2018)": {tpdb_poster: 175540}
+  "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 180898}
 shows:
+  "Star Wars: Droids (1985)":
+    tpdb_poster: 210094
+    seasons:
+      1: {tpdb_poster: 210095}
+  "Star Wars: Ewoks (1985)":
+    tpdb_poster: 216162
+    seasons:
+      1: {tpdb_poster: 216163}
+      2: {tpdb_poster: 216164}
+  "Star Wars: The Clone Wars (2008)":
+    tpdb_poster: 167077
+    seasons:
+      0: {tpdb_poster: 264696}
+      1: {tpdb_poster: 181524}
+      2: {tpdb_poster: 181525}
+      3: {tpdb_poster: 181526}
+      4: {tpdb_poster: 181527}
+      5: {tpdb_poster: 181528}
+      6: {tpdb_poster: 181529}
+      7: {tpdb_poster: 181530}
+  "Star Wars Rebels (2014)":
+    tpdb_poster: 181303
+    seasons:
+      0: {tpdb_poster: 215557}
+      1: {tpdb_poster: 209799}
+      2: {tpdb_poster: 209800}
+      3: {tpdb_poster: 209801}
+      4: {tpdb_poster: 209802}
+  "Star Wars: Forces of Destiny (2017)":
+    tpdb_poster: 216963
+    seasons:
+      1: {tpdb_poster: 216964}
+      2: {tpdb_poster: 216965}
+  "Star Wars Resistance (2018)":
+    tpdb_poster: 181332
+    seasons:
+      1: {tpdb_poster: 209880}
+      2: {tpdb_poster: 209881}
   "The Mandalorian (2019)":
     tpdb_poster: 166692
     seasons:
@@ -42,3 +96,24 @@ shows:
           5: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E05.jpg}
           6: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E06.jpg}
           7: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E07.jpg}
+  "Star Wars: The Bad Batch (2021)":
+    tpdb_poster: 166695
+    seasons:
+      1: {tpdb_poster: 166696}
+      2: {tpdb_poster: 305858}
+  "Star Wars: Visions (2021)":
+    tpdb_poster: 177885
+    seasons:
+      1: {tpdb_poster: 177886}
+  "The Book of Boba Fett (2021)":
+    tpdb_poster: 178712
+    seasons:
+      1: {tpdb_poster: 186567}
+  "Star Wars: Andor (2022)":
+    tpdb_poster: 264671
+    seasons:
+      1: {tpdb_poster: 264672}
+  "Star Wars: Tales of the Jedi (2022)":
+    tpdb_poster: 279539
+    seasons:
+      1: {tpdb_poster: 279540}

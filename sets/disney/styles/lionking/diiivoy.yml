@@ -3,8 +3,8 @@ info:
   style_image: 46455
   style_key: diiivoy
   style_link: 65001
-  track_seasons: true
   complete: true
+  track_seasons: true
 collections:
   "The Lion King Collection": {tpdb_poster: 46454}
 movies:
@@ -15,6 +15,7 @@ shows:
   "Timon & Pumbaa (1995)":
     seasons:
       0: {tpdb_poster: 46466}
+      2: {tpdb_poster: 46468}
       3: {tpdb_poster: 46469}
       5: {tpdb_poster: 46471}
       7: {tpdb_poster: 46473}

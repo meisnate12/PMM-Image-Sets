@@ -1,4 +1,4 @@
-<h1 id="pixar-animation-studios">Pixar Animation Studios<a class="headerlink" href="#pixar-animation-studios" title="Permalink to this heading">¶</a></h1>
+<h1 id="pixar-animation-studios">Pixar Animation Studios<a class="headerlink" href="#pixar-animation-studios" title="Permalink to this heading">Â¶</a></h1>
 This Image Set is for Movies and Shows released by Pixar Animation Studios.
 
 <ul class="images-index-table">
@@ -17,11 +17,11 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   <li><a href="#toy-story"><div class="images-inline-link">Toy Story<br><code>toystory</code></div></a></li>
   <li><a href="#ungrouped"><div class="images-inline-link">Ungrouped<br><code>ungrouped</code></div></a></li>
   <li><a href="#up"><div class="images-inline-link">Up<br><code>up</code></div></a></li>
-  <li><a href="#wall·e"><div class="images-inline-link">WALL·E<br><code>walle</code></div></a></li>
+  <li><a href="#wallÂ·e"><div class="images-inline-link">WALLÂ·E<br><code>walle</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="brave">Brave<a class="headerlink" href="#brave" title="Permalink to this heading">¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
+<h3 id="brave">Brave<a class="headerlink" href="#brave" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>brave</code>
 <br><strong>Builders:</strong>
 <br>
@@ -77,7 +77,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="cars">Cars<a class="headerlink" href="#cars" title="Permalink to this heading">¶</a></h3>
+<h3 id="cars">Cars<a class="headerlink" href="#cars" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>cars</code>
 <br><strong>Builders:</strong>
 <br>
@@ -134,7 +134,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="coco">Coco<a class="headerlink" href="#coco" title="Permalink to this heading">¶</a></h3>
+<h3 id="coco">Coco<a class="headerlink" href="#coco" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>coco</code>
 <br><strong>Builders:</strong>
 <br>
@@ -190,7 +190,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="finding-nemo">Finding Nemo<a class="headerlink" href="#finding-nemo" title="Permalink to this heading">¶</a></h3>
+<h3 id="finding-nemo">Finding Nemo<a class="headerlink" href="#finding-nemo" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>nemo</code>
 <br><strong>Builders:</strong>
 <br>
@@ -247,7 +247,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="forky">Forky<a class="headerlink" href="#forky" title="Permalink to this heading">¶</a></h3>
+<h3 id="forky">Forky<a class="headerlink" href="#forky" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>forky</code>
 <br><strong>Builders:</strong>
 <br>
@@ -268,7 +268,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="the-incredibles">The Incredibles<a class="headerlink" href="#the-incredibles" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-incredibles">The Incredibles<a class="headerlink" href="#the-incredibles" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>incredibles</code>
 <br><strong>Builders:</strong>
 <br>
@@ -325,7 +325,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="inside-out">Inside Out<a class="headerlink" href="#inside-out" title="Permalink to this heading">¶</a></h3>
+<h3 id="inside-out">Inside Out<a class="headerlink" href="#inside-out" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>insideout</code>
 <br><strong>Builders:</strong>
 <br>
@@ -381,7 +381,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="luca">Luca<a class="headerlink" href="#luca" title="Permalink to this heading">¶</a></h3>
+<h3 id="luca">Luca<a class="headerlink" href="#luca" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>luca</code>
 <br><strong>Builders:</strong>
 <br>
@@ -437,7 +437,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="monsters-inc">Monsters Inc<a class="headerlink" href="#monsters-inc" title="Permalink to this heading">¶</a></h3>
+<h3 id="monsters-inc">Monsters Inc<a class="headerlink" href="#monsters-inc" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>monstersinc</code>
 <br><strong>Builders:</strong>
 <br>
@@ -494,7 +494,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="ratatouille">Ratatouille<a class="headerlink" href="#ratatouille" title="Permalink to this heading">¶</a></h3>
+<h3 id="ratatouille">Ratatouille<a class="headerlink" href="#ratatouille" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ratatouille</code>
 <br><strong>Builders:</strong>
 <br>
@@ -550,7 +550,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="shorts">Shorts<a class="headerlink" href="#shorts" title="Permalink to this heading">¶</a></h3>
+<h3 id="shorts">Shorts<a class="headerlink" href="#shorts" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>shorts</code>
 <br><strong>Builders:</strong>
 <br>
@@ -571,7 +571,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="soul">Soul<a class="headerlink" href="#soul" title="Permalink to this heading">¶</a></h3>
+<h3 id="soul">Soul<a class="headerlink" href="#soul" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>soul</code>
 <br><strong>Builders:</strong>
 <br>
@@ -627,7 +627,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="toy-story">Toy Story<a class="headerlink" href="#toy-story" title="Permalink to this heading">¶</a></h3>
+<h3 id="toy-story">Toy Story<a class="headerlink" href="#toy-story" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>toystory</code>
 <br><strong>Builders:</strong>
 <br>
@@ -684,7 +684,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">¶</a></h3>
+<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>
@@ -740,7 +740,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="up">Up<a class="headerlink" href="#up" title="Permalink to this heading">¶</a></h3>
+<h3 id="up">Up<a class="headerlink" href="#up" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>up</code>
 <br><strong>Builders:</strong>
 <br>
@@ -796,7 +796,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   </table>
 </div>
 
-<h3 id="wall·e">WALL·E<a class="headerlink" href="#wall·e" title="Permalink to this heading">¶</a></h3>
+<h3 id="wallÂ·e">WALLÂ·E<a class="headerlink" href="#wallÂ·e" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>walle</code>
 <br><strong>Builders:</strong>
 <br>

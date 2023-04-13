@@ -1,4 +1,4 @@
-<h1 id="walt-disney-animation-studios">Walt Disney Animation Studios<a class="headerlink" href="#walt-disney-animation-studios" title="Permalink to this heading">¶</a></h1>
+<h1 id="walt-disney-animation-studios">Walt Disney Animation Studios<a class="headerlink" href="#walt-disney-animation-studios" title="Permalink to this heading">Â¶</a></h1>
 This Image Set is for Movies and Shows released by Walt Disney Animation Studios.
 
 <ul class="images-index-table">
@@ -39,8 +39,8 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   <li><a href="#zootopia"><div class="images-inline-link">Zootopia<br><code>zootopia</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="101-dalmatians-(animated)">101 Dalmatians (Animated)<a class="headerlink" href="#101-dalmatians-(animated)" title="Permalink to this heading">¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
+<h3 id="101-dalmatians-(animated)">101 Dalmatians (Animated)<a class="headerlink" href="#101-dalmatians-(animated)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>101dalmatians</code>
 <br><strong>Builders:</strong>
 <br>
@@ -103,7 +103,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="aladdin">Aladdin<a class="headerlink" href="#aladdin" title="Permalink to this heading">¶</a></h3>
+<h3 id="aladdin">Aladdin<a class="headerlink" href="#aladdin" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>aladdin</code>
 <br><strong>Builders:</strong>
 <br>
@@ -167,7 +167,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="atlantis">Atlantis<a class="headerlink" href="#atlantis" title="Permalink to this heading">¶</a></h3>
+<h3 id="atlantis">Atlantis<a class="headerlink" href="#atlantis" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>atlantis</code>
 <br><strong>Builders:</strong>
 <br>
@@ -230,7 +230,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="bambi">Bambi<a class="headerlink" href="#bambi" title="Permalink to this heading">¶</a></h3>
+<h3 id="bambi">Bambi<a class="headerlink" href="#bambi" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>bambi</code>
 <br><strong>Builders:</strong>
 <br>
@@ -293,7 +293,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="beauty-and-the-beast">Beauty and the Beast<a class="headerlink" href="#beauty-and-the-beast" title="Permalink to this heading">¶</a></h3>
+<h3 id="beauty-and-the-beast">Beauty and the Beast<a class="headerlink" href="#beauty-and-the-beast" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>beautybeast</code>
 <br><strong>Builders:</strong>
 <br>
@@ -356,7 +356,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="big-hero-6">Big Hero 6<a class="headerlink" href="#big-hero-6" title="Permalink to this heading">¶</a></h3>
+<h3 id="big-hero-6">Big Hero 6<a class="headerlink" href="#big-hero-6" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>bighero6</code>
 <br><strong>Builders:</strong>
 <br>
@@ -420,7 +420,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="bolt">Bolt<a class="headerlink" href="#bolt" title="Permalink to this heading">¶</a></h3>
+<h3 id="bolt">Bolt<a class="headerlink" href="#bolt" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>bolt</code>
 <br><strong>Builders:</strong>
 <br>
@@ -483,7 +483,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="brother-bear">Brother Bear<a class="headerlink" href="#brother-bear" title="Permalink to this heading">¶</a></h3>
+<h3 id="brother-bear">Brother Bear<a class="headerlink" href="#brother-bear" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>brotherbear</code>
 <br><strong>Builders:</strong>
 <br>
@@ -546,7 +546,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="caballeros">Caballeros<a class="headerlink" href="#caballeros" title="Permalink to this heading">¶</a></h3>
+<h3 id="caballeros">Caballeros<a class="headerlink" href="#caballeros" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>caballeros</code>
 <br><strong>Builders:</strong>
 <br>
@@ -610,7 +610,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="cinderella">Cinderella<a class="headerlink" href="#cinderella" title="Permalink to this heading">¶</a></h3>
+<h3 id="cinderella">Cinderella<a class="headerlink" href="#cinderella" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>cinderella</code>
 <br><strong>Builders:</strong>
 <br>
@@ -673,7 +673,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="disney's-hercules">Disney's Hercules<a class="headerlink" href="#disney's-hercules" title="Permalink to this heading">¶</a></h3>
+<h3 id="disney's-hercules">Disney's Hercules<a class="headerlink" href="#disney's-hercules" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>hercules</code>
 <br><strong>Builders:</strong>
 <br>
@@ -737,7 +737,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="the-emperor's-new-groove">The Emperor's New Groove<a class="headerlink" href="#the-emperor's-new-groove" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-emperor's-new-groove">The Emperor's New Groove<a class="headerlink" href="#the-emperor's-new-groove" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>emperor</code>
 <br><strong>Builders:</strong>
 <br>
@@ -794,7 +794,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="fantasia">Fantasia<a class="headerlink" href="#fantasia" title="Permalink to this heading">¶</a></h3>
+<h3 id="fantasia">Fantasia<a class="headerlink" href="#fantasia" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>fantasia</code>
 <br><strong>Builders:</strong>
 <br>
@@ -857,7 +857,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="the-fox-and-the-hound">The Fox and the Hound<a class="headerlink" href="#the-fox-and-the-hound" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-fox-and-the-hound">The Fox and the Hound<a class="headerlink" href="#the-fox-and-the-hound" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>foxhound</code>
 <br><strong>Builders:</strong>
 <br>
@@ -913,7 +913,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="frozen">Frozen<a class="headerlink" href="#frozen" title="Permalink to this heading">¶</a></h3>
+<h3 id="frozen">Frozen<a class="headerlink" href="#frozen" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>frozen</code>
 <br><strong>Builders:</strong>
 <br>
@@ -978,7 +978,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="a-goofy-movie">A Goofy Movie<a class="headerlink" href="#a-goofy-movie" title="Permalink to this heading">¶</a></h3>
+<h3 id="a-goofy-movie">A Goofy Movie<a class="headerlink" href="#a-goofy-movie" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>goofy</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1006,7 +1006,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="the-hunchback-of-notre-dame">The Hunchback of Notre Dame<a class="headerlink" href="#the-hunchback-of-notre-dame" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-hunchback-of-notre-dame">The Hunchback of Notre Dame<a class="headerlink" href="#the-hunchback-of-notre-dame" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>hunchback</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1062,7 +1062,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="the-jungle-book">The Jungle Book<a class="headerlink" href="#the-jungle-book" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-jungle-book">The Jungle Book<a class="headerlink" href="#the-jungle-book" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>junglebook</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1126,7 +1126,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="lady-and-the-tramp">Lady and the Tramp<a class="headerlink" href="#lady-and-the-tramp" title="Permalink to this heading">¶</a></h3>
+<h3 id="lady-and-the-tramp">Lady and the Tramp<a class="headerlink" href="#lady-and-the-tramp" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ladytramp</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1189,7 +1189,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="lilo-&-stitch">Lilo & Stitch<a class="headerlink" href="#lilo-&-stitch" title="Permalink to this heading">¶</a></h3>
+<h3 id="lilo-&-stitch">Lilo & Stitch<a class="headerlink" href="#lilo-&-stitch" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>lilostitch</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1253,7 +1253,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="the-lion-king">The Lion King<a class="headerlink" href="#the-lion-king" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-lion-king">The Lion King<a class="headerlink" href="#the-lion-king" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>lionking</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1317,7 +1317,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="the-little-mermaid">The Little Mermaid<a class="headerlink" href="#the-little-mermaid" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-little-mermaid">The Little Mermaid<a class="headerlink" href="#the-little-mermaid" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>littlemermaid</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1381,7 +1381,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="moana">Moana<a class="headerlink" href="#moana" title="Permalink to this heading">¶</a></h3>
+<h3 id="moana">Moana<a class="headerlink" href="#moana" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>moana</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1444,7 +1444,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="mulan">Mulan<a class="headerlink" href="#mulan" title="Permalink to this heading">¶</a></h3>
+<h3 id="mulan">Mulan<a class="headerlink" href="#mulan" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>mulan</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1507,7 +1507,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="peter-pan">Peter Pan<a class="headerlink" href="#peter-pan" title="Permalink to this heading">¶</a></h3>
+<h3 id="peter-pan">Peter Pan<a class="headerlink" href="#peter-pan" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>peterpan</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1570,7 +1570,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="planes">Planes<a class="headerlink" href="#planes" title="Permalink to this heading">¶</a></h3>
+<h3 id="planes">Planes<a class="headerlink" href="#planes" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>planes</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1598,7 +1598,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="pocahontas">Pocahontas<a class="headerlink" href="#pocahontas" title="Permalink to this heading">¶</a></h3>
+<h3 id="pocahontas">Pocahontas<a class="headerlink" href="#pocahontas" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>pocahontas</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1633,7 +1633,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="the-rescuers">The Rescuers<a class="headerlink" href="#the-rescuers" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-rescuers">The Rescuers<a class="headerlink" href="#the-rescuers" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>rescuers</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1696,7 +1696,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="tangled">Tangled<a class="headerlink" href="#tangled" title="Permalink to this heading">¶</a></h3>
+<h3 id="tangled">Tangled<a class="headerlink" href="#tangled" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>tangled</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1760,7 +1760,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="tarzan-(animation)">Tarzan (Animation)<a class="headerlink" href="#tarzan-(animation)" title="Permalink to this heading">¶</a></h3>
+<h3 id="tarzan-(animation)">Tarzan (Animation)<a class="headerlink" href="#tarzan-(animation)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>tarzan</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1824,7 +1824,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="tinker-bell">Tinker Bell<a class="headerlink" href="#tinker-bell" title="Permalink to this heading">¶</a></h3>
+<h3 id="tinker-bell">Tinker Bell<a class="headerlink" href="#tinker-bell" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>tinkerbell</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1852,7 +1852,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="walt-disney-animation-studios">Walt Disney Animation Studios<a class="headerlink" href="#walt-disney-animation-studios" title="Permalink to this heading">¶</a></h3>
+<h3 id="walt-disney-animation-studios">Walt Disney Animation Studios<a class="headerlink" href="#walt-disney-animation-studios" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1915,7 +1915,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="winnie-the-pooh">Winnie the Pooh<a class="headerlink" href="#winnie-the-pooh" title="Permalink to this heading">¶</a></h3>
+<h3 id="winnie-the-pooh">Winnie the Pooh<a class="headerlink" href="#winnie-the-pooh" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>winnie</code>
 <br><strong>Builders:</strong>
 <br>
@@ -1978,7 +1978,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="wreck-it-ralph">Wreck-It Ralph<a class="headerlink" href="#wreck-it-ralph" title="Permalink to this heading">¶</a></h3>
+<h3 id="wreck-it-ralph">Wreck-It Ralph<a class="headerlink" href="#wreck-it-ralph" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>wreckitralph</code>
 <br><strong>Builders:</strong>
 <br>
@@ -2041,7 +2041,7 @@ This Image Set is for Movies and Shows released by Walt Disney Animation Studios
   </table>
 </div>
 
-<h3 id="zootopia">Zootopia<a class="headerlink" href="#zootopia" title="Permalink to this heading">¶</a></h3>
+<h3 id="zootopia">Zootopia<a class="headerlink" href="#zootopia" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>zootopia</code>
 <br><strong>Builders:</strong>
 <br>

@@ -1,4 +1,4 @@
-<h1 id="shows">Shows<a class="headerlink" href="#shows" title="Permalink to this heading">¶</a></h1>
+<h1 id="shows">Shows<a class="headerlink" href="#shows" title="Permalink to this heading">Â¶</a></h1>
 This Image Set is for miscellaneous shows which do not fall into any other Image Set
 
 <ul class="images-index-table">
@@ -24,7 +24,6 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   <li><a href="#the-last-of-us"><div class="images-inline-link">The Last of Us<br><code>last_of_us</code></div></a></li>
   <li><a href="#macgyver"><div class="images-inline-link">MacGyver<br><code>macgyver</code></div></a></li>
   <li><a href="#the-magicians"><div class="images-inline-link">The Magicians<br><code>magicians</code></div></a></li>
-  <li><a href="#the-mandalorian"><div class="images-inline-link">The Mandalorian<br><code>mandalorian</code></div></a></li>
   <li><a href="#married...-with-children"><div class="images-inline-link">Married... with Children<br><code>married</code></div></a></li>
   <li><a href="#the-office-(us)"><div class="images-inline-link">The Office (US)<br><code>office</code></div></a></li>
   <li><a href="#parks-and-recreation"><div class="images-inline-link">Parks and Recreation<br><code>parks</code></div></a></li>
@@ -35,8 +34,8 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   <li><a href="#yellowstone"><div class="images-inline-link">Yellowstone<br><code>yellowstone</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="american-dad!">American Dad!<a class="headerlink" href="#american-dad!" title="Permalink to this heading">¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
+<h3 id="american-dad!">American Dad!<a class="headerlink" href="#american-dad!" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>americandad</code>
 <br><strong>Builders:</strong>
 <br>
@@ -64,7 +63,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="band-of-brothers">Band of Brothers<a class="headerlink" href="#band-of-brothers" title="Permalink to this heading">¶</a></h3>
+<h3 id="band-of-brothers">Band of Brothers<a class="headerlink" href="#band-of-brothers" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>band_of_brothers</code>
 <br><strong>Builders:</strong>
 <br>
@@ -85,7 +84,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="the-big-bang-theory">The Big Bang Theory<a class="headerlink" href="#the-big-bang-theory" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-big-bang-theory">The Big Bang Theory<a class="headerlink" href="#the-big-bang-theory" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>bigbang</code>
 <br><strong>Builders:</strong>
 <br>
@@ -113,7 +112,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="bob's-burgers">Bob's Burgers<a class="headerlink" href="#bob's-burgers" title="Permalink to this heading">¶</a></h3>
+<h3 id="bob's-burgers">Bob's Burgers<a class="headerlink" href="#bob's-burgers" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>bobs_burgers</code>
 <br><strong>Builders:</strong>
 <br>
@@ -148,7 +147,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="breaking-bad">Breaking Bad<a class="headerlink" href="#breaking-bad" title="Permalink to this heading">¶</a></h3>
+<h3 id="breaking-bad">Breaking Bad<a class="headerlink" href="#breaking-bad" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>breaking_bad</code>
 <br><strong>Builders:</strong>
 <br>
@@ -176,7 +175,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="chappelle's-show">Chappelle's Show<a class="headerlink" href="#chappelle's-show" title="Permalink to this heading">¶</a></h3>
+<h3 id="chappelle's-show">Chappelle's Show<a class="headerlink" href="#chappelle's-show" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>chappelle</code>
 <br><strong>Builders:</strong>
 <br>
@@ -204,7 +203,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="charmed-(1998)">Charmed (1998)<a class="headerlink" href="#charmed-(1998)" title="Permalink to this heading">¶</a></h3>
+<h3 id="charmed-(1998)">Charmed (1998)<a class="headerlink" href="#charmed-(1998)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>charmed</code>
 <br><strong>Builders:</strong>
 <br>
@@ -232,7 +231,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="the-chosen">The Chosen<a class="headerlink" href="#the-chosen" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-chosen">The Chosen<a class="headerlink" href="#the-chosen" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>chosen</code>
 <br><strong>Builders:</strong>
 <br>
@@ -260,7 +259,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="disenchantment">Disenchantment<a class="headerlink" href="#disenchantment" title="Permalink to this heading">¶</a></h3>
+<h3 id="disenchantment">Disenchantment<a class="headerlink" href="#disenchantment" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>disenchantment</code>
 <br><strong>Builders:</strong>
 <br>
@@ -288,7 +287,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="duck-dynasty">Duck Dynasty<a class="headerlink" href="#duck-dynasty" title="Permalink to this heading">¶</a></h3>
+<h3 id="duck-dynasty">Duck Dynasty<a class="headerlink" href="#duck-dynasty" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>duck_dynasty</code>
 <br><strong>Builders:</strong>
 <br>
@@ -309,7 +308,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="falling-skies">Falling Skies<a class="headerlink" href="#falling-skies" title="Permalink to this heading">¶</a></h3>
+<h3 id="falling-skies">Falling Skies<a class="headerlink" href="#falling-skies" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>falling_skies</code>
 <br><strong>Builders:</strong>
 <br>
@@ -344,7 +343,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="family-guy">Family Guy<a class="headerlink" href="#family-guy" title="Permalink to this heading">¶</a></h3>
+<h3 id="family-guy">Family Guy<a class="headerlink" href="#family-guy" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>familyguy</code>
 <br><strong>Builders:</strong>
 <br>
@@ -372,7 +371,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="friends-(1994)">Friends (1994)<a class="headerlink" href="#friends-(1994)" title="Permalink to this heading">¶</a></h3>
+<h3 id="friends-(1994)">Friends (1994)<a class="headerlink" href="#friends-(1994)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>friends</code>
 <br><strong>Builders:</strong>
 <br>
@@ -400,7 +399,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="futurama">Futurama<a class="headerlink" href="#futurama" title="Permalink to this heading">¶</a></h3>
+<h3 id="futurama">Futurama<a class="headerlink" href="#futurama" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>futurama</code>
 <br><strong>Builders:</strong>
 <br>
@@ -428,7 +427,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="grimm">Grimm<a class="headerlink" href="#grimm" title="Permalink to this heading">¶</a></h3>
+<h3 id="grimm">Grimm<a class="headerlink" href="#grimm" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>grimm</code>
 <br><strong>Builders:</strong>
 <br>
@@ -456,7 +455,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="heroes">Heroes<a class="headerlink" href="#heroes" title="Permalink to this heading">¶</a></h3>
+<h3 id="heroes">Heroes<a class="headerlink" href="#heroes" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>heroes</code>
 <br><strong>Builders:</strong>
 <br>
@@ -491,7 +490,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="i-dream-of-jeannie">I Dream of Jeannie<a class="headerlink" href="#i-dream-of-jeannie" title="Permalink to this heading">¶</a></h3>
+<h3 id="i-dream-of-jeannie">I Dream of Jeannie<a class="headerlink" href="#i-dream-of-jeannie" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>jeannie</code>
 <br><strong>Builders:</strong>
 <br>
@@ -519,7 +518,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="i-love-lucy">I Love Lucy<a class="headerlink" href="#i-love-lucy" title="Permalink to this heading">¶</a></h3>
+<h3 id="i-love-lucy">I Love Lucy<a class="headerlink" href="#i-love-lucy" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>love_lucy</code>
 <br><strong>Builders:</strong>
 <br>
@@ -548,7 +547,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="the-last-man-on-earth">The Last Man on Earth<a class="headerlink" href="#the-last-man-on-earth" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-last-man-on-earth">The Last Man on Earth<a class="headerlink" href="#the-last-man-on-earth" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>last_man</code>
 <br><strong>Builders:</strong>
 <br>
@@ -576,7 +575,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="the-last-of-us">The Last of Us<a class="headerlink" href="#the-last-of-us" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-last-of-us">The Last of Us<a class="headerlink" href="#the-last-of-us" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>last_of_us</code>
 <br><strong>Builders:</strong>
 <br>
@@ -604,7 +603,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="macgyver">MacGyver<a class="headerlink" href="#macgyver" title="Permalink to this heading">¶</a></h3>
+<h3 id="macgyver">MacGyver<a class="headerlink" href="#macgyver" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>macgyver</code>
 <br><strong>Builders:</strong>
 <br>
@@ -625,7 +624,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="the-magicians">The Magicians<a class="headerlink" href="#the-magicians" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-magicians">The Magicians<a class="headerlink" href="#the-magicians" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>magicians</code>
 <br><strong>Builders:</strong>
 <br>
@@ -660,28 +659,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="the-mandalorian">The Mandalorian<a class="headerlink" href="#the-mandalorian" title="Permalink to this heading">¶</a></h3>
-<strong>Section Key:</strong> <code>mandalorian</code>
-<br><strong>Builders:</strong>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/361753" target="_blank" rel="noopener noreferrer">361753</a> (<a href="https://www.themoviedb.org/tv/82856" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
-</ul>
-<button class="image-accordion">Styles</button>
-<div class="image-panel">
-  <table class="image-table">
-    <tr>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/101892" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/shows/styles/mandalorian/olivier.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>olivier</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/101892" target="_blank" rel="noopener noreferrer">Olivier_286</a><br>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 id="married...-with-children">Married... with Children<a class="headerlink" href="#married...-with-children" title="Permalink to this heading">¶</a></h3>
+<h3 id="married...-with-children">Married... with Children<a class="headerlink" href="#married...-with-children" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>married</code>
 <br><strong>Builders:</strong>
 <br>
@@ -709,7 +687,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="the-office-(us)">The Office (US)<a class="headerlink" href="#the-office-(us)" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-office-(us)">The Office (US)<a class="headerlink" href="#the-office-(us)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>office</code>
 <br><strong>Builders:</strong>
 <br>
@@ -723,7 +701,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="parks-and-recreation">Parks and Recreation<a class="headerlink" href="#parks-and-recreation" title="Permalink to this heading">¶</a></h3>
+<h3 id="parks-and-recreation">Parks and Recreation<a class="headerlink" href="#parks-and-recreation" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>parks</code>
 <br><strong>Builders:</strong>
 <br>
@@ -751,7 +729,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="the-simpsons">The Simpsons<a class="headerlink" href="#the-simpsons" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-simpsons">The Simpsons<a class="headerlink" href="#the-simpsons" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>simpsons</code>
 <br><strong>Builders:</strong>
 <br>
@@ -779,7 +757,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="south-park">South Park<a class="headerlink" href="#south-park" title="Permalink to this heading">¶</a></h3>
+<h3 id="south-park">South Park<a class="headerlink" href="#south-park" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>southpark</code>
 <br><strong>Builders:</strong>
 <br>
@@ -807,7 +785,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="stranger-things">Stranger Things<a class="headerlink" href="#stranger-things" title="Permalink to this heading">¶</a></h3>
+<h3 id="stranger-things">Stranger Things<a class="headerlink" href="#stranger-things" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>stranger_things</code>
 <br><strong>Builders:</strong>
 <br>
@@ -842,7 +820,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="ted-lasso">Ted Lasso<a class="headerlink" href="#ted-lasso" title="Permalink to this heading">¶</a></h3>
+<h3 id="ted-lasso">Ted Lasso<a class="headerlink" href="#ted-lasso" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ted_lasso</code>
 <br><strong>Builders:</strong>
 <br>
@@ -877,7 +855,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   </table>
 </div>
 
-<h3 id="yellowstone">Yellowstone<a class="headerlink" href="#yellowstone" title="Permalink to this heading">¶</a></h3>
+<h3 id="yellowstone">Yellowstone<a class="headerlink" href="#yellowstone" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>yellowstone</code>
 <br><strong>Builders:</strong>
 <br>

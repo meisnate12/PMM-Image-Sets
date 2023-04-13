@@ -1,4 +1,4 @@
-<h1 id="dreamworks-animation">DreamWorks Animation<a class="headerlink" href="#dreamworks-animation" title="Permalink to this heading">¶</a></h1>
+<h1 id="dreamworks-animation">DreamWorks Animation<a class="headerlink" href="#dreamworks-animation" title="Permalink to this heading">Â¶</a></h1>
 This Image Set is for Movies and Shows released by DreamWorks Animation.
 
 <ul class="images-index-table">
@@ -16,8 +16,8 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   <li><a href="#ungrouped"><div class="images-inline-link">Ungrouped<br><code>ungrouped</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="bible-stories">Bible Stories<a class="headerlink" href="#bible-stories" title="Permalink to this heading">¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
+<h3 id="bible-stories">Bible Stories<a class="headerlink" href="#bible-stories" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>biblestories</code>
 <br><strong>Builders:</strong>
 <br>
@@ -38,7 +38,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="the-boss-baby">The Boss Baby<a class="headerlink" href="#the-boss-baby" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-boss-baby">The Boss Baby<a class="headerlink" href="#the-boss-baby" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>bossbaby</code>
 <br><strong>Builders:</strong>
 <br>
@@ -60,7 +60,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="chicken-run">Chicken Run<a class="headerlink" href="#chicken-run" title="Permalink to this heading">¶</a></h3>
+<h3 id="chicken-run">Chicken Run<a class="headerlink" href="#chicken-run" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>chickenrun</code>
 <br><strong>Builders:</strong>
 <br>
@@ -81,7 +81,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="the-croods">The Croods<a class="headerlink" href="#the-croods" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-croods">The Croods<a class="headerlink" href="#the-croods" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>croods</code>
 <br><strong>Builders:</strong>
 <br>
@@ -102,7 +102,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="how-to-train-your-dragon">How to Train Your Dragon<a class="headerlink" href="#how-to-train-your-dragon" title="Permalink to this heading">¶</a></h3>
+<h3 id="how-to-train-your-dragon">How to Train Your Dragon<a class="headerlink" href="#how-to-train-your-dragon" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>trainyourdragon</code>
 <br><strong>Builders:</strong>
 <br>
@@ -124,7 +124,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="kung-fu-panda">Kung Fu Panda<a class="headerlink" href="#kung-fu-panda" title="Permalink to this heading">¶</a></h3>
+<h3 id="kung-fu-panda">Kung Fu Panda<a class="headerlink" href="#kung-fu-panda" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>kungfupanda</code>
 <br><strong>Builders:</strong>
 <br>
@@ -146,7 +146,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="madagascar">Madagascar<a class="headerlink" href="#madagascar" title="Permalink to this heading">¶</a></h3>
+<h3 id="madagascar">Madagascar<a class="headerlink" href="#madagascar" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>madagascar</code>
 <br><strong>Builders:</strong>
 <br>
@@ -168,7 +168,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="puss-in-boots">Puss in Boots<a class="headerlink" href="#puss-in-boots" title="Permalink to this heading">¶</a></h3>
+<h3 id="puss-in-boots">Puss in Boots<a class="headerlink" href="#puss-in-boots" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>pussinboots</code>
 <br><strong>Builders:</strong>
 <br>
@@ -190,7 +190,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="shrek">Shrek<a class="headerlink" href="#shrek" title="Permalink to this heading">¶</a></h3>
+<h3 id="shrek">Shrek<a class="headerlink" href="#shrek" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>shrek</code>
 <br><strong>Builders:</strong>
 <br>
@@ -212,7 +212,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="spirit">Spirit<a class="headerlink" href="#spirit" title="Permalink to this heading">¶</a></h3>
+<h3 id="spirit">Spirit<a class="headerlink" href="#spirit" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>spirit</code>
 <br><strong>Builders:</strong>
 <br>
@@ -234,7 +234,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="trolls">Trolls<a class="headerlink" href="#trolls" title="Permalink to this heading">¶</a></h3>
+<h3 id="trolls">Trolls<a class="headerlink" href="#trolls" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>trolls</code>
 <br><strong>Builders:</strong>
 <br>
@@ -256,7 +256,7 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
   </table>
 </div>
 
-<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">¶</a></h3>
+<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>

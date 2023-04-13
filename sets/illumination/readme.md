@@ -1,4 +1,4 @@
-<h1 id="illumination-entertainment">Illumination Entertainment<a class="headerlink" href="#illumination-entertainment" title="Permalink to this heading">¶</a></h1>
+<h1 id="illumination-entertainment">Illumination Entertainment<a class="headerlink" href="#illumination-entertainment" title="Permalink to this heading">Â¶</a></h1>
 This Image Set is for Movies and Shows released by Illumination Entertainment.
 
 <ul class="images-index-table">
@@ -9,8 +9,8 @@ This Image Set is for Movies and Shows released by Illumination Entertainment.
   <li><a href="#ungrouped"><div class="images-inline-link">Ungrouped<br><code>ungrouped</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="despicable-me">Despicable Me<a class="headerlink" href="#despicable-me" title="Permalink to this heading">¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
+<h3 id="despicable-me">Despicable Me<a class="headerlink" href="#despicable-me" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>despicableme</code>
 <br><strong>Builders:</strong>
 <br>
@@ -31,7 +31,7 @@ This Image Set is for Movies and Shows released by Illumination Entertainment.
   </table>
 </div>
 
-<h3 id="minions">Minions<a class="headerlink" href="#minions" title="Permalink to this heading">¶</a></h3>
+<h3 id="minions">Minions<a class="headerlink" href="#minions" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>minions</code>
 <br><strong>Builders:</strong>
 <br>
@@ -52,7 +52,7 @@ This Image Set is for Movies and Shows released by Illumination Entertainment.
   </table>
 </div>
 
-<h3 id="the-secret-life-of-pets">The Secret Life of Pets<a class="headerlink" href="#the-secret-life-of-pets" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-secret-life-of-pets">The Secret Life of Pets<a class="headerlink" href="#the-secret-life-of-pets" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>lifeofpets</code>
 <br><strong>Builders:</strong>
 <br>
@@ -74,7 +74,7 @@ This Image Set is for Movies and Shows released by Illumination Entertainment.
   </table>
 </div>
 
-<h3 id="sing">Sing<a class="headerlink" href="#sing" title="Permalink to this heading">¶</a></h3>
+<h3 id="sing">Sing<a class="headerlink" href="#sing" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>sing</code>
 <br><strong>Builders:</strong>
 <br>
@@ -95,7 +95,7 @@ This Image Set is for Movies and Shows released by Illumination Entertainment.
   </table>
 </div>
 
-<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">¶</a></h3>
+<h3 id="ungrouped">Ungrouped<a class="headerlink" href="#ungrouped" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>ungrouped</code>
 <br><strong>Builders:</strong>
 <br>

@@ -1,4 +1,4 @@
-<h1 id="star-trek">Star Trek<a class="headerlink" href="#star-trek" title="Permalink to this heading">¶</a></h1>
+<h1 id="star-trek">Star Trek<a class="headerlink" href="#star-trek" title="Permalink to this heading">Â¶</a></h1>
 This Image Set is for Movies and Shows which are part of the Star Trek franchise.
 
 <ul class="images-index-table">
@@ -19,8 +19,8 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   <li><a href="#voyager-(1995)"><div class="images-inline-link">Voyager (1995)<br><code>voyager</code></div></a></li>
 </ul>
 
-<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="-deep-space-nine-(1993)"> Deep Space Nine (1993)<a class="headerlink" href="#-deep-space-nine-(1993)" title="Permalink to this heading">¶</a></h3>
+<h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">Â¶</a></h2>
+<h3 id="-deep-space-nine-(1993)"> Deep Space Nine (1993)<a class="headerlink" href="#-deep-space-nine-(1993)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>deepspacenine</code>
 <br><strong>Builders:</strong>
 <br>
@@ -41,7 +41,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="alternate-reality-movies">Alternate Reality Movies<a class="headerlink" href="#alternate-reality-movies" title="Permalink to this heading">¶</a></h3>
+<h3 id="alternate-reality-movies">Alternate Reality Movies<a class="headerlink" href="#alternate-reality-movies" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>altreality</code>
 <br><strong>Builders:</strong>
 <br>
@@ -62,7 +62,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="the-animated-series-(1973)">The Animated Series (1973)<a class="headerlink" href="#the-animated-series-(1973)" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-animated-series-(1973)">The Animated Series (1973)<a class="headerlink" href="#the-animated-series-(1973)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>animatedseries</code>
 <br><strong>Builders:</strong>
 <br>
@@ -83,7 +83,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="discovery-(2017)">Discovery (2017)<a class="headerlink" href="#discovery-(2017)" title="Permalink to this heading">¶</a></h3>
+<h3 id="discovery-(2017)">Discovery (2017)<a class="headerlink" href="#discovery-(2017)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>discovery</code>
 <br><strong>Builders:</strong>
 <br>
@@ -104,7 +104,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="enterprise-(2001)">Enterprise (2001)<a class="headerlink" href="#enterprise-(2001)" title="Permalink to this heading">¶</a></h3>
+<h3 id="enterprise-(2001)">Enterprise (2001)<a class="headerlink" href="#enterprise-(2001)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>enterprise</code>
 <br><strong>Builders:</strong>
 <br>
@@ -125,7 +125,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="lower-decks-(2020)">Lower Decks (2020)<a class="headerlink" href="#lower-decks-(2020)" title="Permalink to this heading">¶</a></h3>
+<h3 id="lower-decks-(2020)">Lower Decks (2020)<a class="headerlink" href="#lower-decks-(2020)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>lowerdecks</code>
 <br><strong>Builders:</strong>
 <br>
@@ -146,7 +146,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="the-next-generation-(1987)">The Next Generation (1987)<a class="headerlink" href="#the-next-generation-(1987)" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-next-generation-(1987)">The Next Generation (1987)<a class="headerlink" href="#the-next-generation-(1987)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>nextgen1987</code>
 <br><strong>Builders:</strong>
 <br>
@@ -167,7 +167,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="the-next-generation-movies">The Next Generation Movies<a class="headerlink" href="#the-next-generation-movies" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-next-generation-movies">The Next Generation Movies<a class="headerlink" href="#the-next-generation-movies" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>nextgen</code>
 <br><strong>Builders:</strong>
 <br>
@@ -188,7 +188,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="the-original-series-movies">The Original Series Movies<a class="headerlink" href="#the-original-series-movies" title="Permalink to this heading">¶</a></h3>
+<h3 id="the-original-series-movies">The Original Series Movies<a class="headerlink" href="#the-original-series-movies" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>startrek</code>
 <br><strong>Builders:</strong>
 <br>
@@ -209,7 +209,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="picard-(2020)">Picard (2020)<a class="headerlink" href="#picard-(2020)" title="Permalink to this heading">¶</a></h3>
+<h3 id="picard-(2020)">Picard (2020)<a class="headerlink" href="#picard-(2020)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>picard</code>
 <br><strong>Builders:</strong>
 <br>
@@ -230,7 +230,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="prodigy-(2021)-">Prodigy (2021) <a class="headerlink" href="#prodigy-(2021)-" title="Permalink to this heading">¶</a></h3>
+<h3 id="prodigy-(2021)-">Prodigy (2021) <a class="headerlink" href="#prodigy-(2021)-" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>prodigy</code>
 <br><strong>Builders:</strong>
 <br>
@@ -251,7 +251,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="short-treks-(2018)">Short Treks (2018)<a class="headerlink" href="#short-treks-(2018)" title="Permalink to this heading">¶</a></h3>
+<h3 id="short-treks-(2018)">Short Treks (2018)<a class="headerlink" href="#short-treks-(2018)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>shorttreks</code>
 <br><strong>Builders:</strong>
 <br>
@@ -272,7 +272,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="star-trek-(1966)">Star Trek (1966)<a class="headerlink" href="#star-trek-(1966)" title="Permalink to this heading">¶</a></h3>
+<h3 id="star-trek-(1966)">Star Trek (1966)<a class="headerlink" href="#star-trek-(1966)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>startrek1996</code>
 <br><strong>Builders:</strong>
 <br>
@@ -293,7 +293,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="strange-new-worlds-(2022)">Strange New Worlds (2022)<a class="headerlink" href="#strange-new-worlds-(2022)" title="Permalink to this heading">¶</a></h3>
+<h3 id="strange-new-worlds-(2022)">Strange New Worlds (2022)<a class="headerlink" href="#strange-new-worlds-(2022)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>strangenewworlds</code>
 <br><strong>Builders:</strong>
 <br>
@@ -314,7 +314,7 @@ This Image Set is for Movies and Shows which are part of the Star Trek franchise
   </table>
 </div>
 
-<h3 id="voyager-(1995)">Voyager (1995)<a class="headerlink" href="#voyager-(1995)" title="Permalink to this heading">¶</a></h3>
+<h3 id="voyager-(1995)">Voyager (1995)<a class="headerlink" href="#voyager-(1995)" title="Permalink to this heading">Â¶</a></h3>
 <strong>Section Key:</strong> <code>voyager</code>
 <br><strong>Builders:</strong>
 <br>
