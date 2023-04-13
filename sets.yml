@@ -25,6 +25,10 @@ sets:
     title: Pixar Animation Studios
     description: This Image Set is for Movies and Shows released by Pixar Animation
       Studios.
+  shows:
+    title: Shows
+    description: This Image Set is for miscellaneous shows which do not fall into
+      any other Image Set
   startrek:
     title: Star Trek
     description: This Image Set is for Movies and Shows which are part of the Star
@@ -33,4 +37,5 @@ sets:
     title: Star Wars
     description: This Image Set is for Movies and Shows that are part of the Star
       Wars franchise.
+
 

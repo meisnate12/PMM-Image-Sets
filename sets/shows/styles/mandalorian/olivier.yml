@@ -1,0 +1,44 @@
+info:
+  style_author: Olivier_286
+  style_image: 166692
+  style_key: olivier
+  style_link: 101892
+  complete: true
+  track_seasons: true
+  track_episodes: true
+shows:
+  "The Mandalorian (2019)":
+    tpdb_poster: 166692
+    seasons:
+      1:
+        tpdb_poster: 166693
+        episodes:
+          1: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2001/S01E01.jpg}
+          2: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2001/S01E02.jpg}
+          3: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2001/S01E03.jpg}
+          4: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2001/S01E04.jpg}
+          5: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2001/S01E05.jpg}
+          6: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2001/S01E06.jpg}
+          7: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2001/S01E07.jpg}
+          8: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2001/S01E08.jpg}
+      2:
+        tpdb_poster: 166694
+        episodes:
+          1: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2002/S02E01.jpg}
+          2: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2002/S02E02.jpg}
+          3: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2002/S02E03.jpg}
+          4: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2002/S02E04.jpg}
+          5: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2002/S02E05.jpg}
+          6: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2002/S02E06.jpg}
+          7: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2002/S02E07.jpg}
+          8: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2002/S02E08.jpg}
+      3:
+        tpdb_poster: 310023
+        episodes:
+          1: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E01.jpg}
+          2: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E02.jpg}
+          3: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E03.jpg}
+          4: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E04.jpg}
+          5: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E05.jpg}
+          6: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E06.jpg}
+          7: {url_poster: https://raw.githubusercontent.com/JohnFawkes/pmm-titlecards/main/The%20Mandalorian%20(2019)/Season%2003/S03E07.jpg}

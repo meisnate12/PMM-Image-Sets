@@ -4,6 +4,17 @@ americandad:
       "American Dad! (2005)":
         seasons:
           20: {tpdb_poster: null, url_poster: null}
+familyguy:
+  agon024:
+    shows:
+      "Family Guy (1999)":
+        seasons:
+          22: {tpdb_poster: null, url_poster: null}
+  tfbone:
+    shows:
+      "Family Guy (1999)":
+        seasons:
+          22: {tpdb_poster: null, url_poster: null}
 love_lucy:
   leburn:
     shows:
@@ -11,3 +22,22 @@ love_lucy:
   cmdrriker:
     shows:
       "The Lucy–Desi Comedy Hour (1957)": {tpdb_poster: null, url_poster: null}
+mandalorian:
+  olivier:
+    shows:
+      "The Mandalorian (2019)":
+        seasons:
+          3:
+            episodes:
+              8: {tpdb_poster: null, url_poster: null}
+simpsons:
+  agon024:
+    shows:
+      "The Simpsons (1989)":
+        seasons:
+          35: {tpdb_poster: null, url_poster: null}
+  silvz:
+    shows:
+      "The Simpsons (1989)":
+        seasons:
+          35: {tpdb_poster: null, url_poster: null}
