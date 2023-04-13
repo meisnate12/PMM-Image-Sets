@@ -47,6 +47,13 @@ robot_chicken:
     collections:
       "Robot Chicken: Star Wars Collection": {tpdb_poster: null, url_poster: null}
 starwars:
+  olivier:
+    shows:
+      "The Mandalorian (2019)":
+        seasons:
+          3:
+            episodes:
+              8: {tpdb_poster: null, url_poster: null}
   rhj:
     movies:
       "The Star Wars Holiday Special (1978)": {tpdb_poster: null, url_poster: null}

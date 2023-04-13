@@ -222,15 +222,6 @@ sections:
     default_image: "The Magicians (2015)"
     shows:
       "The Magicians (2015)": 299139
-  mandalorian:
-    title: The Mandalorian
-    builders:
-      tvdb_show: 361753
-    styles:
-      olivier:
-    default_image: "The Mandalorian (2019)"
-    shows:
-      "The Mandalorian (2019)": 361753
   married:
     title: Married... with Children
     builders:
