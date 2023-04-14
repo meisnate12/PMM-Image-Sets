@@ -5,6 +5,6 @@ info:
   style_link: 80057
   complete: true
 collections:
-  "Aquaman Collection": {tpdb_poster: 131549}
+  "Aquaman Collection": {tpdb_poster: 349724}
 movies:
-  "Aquaman (2018)": {tpdb_poster: 128652}
+  "Aquaman (2018)": {tpdb_poster: 349725}

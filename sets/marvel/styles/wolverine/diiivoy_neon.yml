@@ -9,5 +9,5 @@ collections:
 movies:
   "X-Men Origins: Wolverine (2009)": {tpdb_poster: 143894}
   "The Wolverine (2013)": {tpdb_poster: 143895}
-  "Logan (2017)": {tpdb_poster: 143896}
   "Logan (2017) (Noir)": {tpdb_poster: 143897}
+  "Logan (2017)": {tpdb_poster: 143896}

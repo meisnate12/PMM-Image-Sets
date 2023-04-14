@@ -3,6 +3,7 @@ info:
   style_image: 143888
   style_key: diiivoy_neon
   style_link: 78444
+  complete: true
 collections:
   "X-Men Collection": {tpdb_poster: 143883}
 movies:
@@ -10,8 +11,8 @@ movies:
   "X2 (2003)": {tpdb_poster: 143885}
   "X-Men: The Last Stand (2006)": {tpdb_poster: 143886}
   "X-Men: First Class (2011)": {tpdb_poster: 143887}
-  "X-Men: Days of Future Past (2014)": {tpdb_poster: 143888}
   "X-Men: Days of Future Past (2014) (Rogue)": {tpdb_poster: 143892}
+  "X-Men: Days of Future Past (2014)": {tpdb_poster: 143888}
   "X-Men: Apocalypse (2016)": {tpdb_poster: 143889}
   "Dark Phoenix (2019)": {tpdb_poster: 143890}
   "The New Mutants (2020)": {tpdb_poster: 143891}
