@@ -332,6 +332,9 @@ sections:
       "Spider-Man: No Way Home (2021) (Fun Stuff)":
         mapping_id: 634649
         edition_contains: Fun Stuff
+      "Spider-Man: No Way Home (2021) (Extended)":
+        mapping_id: 634649
+        edition_contains: Extended
       "Spider-Man: No Way Home (2021)":
         mapping_id: 634649
         blank_edition: true
