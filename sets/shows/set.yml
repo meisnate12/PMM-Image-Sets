@@ -237,6 +237,8 @@ sections:
     builders:
       tvdb_show: 73244
     styles:
+      dm247:
+      pmbasehore:
     default_image: "The Office (2005)"
     shows:
       "The Office (2005)": 73244

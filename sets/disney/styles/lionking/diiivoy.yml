@@ -15,6 +15,7 @@ shows:
   "Timon & Pumbaa (1995)":
     seasons:
       0: {tpdb_poster: 46466}
+      1: {tpdb_poster: 46467}
       2: {tpdb_poster: 46468}
       3: {tpdb_poster: 46469}
       4: {tpdb_poster: 46470}
