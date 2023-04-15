@@ -1,0 +1,11 @@
+info:
+  style_author: Aloha_Alona
+  style_image: 117327
+  style_key: aloha_alona
+  style_link: 73708
+  complete: true
+collections:
+  "Addams Family Collection": {tpdb_poster: 117325}
+movies:
+  "The Addams Family (1991)": {tpdb_poster: 117326}
+  "Addams Family Values (1993)": {tpdb_poster: 117327}

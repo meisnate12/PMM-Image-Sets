@@ -1,0 +1,9 @@
+info:
+  style_author: DIIIVOY
+  style_image: 265428
+  style_key: diiivoy
+  style_link: 30373
+  complete: true
+movies:
+  "Pinocchio (1940)": {tpdb_poster: 265428}
+  "Pinocchio (2022)": {tpdb_poster: 265427}

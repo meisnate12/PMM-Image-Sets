@@ -3,6 +3,7 @@ sections:
     title: 101 Dalmatians (Animated)
     builders:
       tmdb_collection: 100693
+      tmdb_movie: 11674, 10481, 337404
     styles:
       agon024:
       dannybeaton:
@@ -17,11 +18,15 @@ sections:
       - "101 Dalmatians (Animated)"
     movies:
       "One Hundred and One Dalmatians (1961)": 12230
+      "101 Dalmatians (1996)": 11674
+      "102 Dalmatians (2000)": 10481
       "101 Dalmatians II: Patch's London Adventure (2002)": 13654
+      "Cruella (2021)": 337404
   aladdin:
     title: Aladdin
     builders:
       tmdb_collection: 86027
+      tmdb_movie: 420817
       tvdb_show: 73981
     styles:
       agon024:
@@ -39,6 +44,7 @@ sections:
       "Aladdin (1992)": 812
       "The Return of Jafar (1994)": 15969
       "Aladdin and the King of Thieves (1996)": 11238
+      "Aladdin (2019)": 420817
     shows:
       "Aladdin (1994)": 73981
   atlantis:
@@ -83,6 +89,7 @@ sections:
     title: Beauty and the Beast
     builders:
       tmdb_collection: 153010
+      tmdb_movie: 321612
     styles:
       agon024:
       dannybeaton:
@@ -99,6 +106,7 @@ sections:
       "Beauty and the Beast (1991)": 10020
       "Beauty and the Beast: The Enchanted Christmas (1997)": 13313
       "Belle's Magical World (1998)": 20235
+      "Beauty and the Beast (2017)": 321612
   bighero6:
     title: Big Hero 6
     builders:
@@ -179,6 +187,7 @@ sections:
     title: Cinderella
     builders:
       tmdb_collection: 55419
+      tmdb_movie: 150689
     styles:
       agon024:
       dannybeaton:
@@ -195,6 +204,7 @@ sections:
       "Cinderella (1950)": 11224
       "Cinderella II: Dreams Come True (2002)": 14128
       "Cinderella III: A Twist in Time (2007)": 16119
+      "Cinderella (2015)": 150689
   hercules:
     title: Disney's Hercules
     builders:
@@ -344,6 +354,7 @@ sections:
     title: The Jungle Book
     builders:
       tmdb_collection: 97459
+      tmdb_movie: 278927, 10714
       tvdb_show: 73717
     styles:
       agon024:
@@ -361,13 +372,16 @@ sections:
       - "The Jungle Book"
     movies:
       "The Jungle Book (1967)": 9325
+      "The Jungle Book (1994)": 10714
       "The Jungle Book 2 (2003)": 14873
+      "The Jungle Book (2016)": 278927
     shows:
       "Jungle Cubs (1996)": 73717
   ladytramp:
     title: Lady and the Tramp
     builders:
       tmdb_collection: 97460
+      tmdb_movie: 512895
     styles:
       agon024:
       dannybeaton:
@@ -383,6 +397,7 @@ sections:
     movies:
       "Lady and the Tramp (1955)": 10340
       "Lady and the Tramp II: Scamp's Adventure (2001)": 18269
+      "Lady and the Tramp (2019)": 512895
   lilostitch:
     title: Lilo & Stitch
     builders:
@@ -413,6 +428,7 @@ sections:
     title: The Lion King
     builders:
       tmdb_collection: 94032
+      tmdb_movie: 420818
       tvdb_show: 70559, 282756          # diiivoy https://theposterdb.com/set/29139 & https://theposterdb.com/set/29138
     styles:
       agon024:
@@ -432,6 +448,7 @@ sections:
       "The Lion King (1994)": 8587
       "The Lion King II: Simba's Pride (1998)": 9732
       "The Lion King 1½ (2004)": 11430
+      "The Lion King (2019)": 420818
     shows:
       "Timon & Pumbaa (1995)": 70559
       "The Lion Guard (2016)": 282756
@@ -479,6 +496,7 @@ sections:
     title: Mulan
     builders:
       tmdb_collection: 87236
+      tmdb_movie: 337401
     styles:
       agon024:
       dannybeaton:
@@ -494,6 +512,7 @@ sections:
     movies:
       "Mulan (1998)": 10674
       "Mulan II (2004)": 12242
+      "Mulan (2020)": 337401
   peterpan:
     title: Peter Pan
     builders:
@@ -513,6 +532,22 @@ sections:
     movies:
       "Peter Pan (1953)": 10693
       "Return to Never Land (2002)": 16690
+  pinocchio:
+    title: Pinocchio
+    builders:
+      tmdb_movie: 532639, 10895
+    styles:
+      agon024:
+      dannybeaton:
+      diiivoy:
+      diiivoy_neon:
+      faufan:
+      rhj:
+      rhj2:
+    default_image: "Pinocchio (1940)"
+    movies:
+      "Pinocchio (1940)": 10895
+      "Pinocchio (2022)": 532639
   planes:
     title: Planes
     builders:
@@ -630,7 +665,9 @@ sections:
     title: Walt Disney Animation Studios
     builders:
       tmdb_movie: 408, 11360, 20343, 46929, 13757, 13465, 12092, 10882, 9078, 10112,
-        11886, 9016, 13700, 9982, 9904, 1267, 10198, 568124, 527774, 877269
+        11886, 9016, 13700, 9982, 9904, 1267, 10198, 568124, 527774, 877269, 329996,
+        451048
+      tmdb_collection: 261307, 531331
     styles:
       agon024:
       dannybeaton:
@@ -642,6 +679,10 @@ sections:
     default_image: "Snow White and the Seven Dwarfs (1937)"
     collections:
       "Disney Animation Studios": []
+      "Alice in Wonderland Collection":
+      - "Alice in Wonderland"
+      "Maleficent Collection":
+      - "Maleficent"
     movies:
       "Snow White and the Seven Dwarfs (1937)": 408
       "Dumbo (1941)": 11360
@@ -660,8 +701,14 @@ sections:
       "The Wild (2006)": 9904
       "Meet the Robinsons (2007)": 1267
       "The Princess and the Frog (2009)": 10198
+      "Alice in Wonderland (2010)": 12155
+      "Maleficent (2014)": 102651
+      "Alice Through the Looking Glass (2016)": 241259
+      "Dumbo (2019)": 329996
+      "Maleficent: Mistress of Evil (2019)": 420809
       "Encanto (2021)": 568124
       "Raya and the Last Dragon (2021)": 527774
+      "Jungle Cruise (2021)": 451048
       "Strange World (2022)": 877269
   winnie:
     title: Winnie the Pooh

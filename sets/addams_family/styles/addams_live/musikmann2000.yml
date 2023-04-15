@@ -1,0 +1,11 @@
+info:
+  style_author: musikmann2000
+  style_image: 173456
+  style_key: musikmann2000
+  style_link: 98137
+  complete: true
+collections:
+  "Addams Family Collection": {tpdb_poster: 160785}
+movies:
+  "The Addams Family (1991)": {tpdb_poster: 173455}
+  "Addams Family Values (1993)": {tpdb_poster: 173456}

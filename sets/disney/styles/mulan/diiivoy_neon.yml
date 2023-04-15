@@ -9,3 +9,4 @@ collections:
 movies:
   "Mulan (1998)": {tpdb_poster: 156209}
   "Mulan II (2004)": {tpdb_poster: 156574}
+  "Mulan (2020)": {tpdb_poster: 46224}

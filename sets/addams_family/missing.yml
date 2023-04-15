@@ -1,0 +1,35 @@
+addams_animated:
+  diiivoy_neon:
+    info:
+      style_image:
+  diiivoy2:
+    info:
+      style_image:
+  diiivoy:
+    info:
+      style_image:
+    collections:
+      "The Addams Family (Animated) Collection": {tpdb_poster: null, url_poster: null}
+  cmdrriker:
+    info:
+      style_image:
+  musikmann2000:
+    info:
+      style_image:
+  aloha_alona:
+    info:
+      style_image:
+    collections:
+      "The Addams Family (Animated) Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Addams Family 2 (2021)": {tpdb_poster: null, url_poster: null}
+addams_live:
+  diiivoy:
+    info:
+      style_image:
+  musikmann2000:
+    info:
+      style_image:
+  aloha_alona:
+    info:
+      style_image:
