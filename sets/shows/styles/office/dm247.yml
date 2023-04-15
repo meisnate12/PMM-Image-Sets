@@ -1,0 +1,21 @@
+info:
+  style_author: dm247
+  style_image: 135984
+  style_key: dm247
+  style_link: 84597
+  complete: true
+  track_seasons: true
+shows:
+  "The Office (2005)":
+    tpdb_poster: 135984
+    seasons:
+      0: {tpdb_poster: 135985}
+      1: {tpdb_poster: 135986}
+      2: {tpdb_poster: 135987}
+      3: {tpdb_poster: 135988}
+      4: {tpdb_poster: 135989}
+      5: {tpdb_poster: 135990}
+      6: {tpdb_poster: 135991}
+      7: {tpdb_poster: 135992}
+      8: {tpdb_poster: 135993}
+      9: {tpdb_poster: 135994}
