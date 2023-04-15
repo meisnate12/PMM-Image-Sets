@@ -6,6 +6,7 @@ info:
   complete: true
 collections:
   "Toy Story Collection": {tpdb_poster: 148077}
+  "Toy Story Shorts": {tpdb_poster: 148100}
 movies:
   "Toy Story (1995)": {tpdb_poster: 148078}
   "Toy Story 2 (1999)": {tpdb_poster: 148079}

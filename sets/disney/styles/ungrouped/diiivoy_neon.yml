@@ -4,6 +4,9 @@ info:
   style_key: diiivoy_neon
   style_link: 93857
   complete: true
+collections:
+  "Alice in Wonderland Collection": {tpdb_poster: 159379}
+  "Maleficent Collection": {tpdb_poster: 97421}
 movies:
   "Snow White and the Seven Dwarfs (1937)": {tpdb_poster: 156173}
   "Dumbo (1941)": {tpdb_poster: 156176}
@@ -22,6 +25,12 @@ movies:
   "The Wild (2006)": {tpdb_poster: 152841}
   "Meet the Robinsons (2007)": {tpdb_poster: 152830}
   "The Princess and the Frog (2009)": {tpdb_poster: 156218}
+  "Alice in Wonderland (2010)": {tpdb_poster: 159364}
+  "Maleficent (2014)": {tpdb_poster: 159365}
+  "Alice Through the Looking Glass (2016)": {tpdb_poster: 159368}
+  "Dumbo (2019)": {tpdb_poster: 159371}
+  "Maleficent: Mistress of Evil (2019)": {tpdb_poster: 159374}
   "Encanto (2021)": {tpdb_poster: 201248}
   "Raya and the Last Dragon (2021)": {tpdb_poster: 152835}
+  "Jungle Cruise (2021)": {tpdb_poster: 167262}
   "Strange World (2022)": {tpdb_poster: 305812}

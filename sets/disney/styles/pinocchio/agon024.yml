@@ -1,0 +1,9 @@
+info:
+  style_author: agon024
+  style_image: 279407
+  style_key: agon024
+  style_link: 166303
+  complete: true
+movies:
+  "Pinocchio (1940)": {tpdb_poster: 279407}
+  "Pinocchio (2022)": {tpdb_poster: 264395}

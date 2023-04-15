@@ -11,6 +11,7 @@ movies:
   "Aladdin (1992)": {tpdb_poster: 43735}
   "The Return of Jafar (1994)": {tpdb_poster: 43736}
   "Aladdin and the King of Thieves (1996)": {tpdb_poster: 43737}
+  "Aladdin (2019)": {tpdb_poster: 44902}
 shows:
   "Aladdin (1994)":
     tpdb_poster: 43738

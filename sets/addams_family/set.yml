@@ -1,0 +1,36 @@
+sections:
+  addams_animated:
+    title: Addams Family Animated
+    builders:
+      tmdb_collection: 750822
+    styles:
+      diiivoy_neon:
+      diiivoy2:
+      diiivoy:
+      cmdrriker:
+      musikmann2000:
+      aloha_alona:
+    default_image: "The Addams Family (2019)"
+    collections:
+      "The Addams Family (Animated) Collection":
+      - "Addams Family (Animated)"
+      - "Addams Family (Animated) Collection"
+      - "The Addams Family (Animated)"
+    movies:
+      "The Addams Family (2019)": 481084
+      "The Addams Family 2 (2021)": 639721
+  addams_live:
+    title: Addams Family Live
+    builders:
+      tmdb_collection: 11716
+    styles:
+      diiivoy:
+      musikmann2000:
+      aloha_alona:
+    default_image: "Addams Family Values (1993)"
+    collections:
+      "Addams Family Collection":
+      - "Addams Family"
+    movies:
+      "The Addams Family (1991)": 2907
+      "Addams Family Values (1993)": 2758

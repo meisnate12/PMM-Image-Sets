@@ -8,22 +8,34 @@
     collections:
       "101 Dalmatians (Animated) Collection": {tpdb_poster: null, url_poster: null}
     movies:
+      "101 Dalmatians (1996)": {tpdb_poster: null, url_poster: null}
+      "102 Dalmatians (2000)": {tpdb_poster: null, url_poster: null}
       "101 Dalmatians II: Patch's London Adventure (2002)": {tpdb_poster: null, url_poster: null}
+      "Cruella (2021)": {tpdb_poster: null, url_poster: null}
   faufan:
     collections:
       "101 Dalmatians (Animated) Collection": {tpdb_poster: null, url_poster: null}
     movies:
+      "101 Dalmatians (1996)": {tpdb_poster: null, url_poster: null}
+      "102 Dalmatians (2000)": {tpdb_poster: null, url_poster: null}
       "101 Dalmatians II: Patch's London Adventure (2002)": {tpdb_poster: null, url_poster: null}
+      "Cruella (2021)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "101 Dalmatians (Animated) Collection": {tpdb_poster: null, url_poster: null}
     movies:
+      "101 Dalmatians (1996)": {tpdb_poster: null, url_poster: null}
+      "102 Dalmatians (2000)": {tpdb_poster: null, url_poster: null}
       "101 Dalmatians II: Patch's London Adventure (2002)": {tpdb_poster: null, url_poster: null}
+      "Cruella (2021)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "101 Dalmatians (Animated) Collection": {tpdb_poster: null, url_poster: null}
     movies:
+      "101 Dalmatians (1996)": {tpdb_poster: null, url_poster: null}
+      "102 Dalmatians (2000)": {tpdb_poster: null, url_poster: null}
       "101 Dalmatians II: Patch's London Adventure (2002)": {tpdb_poster: null, url_poster: null}
+      "Cruella (2021)": {tpdb_poster: null, url_poster: null}
 aladdin:
   agon024:
     collections:
@@ -39,6 +51,7 @@ aladdin:
     movies:
       "The Return of Jafar (1994)": {tpdb_poster: null, url_poster: null}
       "Aladdin and the King of Thieves (1996)": {tpdb_poster: null, url_poster: null}
+      "Aladdin (2019)": {tpdb_poster: null, url_poster: null}
     shows:
       "Aladdin (1994)": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
@@ -52,6 +65,7 @@ aladdin:
     movies:
       "The Return of Jafar (1994)": {tpdb_poster: null, url_poster: null}
       "Aladdin and the King of Thieves (1996)": {tpdb_poster: null, url_poster: null}
+      "Aladdin (2019)": {tpdb_poster: null, url_poster: null}
     shows:
       "Aladdin (1994)": {tpdb_poster: null, url_poster: null}
   rhj:
@@ -60,6 +74,7 @@ aladdin:
     movies:
       "The Return of Jafar (1994)": {tpdb_poster: null, url_poster: null}
       "Aladdin and the King of Thieves (1996)": {tpdb_poster: null, url_poster: null}
+      "Aladdin (2019)": {tpdb_poster: null, url_poster: null}
     shows:
       "Aladdin (1994)": {tpdb_poster: null, url_poster: null}
   rhj2:
@@ -68,6 +83,7 @@ aladdin:
     movies:
       "The Return of Jafar (1994)": {tpdb_poster: null, url_poster: null}
       "Aladdin and the King of Thieves (1996)": {tpdb_poster: null, url_poster: null}
+      "Aladdin (2019)": {tpdb_poster: null, url_poster: null}
     shows:
       "Aladdin (1994)": {tpdb_poster: null, url_poster: null}
 atlantis:
@@ -137,6 +153,7 @@ beautybeast:
       "Beauty and the Beast: The Enchanted Christmas (1997)": {tpdb_poster: null,
         url_poster: null}
       "Belle's Magical World (1998)": {tpdb_poster: null, url_poster: null}
+      "Beauty and the Beast (2017)": {tpdb_poster: null, url_poster: null}
   faufan:
     collections:
       "Beauty and the Beast Collection": {tpdb_poster: null, url_poster: null}
@@ -144,6 +161,7 @@ beautybeast:
       "Beauty and the Beast: The Enchanted Christmas (1997)": {tpdb_poster: null,
         url_poster: null}
       "Belle's Magical World (1998)": {tpdb_poster: null, url_poster: null}
+      "Beauty and the Beast (2017)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Beauty and the Beast Collection": {tpdb_poster: null, url_poster: null}
@@ -151,6 +169,7 @@ beautybeast:
       "Beauty and the Beast: The Enchanted Christmas (1997)": {tpdb_poster: null,
         url_poster: null}
       "Belle's Magical World (1998)": {tpdb_poster: null, url_poster: null}
+      "Beauty and the Beast (2017)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Beauty and the Beast Collection": {tpdb_poster: null, url_poster: null}
@@ -158,6 +177,7 @@ beautybeast:
       "Beauty and the Beast: The Enchanted Christmas (1997)": {tpdb_poster: null,
         url_poster: null}
       "Belle's Magical World (1998)": {tpdb_poster: null, url_poster: null}
+      "Beauty and the Beast (2017)": {tpdb_poster: null, url_poster: null}
 bighero6:
   agon024:
     shows:
@@ -284,24 +304,28 @@ cinderella:
     movies:
       "Cinderella II: Dreams Come True (2002)": {tpdb_poster: null, url_poster: null}
       "Cinderella III: A Twist in Time (2007)": {tpdb_poster: null, url_poster: null}
+      "Cinderella (2015)": {tpdb_poster: null, url_poster: null}
   faufan:
     collections:
       "Cinderella Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Cinderella II: Dreams Come True (2002)": {tpdb_poster: null, url_poster: null}
       "Cinderella III: A Twist in Time (2007)": {tpdb_poster: null, url_poster: null}
+      "Cinderella (2015)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Cinderella Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Cinderella II: Dreams Come True (2002)": {tpdb_poster: null, url_poster: null}
       "Cinderella III: A Twist in Time (2007)": {tpdb_poster: null, url_poster: null}
+      "Cinderella (2015)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Cinderella Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Cinderella II: Dreams Come True (2002)": {tpdb_poster: null, url_poster: null}
       "Cinderella III: A Twist in Time (2007)": {tpdb_poster: null, url_poster: null}
+      "Cinderella (2015)": {tpdb_poster: null, url_poster: null}
 hercules:
   agon024:
     collections:
@@ -519,7 +543,9 @@ junglebook:
     collections:
       "The Jungle Book Collection": {tpdb_poster: null, url_poster: null}
     movies:
+      "The Jungle Book (1994)": {tpdb_poster: null, url_poster: null}
       "The Jungle Book 2 (2003)": {tpdb_poster: null, url_poster: null}
+      "The Jungle Book (2016)": {tpdb_poster: null, url_poster: null}
     shows:
       "Jungle Cubs (1996)": {tpdb_poster: null, url_poster: null}
   diiivoy:
@@ -533,21 +559,27 @@ junglebook:
     collections:
       "The Jungle Book Collection": {tpdb_poster: null, url_poster: null}
     movies:
+      "The Jungle Book (1994)": {tpdb_poster: null, url_poster: null}
       "The Jungle Book 2 (2003)": {tpdb_poster: null, url_poster: null}
+      "The Jungle Book (2016)": {tpdb_poster: null, url_poster: null}
     shows:
       "Jungle Cubs (1996)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "The Jungle Book Collection": {tpdb_poster: null, url_poster: null}
     movies:
+      "The Jungle Book (1994)": {tpdb_poster: null, url_poster: null}
       "The Jungle Book 2 (2003)": {tpdb_poster: null, url_poster: null}
+      "The Jungle Book (2016)": {tpdb_poster: null, url_poster: null}
     shows:
       "Jungle Cubs (1996)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "The Jungle Book Collection": {tpdb_poster: null, url_poster: null}
     movies:
+      "The Jungle Book (1994)": {tpdb_poster: null, url_poster: null}
       "The Jungle Book 2 (2003)": {tpdb_poster: null, url_poster: null}
+      "The Jungle Book (2016)": {tpdb_poster: null, url_poster: null}
     shows:
       "Jungle Cubs (1996)": {tpdb_poster: null, url_poster: null}
 ladytramp:
@@ -561,21 +593,25 @@ ladytramp:
       "Lady and the Tramp Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Lady and the Tramp II: Scamp's Adventure (2001)": {tpdb_poster: null, url_poster: null}
+      "Lady and the Tramp (2019)": {tpdb_poster: null, url_poster: null}
   faufan:
     collections:
       "Lady and the Tramp Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Lady and the Tramp II: Scamp's Adventure (2001)": {tpdb_poster: null, url_poster: null}
+      "Lady and the Tramp (2019)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Lady and the Tramp Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Lady and the Tramp II: Scamp's Adventure (2001)": {tpdb_poster: null, url_poster: null}
+      "Lady and the Tramp (2019)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Lady and the Tramp Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Lady and the Tramp II: Scamp's Adventure (2001)": {tpdb_poster: null, url_poster: null}
+      "Lady and the Tramp (2019)": {tpdb_poster: null, url_poster: null}
 lilostitch:
   agon024:
     collections:
@@ -653,6 +689,7 @@ lionking:
     movies:
       "The Lion King II: Simba's Pride (1998)": {tpdb_poster: null, url_poster: null}
       "The Lion King 1½ (2004)": {tpdb_poster: null, url_poster: null}
+      "The Lion King (2019)": {tpdb_poster: null, url_poster: null}
     shows:
       "Timon & Pumbaa (1995)": {tpdb_poster: null, url_poster: null}
       "The Lion Guard (2016)": {tpdb_poster: null, url_poster: null}
@@ -669,6 +706,7 @@ lionking:
     movies:
       "The Lion King II: Simba's Pride (1998)": {tpdb_poster: null, url_poster: null}
       "The Lion King 1½ (2004)": {tpdb_poster: null, url_poster: null}
+      "The Lion King (2019)": {tpdb_poster: null, url_poster: null}
     shows:
       "Timon & Pumbaa (1995)": {tpdb_poster: null, url_poster: null}
       "The Lion Guard (2016)": {tpdb_poster: null, url_poster: null}
@@ -678,6 +716,7 @@ lionking:
     movies:
       "The Lion King II: Simba's Pride (1998)": {tpdb_poster: null, url_poster: null}
       "The Lion King 1½ (2004)": {tpdb_poster: null, url_poster: null}
+      "The Lion King (2019)": {tpdb_poster: null, url_poster: null}
     shows:
       "Timon & Pumbaa (1995)": {tpdb_poster: null, url_poster: null}
       "The Lion Guard (2016)": {tpdb_poster: null, url_poster: null}
@@ -687,6 +726,7 @@ lionking:
     movies:
       "The Lion King II: Simba's Pride (1998)": {tpdb_poster: null, url_poster: null}
       "The Lion King 1½ (2004)": {tpdb_poster: null, url_poster: null}
+      "The Lion King (2019)": {tpdb_poster: null, url_poster: null}
     shows:
       "Timon & Pumbaa (1995)": {tpdb_poster: null, url_poster: null}
       "The Lion Guard (2016)": {tpdb_poster: null, url_poster: null}
@@ -745,21 +785,25 @@ mulan:
       "Mulan Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Mulan II (2004)": {tpdb_poster: null, url_poster: null}
+      "Mulan (2020)": {tpdb_poster: null, url_poster: null}
   faufan:
     collections:
       "Mulan Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Mulan II (2004)": {tpdb_poster: null, url_poster: null}
+      "Mulan (2020)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Mulan Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Mulan II (2004)": {tpdb_poster: null, url_poster: null}
+      "Mulan (2020)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Mulan Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Mulan II (2004)": {tpdb_poster: null, url_poster: null}
+      "Mulan (2020)": {tpdb_poster: null, url_poster: null}
 peterpan:
   agon024:
     collections:
@@ -786,6 +830,19 @@ peterpan:
       "Peter Pan Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Return to Never Land (2002)": {tpdb_poster: null, url_poster: null}
+pinocchio:
+  dannybeaton:
+    movies:
+      "Pinocchio (2022)": {tpdb_poster: null, url_poster: null}
+  faufan:
+    movies:
+      "Pinocchio (2022)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    movies:
+      "Pinocchio (2022)": {tpdb_poster: null, url_poster: null}
+  rhj2:
+    movies:
+      "Pinocchio (2022)": {tpdb_poster: null, url_poster: null}
 pocahontas:
   dannybeaton:
     collections:
@@ -905,39 +962,76 @@ ungrouped:
   agon024:
     collections:
       "Disney Animation Studios": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland Collection": {tpdb_poster: null, url_poster: null}
+      "Maleficent Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "The Wild (2006)": {tpdb_poster: null, url_poster: null}
+      "Jungle Cruise (2021)": {tpdb_poster: null, url_poster: null}
   dannybeaton:
     collections:
       "Disney Animation Studios": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland Collection": {tpdb_poster: null, url_poster: null}
+      "Maleficent Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "The Wild (2006)": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland (2010)": {tpdb_poster: null, url_poster: null}
+      "Maleficent (2014)": {tpdb_poster: null, url_poster: null}
+      "Alice Through the Looking Glass (2016)": {tpdb_poster: null, url_poster: null}
+      "Dumbo (2019)": {tpdb_poster: null, url_poster: null}
+      "Maleficent: Mistress of Evil (2019)": {tpdb_poster: null, url_poster: null}
       "Encanto (2021)": {tpdb_poster: null, url_poster: null}
+      "Jungle Cruise (2021)": {tpdb_poster: null, url_poster: null}
       "Strange World (2022)": {tpdb_poster: null, url_poster: null}
   diiivoy:
     collections:
       "Disney Animation Studios": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland Collection": {tpdb_poster: null, url_poster: null}
+      "Maleficent Collection": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     collections:
       "Disney Animation Studios": {tpdb_poster: null, url_poster: null}
   faufan:
     collections:
       "Disney Animation Studios": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland Collection": {tpdb_poster: null, url_poster: null}
+      "Maleficent Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Home on the Range (2004)": {tpdb_poster: null, url_poster: null}
       "The Wild (2006)": {tpdb_poster: null, url_poster: null}
       "Meet the Robinsons (2007)": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland (2010)": {tpdb_poster: null, url_poster: null}
+      "Maleficent (2014)": {tpdb_poster: null, url_poster: null}
+      "Alice Through the Looking Glass (2016)": {tpdb_poster: null, url_poster: null}
+      "Dumbo (2019)": {tpdb_poster: null, url_poster: null}
+      "Maleficent: Mistress of Evil (2019)": {tpdb_poster: null, url_poster: null}
+      "Jungle Cruise (2021)": {tpdb_poster: null, url_poster: null}
       "Strange World (2022)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Disney Animation Studios": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland Collection": {tpdb_poster: null, url_poster: null}
+      "Maleficent Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "The Wild (2006)": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland (2010)": {tpdb_poster: null, url_poster: null}
+      "Maleficent (2014)": {tpdb_poster: null, url_poster: null}
+      "Alice Through the Looking Glass (2016)": {tpdb_poster: null, url_poster: null}
+      "Dumbo (2019)": {tpdb_poster: null, url_poster: null}
+      "Maleficent: Mistress of Evil (2019)": {tpdb_poster: null, url_poster: null}
+      "Jungle Cruise (2021)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Disney Animation Studios": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland Collection": {tpdb_poster: null, url_poster: null}
+      "Maleficent Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "The Wild (2006)": {tpdb_poster: null, url_poster: null}
+      "Alice in Wonderland (2010)": {tpdb_poster: null, url_poster: null}
+      "Maleficent (2014)": {tpdb_poster: null, url_poster: null}
+      "Alice Through the Looking Glass (2016)": {tpdb_poster: null, url_poster: null}
+      "Dumbo (2019)": {tpdb_poster: null, url_poster: null}
+      "Maleficent: Mistress of Evil (2019)": {tpdb_poster: null, url_poster: null}
+      "Jungle Cruise (2021)": {tpdb_poster: null, url_poster: null}
 winnie:
   agon024:
     movies:

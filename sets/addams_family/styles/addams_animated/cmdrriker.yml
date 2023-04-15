@@ -1,0 +1,11 @@
+info:
+  style_author: CmdrRiker
+  style_image: 179294
+  style_key: cmdrriker
+  style_link: 109023
+  complete: true
+collections:
+  "The Addams Family (Animated) Collection": {tpdb_poster: 179293}
+movies:
+  "The Addams Family (2019)": {tpdb_poster: 179294}
+  "The Addams Family 2 (2021)": {tpdb_poster: 179295}
