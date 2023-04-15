@@ -1,0 +1,21 @@
+info:
+  style_author: pmbasehore
+  style_image: 50345
+  style_key: pmbasehore
+  style_link: 32166
+  complete: true
+  track_seasons: true
+shows:
+  "The Office (2005)":
+    tpdb_poster: 50345
+    seasons:
+      0: {tpdb_poster: 50346}
+      1: {tpdb_poster: 50347}
+      2: {tpdb_poster: 50348}
+      3: {tpdb_poster: 50349}
+      4: {tpdb_poster: 50350}
+      5: {tpdb_poster: 50351}
+      6: {tpdb_poster: 50352}
+      7: {tpdb_poster: 50353}
+      8: {tpdb_poster: 50354}
+      9: {tpdb_poster: 50355}
