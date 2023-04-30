@@ -55,7 +55,7 @@ starwars:
     shows:
       "Star Wars: Droids (1985)": {tpdb_poster: null, url_poster: null, seasons: {
           1: {tpdb_poster: null, url_poster: null}}}
-      "Star Wars: Ewoks (1985)": {tpdb_poster: null, url_poster: null, seasons: {
+      "Star Wars Vintage: Ewoks (1985)": {tpdb_poster: null, url_poster: null, seasons: {
           1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}
       "Star Wars: Clone Wars (2003)": {tpdb_poster: null, url_poster: null, seasons: {
           1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null},
@@ -120,7 +120,7 @@ starwars:
     shows:
       "Star Wars: Droids (1985)": {tpdb_poster: null, url_poster: null, seasons: {
           1: {tpdb_poster: null, url_poster: null}}}
-      "Star Wars: Ewoks (1985)": {tpdb_poster: null, url_poster: null, seasons: {
+      "Star Wars Vintage: Ewoks (1985)": {tpdb_poster: null, url_poster: null, seasons: {
           1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}
       "Star Wars: Clone Wars (2003)": {tpdb_poster: null, url_poster: null, seasons: {
           1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null},
@@ -179,7 +179,7 @@ starwars:
       "Star Wars Rebels: Spark of Rebellion (2014)": {tpdb_poster: null, url_poster: null}
       "Star Wars Rebels: The Siege of Lothal (2015)": {tpdb_poster: null, url_poster: null}
     shows:
-      "Star Wars: Ewoks (1985)":
+      "Star Wars Vintage: Ewoks (1985)":
         seasons:
           1: {tpdb_poster: null, url_poster: null}
           2: {tpdb_poster: null, url_poster: null}
@@ -244,7 +244,7 @@ starwars:
               11: {tpdb_poster: null, url_poster: null}
               12: {tpdb_poster: null, url_poster: null}
               13: {tpdb_poster: null, url_poster: null}
-      "Star Wars: Ewoks (1985)":
+      "Star Wars Vintage: Ewoks (1985)":
         seasons:
           1:
             episodes:
@@ -767,7 +767,7 @@ starwars:
     shows:
       "Star Wars: Droids (1985)": {tpdb_poster: null, url_poster: null, seasons: {
           1: {tpdb_poster: null, url_poster: null}}}
-      "Star Wars: Ewoks (1985)":
+      "Star Wars Vintage: Ewoks (1985)":
         seasons:
           1: {tpdb_poster: null, url_poster: null}
           2: {tpdb_poster: null, url_poster: null}

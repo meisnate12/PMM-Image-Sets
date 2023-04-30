@@ -27,7 +27,7 @@ shows:
     seasons:
       0: {tpdb_poster: 126112}
       1: {tpdb_poster: 126113}
-  "Star Wars: Ewoks (1985)": {tpdb_poster: 124819}
+  "Star Wars Vintage: Ewoks (1985)": {tpdb_poster: 124819}
   "Star Wars: Clone Wars (2003)": {tpdb_poster: 124820}
   "Star Wars: The Clone Wars (2008)":
     tpdb_poster: 124631

@@ -22,7 +22,7 @@ movies:
   "Solo: A Star Wars Story (2018)": {tpdb_poster: 132708}
   "Star Wars: The Rise of Skywalker (2019)": {tpdb_poster: 132709}
 shows:
-  "Star Wars: Ewoks (1985)": {tpdb_poster: 133262}
+  "Star Wars Vintage: Ewoks (1985)": {tpdb_poster: 133262}
   "Star Wars: The Clone Wars (2008)":
     tpdb_poster: 132710
     seasons:
