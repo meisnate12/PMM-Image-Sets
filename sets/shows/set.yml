@@ -242,6 +242,17 @@ sections:
     default_image: "The Office (2005)"
     shows:
       "The Office (2005)": 73244
+  once_upon:
+    title: Once Upon a Time (2011)
+    builders:
+      tvdb_show: 248835
+    styles:
+      aloha_alona:
+      fwlolx:
+      evremonde:
+    default_image: "Once Upon a Time (2011)"
+    shows:
+      "Once Upon a Time (2011)": 248835
   parks:
     title: Parks and Recreation
     builders:

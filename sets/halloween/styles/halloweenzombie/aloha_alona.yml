@@ -1,0 +1,11 @@
+info:
+  style_author: Aloha_Alona
+  style_image: 27125
+  style_key: aloha_alona
+  style_link: 16238
+  complete: true
+collections:
+  "Halloween (Rob Zombie Series) Collection": {tpdb_poster: 27123}
+movies:
+  "Halloween (2007)": {tpdb_poster: 27124}
+  "Halloween II (2009)": {tpdb_poster: 27125}

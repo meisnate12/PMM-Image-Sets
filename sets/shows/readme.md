@@ -26,6 +26,7 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
   <li><a href="#the-magicians"><div class="images-inline-link">The Magicians<br><code>magicians</code></div></a></li>
   <li><a href="#married...-with-children"><div class="images-inline-link">Married... with Children<br><code>married</code></div></a></li>
   <li><a href="#the-office-(us)"><div class="images-inline-link">The Office (US)<br><code>office</code></div></a></li>
+  <li><a href="#once-upon-a-time-(2011)"><div class="images-inline-link">Once Upon a Time (2011)<br><code>once_upon</code></div></a></li>
   <li><a href="#parks-and-recreation"><div class="images-inline-link">Parks and Recreation<br><code>parks</code></div></a></li>
   <li><a href="#the-simpsons"><div class="images-inline-link">The Simpsons<br><code>simpsons</code></div></a></li>
   <li><a href="#south-park"><div class="images-inline-link">South Park<br><code>southpark</code></div></a></li>
@@ -709,6 +710,41 @@ This Image Set is for miscellaneous shows which do not fall into any other Image
           <a href="https://theposterdb.com/set/32166" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/shows/styles/office/pmbasehore.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>pmbasehore</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/32166" target="_blank" rel="noopener noreferrer">pmbasehore</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="once-upon-a-time-(2011)">Once Upon a Time (2011)<a class="headerlink" href="#once-upon-a-time-(2011)" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>once_upon</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/248835" target="_blank" rel="noopener noreferrer">248835</a> (<a href="https://www.themoviedb.org/tv/39272" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/19718" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/shows/styles/once_upon/aloha_alona.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>aloha_alona</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/19718" target="_blank" rel="noopener noreferrer">Aloha_Alona</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/90747" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/shows/styles/once_upon/fwlolx.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>fwlolx</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/90747" target="_blank" rel="noopener noreferrer">fwlolx</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/9048" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/shows/styles/once_upon/evremonde.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>evremonde</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/9048" target="_blank" rel="noopener noreferrer">evremonde</a><br>
         </div>
       </td>
     </tr>

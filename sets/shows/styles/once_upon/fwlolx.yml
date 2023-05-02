@@ -1,0 +1,19 @@
+info:
+  style_author: fwlolx
+  style_image: 147269
+  style_key: fwlolx
+  style_link: 90747
+  complete: true
+  track_seasons: true
+shows:
+  "Once Upon a Time (2011)":
+    tpdb_poster: 147269
+    seasons:
+      0: {tpdb_poster: 147270}
+      1: {tpdb_poster: 147271}
+      2: {tpdb_poster: 147272}
+      3: {tpdb_poster: 147273}
+      4: {tpdb_poster: 147274}
+      5: {tpdb_poster: 147275}
+      6: {tpdb_poster: 147276}
+      7: {tpdb_poster: 147277}

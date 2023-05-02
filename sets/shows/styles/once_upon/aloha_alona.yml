@@ -1,0 +1,19 @@
+info:
+  style_author: Aloha_Alona
+  style_image: 32528
+  style_key: aloha_alona
+  style_link: 19718
+  complete: true
+  track_seasons: true
+shows:
+  "Once Upon a Time (2011)":
+    tpdb_poster: 32528
+    seasons:
+      0: {tpdb_poster: 32592}
+      1: {tpdb_poster: 32529}
+      2: {tpdb_poster: 32530}
+      3: {tpdb_poster: 32531}
+      4: {tpdb_poster: 32532}
+      5: {tpdb_poster: 32533}
+      6: {tpdb_poster: 32534}
+      7: {tpdb_poster: 32535}

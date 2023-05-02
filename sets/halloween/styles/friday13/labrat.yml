@@ -1,0 +1,20 @@
+info:
+  style_author: LabRat
+  style_image:
+  style_key: labrat
+  style_link: 37512
+  complete: true
+collections:
+  "Friday the 13th Collection": {tpdb_poster: 58727}
+movies:
+  "Friday the 13th (1980)": {tpdb_poster: 58728}
+  "Friday the 13th Part 2 (1981)": {tpdb_poster: 58729}
+  "Friday the 13th Part III (1982)": {tpdb_poster: 58730}
+  "Friday the 13th: The Final Chapter (1984)": {tpdb_poster: 58731}
+  "Friday the 13th: A New Beginning (1985)": {tpdb_poster: 58732}
+  "Friday the 13th Part VI: Jason Lives (1986)": {tpdb_poster: 58733}
+  "Friday the 13th Part VII: The New Blood (1988)": {tpdb_poster: 58734}
+  "Friday the 13th Part VIII: Jason Takes Manhattan (1989)": {tpdb_poster: 58735}
+  "Jason Goes to Hell: The Final Friday (1993)": {tpdb_poster: 58736}
+  "Jason X (2001)": {tpdb_poster: 58737}
+  "Freddy vs. Jason (2003)": {tpdb_poster: 58738}
