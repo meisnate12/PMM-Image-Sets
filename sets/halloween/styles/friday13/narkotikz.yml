@@ -3,6 +3,7 @@ info:
   style_image: 8172
   style_key: narkotikz
   style_link: 3401
+  complete: true
 collections:
   "Friday the 13th Collection": {tpdb_poster: 8169}
 movies:
@@ -16,3 +17,4 @@ movies:
   "Friday the 13th Part VIII: Jason Takes Manhattan (1989)": {tpdb_poster: 8177}
   "Jason Goes to Hell: The Final Friday (1993)": {tpdb_poster: 8178}
   "Jason X (2001)": {tpdb_poster: 8179}
+  "Freddy vs. Jason (2003)": {tpdb_poster: 8387}
