@@ -20,28 +20,28 @@ This Image Set is for Movies and Shows belonging in the Halloween Genre
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/3401" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/3401" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/halloween/styles/friday13/narkotikz.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>narkotikz</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/3401" target="_blank" rel="noopener noreferrer">NarkoTikz</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/37512" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/37512" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/halloween/styles/friday13/labrat.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>labrat</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/37512" target="_blank" rel="noopener noreferrer">LabRat</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/66412" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/66412" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/halloween/styles/friday13/justaddcola.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>justaddcola</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/66412" target="_blank" rel="noopener noreferrer">justaddcola</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/16412" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/16412" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/halloween/styles/friday13/aloha_alona.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>aloha_alona</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/16412" target="_blank" rel="noopener noreferrer">Aloha_Alona</a><br>
         </div>

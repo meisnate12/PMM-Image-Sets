@@ -1,62 +1,31 @@
 friday13:
   narkotikz:
     info:
-      style_author:
       style_image:
-      style_link:
     movies:
       "Freddy vs. Jason (2003)": {tpdb_poster: null, url_poster: null}
   labrat:
     info:
-      style_author:
       style_image:
-      style_link:
-  justaddcola:
-    info:
-      style_author:
-      style_image:
-      style_link:
-  aloha_alona:
-    info:
-      style_author:
-      style_image:
-      style_link:
-halloweenzombie:
   justaddcola:
     info:
       style_image:
   aloha_alona:
-    info:
-      style_image:
-  ishalioh:
     info:
       style_image:
 halloween:
   narkotikz:
-    info:
-      style_image:
     movies:
       "Halloween Kills (2021)": {tpdb_poster: null, url_poster: null}
       "Halloween Ends (2022)": {tpdb_poster: null, url_poster: null}
-  sethgecko:
-    info:
-      style_image:
   justaddcola:
-    info:
-      style_image:
     movies:
       "Halloween 5: The Revenge of Michael Myers (1989)": {tpdb_poster: null, url_poster: null}
   aloha_alona:
-    info:
-      style_image:
     movies:
       "Halloween Kills (2021)": {tpdb_poster: null, url_poster: null}
       "Halloween Ends (2022)": {tpdb_poster: null, url_poster: null}
   labrat:
-    info:
-      style_author:
-      style_image:
-      style_link:
     movies:
       "Halloween Kills (2021)": {tpdb_poster: null, url_poster: null}
       "Halloween Ends (2022)": {tpdb_poster: null, url_poster: null}
