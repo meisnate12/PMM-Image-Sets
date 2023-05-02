@@ -1,18 +1,7 @@
 friday13:
   narkotikz:
-    info:
-      style_image:
     movies:
       "Freddy vs. Jason (2003)": {tpdb_poster: null, url_poster: null}
-  labrat:
-    info:
-      style_image:
-  justaddcola:
-    info:
-      style_image:
-  aloha_alona:
-    info:
-      style_image:
 halloween:
   narkotikz:
     movies:
