@@ -706,12 +706,17 @@ starwars:
               7: {tpdb_poster: null, url_poster: null}
               8: {tpdb_poster: null, url_poster: null}
               9: {tpdb_poster: null, url_poster: null}
-          2: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
-                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}, 3: {
-                tpdb_poster: null, url_poster: null}, 4: {tpdb_poster: null, url_poster: null},
-              5: {tpdb_poster: null, url_poster: null}, 6: {tpdb_poster: null, url_poster: null},
-              7: {tpdb_poster: null, url_poster: null}, 8: {tpdb_poster: null, url_poster: null},
-              9: {tpdb_poster: null, url_poster: null}}}
+          2:
+            episodes:
+              1: {tpdb_poster: null, url_poster: null}
+              2: {tpdb_poster: null, url_poster: null}
+              3: {tpdb_poster: null, url_poster: null}
+              4: {tpdb_poster: null, url_poster: null}
+              5: {tpdb_poster: null, url_poster: null}
+              6: {tpdb_poster: null, url_poster: null}
+              7: {tpdb_poster: null, url_poster: null}
+              8: {tpdb_poster: null, url_poster: null}
+              9: {tpdb_poster: null, url_poster: null}
       "The Book of Boba Fett (2021)":
         seasons:
           1:
