@@ -789,8 +789,5 @@ starwars:
       "Disney Gallery / Star Wars: The Mandalorian (2020)": {tpdb_poster: null, url_poster: null,
         seasons: {1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null,
             url_poster: null}}}
-      "Star Wars: Visions (2021)":
-        seasons:
-          2: {tpdb_poster: null, url_poster: null}
       "Disney Gallery / Star Wars: The Book of Boba Fett (2022)": {tpdb_poster: null,
         url_poster: null, seasons: {1: {tpdb_poster: null, url_poster: null}}}
