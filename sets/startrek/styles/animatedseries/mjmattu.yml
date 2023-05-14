@@ -6,7 +6,7 @@ info:
   complete: true
   track_seasons: true
 shows:
-  "Star Trek: The Animated Series (1973)":
+  "Star Trek (1973)":
     tpdb_poster: 335524
     seasons:
       0: {tpdb_poster: 335526}

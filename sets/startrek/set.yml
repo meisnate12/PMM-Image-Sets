@@ -30,7 +30,7 @@ sections:
       mjmattu:
     default_image: "Star Trek: The Animated Series (1973)"
     shows:
-      "Star Trek: The Animated Series (1973)": 73566
+      "Star Trek (1973)": 73566
   discovery:
     title: "Discovery (2017)"
     builders:
