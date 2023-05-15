@@ -542,10 +542,10 @@ starwars:
               6: {tpdb_poster: null, url_poster: null}
               7: {tpdb_poster: null, url_poster: null}
               8: {tpdb_poster: null, url_poster: null}
-              12: {tpdb_poster: null, url_poster: null}
               9: {tpdb_poster: null, url_poster: null}
               10: {tpdb_poster: null, url_poster: null}
               11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
               13: {tpdb_poster: null, url_poster: null}
               14: {tpdb_poster: null, url_poster: null}
               15: {tpdb_poster: null, url_poster: null}
@@ -563,11 +563,11 @@ starwars:
               9: {tpdb_poster: null, url_poster: null}
               10: {tpdb_poster: null, url_poster: null}
               11: {tpdb_poster: null, url_poster: null}
+              12: {tpdb_poster: null, url_poster: null}
               13: {tpdb_poster: null, url_poster: null}
               14: {tpdb_poster: null, url_poster: null}
               15: {tpdb_poster: null, url_poster: null}
               16: {tpdb_poster: null, url_poster: null}
-              12: {tpdb_poster: null, url_poster: null}
       "Star Wars Galaxy of Adventures (2018)": {tpdb_poster: null, url_poster: null,
         seasons: {1: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
                 url_poster: null}, 2: {tpdb_poster: null, url_poster: null}, 3: {
