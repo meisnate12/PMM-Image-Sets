@@ -92,7 +92,7 @@ starwars:
           3: {tpdb_poster: null, url_poster: null}
       "Disney Gallery / Star Wars: The Mandalorian (2020)": {tpdb_poster: null, url_poster: null,
         seasons: {1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null,
-            url_poster: null}}}
+            url_poster: null}, 3: {tpdb_poster: null, url_poster: null}}}
       "Star Wars: The Bad Batch (2021)":
         seasons:
           1: {tpdb_poster: null, url_poster: null}
@@ -157,7 +157,7 @@ starwars:
           3: {tpdb_poster: null, url_poster: null}
       "Disney Gallery / Star Wars: The Mandalorian (2020)": {tpdb_poster: null, url_poster: null,
         seasons: {1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null,
-            url_poster: null}}}
+            url_poster: null}, 3: {tpdb_poster: null, url_poster: null}}}
       "Star Wars: The Bad Batch (2021)":
         seasons:
           1: {tpdb_poster: null, url_poster: null}
@@ -203,6 +203,7 @@ starwars:
         seasons:
           1: {tpdb_poster: null, url_poster: null}
           2: {tpdb_poster: null, url_poster: null}
+          3: {tpdb_poster: null, url_poster: null}
       "Star Wars: The Bad Batch (2021)":
         seasons:
           1: {tpdb_poster: null, url_poster: null}
@@ -654,7 +655,9 @@ starwars:
               5: {tpdb_poster: null, url_poster: null}, 6: {tpdb_poster: null, url_poster: null},
               7: {tpdb_poster: null, url_poster: null}, 8: {tpdb_poster: null, url_poster: null}}},
           2: {tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
-                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}}}
+                url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}, 3: {
+            tpdb_poster: null, url_poster: null, episodes: {1: {tpdb_poster: null,
+                url_poster: null}}}}}
       "Star Wars: The Bad Batch (2021)":
         seasons:
           1:
@@ -762,6 +765,9 @@ starwars:
       "Star Wars Rebels: Spark of Rebellion (2014)": {tpdb_poster: null, url_poster: null}
       "Star Wars Rebels: The Siege of Lothal (2015)": {tpdb_poster: null, url_poster: null}
     shows:
+      "Disney Gallery / Star Wars: The Mandalorian (2020)":
+        seasons:
+          3: {tpdb_poster: null, url_poster: null}
       "Star Wars: Visions (2021)":
         seasons:
           2: {tpdb_poster: null, url_poster: null}
@@ -788,6 +794,6 @@ starwars:
             url_poster: null}}}
       "Disney Gallery / Star Wars: The Mandalorian (2020)": {tpdb_poster: null, url_poster: null,
         seasons: {1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null,
-            url_poster: null}}}
+            url_poster: null}, 3: {tpdb_poster: null, url_poster: null}}}
       "Disney Gallery / Star Wars: The Book of Boba Fett (2022)": {tpdb_poster: null,
         url_poster: null, seasons: {1: {tpdb_poster: null, url_poster: null}}}
