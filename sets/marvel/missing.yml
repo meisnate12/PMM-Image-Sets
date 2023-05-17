@@ -111,6 +111,10 @@ ungrouped:
     movies:
       "Marvel: 75 Years, From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
       "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Loki (2021)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "In Association with Marvel": {tpdb_poster: null, url_poster: null}
@@ -176,6 +180,9 @@ ungrouped:
           1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}
       "Helstrom (2020)": {tpdb_poster: null, url_poster: null, seasons: {1: {tpdb_poster: null,
             url_poster: null}}}
+      "Loki (2021)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
       "Hawkeye (2021)":
         seasons:
           1: {tpdb_poster: null, url_poster: null}
