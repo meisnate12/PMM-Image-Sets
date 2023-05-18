@@ -12,6 +12,7 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
   <li><a href="#luca"><div class="images-inline-link">Luca<br><code>luca</code></div></a></li>
   <li><a href="#monsters-inc"><div class="images-inline-link">Monsters Inc<br><code>monstersinc</code></div></a></li>
   <li><a href="#ratatouille"><div class="images-inline-link">Ratatouille<br><code>ratatouille</code></div></a></li>
+  <li><a href="#shorts"><div class="images-inline-link">Shorts<br><code>shorts</code></div></a></li>
   <li><a href="#soul"><div class="images-inline-link">Soul<br><code>soul</code></div></a></li>
   <li><a href="#toy-story"><div class="images-inline-link">Toy Story<br><code>toystory</code></div></a></li>
   <li><a href="#ungrouped"><div class="images-inline-link">Ungrouped<br><code>ungrouped</code></div></a></li>
@@ -543,6 +544,27 @@ This Image Set is for Movies and Shows released by Pixar Animation Studios.
           <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/ratatouille/itunes.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>itunes</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/46938" target="_blank" rel="noopener noreferrer">iTunes</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="shorts">Shorts<a class="headerlink" href="#shorts" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>shorts</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>trakt_list</code>: <a href="https://trakt.tv/users/deccoskyrider/lists/pixar-shorts?sort=released,desc" target="_blank" rel="noopener noreferrer">https://trakt.tv/users/deccoskyrider/lists/pixar-shorts?sort=released,desc</a><br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/92851" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/pixar/styles/shorts/diiivoy_neon.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/92851" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
     </tr>
