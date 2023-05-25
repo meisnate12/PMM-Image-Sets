@@ -8,7 +8,6 @@ This Image Set is for Movies and Shows that are part of the Star Wars franchise.
   <li><a href="#lego-star-wars"><div class="images-inline-link">LEGO Star Wars<br><code>lego</code></div></a></li>
   <li><a href="#lego-star-wars-(seasonal)"><div class="images-inline-link">LEGO Star Wars (Seasonal)<br><code>lego_seasonal</code></div></a></li>
   <li><a href="#robot-chicken"><div class="images-inline-link">Robot Chicken<br><code>robot_chicken</code></div></a></li>
-  <li><a href="#star-wars"><div class="images-inline-link">Star Wars<br><code>starwars</code></div></a></li>
   <li><a href="#ungrouped"><div class="images-inline-link">Ungrouped<br><code>ungrouped</code></div></a></li>
 </ul>
 
@@ -176,64 +175,6 @@ This Image Set is for Movies and Shows that are part of the Star Wars franchise.
           <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/starwars/styles/robot_chicken/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer">agon024</a><br>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 id="star-wars">Star Wars<a class="headerlink" href="#star-wars" title="Permalink to this heading">¶</a></h3>
-<strong>Section Key:</strong> <code>starwars</code>
-<br><strong>Builders:</strong>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>trakt_list</code>: <a href="https://trakt.tv/users/execcac/lists/complete-star-wars-canon-time-line" target="_blank" rel="noopener noreferrer">https://trakt.tv/users/execcac/lists/complete-star-wars-canon-time-line</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/74849" target="_blank" rel="noopener noreferrer">74849</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/393189" target="_blank" rel="noopener noreferrer">393189</a> (<a href="https://www.themoviedb.org/tv/83867" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/356114" target="_blank" rel="noopener noreferrer">356114</a> (<a href="https://www.themoviedb.org/tv/85536" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/72244" target="_blank" rel="noopener noreferrer">72244</a> (<a href="https://www.themoviedb.org/tv/3122" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/70399" target="_blank" rel="noopener noreferrer">70399</a> (<a href="https://www.themoviedb.org/tv/25" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/385376" target="_blank" rel="noopener noreferrer">385376</a> (<a href="https://www.themoviedb.org/tv/105971" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/393190" target="_blank" rel="noopener noreferrer">393190</a> (<a href="https://www.themoviedb.org/tv/114478" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/393589" target="_blank" rel="noopener noreferrer">393589</a> (<a href="https://www.themoviedb.org/tv/115036" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/73697" target="_blank" rel="noopener noreferrer">73697</a> (<a href="https://www.themoviedb.org/tv/3478" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/380352" target="_blank" rel="noopener noreferrer">380352</a> (<a href="https://www.themoviedb.org/tv/101978" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/419714" target="_blank" rel="noopener noreferrer">419714</a> (<a href="https://www.themoviedb.org/tv/198109" target="_blank" rel="noopener noreferrer">TMDb</a>), <a href="https://www.thetvdb.com/dereferrer/series/420659" target="_blank" rel="noopener noreferrer">420659</a> (<a href="https://www.themoviedb.org/tv/203085" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
-</ul>
-<button class="image-accordion">Styles</button>
-<div class="image-panel">
-  <table class="image-table">
-    <tr>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/93852" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/starwars/styles/starwars/rhj.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>rhj</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/93852" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/89606" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/starwars/styles/starwars/rhj2.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>rhj2</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/89606" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/78057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/starwars/styles/starwars/rhj3.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>rhj3</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/78057" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/101892" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/starwars/styles/starwars/olivier.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>olivier</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/101892" target="_blank" rel="noopener noreferrer">Olivier_286</a><br>
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/starwars/styles/starwars/agon024.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>agon024</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/102187" target="_blank" rel="noopener noreferrer">agon024</a><br>
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/82588" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/starwars/styles/starwars/morkoz.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>morkoz</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/82588" target="_blank" rel="noopener noreferrer">MorkOz</a><br>
         </div>
       </td>
     </tr>
