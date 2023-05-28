@@ -20,17 +20,6 @@ bobs_burgers:
       "Bob's Burgers (2011)":
         seasons:
           14: {tpdb_poster: null, url_poster: null}
-familyguy:
-  agon024:
-    shows:
-      "Family Guy (1999)":
-        seasons:
-          22: {tpdb_poster: null, url_poster: null}
-  tfbone:
-    shows:
-      "Family Guy (1999)":
-        seasons:
-          22: {tpdb_poster: null, url_poster: null}
 futurama:
   agon024:
     shows:
