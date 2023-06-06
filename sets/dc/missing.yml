@@ -24,6 +24,13 @@ thebatman:
   rhj:
     collections:
       "The Batman Collection": {tpdb_poster: null, url_poster: null}
+batman_66:
+  diiivoy_neon:
+    collections:
+      "Batman 60s Collection (Adam West)": {tpdb_poster: null, url_poster: null}
+  mikenobbs:
+    collections:
+      "Batman 60s Collection (Adam West)": {tpdb_poster: null, url_poster: null}
 flash:
   diiivoy_neon:
     info:
