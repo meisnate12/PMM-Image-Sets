@@ -28,9 +28,11 @@ batman_66:
   diiivoy_neon:
     collections:
       "Batman 60s Collection (Adam West)": {tpdb_poster: null, url_poster: null}
+      "Batman (Adam West) Animation Collection": {tpdb_poster: null, url_poster: null}
   mikenobbs:
     collections:
       "Batman 60s Collection (Adam West)": {tpdb_poster: null, url_poster: null}
+      "Batman (Adam West) Animation Collection": {tpdb_poster: null, url_poster: null}
 flash:
   diiivoy_neon:
     info:

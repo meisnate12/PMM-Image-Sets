@@ -64,6 +64,8 @@ sections:
       - "Batman '66"
       - "Batman Animation Collection (Adam West)"
       "Batman 60s Collection (Adam West)": []
+      "Batman (Adam West) Animation Collection":
+      - "Batman (Adam West) Animation"
     movies:
       "Batman (1966)": 2661
       "Return to the Batcave - The Misadventures of Adam and Burt (2003)": 20776
@@ -103,6 +105,8 @@ sections:
       - "Flash"
       - "Flash Collection"
       - "The Flash"
+    movies:
+      "The Flash (2023)": 298618
     shows:
       "The Flash (1990)": 78650
       "The Flash (2014)": 279121
