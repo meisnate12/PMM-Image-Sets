@@ -83,6 +83,7 @@ shows:
   "Hawkeye (2021)":
     tpdb_poster: 192356
     seasons:
+      0: {tpdb_poster: 192413}
       1: {tpdb_poster: 192357}
   "Moon Knight (2022)":
     tpdb_poster: 212414
