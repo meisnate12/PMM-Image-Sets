@@ -6,6 +6,7 @@ info:
   complete: true
 movies:
   "Alien (1979)": {tpdb_poster: 1214}
+  "Alien (1979) (Director)": {tpdb_poster: 1214}
   "Aliens (1986)": {tpdb_poster: 1215}
   "Alien³ (1992)": {tpdb_poster: 1216}
   "Alien Resurrection (1997)": {tpdb_poster: 1217}
