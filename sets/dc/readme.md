@@ -219,14 +219,14 @@ This Image Set is for Movies and Shows that are a property of DC.
     <tr>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/flash/diiivoy_neon.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
         </div>
       </td>
       <td>
         <div>
-          <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/flash/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
