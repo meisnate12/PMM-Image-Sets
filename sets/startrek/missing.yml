@@ -8,6 +8,12 @@ discovery:
       "Star Trek: Discovery (2017)":
         seasons:
           5: {tpdb_poster: null, url_poster: null}
+lowerdecks:
+  mjmattu:
+    shows:
+      "Star Trek: Lower Decks (2020)":
+        seasons:
+          4: {tpdb_poster: null, url_poster: null}
 nextgen:
   mjmattu:
     collections:
