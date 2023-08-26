@@ -84,8 +84,8 @@ sections:
       "Star Wars: The Ewok Adventures Collection":
       - "Star Wars: The Ewok Adventures"
     movies:
+      "The Ewok Adventure (1984)": 1884
       "Ewoks: The Battle for Endor (1985)": 10372
-      "The Ewok Adventure (1985)": 1884
   family_guy:
     title: Family Guy
     builders:

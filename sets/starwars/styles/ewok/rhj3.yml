@@ -5,5 +5,5 @@ info:
   style_link: 78057
   complete: true
 movies:
+  "The Ewok Adventure (1984)": {tpdb_poster: 124626}
   "Ewoks: The Battle for Endor (1985)": {tpdb_poster: 124627}
-  "The Ewok Adventure (1985)": {tpdb_poster: 124626}
