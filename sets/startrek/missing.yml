@@ -22,6 +22,12 @@ startrek:
   mjmattu:
     collections:
       "Star Trek: The Original Series Collection": {tpdb_poster: null, url_poster: null}
+shorttreks:
+  mjmattu:
+    shows:
+      "Star Trek: Short Treks (2018)":
+        seasons:
+          3: {tpdb_poster: null, url_poster: null}
 strangenewworlds:
   mjmattu:
     shows:
