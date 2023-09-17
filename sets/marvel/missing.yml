@@ -96,6 +96,10 @@ spiderman_avengers:
       "Spider-Man (Avengers) Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: null, url_poster: null}
+spiderman_spiderverse:
+  diiivoy_neon:
+    collections:
+      "The Spider-Verse Trilogy": {tpdb_poster: null, url_poster: null}
 thor:
   rhj:
     collections:
