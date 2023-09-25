@@ -15,7 +15,7 @@ sections:
     movies:
       "Aquaman (2018)": 297802
     shows:
-      "Aquaman (1967)": 82143
+      "The Adventures of Aquaman (1967)": 82143
   batman:
     title: Batman
     builders:
