@@ -112,10 +112,6 @@ ungrouped:
     movies:
       "Marvel: 75 Years, From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
       "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
-    shows:
-      "Loki (2021)":
-        seasons:
-          2: {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "In Association with Marvel": {tpdb_poster: null, url_poster: null}
