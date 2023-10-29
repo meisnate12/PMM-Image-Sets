@@ -56,14 +56,3 @@ simpsons:
       "The Simpsons (1989)":
         seasons:
           35: {tpdb_poster: null, url_poster: null}
-southpark:
-  agon024:
-    shows:
-      "South Park (1997)":
-        seasons:
-          27: {tpdb_poster: null, url_poster: null}
-  tfbone:
-    shows:
-      "South Park (1997)":
-        seasons:
-          27: {tpdb_poster: null, url_poster: null}
