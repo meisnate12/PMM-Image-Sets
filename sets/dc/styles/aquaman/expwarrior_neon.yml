@@ -5,7 +5,7 @@ info:
   style_link: 152067
   track_seasons: true
 shows:
-  "The Adventures of Aquaman (1967)":
+  "Aquaman (1967)":
     tpdb_poster: 254517
     seasons:
       1: {tpdb_poster: 254518}
