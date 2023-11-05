@@ -36,6 +36,10 @@ spirit:
     movies:
       "Spirit Riding Free: Spirit of Christmas (2019)": {tpdb_poster: null, url_poster: null}
       "Spirit Riding Free: Ride Along Adventure (2020)": {tpdb_poster: null, url_poster: null}
+trolls:
+  diiivoy_neon:
+    movies:
+      "Trolls Band Together (2023)": {tpdb_poster: null, url_poster: null}
 ungrouped:
   diiivoy_neon:
     movies:

@@ -110,12 +110,8 @@ thor:
 ungrouped:
   diiivoy_neon:
     movies:
-      "Marvel: 75 Years, From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel - 75 Years: From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
       "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
-    shows:
-      "Loki (2021)":
-        seasons:
-          2: {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "In Association with Marvel": {tpdb_poster: null, url_poster: null}
@@ -123,7 +119,7 @@ ungrouped:
       "Nick Fury: Agent of S.H.I.E.L.D. (1998)": {tpdb_poster: null, url_poster: null}
       "Elektra (2005)": {tpdb_poster: null, url_poster: null}
       "Big Hero 6 (2014)": {tpdb_poster: null, url_poster: null}
-      "Marvel: 75 Years, From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel - 75 Years: From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
       "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
       "Morbius (2022)": {tpdb_poster: null, url_poster: null}
     shows:
@@ -146,7 +142,7 @@ ungrouped:
       "Nick Fury: Agent of S.H.I.E.L.D. (1998)": {tpdb_poster: null, url_poster: null}
       "Elektra (2005)": {tpdb_poster: null, url_poster: null}
       "Big Hero 6 (2014)": {tpdb_poster: null, url_poster: null}
-      "Marvel: 75 Years, From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel - 75 Years: From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
       "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
       "Morbius (2022)": {tpdb_poster: null, url_poster: null}
     shows:
