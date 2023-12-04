@@ -76,10 +76,10 @@ shows:
     seasons:
       1: {tpdb_poster: 124700}
   "Loki (2021)":
-    tpdb_poster: 144829
+    tpdb_poster: 420279
     seasons:
       0: {tpdb_poster: 420280}
-      1: {tpdb_poster: 144830}
+      1: {tpdb_poster: 420281}
       2: {tpdb_poster: 420282}
   "Hawkeye (2021)":
     tpdb_poster: 192356
