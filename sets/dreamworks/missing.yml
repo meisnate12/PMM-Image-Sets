@@ -6,6 +6,8 @@ chickenrun:
   diiivoy_neon:
     collections:
       "Chicken Run Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Chicken Run: Dawn of the Nugget (2023)": {tpdb_poster: null, url_poster: null}
 trainyourdragon:
   diiivoy_neon:
     movies:
