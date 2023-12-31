@@ -122,7 +122,7 @@ ungrouped:
     shows:
       "What If...? (2021)":
         seasons:
-          2: {tpdb_poster: null, url_poster: null}
+          3: {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "In Association with Marvel": {tpdb_poster: null, url_poster: null}
@@ -191,6 +191,7 @@ ungrouped:
       "What If...? (2021)":
         seasons:
           2: {tpdb_poster: null, url_poster: null}
+          3: {tpdb_poster: null, url_poster: null}
       "Loki (2021)":
         seasons:
           2: {tpdb_poster: null, url_poster: null}
