@@ -328,6 +328,8 @@ sections:
     collections:
       "Spider-Man (Avengers) Collection":
       - "Spider-Man (Avengers)"
+      "Spider-Man (MCU) Collection":
+      - "Spider-Man (MCU)"
     movies:
       "Spider-Man: Homecoming (2017)": 315635
       "Spider-Man: Far From Home (2019)": 429617

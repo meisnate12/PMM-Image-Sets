@@ -21,11 +21,6 @@ bobs_burgers:
         seasons:
           14: {tpdb_poster: null, url_poster: null}
 chosen:
-  fwlolx:
-    shows:
-      "The Chosen (2019)":
-        seasons:
-          4: {tpdb_poster: null, url_poster: null}
   grandslam4par:
     shows:
       "The Chosen (2019)":
