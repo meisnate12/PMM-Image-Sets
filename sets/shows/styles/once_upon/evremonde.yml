@@ -1,0 +1,19 @@
+info:
+  style_author: evremonde
+  style_image: 16355
+  style_key: evremonde
+  style_link: 9048
+  complete: true
+  track_seasons: true
+shows:
+  "Once Upon a Time (2011)":
+    tpdb_poster: 16355
+    seasons:
+      0: {tpdb_poster: 16356}
+      1: {tpdb_poster: 16357}
+      2: {tpdb_poster: 16358}
+      3: {tpdb_poster: 16359}
+      4: {tpdb_poster: 16360}
+      5: {tpdb_poster: 16361}
+      6: {tpdb_poster: 16362}
+      7: {tpdb_poster: 16363}
