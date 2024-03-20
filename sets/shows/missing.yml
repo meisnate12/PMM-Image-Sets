@@ -10,16 +10,19 @@ bobs_burgers:
       "Bob's Burgers (2011)":
         seasons:
           14: {tpdb_poster: null, url_poster: null}
+          15: {tpdb_poster: null, url_poster: null}
   sulvershadow:
     shows:
       "Bob's Burgers (2011)":
         seasons:
           14: {tpdb_poster: null, url_poster: null}
+          15: {tpdb_poster: null, url_poster: null}
   mattiask57:
     shows:
       "Bob's Burgers (2011)":
         seasons:
           14: {tpdb_poster: null, url_poster: null}
+          15: {tpdb_poster: null, url_poster: null}
 chosen:
   grandslam4par:
     shows:
@@ -51,8 +54,14 @@ love_lucy:
     shows:
       "The Lucy–Desi Comedy Hour (1957)": {tpdb_poster: null, url_poster: null}
 simpsons:
+  agon024:
+    shows:
+      "The Simpsons (1989)":
+        seasons:
+          36: {tpdb_poster: null, url_poster: null}
   silvz:
     shows:
       "The Simpsons (1989)":
         seasons:
           35: {tpdb_poster: null, url_poster: null}
+          36: {tpdb_poster: null, url_poster: null}
