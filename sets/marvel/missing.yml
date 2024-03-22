@@ -30,9 +30,6 @@ captainamerica:
     collections:
       "Captain America Collection": {tpdb_poster: null, url_poster: null}
 captainmarvel:
-  diiivoy:
-    movies:
-      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Captain Marvel Collection": {tpdb_poster: null, url_poster: null}
