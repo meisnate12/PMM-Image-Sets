@@ -120,6 +120,7 @@ sections:
       - "Captain Marvel"
     movies:
       "Captain Marvel (2019)": 299537
+      "The Marvels (2023)": 609681
   daredevil:
     title: Daredevil
     builders:
@@ -327,6 +328,8 @@ sections:
     collections:
       "Spider-Man (Avengers) Collection":
       - "Spider-Man (Avengers)"
+      "Spider-Man (MCU) Collection":
+      - "Spider-Man (MCU)"
     movies:
       "Spider-Man: Homecoming (2017)": 315635
       "Spider-Man: Far From Home (2019)": 429617
@@ -397,7 +400,7 @@ sections:
       "Nick Fury: Agent of S.H.I.E.L.D. (1998)": 27460
       "Elektra (2005)": 9947
       "Big Hero 6 (2014)": 177572
-      "Marvel - 75 Years: From Pulp to Pop! (2014)": 299969
+      "Marvel: 75 Years, from Pulp to Pop! (2014)": 299969
       "Marvel Studios: Expanding the Universe (2019)": 647375
       "Morbius (2022)": 526896
     shows:

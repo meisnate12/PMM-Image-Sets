@@ -33,9 +33,13 @@ captainmarvel:
   rhj:
     collections:
       "Captain Marvel Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Captain Marvel Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "The Marvels (2023)": {tpdb_poster: null, url_poster: null}
 doctorstrange:
   rhj:
     collections:
@@ -86,14 +90,22 @@ oneshot:
       "Team Darryl (2018)": {tpdb_poster: null, url_poster: null}
       "Peter's To-Do List (2019)": {tpdb_poster: null, url_poster: null}
 spiderman_avengers:
+  diiivoy_neon:
+    collections:
+      "Spider-Man (MCU) Collection": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    collections:
+      "Spider-Man (MCU) Collection": {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "Spider-Man (Avengers) Collection": {tpdb_poster: null, url_poster: null}
+      "Spider-Man (MCU) Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Spider-Man (Avengers) Collection": {tpdb_poster: null, url_poster: null}
+      "Spider-Man (MCU) Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Spider-Man: All Roads Lead to No Way Home (2022)": {tpdb_poster: null, url_poster: null}
 spiderman_spiderverse:
@@ -110,8 +122,12 @@ thor:
 ungrouped:
   diiivoy_neon:
     movies:
-      "Marvel - 75 Years: From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel: 75 Years, from Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
       "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "What If...? (2021)":
+        seasons:
+          3: {tpdb_poster: null, url_poster: null}
   rhj:
     collections:
       "In Association with Marvel": {tpdb_poster: null, url_poster: null}
@@ -119,7 +135,7 @@ ungrouped:
       "Nick Fury: Agent of S.H.I.E.L.D. (1998)": {tpdb_poster: null, url_poster: null}
       "Elektra (2005)": {tpdb_poster: null, url_poster: null}
       "Big Hero 6 (2014)": {tpdb_poster: null, url_poster: null}
-      "Marvel - 75 Years: From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel: 75 Years, from Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
       "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
       "Morbius (2022)": {tpdb_poster: null, url_poster: null}
     shows:
@@ -142,7 +158,7 @@ ungrouped:
       "Nick Fury: Agent of S.H.I.E.L.D. (1998)": {tpdb_poster: null, url_poster: null}
       "Elektra (2005)": {tpdb_poster: null, url_poster: null}
       "Big Hero 6 (2014)": {tpdb_poster: null, url_poster: null}
-      "Marvel - 75 Years: From Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
+      "Marvel: 75 Years, from Pulp to Pop! (2014)": {tpdb_poster: null, url_poster: null}
       "Marvel Studios: Expanding the Universe (2019)": {tpdb_poster: null, url_poster: null}
       "Morbius (2022)": {tpdb_poster: null, url_poster: null}
     shows:
@@ -177,6 +193,10 @@ ungrouped:
           1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null, url_poster: null}}}
       "Helstrom (2020)": {tpdb_poster: null, url_poster: null, seasons: {1: {tpdb_poster: null,
             url_poster: null}}}
+      "What If...? (2021)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
+          3: {tpdb_poster: null, url_poster: null}
       "Loki (2021)":
         seasons:
           2: {tpdb_poster: null, url_poster: null}

@@ -5,6 +5,8 @@ aquaman:
   rhj:
     collections:
       "Aquaman Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Aquaman and the Lost Kingdom (2023)": {tpdb_poster: null, url_poster: null}
     shows:
       "Aquaman (1967)": {tpdb_poster: null, url_poster: null}
   expwarrior_neon:
@@ -12,9 +14,12 @@ aquaman:
       "Aquaman Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Aquaman (2018)": {tpdb_poster: null, url_poster: null}
+      "Aquaman and the Lost Kingdom (2023)": {tpdb_poster: null, url_poster: null}
   agon024:
     collections:
       "Aquaman Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Aquaman and the Lost Kingdom (2023)": {tpdb_poster: null, url_poster: null}
     shows:
       "Aquaman (1967)": {tpdb_poster: null, url_poster: null}
 thebatman:
