@@ -2,12 +2,6 @@ altreality:
   mjmattu:
     collections:
       "Star Trek: Alternate Reality Collection": {tpdb_poster: null, url_poster: null}
-discovery:
-  mjmattu:
-    shows:
-      "Star Trek: Discovery (2017)":
-        seasons:
-          5: {tpdb_poster: null, url_poster: null}
 nextgen:
   mjmattu:
     collections:
