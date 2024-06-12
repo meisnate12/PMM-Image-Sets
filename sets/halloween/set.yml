@@ -1,0 +1,67 @@
+sections:
+  friday13:
+    title: Friday The 13th
+    builders:
+      tmdb_collection: 9735
+    styles:
+      narkotikz:
+      labrat:
+      justaddcola:
+      aloha_alona:
+    default_image: "Friday the 13th Part III (1982)"
+    collections:
+      "Friday the 13th Collection":
+      - "Friday the 13th"
+    movies:
+      "Friday the 13th (1980)": 4488
+      "Friday the 13th Part 2 (1981)": 9725
+      "Friday the 13th Part III (1982)": 9728
+      "Friday the 13th: The Final Chapter (1984)": 9730
+      "Friday the 13th: A New Beginning (1985)": 9731
+      "Friday the 13th Part VI: Jason Lives (1986)": 10225
+      "Friday the 13th Part VII: The New Blood (1988)": 10281
+      "Friday the 13th Part VIII: Jason Takes Manhattan (1989)": 10283
+      "Jason Goes to Hell: The Final Friday (1993)": 10285
+      "Jason X (2001)": 11470
+      "Freddy vs. Jason (2003)": 6466
+  halloweenzombie:
+    title: Halloween (Rob Zombie)
+    builders:
+      tmdb_collection: 126209
+    styles:
+      justaddcola:
+      aloha_alona:
+      ishalioh:
+    default_image: "Halloween II (2009)"
+    collections:
+      "Halloween (Rob Zombie Series) Collection":
+      - "Halloween (Rob Zombie Series)"
+    movies:
+      "Halloween (2007)": 2082
+      "Halloween II (2009)": 24150
+  halloween:
+    title: Original Halloween Series
+    builders:
+      tmdb_collection: 91361
+    styles:
+      narkotikz:
+      sethgecko:
+      justaddcola:
+      aloha_alona:
+      labrat:
+    default_image: "Halloween (1978)"
+    collections:
+      "Halloween Collection":
+      - "Halloween"
+    movies:
+      "Halloween (1978)": 948
+      "Halloween II (1981)": 11281
+      "Halloween III: Season of the Witch (1982)": 10676
+      "Halloween 4: The Return of Michael Myers (1988)": 11357
+      "Halloween 5: The Revenge of Michael Myers (1989)": 11361
+      "Halloween: The Curse of Michael Myers (1995)": 10987
+      "Halloween H20: 20 Years Later (1998)": 11675
+      "Halloween: Resurrection (2002)": 11442
+      "Halloween (2018)": 424139
+      "Halloween Kills (2021)": 610253
+      "Halloween Ends (2022)": 616820
