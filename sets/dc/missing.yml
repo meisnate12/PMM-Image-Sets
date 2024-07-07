@@ -70,6 +70,10 @@ harleyquinn:
     movies:
       "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)": {
         tpdb_poster: null, url_poster: null}
+    shows:
+      "Harley Quinn (2019)":
+        seasons:
+          5: {tpdb_poster: null, url_poster: null}
   agon024:
     collections:
       "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
