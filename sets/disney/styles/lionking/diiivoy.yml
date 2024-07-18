@@ -13,7 +13,7 @@ movies:
   "The Lion King 1½ (2004)": {tpdb_poster: 46457}
   "The Lion King (2019)": {tpdb_poster: 46458}
 shows:
-  "The Lion King's Timon & Pumbaa (1995)":
+  "Timon and Pumbaa (1995)":
     tpdb_poster: 46465
     seasons:
       0: {tpdb_poster: 46466}
