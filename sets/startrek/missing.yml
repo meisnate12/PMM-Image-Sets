@@ -2,10 +2,10 @@ altreality:
   mjmattu:
     collections:
       "Star Trek: Alternate Reality Collection": {tpdb_poster: null, url_poster: null}
-discovery:
+lowerdecks:
   mjmattu:
     shows:
-      "Star Trek: Discovery (2017)":
+      "Star Trek: Lower Decks (2020)":
         seasons:
           5: {tpdb_poster: null, url_poster: null}
 nextgen:
@@ -22,3 +22,9 @@ prodigy:
       "Star Trek: Prodigy (2021)":
         seasons:
           2: {tpdb_poster: null, url_poster: null}
+strangenewworlds:
+  mjmattu:
+    shows:
+      "Star Trek: Strange New Worlds (2022)":
+        seasons:
+          3: {tpdb_poster: null, url_poster: null}

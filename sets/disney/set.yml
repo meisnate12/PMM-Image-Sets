@@ -268,7 +268,7 @@ sections:
       - "Fantasia"
     movies:
       "Fantasia (1940)": 756
-      "Fantasia 2000 (1999)": 49948
+      "Fantasia 2000 (2000)": 49948
   foxhound:
     title: The Fox and the Hound
     builders:
@@ -450,7 +450,7 @@ sections:
       "The Lion King 1½ (2004)": 11430
       "The Lion King (2019)": 420818
     shows:
-      "Timon & Pumbaa (1995)": 70559
+      "Timon and Pumbaa (1995)": 70559
       "The Lion Guard (2016)": 282756
   littlemermaid:
     title: The Little Mermaid

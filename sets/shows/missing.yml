@@ -29,17 +29,6 @@ chosen:
       "The Chosen (2019)":
         seasons:
           4: {tpdb_poster: null, url_poster: null}
-familyguy:
-  agon024:
-    shows:
-      "Family Guy (1999)":
-        seasons:
-          23: {tpdb_poster: null, url_poster: null}
-  tfbone:
-    shows:
-      "Family Guy (1999)":
-        seasons:
-          23: {tpdb_poster: null, url_poster: null}
 futurama:
   squire23:
     shows:
@@ -54,6 +43,17 @@ love_lucy:
   cmdrriker:
     shows:
       "The Lucy–Desi Comedy Hour (1957)": {tpdb_poster: null, url_poster: null}
+last_of_us:
+  rhj:
+    shows:
+      "The Last of Us (2023)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
+  sevi:
+    shows:
+      "The Last of Us (2023)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
 simpsons:
   agon024:
     shows:
@@ -66,3 +66,19 @@ simpsons:
         seasons:
           35: {tpdb_poster: null, url_poster: null}
           36: {tpdb_poster: null, url_poster: null}
+stranger_things:
+  ishalioh:
+    shows:
+      "Stranger Things (2016)":
+        seasons:
+          5: {tpdb_poster: null, url_poster: null}
+  dm247:
+    shows:
+      "Stranger Things (2016)":
+        seasons:
+          5: {tpdb_poster: null, url_poster: null}
+  agon024:
+    shows:
+      "Stranger Things (2016)":
+        seasons:
+          5: {tpdb_poster: null, url_poster: null}
