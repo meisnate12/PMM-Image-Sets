@@ -8,6 +8,8 @@ sections:
     collections:
       "Dreamworks Bible Stories Collection":
       - "Dreamworks Bible Stories"
+      "DreamWorks Bible Stories Collection":
+      - "DreamWorks Bible Stories"
     movies:
       "The Prince of Egypt (1998)": 9837
       "Joseph: King of Dreams (2000)": 16366
