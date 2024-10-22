@@ -434,6 +434,7 @@ sections:
     movies:
       "Venom (2018)": 335983
       "Venom: Let There Be Carnage (2021)": 580489
+      "Venom: The Last Dance (2024)": 912649
   werewolf:
     title: Werewolf by Night
     builders:
