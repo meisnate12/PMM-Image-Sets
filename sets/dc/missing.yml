@@ -101,6 +101,17 @@ manofsteel:
   agon024:
     collections:
       "Man of Steel Collection": {tpdb_poster: null, url_poster: null}
+peacemaker:
+  diiivoy_neon:
+    shows:
+      "Peacemaker (2022)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
+  agon024:
+    shows:
+      "Peacemaker (2022)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
 shazam:
   rhj:
     collections:
