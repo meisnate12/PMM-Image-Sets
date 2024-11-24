@@ -6,11 +6,9 @@ info:
   complete: true
   track_seasons: true
 movies:
-  "Frozen (2013)": {tpdb_poster: 152822}
   "Frozen Fever (2015)": {tpdb_poster: 152823}
   "Olaf's Frozen Adventure (2017)": {tpdb_poster: 152825}
   "LEGO Frozen Northern Lights (2017)": {tpdb_poster: 152824}
-  "Frozen II (2019)": {tpdb_poster: 152826}
   "Once Upon a Snowman (2020)": {tpdb_poster: 152827}
 shows:
   "Olaf Presents (2021)":

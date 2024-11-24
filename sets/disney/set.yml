@@ -307,12 +307,11 @@ sections:
     collections:
       "Frozen Collection":
       - "Frozen"
+      "Gabriel De Cunto": []
     movies:
-      "Frozen (2013)": 109445
       "Frozen Fever (2015)": 326359
       "Olaf's Frozen Adventure (2017)": 460793
       "LEGO Frozen Northern Lights (2017)": 431562
-      "Frozen II (2019)": 330457
       "Once Upon a Snowman (2020)": 741074
     shows:
       "Olaf Presents (2021)": 404155
