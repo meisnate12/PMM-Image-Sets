@@ -3,3 +3,6 @@ info:
   style_image: 11838
   style_key: dannybeaton
   style_link: 5935
+movies:
+  "Frozen (2013)": {tpdb_poster: 11838}
+  "Frozen II (2019)": {tpdb_poster: 11843}
