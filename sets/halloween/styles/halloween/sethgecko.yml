@@ -1,0 +1,20 @@
+info:
+  style_author: SethGecko
+  style_image: 190033
+  style_key: sethgecko
+  style_link: 115186
+  complete: true
+collections:
+  "Halloween Collection": {tpdb_poster: 190032}
+movies:
+  "Halloween (1978)": {tpdb_poster: 190033}
+  "Halloween II (1981)": {tpdb_poster: 190034}
+  "Halloween III: Season of the Witch (1982)": {tpdb_poster: 190035}
+  "Halloween 4: The Return of Michael Myers (1988)": {tpdb_poster: 190036}
+  "Halloween 5: The Revenge of Michael Myers (1989)": {tpdb_poster: 190037}
+  "Halloween: The Curse of Michael Myers (1995)": {tpdb_poster: 190038}
+  "Halloween H20: 20 Years Later (1998)": {tpdb_poster: 190039}
+  "Halloween: Resurrection (2002)": {tpdb_poster: 190040}
+  "Halloween (2018)": {tpdb_poster: 190041}
+  "Halloween Kills (2021)": {tpdb_poster: 190042}
+  "Halloween Ends (2022)": {tpdb_poster: 190043}
