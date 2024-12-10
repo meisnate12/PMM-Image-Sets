@@ -89,3 +89,14 @@ stranger_things:
       "Stranger Things (2016)":
         seasons:
           5: {tpdb_poster: null, url_poster: null}
+yellowstone:
+  agon024:
+    shows:
+      "1923 (2022)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
+  fwlolx:
+    shows:
+      "1923 (2022)":
+        seasons:
+          2: {tpdb_poster: null, url_poster: null}
