@@ -149,7 +149,6 @@ superman:
       "Superman II (1980)": {tpdb_poster: null, url_poster: null}
       "Superman III (1983)": {tpdb_poster: null, url_poster: null}
       "Superman IV: The Quest for Peace (1987)": {tpdb_poster: null, url_poster: null}
-      "Superman Returns (2006)": {tpdb_poster: null, url_poster: null}
     shows:
       "Superman: The Animated Series (1996)": {tpdb_poster: null, url_poster: null,
         seasons: {1: {tpdb_poster: null, url_poster: null}, 2: {tpdb_poster: null,
@@ -162,7 +161,6 @@ superman:
       "Superman II (1980)": {tpdb_poster: null, url_poster: null}
       "Superman III (1983)": {tpdb_poster: null, url_poster: null}
       "Superman IV: The Quest for Peace (1987)": {tpdb_poster: null, url_poster: null}
-      "Superman Returns (2006)": {tpdb_poster: null, url_poster: null}
     shows:
       "Superman (1988)": {tpdb_poster: null, url_poster: null, seasons: {1: {tpdb_poster: null,
             url_poster: null}}}
