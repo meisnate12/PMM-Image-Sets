@@ -95,6 +95,22 @@ stranger_things:
       "Stranger Things (2016)":
         seasons:
           5: {tpdb_poster: null, url_poster: null}
+ted_lasso:
+  agon024:
+    shows:
+      "Ted Lasso (2020)":
+        seasons:
+          4: {tpdb_poster: null, url_poster: null}
+  agon024_2:
+    shows:
+      "Ted Lasso (2020)":
+        seasons:
+          4: {tpdb_poster: null, url_poster: null}
+  rhj:
+    shows:
+      "Ted Lasso (2020)":
+        seasons:
+          4: {tpdb_poster: null, url_poster: null}
 yellowstone:
   agon024:
     shows:
