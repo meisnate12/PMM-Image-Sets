@@ -1,10 +1,3 @@
-americandad:
-  agon024:
-    shows:
-      "American Dad! (2005)":
-        seasons:
-          20: {tpdb_poster: null, url_poster: null}
-          21: {tpdb_poster: null, url_poster: null}
 bobs_burgers:
   spec0071:
     shows:
@@ -36,12 +29,6 @@ chosen:
         seasons:
           4: {tpdb_poster: null, url_poster: null}
           5: {tpdb_poster: null, url_poster: null}
-familyguy:
-  agon024:
-    shows:
-      "Family Guy (1999)":
-        seasons:
-          23: {tpdb_poster: null, url_poster: null}
 futurama:
   squire23:
     shows:
@@ -68,11 +55,6 @@ last_of_us:
         seasons:
           2: {tpdb_poster: null, url_poster: null}
 simpsons:
-  agon024:
-    shows:
-      "The Simpsons (1989)":
-        seasons:
-          36: {tpdb_poster: null, url_poster: null}
   silvz:
     shows:
       "The Simpsons (1989)":
