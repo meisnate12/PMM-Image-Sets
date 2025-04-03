@@ -8,6 +8,8 @@ This Image Set is for Movies and Shows that are a property of DC.
   <li><a href="#batman-'66"><div class="images-inline-link">Batman '66<br><code>batman_66</code></div></a></li>
   <li><a href="#the-dark-knight"><div class="images-inline-link">The Dark Knight<br><code>darkknight</code></div></a></li>
   <li><a href="#flash"><div class="images-inline-link">Flash<br><code>flash</code></div></a></li>
+  <li><a href="#harley-quinn"><div class="images-inline-link">Harley Quinn<br><code>harleyquinn</code></div></a></li>
+  <li><a href="#justice-league"><div class="images-inline-link">Justice League<br><code>justiceleague</code></div></a></li>
   <li><a href="#man-of-steel"><div class="images-inline-link">Man of Steel<br><code>manofsteel</code></div></a></li>
   <li><a href="#peacemaker"><div class="images-inline-link">Peacemaker<br><code>peacemaker</code></div></a></li>
   <li><a href="#red"><div class="images-inline-link">RED<br><code>red</code></div></a></li>
@@ -225,6 +227,92 @@ This Image Set is for Movies and Shows that are a property of DC.
       <td>
         <div>
           <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer"><img src="None" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="harley-quinn">Harley Quinn<a class="headerlink" href="#harley-quinn" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>harleyquinn</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/495764" target="_blank" rel="noopener noreferrer">495764</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/365677" target="_blank" rel="noopener noreferrer">365677</a> (<a href="https://www.themoviedb.org/tv/74440" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/harleyquinn/diiivoy_neon.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/harleyquinn/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/29360" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/harleyquinn/mikenobbs.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>mikenobbs</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/29360" target="_blank" rel="noopener noreferrer">mikenobbs</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/harleyquinn/agon024.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>agon024</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer">agon024</a><br>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 id="justice-league">Justice League<a class="headerlink" href="#justice-league" title="Permalink to this heading">¶</a></h3>
+<strong>Section Key:</strong> <code>justiceleague</code>
+<br><strong>Builders:</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_movie</code>: <a href="https://www.themoviedb.org/movie/141052" target="_blank" rel="noopener noreferrer">141052</a>, <a href="https://www.themoviedb.org/movie/791373" target="_blank" rel="noopener noreferrer">791373</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/76320" target="_blank" rel="noopener noreferrer">76320</a> (<a href="https://www.themoviedb.org/tv/1618" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
+</ul>
+<button class="image-accordion">Styles</button>
+<div class="image-panel">
+  <table class="image-table">
+    <tr>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/justiceleague/diiivoy_neon.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/justiceleague/rhj.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>rhj</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/50563" target="_blank" rel="noopener noreferrer">RedHeadJedi</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/146989" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/justiceleague/expwarrior_neon.jpg" height="200"/></a><br>
+          <strong>Style Key:</strong> <code>expwarrior_neon</code><br>
+          <strong>Credit:</strong> <a href="https://theposterdb.com/set/146989" target="_blank" rel="noopener noreferrer">EXPWARRIOR</a><br>
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/justiceleague/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>

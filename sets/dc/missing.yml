@@ -53,6 +53,44 @@ flash:
     shows:
       "The Flash (1990)": {tpdb_poster: null, url_poster: null}
       "The Flash (2014)": {tpdb_poster: null, url_poster: null}
+harleyquinn:
+  diiivoy_neon:
+    collections:
+      "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Harley Quinn (2019)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    collections:
+      "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Harley Quinn (2019)": {tpdb_poster: null, url_poster: null}
+  mikenobbs:
+    collections:
+      "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)": {
+        tpdb_poster: null, url_poster: null}
+  agon024:
+    collections:
+      "Harley Quinn Collection": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Harley Quinn (2019)": {tpdb_poster: null, url_poster: null}
+justiceleague:
+  diiivoy_neon:
+    shows:
+      "Justice League (2001)": {tpdb_poster: null, url_poster: null}
+  rhj:
+    shows:
+      "Justice League (2001)": {tpdb_poster: null, url_poster: null}
+  expwarrior_neon:
+    movies:
+      "Justice League (2017)": {tpdb_poster: null, url_poster: null}
+      "Zack Snyder's Justice League (2021)": {tpdb_poster: null, url_poster: null}
+  agon024:
+    movies:
+      "Zack Snyder's Justice League (2021)": {tpdb_poster: null, url_poster: null}
+    shows:
+      "Justice League (2001)": {tpdb_poster: null, url_poster: null}
 manofsteel:
   diiivoy_neon:
     collections:
