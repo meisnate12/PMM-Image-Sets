@@ -1,4 +1,8 @@
 sets:
+  halloween:
+    title: Halloween Series
+    description: This Image Set is for Movies and Shows belonging in the Halloween
+      Genre
   bluesky:
     title: Blue Sky Studios
     description: This Image Set is for Movies and Shows released by Blue Sky Studios.

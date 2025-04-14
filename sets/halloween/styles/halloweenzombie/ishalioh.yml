@@ -1,0 +1,11 @@
+info:
+  style_author: ishalioh
+  style_image: 20179
+  style_key: ishalioh
+  style_link: 11606
+  complete: true
+collections:
+  "Halloween (Rob Zombie Series) Collection": {tpdb_poster: 20177}
+movies:
+  "Halloween (2007)": {tpdb_poster: 20178}
+  "Halloween II (2009)": {tpdb_poster: 20179}
