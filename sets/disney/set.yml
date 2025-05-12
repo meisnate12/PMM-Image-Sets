@@ -20,7 +20,7 @@ sections:
       "One Hundred and One Dalmatians (1961)": 12230
       "101 Dalmatians (1996)": 11674
       "102 Dalmatians (2000)": 10481
-      "101 Dalmatians II: Patch's London Adventure (2002)": 13654
+      "101 Dalmatians II: Patch's London Adventure (2003)": 13654
       "Cruella (2021)": 337404
   aladdin:
     title: Aladdin
@@ -307,6 +307,7 @@ sections:
     collections:
       "Frozen Collection":
       - "Frozen"
+      "Gabriel De Cunto": []
     movies:
       "Frozen (2013)": 109445
       "Frozen Fever (2015)": 326359
@@ -682,7 +683,7 @@ sections:
       "Maleficent Collection":
       - "Maleficent"
     movies:
-      "Snow White and the Seven Dwarfs (1937)": 408
+      "Snow White and the Seven Dwarfs (1938)": 408
       "Dumbo (1941)": 11360
       "Make Mine Music (1946)": 20343
       "Fun and Fancy Free (1947)": 46929

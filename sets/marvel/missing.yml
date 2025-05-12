@@ -26,9 +26,13 @@ captainamerica:
   rhj:
     collections:
       "Captain America Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Captain America: Brave New World (2025)": {tpdb_poster: null, url_poster: null}
   rhj2:
     collections:
       "Captain America Collection": {tpdb_poster: null, url_poster: null}
+    movies:
+      "Captain America: Brave New World (2025)": {tpdb_poster: null, url_poster: null}
 captainmarvel:
   rhj:
     collections:

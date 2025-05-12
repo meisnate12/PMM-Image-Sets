@@ -104,6 +104,7 @@ sections:
       "Captain America: The First Avenger (2011)": 1771
       "Captain America: The Winter Soldier (2014)": 100402
       "Captain America: Civil War (2016)": 271110
+      "Captain America: Brave New World (2025)": 822119
     shows:
       "The Falcon and the Winter Soldier (2021)": 362496
   captainmarvel:
@@ -434,6 +435,7 @@ sections:
     movies:
       "Venom (2018)": 335983
       "Venom: Let There Be Carnage (2021)": 580489
+      "Venom: The Last Dance (2024)": 912649
   werewolf:
     title: Werewolf by Night
     builders:

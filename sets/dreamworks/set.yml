@@ -8,9 +8,11 @@ sections:
     collections:
       "Dreamworks Bible Stories Collection":
       - "Dreamworks Bible Stories"
+      "DreamWorks Bible Stories Collection":
+      - "DreamWorks Bible Stories"
     movies:
       "The Prince of Egypt (1998)": 9837
-      "Joseph: King of Dreams (2000)": 16366
+      "Joseph: King of Dreams (2002)": 16366
   bossbaby:
     title: The Boss Baby
     builders:
@@ -135,8 +137,8 @@ sections:
       - "Shrek"
     movies:
       "Shrek (2001)": 808
+      "The Ghost of Lord Farquaad (2003)": 25523
       "Shrek 2 (2004)": 809
-      "The Ghost of Lord Farquaad (2004)": 25523
       "Far Far Away Idol (2004)": 58508
       "Shrek the Third (2007)": 810
       "Shrek the Halls (2007)": 13394
