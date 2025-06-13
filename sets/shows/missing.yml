@@ -1,3 +1,14 @@
+americandad:
+  agon024:
+    shows:
+      "American Dad! (2005)":
+        seasons:
+          22: {tpdb_poster: null, url_poster: null}
+  sonofdad:
+    shows:
+      "American Dad! (2005)":
+        seasons:
+          22: {tpdb_poster: null, url_poster: null}
 bobs_burgers:
   spec0071:
     shows:
