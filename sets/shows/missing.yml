@@ -73,11 +73,6 @@ simpsons:
           36: {tpdb_poster: null, url_poster: null}
           37: {tpdb_poster: null, url_poster: null}
 southpark:
-  agon024:
-    shows:
-      "South Park (1997)":
-        seasons:
-          27: {tpdb_poster: null, url_poster: null}
   tfbone:
     shows:
       "South Park (1997)":
