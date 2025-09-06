@@ -61,12 +61,6 @@ simpsons:
           35: {tpdb_poster: null, url_poster: null}
           36: {tpdb_poster: null, url_poster: null}
           37: {tpdb_poster: null, url_poster: null}
-southpark:
-  tfbone:
-    shows:
-      "South Park (1997)":
-        seasons:
-          27: {tpdb_poster: null, url_poster: null}
 stranger_things:
   ishalioh:
     shows:
