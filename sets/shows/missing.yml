@@ -95,11 +95,6 @@ southpark:
         seasons:
           28: {tpdb_poster: null, url_poster: null}
 stranger_things:
-  ishalioh:
-    shows:
-      "Stranger Things (2016)":
-        seasons:
-          5: {tpdb_poster: null, url_poster: null}
   dm247:
     shows:
       "Stranger Things (2016)":
