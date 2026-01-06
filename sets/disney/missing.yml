@@ -622,6 +622,7 @@ lilostitch:
   agon024:
     collections:
       "Lilo & Stitch Collection": {tpdb_poster: null, url_poster: null}
+      "Lilo & Stitch (Animated) Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Stitch! The Movie (2003)": {tpdb_poster: null, url_poster: null}
       "Lilo & Stitch 2: Stitch Has a Glitch (2005)": {tpdb_poster: null, url_poster: null}
@@ -633,6 +634,7 @@ lilostitch:
   dannybeaton:
     collections:
       "Lilo & Stitch Collection": {tpdb_poster: null, url_poster: null}
+      "Lilo & Stitch (Animated) Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Stitch! The Movie (2003)": {tpdb_poster: null, url_poster: null}
       "Lilo & Stitch 2: Stitch Has a Glitch (2005)": {tpdb_poster: null, url_poster: null}
@@ -641,6 +643,9 @@ lilostitch:
       "Lilo & Stitch: The Series (2003)": {tpdb_poster: null, url_poster: null}
       "Stitch! (2008)": {tpdb_poster: null, url_poster: null}
       "Stitch & Ai (2017)": {tpdb_poster: null, url_poster: null}
+  diiivoy:
+    collections:
+      "Lilo & Stitch (Animated) Collection": {tpdb_poster: null, url_poster: null}
   diiivoy_neon:
     shows:
       "Lilo & Stitch: The Series (2003)": {tpdb_poster: null, url_poster: null}
@@ -649,6 +654,7 @@ lilostitch:
   faufan:
     collections:
       "Lilo & Stitch Collection": {tpdb_poster: null, url_poster: null}
+      "Lilo & Stitch (Animated) Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Stitch! The Movie (2003)": {tpdb_poster: null, url_poster: null}
       "Lilo & Stitch 2: Stitch Has a Glitch (2005)": {tpdb_poster: null, url_poster: null}
@@ -660,6 +666,7 @@ lilostitch:
   rhj:
     collections:
       "Lilo & Stitch Collection": {tpdb_poster: null, url_poster: null}
+      "Lilo & Stitch (Animated) Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Stitch! The Movie (2003)": {tpdb_poster: null, url_poster: null}
       "Lilo & Stitch 2: Stitch Has a Glitch (2005)": {tpdb_poster: null, url_poster: null}
@@ -671,6 +678,7 @@ lilostitch:
   rhj2:
     collections:
       "Lilo & Stitch Collection": {tpdb_poster: null, url_poster: null}
+      "Lilo & Stitch (Animated) Collection": {tpdb_poster: null, url_poster: null}
     movies:
       "Stitch! The Movie (2003)": {tpdb_poster: null, url_poster: null}
       "Lilo & Stitch 2: Stitch Has a Glitch (2005)": {tpdb_poster: null, url_poster: null}

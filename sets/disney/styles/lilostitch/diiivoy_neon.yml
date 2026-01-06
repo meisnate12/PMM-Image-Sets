@@ -6,6 +6,7 @@ info:
   complete: true
 collections:
   "Lilo & Stitch Collection": {tpdb_poster: 156548}
+  "Lilo & Stitch (Animated) Collection": {tpdb_poster: 156548}
 movies:
   "Lilo & Stitch (2002)": {tpdb_poster: 156214}
   "Stitch! The Movie (2003)": {tpdb_poster: 156549}

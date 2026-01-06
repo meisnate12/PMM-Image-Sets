@@ -416,6 +416,8 @@ sections:
     collections:
       "Lilo & Stitch Collection":
       - "Lilo & Stitch"
+      "Lilo & Stitch (Animated) Collection":
+      - "Lilo & Stitch (Animated)"
     movies:
       "Lilo & Stitch (2002)": 11544
       "Stitch! The Movie (2003)": 15567
