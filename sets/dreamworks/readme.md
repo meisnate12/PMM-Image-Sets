@@ -2,7 +2,6 @@
 This Image Set is for Movies and Shows released by DreamWorks Animation.
 
 <ul class="images-index-table">
-  <li><a href="#bible-stories"><div class="images-inline-link">Bible Stories<br><code>biblestories</code></div></a></li>
   <li><a href="#the-boss-baby"><div class="images-inline-link">The Boss Baby<br><code>bossbaby</code></div></a></li>
   <li><a href="#chicken-run"><div class="images-inline-link">Chicken Run<br><code>chickenrun</code></div></a></li>
   <li><a href="#the-croods"><div class="images-inline-link">The Croods<br><code>croods</code></div></a></li>
@@ -17,27 +16,6 @@ This Image Set is for Movies and Shows released by DreamWorks Animation.
 </ul>
 
 <h2 id="sections">Sections<a class="headerlink" href="#sections" title="Permalink to this heading">¶</a></h2>
-<h3 id="bible-stories">Bible Stories<a class="headerlink" href="#bible-stories" title="Permalink to this heading">¶</a></h3>
-<strong>Section Key:</strong> <code>biblestories</code>
-<br><strong>Builders:</strong>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tmdb_collection</code>: <a href="https://www.themoviedb.org/collection/1064555" target="_blank" rel="noopener noreferrer">1064555</a><br>
-</ul>
-<button class="image-accordion">Styles</button>
-<div class="image-panel">
-  <table class="image-table">
-    <tr>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/97689" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dreamworks/styles/biblestories/diiivoy_neon.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/97689" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <h3 id="the-boss-baby">The Boss Baby<a class="headerlink" href="#the-boss-baby" title="Permalink to this heading">¶</a></h3>
 <strong>Section Key:</strong> <code>bossbaby</code>
 <br><strong>Builders:</strong>

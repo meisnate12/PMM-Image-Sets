@@ -181,7 +181,7 @@ sections:
     default_image: "I Love Lucy (1951)"
     shows:
       "I Love Lucy (1951)": 70584
-      "The Lucy–Desi Comedy Hour (1957)": 74596
+      "The Lucy–Desi Comedy Hour (1957)": 414282
   last_man:
     title: The Last Man on Earth
     builders:
