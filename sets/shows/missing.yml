@@ -39,11 +39,6 @@ familyguy:
       "Family Guy (1999)":
         seasons:
           24: {tpdb_poster: null, url_poster: null}
-  tfbone:
-    shows:
-      "Family Guy (1999)":
-        seasons:
-          24: {tpdb_poster: null, url_poster: null}
 futurama:
   squire23:
     shows:
