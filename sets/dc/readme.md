@@ -11,7 +11,6 @@ This Image Set is for Movies and Shows that are a property of DC.
   <li><a href="#harley-quinn"><div class="images-inline-link">Harley Quinn<br><code>harleyquinn</code></div></a></li>
   <li><a href="#justice-league"><div class="images-inline-link">Justice League<br><code>justiceleague</code></div></a></li>
   <li><a href="#man-of-steel"><div class="images-inline-link">Man of Steel<br><code>manofsteel</code></div></a></li>
-  <li><a href="#peacemaker"><div class="images-inline-link">Peacemaker<br><code>peacemaker</code></div></a></li>
   <li><a href="#red"><div class="images-inline-link">RED<br><code>red</code></div></a></li>
   <li><a href="#shazam!"><div class="images-inline-link">Shazam!<br><code>shazam</code></div></a></li>
   <li><a href="#suicide-squad"><div class="images-inline-link">Suicide Squad<br><code>suicidesquad</code></div></a></li>
@@ -350,34 +349,6 @@ This Image Set is for Movies and Shows that are a property of DC.
           <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/manofsteel/agon024.jpg" height="200"/></a><br>
           <strong>Style Key:</strong> <code>agon024</code><br>
           <strong>Credit:</strong> <a href="https://theposterdb.com/set/56005" target="_blank" rel="noopener noreferrer">agon024</a><br>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 id="peacemaker">Peacemaker<a class="headerlink" href="#peacemaker" title="Permalink to this heading">¶</a></h3>
-<strong>Section Key:</strong> <code>peacemaker</code>
-<br><strong>Builders:</strong>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>tvdb_show</code>: <a href="https://www.thetvdb.com/dereferrer/series/391153" target="_blank" rel="noopener noreferrer">391153</a> (<a href="https://www.themoviedb.org/tv/110492" target="_blank" rel="noopener noreferrer">TMDb</a>)<br>
-</ul>
-<button class="image-accordion">Styles</button>
-<div class="image-panel">
-  <table class="image-table">
-    <tr>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/peacemaker/diiivoy_neon.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>diiivoy_neon</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer">DIIIVOY</a><br>
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/meisnate12/PMM-Image-Sets/master/dc/styles/peacemaker/agon024.jpg" height="200"/></a><br>
-          <strong>Style Key:</strong> <code>agon024</code><br>
-          <strong>Credit:</strong> <a href="https://theposterdb.com/set/80057" target="_blank" rel="noopener noreferrer">agon024</a><br>
         </div>
       </td>
     </tr>
