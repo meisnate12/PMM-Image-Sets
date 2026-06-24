@@ -101,6 +101,7 @@ sections:
     styles:
       diiivoy_neon:
       agon024:
+    default_image: "The Flash (2023)"
     collections:
       "The Flash Collection":
       - "Flash"
