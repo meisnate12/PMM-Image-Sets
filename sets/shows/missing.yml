@@ -68,12 +68,6 @@ last_of_us:
         seasons:
           2: {tpdb_poster: null, url_poster: null}
 simpsons:
-  agon024:
-    shows:
-      "The Simpsons (1989)":
-        seasons:
-          37: {tpdb_poster: null, url_poster: null}
-          38: {tpdb_poster: null, url_poster: null}
   silvz:
     shows:
       "The Simpsons (1989)":
