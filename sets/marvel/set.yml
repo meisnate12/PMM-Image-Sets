@@ -289,6 +289,9 @@ sections:
       - "Punisher"
       - "Punisher Collection"
       - "The Punisher"
+    movies:
+      "The Punisher (2004)": 7220
+      "Punisher: War Zone (2008)": 13056
     shows:
       "Marvel's The Punisher (2017)": 331980
   shangchi:
