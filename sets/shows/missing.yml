@@ -108,8 +108,3 @@ ted_lasso:
       "Ted Lasso (2020)":
         seasons:
           4: {tpdb_poster: null, url_poster: null}
-  rhj:
-    shows:
-      "Ted Lasso (2020)":
-        seasons:
-          4: {tpdb_poster: null, url_poster: null}
