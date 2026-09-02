@@ -150,9 +150,9 @@ sections:
       "Robot Chicken - Star Wars Collection":
       - "Robot Chicken - Star Wars"
     movies:
-      "The Robot Chicken: Star Wars (2007)": 42979
-      "The Robot Chicken: Star Wars Episode II (2008)": 42982
-      "The Robot Chicken: Star Wars Episode III (2010)": 51888
+      "Robot Chicken: Star Wars (2007)": 42979
+      "Robot Chicken: Star Wars Episode II (2008)": 42982
+      "Robot Chicken: Star Wars Episode III (2010)": 51888
   starwars:
     title: Star Wars
     builders:
